@@ -6,7 +6,7 @@
   "InitStockPercent": 75,
   "Items": [
   {
-      "ClassName": "TWP_AA12",
+      "ClassName": "TWP_AA12Black",
       "MaxPriceThreshold": 25000,
       "MinPriceThreshold": 25000,
       "SellPricePercent": 10,
@@ -17,6 +17,16 @@
 		"TWP_AA12Dragon",
 		"TWP_AA12HellDragon"
 	  ]
+    },
+    {
+      "ClassName": "TWP_AA12",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
     },
 	{
       "ClassName": "TWP_SPAS",
