@@ -22,7 +22,7 @@
         <nominal>3</nominal>
         <min>0</min>
         <max>50</max>
-        <lifetime>33</lifetime>
+        <lifetime>600</lifetime>
         <restock>15</restock>
         <saferadius>40</saferadius>
         <distanceradius>0</distanceradius>
@@ -42,7 +42,7 @@
         <nominal>10</nominal>
         <min>7</min>
         <max>11</max>
-        <lifetime>180</lifetime>
+        <lifetime>600</lifetime>
         <restock>300</restock>
         <saferadius>100</saferadius>
         <distanceradius>0</distanceradius>
@@ -59,7 +59,7 @@
         <nominal>10</nominal>
         <min>7</min>
         <max>11</max>
-        <lifetime>180</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>0</distanceradius>
@@ -73,10 +73,10 @@
         </children>
     </event>
 	<event name="Animalscorpion">
-        <nominal>10</nominal>
-        <min>9</min>
-        <max>10</max>
-        <lifetime>180</lifetime>
+        <nominal>5</nominal>
+        <min>1</min>
+        <max>5</max>
+        <lifetime>60</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
         <distanceradius>0</distanceradius>
@@ -93,7 +93,7 @@
         <nominal>7</nominal>
         <min>2</min>
         <max>3</max>
-        <lifetime>180</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
         <distanceradius>0</distanceradius>
@@ -115,7 +115,7 @@
         <nominal>9</nominal>
         <min>2</min>
         <max>4</max>
-        <lifetime>180</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
         <distanceradius>0</distanceradius>
@@ -223,7 +223,7 @@
         <nominal>40</nominal>
 		<min>35</min>
 		<max>50</max>
-		<lifetime>180</lifetime>
+		<lifetime>600</lifetime>
 		<restock>0</restock>
 		<saferadius>0</saferadius>
 		<distanceradius>0</distanceradius>
@@ -241,7 +241,7 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>250</max>
-        <lifetime>3</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -251,20 +251,20 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="30" type="ZmbM_PatrolNormal_Autumn"/>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Flat"/>
-            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_PautRev"/>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Summer"/>
-            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_SoldierNormal"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Desert"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Woodland"/>
+            <child lootmax="5" lootmin="0" max="50" min="30" type="ZmbM_PatrolNormal_Autumn"/>
+            <child lootmax="5" lootmin="0" max="30" min="10" type="ZmbM_PatrolNormal_Flat"/>
+            <child lootmax="5" lootmin="0" max="40" min="20" type="ZmbM_PatrolNormal_PautRev"/>
+            <child lootmax="5" lootmin="0" max="20" min="10" type="ZmbM_PatrolNormal_Summer"/>
+            <child lootmax="5" lootmin="0" max="40" min="20" type="ZmbM_SoldierNormal"/>
+            <child lootmax="5" lootmin="0" max="20" min="5" type="ZmbM_usSoldier_normal_Desert"/>
+            <child lootmax="5" lootmin="0" max="10" min="5" type="ZmbM_usSoldier_normal_Woodland"/>
         </children>
     </event>
 	<event name="InfectedArmyHard">
         <nominal>50</nominal>
         <min>25</min>
         <max>250</max>
-        <lifetime>3</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -289,7 +289,7 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>250</max>
-        <lifetime>3</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -345,7 +345,7 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>250</max>
-        <lifetime>3</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -373,7 +373,7 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>100</max>
-        <lifetime>3</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -389,8 +389,8 @@
     <event name="InfectedIndustrial">
         <nominal>50</nominal>
         <min>25</min>
-        <max>100</max>
-        <lifetime>3</lifetime>
+        <max>200</max>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -432,7 +432,7 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>100</max>
-        <lifetime>3</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -460,7 +460,7 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>250</max>
-        <lifetime>3</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -477,7 +477,7 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>250</max>
-        <lifetime>3</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -494,7 +494,7 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>100</max>
-        <lifetime>3</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -513,7 +513,7 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>100</max>
-        <lifetime>3</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -531,8 +531,8 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>100</max>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
+        <lifetime>600</lifetime>
+        <restock>600</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
         <cleanupradius>50</cleanupradius>
@@ -548,8 +548,8 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>100</max>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
+        <lifetime>600</lifetime>
+        <restock>600</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
         <cleanupradius>50</cleanupradius>
@@ -565,8 +565,8 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>100</max>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
+        <lifetime>600</lifetime>
+        <restock>600</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
         <cleanupradius>50</cleanupradius>
@@ -600,8 +600,8 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>100</max>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
+        <lifetime>600</lifetime>
+        <restock>600</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
         <cleanupradius>50</cleanupradius>
@@ -640,8 +640,8 @@
         <nominal>50</nominal>
         <min>25</min>
         <max>100</max>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
+        <lifetime>600</lifetime>
+        <restock>600</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
         <cleanupradius>50</cleanupradius>
@@ -693,7 +693,7 @@
         <children/>
     </event>
     <event name="StaticBonfire">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>7200</lifetime>
@@ -705,7 +705,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="12" lootmin="6" max="20" min="20" type="Bonfire"/>
         </children>
@@ -722,7 +722,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>uniform</position>
         <limit>child</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="13" min="13" type="ChristmasTree"/>
         </children>
@@ -731,7 +731,7 @@
         <nominal>2</nominal>
         <min>2</min>
         <max>4</max>
-        <lifetime>2100</lifetime>
+        <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
         <distanceradius>120</distanceradius>
@@ -965,7 +965,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="2" min="1" type="CivilianSedan"/>
             <child lootmax="0" lootmin="0" max="2" min="1" type="CivilianSedan_Black"/>
@@ -984,7 +984,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="3" min="2" type="Hatchback_02"/>
             <child lootmax="0" lootmin="0" max="3" min="1" type="Hatchback_02_Black"/>
@@ -1003,7 +1003,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="3" min="1" type="OffroadHatchback"/>
             <child lootmax="0" lootmin="0" max="2" min="1" type="OffroadHatchback_Blue"/>
@@ -1022,7 +1022,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="2" min="1" type="Sedan_02"/>
             <child lootmax="0" lootmin="0" max="2" min="1" type="Sedan_02_Grey"/>
