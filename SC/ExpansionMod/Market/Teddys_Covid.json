@@ -1,0 +1,111 @@
+{
+  "m_Version": 9,
+  "DisplayName": "Teddys_Covid",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "Items": [
+  
+	{
+      "ClassName": "TWP_Covid19Head_Red",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_Covid19Head_Green",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_Covid19Head_Orange",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_Covid19Head_yellow",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_ToiletRoll",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_Desinfectant",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	
+	{
+      "ClassName": "TWP_SurgicalMask",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_CharminBox",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_Scottex_SuperSoft",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_Scottex_Soft",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

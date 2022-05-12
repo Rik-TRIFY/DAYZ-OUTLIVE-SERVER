@@ -1,0 +1,111 @@
+{
+  "m_Version": 9,
+  "DisplayName": "Teddys_Gernades",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "Items": [
+  
+	{
+      "ClassName": "TWP_JackintheBox",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_Stielhandgranate",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_HolyGrenade",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_MK2_Grenade",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_T13_Beano",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_M26",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	
+	{
+      "ClassName": "TWP_M69",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_Zarya3_StunGrenade",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+        "ClassName": "TWP_WhoopeeCushion_Mine",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": 20,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+          "ClassName": "TTWP_TennisBall_Grenade",
+          "MaxPriceThreshold": 5000,
+          "MinPriceThreshold": 5000,
+          "SellPricePercent": 20,
+          "MaxStockThreshold": 1,
+          "MinStockThreshold": 1,
+          "SpawnAttachments": [],
+          "Variants": []
+        }
+  ]
+}

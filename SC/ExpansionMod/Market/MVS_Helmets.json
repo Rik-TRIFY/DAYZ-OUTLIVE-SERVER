@@ -1,0 +1,141 @@
+{
+  "m_Version": 9,
+  "DisplayName": "MVS Helmets",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "mvs_altyn_black",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_altyn_tan",
+        "mvs_altyn_black",
+        "mvs_altyn_od"
+      ]
+    },
+    {
+      "ClassName": "mvs_altyn_visor_od",
+      "MaxPriceThreshold": 1250,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_altyn_visor_tan",
+        "mvs_altyn_visor_black"
+      ]
+    },
+    {
+      "ClassName": "mvs_armoredhelmet_od",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_armoredhelmet_tan",
+        "mvs_armoredhelmet_black",
+        "mvs_armoredhelmet_erdl",
+        "mvs_armoredhelmet_multicam",
+        "mvs_armoredhelmet_multicam_tropic",
+        "mvs_armoredhelmet_multicam_black",
+        "mvs_armoredhelmet_snow"
+      ]
+    },
+    {
+      "ClassName": "mvs_helmet_01_od",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 7000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_helmet_01_tan",
+        "mvs_helmet_01_tan_worn",
+        "mvs_helmet_01_black",
+        "mvs_helmet_01_erdl",
+        "mvs_helmet_01_multicam",
+        "mvs_helmet_01_multicam_tropic",
+        "mvs_helmet_01_multicam_black",
+        "mvs_helmet_01_snow"
+      ]
+    },
+    {
+      "ClassName": "mvs_helmet_02_od",
+      "MaxPriceThreshold": 7500,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_helmet_02_tan",
+        "mvs_helmet_02_black",
+        "mvs_helmet_02_erdl",
+        "mvs_helmet_02_multicam",
+        "mvs_helmet_02_multicam_tropic",
+        "mvs_helmet_02_multicam_black",
+        "mvs_helmet_02_snow"
+      ]
+    },
+    {
+      "ClassName": "mvs_opscore_od",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_opscore_tan",
+        "mvs_opscore_black",
+        "mvs_opscore_erdl",
+        "mvs_opscore_multicam",
+        "mvs_opscore_multicam_tropic",
+        "mvs_opscore_multicam_black",
+        "mvs_opscore_snow"
+      ]
+    },
+    {
+      "ClassName": "mvs_warriorhelmet_od",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mvs_warriorhelmet_tan",
+        "mvs_warriorhelmet_black",
+        "mvs_warriorhelmet_erdl",
+        "mvs_warriorhelmet_multicam",
+        "mvs_warriorhelmet_multicam_tropic",
+        "mvs_warriorhelmet_multicam_black",
+        "mvs_warriorhelmet_snow"
+      ]
+    },
+    {
+      "ClassName": "MVS_6B47_Helmet_OD",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MVS_6B47_Helmet_Tan",
+        "MVS_6B47_Helmet_Black"
+      ]
+    }
+    
+  ]
+}

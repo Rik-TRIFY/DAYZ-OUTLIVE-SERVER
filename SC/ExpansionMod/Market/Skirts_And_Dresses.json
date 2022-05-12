@@ -1,0 +1,56 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SKIRTS & #STR_EXPANSION_MARKET_CATEGORY_DRESSES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "skirt_blue",
+            "MaxPriceThreshold": 320,
+            "MinPriceThreshold": 320,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "skirt_red",
+                "skirt_white",
+                "skirt_yellow"
+            ]
+        },
+        {
+            "ClassName": "minidress_pink",
+            "MaxPriceThreshold": 380,
+            "MinPriceThreshold": 380,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "minidress_pinkchecker",
+                "minidress_redchecker",
+                "minidress_bluechecker",
+                "minidress_bluewithdots",
+                "minidress_whitechecker",
+                "minidress_brownchecker",
+                "minidress_greenchecker"
+            ]
+        },
+        {
+            "ClassName": "nursedress_blue",
+            "MaxPriceThreshold": 210,
+            "MinPriceThreshold": 210,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "nursedress_white"
+            ]
+        }
+    ]
+}

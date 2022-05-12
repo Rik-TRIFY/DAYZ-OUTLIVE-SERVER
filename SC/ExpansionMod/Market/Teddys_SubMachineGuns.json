@@ -1,0 +1,202 @@
+{
+  "m_Version": 9,
+  "DisplayName": "Teddys_SubMachineGuns",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "Items": [
+	
+	{
+      "ClassName": "TWP_AEK919",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_Auto9",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 8000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_MP7",
+      "MaxPriceThreshold": 9500,
+      "MinPriceThreshold": 9500,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+		"TWP_MP7Eagle"
+	  ]
+    },
+	{
+      "ClassName": "TWP_P90",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+		"TWP_P90Arctic",
+		"TWP_P90Colored",
+		"TWP_P90Shallow_Grave"
+	  ]
+    },
+	{
+      "ClassName": "TWP_Uzi",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_SRGlock",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_SR2",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_SR3",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_SST30",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 8000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+		"TWP_SST30Orange",
+		"TWP_SST30Halloween",
+		"TWP_SST30Silenced"
+	  ]
+    },
+	{
+      "ClassName": "TWP_Tec9",
+      "MaxPriceThreshold": 5300,
+      "MinPriceThreshold": 5300,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_UMP",
+      "MaxPriceThreshold": 5200,
+      "MinPriceThreshold": 5200,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+		"TWP_UMPPrimalSaber"
+	  ]
+    },
+	{
+      "ClassName": "TWP_MPX",
+      "MaxPriceThreshold": 5100,
+      "MinPriceThreshold": 5100,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_MP5Silenced",
+      "MaxPriceThreshold": 6500,
+      "MinPriceThreshold": 6500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_PP19Vityaz",
+      "MaxPriceThreshold": 7300,
+      "MinPriceThreshold": 7300,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_CX4Storm",
+      "MaxPriceThreshold": 4300,
+      "MinPriceThreshold": 4300,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_KacPDW",
+      "MaxPriceThreshold": 4300,
+      "MinPriceThreshold": 4300,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_FMG9",
+      "MaxPriceThreshold": 4300,
+      "MinPriceThreshold": 4300,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "TWP_PP19Bison",
+      "MaxPriceThreshold": 4600,
+      "MinPriceThreshold": 4600,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

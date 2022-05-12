@@ -1,0 +1,128 @@
+{
+    "m_Version": 9,
+    "DisplayName": "MIX",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "easteregg",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "crookednose",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "cauldron",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "witchhat",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "witchhood_black",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "witchhood_brown",
+                "witchhood_red"
+            ]
+        },
+        {
+            "ClassName": "tannedleather",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "chiemsee_scorpion_tail",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "rag_bearcarpet_white",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DogtagCase",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Dogtag_Survivor",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Dogtag_Hero",
+                "Dogtag_Bandit",
+                "Dogtag_Silver",
+                "Dogtag_Granite",
+                "Dogtag_Cobalt"
+            ]
+        }
+    ]
+}
