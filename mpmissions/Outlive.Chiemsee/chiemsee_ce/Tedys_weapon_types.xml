@@ -10082,9 +10082,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	
-												<!-- Grenades -->
-												
+    <!-- Grenades -->									
 	<type name="TWP_JackintheBox">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
@@ -10205,10 +10203,7 @@
         <category name="explosives"/>
         <usage name="Military"/>
     </type>
-
-	
-												<!-- Cosmetics -->
-												
+<!-- Cosmetics -->											
 	<type name="TWP_Cosmetic_Beaver">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
@@ -10811,10 +10806,7 @@
         <usage name="Farm"/>
         <usage name="Village"/>
     </type>
-	
-	
-														<!-- Magazine -->
-														
+<!-- Magazine -->												
 	<type name="Mag_CMAG_100Rnd">
         <nominal>3</nominal>
         <lifetime>10800</lifetime>
