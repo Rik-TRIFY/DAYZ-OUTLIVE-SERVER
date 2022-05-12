@@ -1,0 +1,734 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-4-25_18-11-31
+====================================================================================
+18:11:31 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:11:31 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:11:31 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:11:31 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:11:31 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:11:31 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:11:31 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:11:31 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:11:31 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:11:31 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:11:31 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:11:31 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:11:31 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:11:31 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:11:31 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:11:31 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:11:31 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:11:31 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:11:31 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:11:31 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:11:31 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:11:31 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:11:31 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:11:31 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:11:31 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:11:31 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:11:31 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:11:31 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:11:31 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:11:31 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:11:31 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:11:31 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:11:31 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:11:31 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:11:31 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:11:31 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:11:31 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:11:31 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:11:31 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:11:31 | [PermissionManager] Adding Super Admin (76561198016672415)
+18:11:31 | [PermissionManager] Loaded UserGroups.json
+18:11:31 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:11:31 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:11:31 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:11:31 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:11:31 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+18:11:31 | Building Sets Loaded: 0
+18:12:0 | Player "V12" (steamId=76561198993125942) connected to server!
+18:12:1 | Player "[696]*TOM*CZ" (steamId=76561199222123492) connected to server!
+18:12:17 | Player "V12" (steamId=76561198993125942) connected to server!
+18:12:21 | Player "[696]*TOM*CZ" (steamId=76561199222123492) connected to server!
+18:12:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3626.505615, 409.598907, 382.794617>)
+18:12:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3617.188477, 408.058258, 378.041321>)
+18:12:29 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3612.264648, 406.846741, 374.143799>)
+18:12:58 | Player "Martina_(.)(.)_" (steamId=76561198097548152) connected to server!
+18:13:15 | Player "Martina_(.)(.)_" (steamId=76561198097548152) connected to server!
+18:13:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3581.823486, 397.024017, 351.284027>)
+18:13:17 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3581.351563, 398.738586, 336.284698>)
+18:13:17 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3581.103027, 401.099945, 327.751556>)
+18:13:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3581.479248, 403.969849, 318.567871>)
+18:13:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3581.975098, 407.050781, 307.541992>)
+18:13:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3581.948975, 410.287994, 295.986176>)
+18:14:6 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3571.351563, 415.757050, 293.313232>)
+18:14:9 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3589.937256, 407.286469, 306.264557>)
+18:14:10 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3598.812744, 405.890167, 312.587189>)
+18:14:10 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3610.698975, 403.978241, 322.305725>)
+18:14:10 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3618.064697, 403.573334, 329.092590>)
+18:14:10 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3623.429443, 403.904419, 334.341675>)
+18:14:11 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3628.081055, 404.519653, 338.875458>)
+18:14:11 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3632.652588, 405.250549, 343.328796>)
+18:14:11 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3637.051514, 406.085449, 347.911652>)
+18:14:12 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3640.497070, 407.008087, 352.482758>)
+18:14:12 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3643.533203, 407.943024, 356.834290>)
+18:14:12 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3646.471680, 408.955566, 361.095612>)
+18:14:12 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3648.885742, 409.962006, 365.996124>)
+18:14:13 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3651.159424, 410.506653, 371.395020>)
+18:14:13 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3652.833252, 410.655701, 377.220581>)
+18:14:14 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3653.257080, 410.456940, 383.264252>)
+18:14:14 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3653.479980, 410.038818, 389.732117>)
+18:14:28 | Player "MADness" (steamId=76561198968762750) connected to server!
+18:14:45 | Player "MADness" (steamId=76561198968762750) connected to server!
+18:14:47 | "MADness" (steamid=76561198968762750) toggled godmode
+18:15:18 | "V12" (steamid=76561198993125942) Spawned Item: (MetalWire)
+18:16:43 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+18:16:55 | "V12" (steamid=76561198993125942) Spawned Item: (Pipe)
+18:17:3 | Player "MADness" (steamId=76561198968762750) connected to server!
+18:17:17 | "V12" (steamid=76561198993125942) Spawned Item: (EpoxyPutty)
+18:17:20 | Player "MADness" (steamId=76561198968762750) connected to server!
+18:17:23 | "MADness" (steamid=76561198968762750) toggled godmode
+18:18:12 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+18:19:27 | Player "MADness" (steamId=76561198968762750) connected to server!
+18:19:52 | Player "MADness" (steamId=76561198968762750) connected to server!
+18:19:56 | "MADness" (steamid=76561198968762750) toggled godmode
+18:24:49 | Player "cumtam" (steamId=76561199150532361) connected to server!
+18:25:13 | Player "cumtam" (steamId=76561199150532361) connected to server!
+18:25:34 | "V12" (steamid=76561198993125942) Spawned Item: (Animal_UrsusArctos)
+18:27:9 | "V12" (steamid=76561198993125942) Spawned Item: (Animal_UrsusArctos)
+18:28:38 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<3660.311523, 411.569733, 390.871307>)
+18:30:38 | "V12": (steamid=76561198993125942) teleported to (pos=9613.84,0,8862.61)
+18:30:46 | Player "[696]*TOM*CZ" (steamId=76561199222123492) disconnected from server.
+18:30:46 | Player "[696]*TOM*CZ" (steamId=76561199222123492) disconnected from server.
+18:30:52 | Player "[696]*TOM*CZ" (steamId=76561199222123492) disconnected from server.
+18:32:4 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<9580.334961, 9.864027, 8870.095703>)
+18:32:6 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<9566.280273, 9.918826, 8873.698242>)
+18:32:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<9556.725586, 9.864465, 8875.309570>)
+18:32:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<9563.094727, 9.918826, 8874.296875>)
+18:32:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<9526.347656, 7.329989, 8881.628906>)
+18:32:48 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<9476.905273, 9.864569, 8890.595703>)
+18:32:59 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<9468.948242, 9.863177, 8890.709961>)
+18:33:0 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<9460.790039, 9.861587, 8892.708984>)
+18:33:2 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<9456.994141, 9.918386, 8893.809570>)
+18:33:19 | "V12": (steamid=76561198993125942) teleported to (pos=Lunapark Trader)
+18:33:31 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4286.633789, 6.092111, 4144.593750>)
+18:33:31 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4294.332031, 5.896659, 4134.990723>)
+18:33:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4303.519043, 5.471086, 4123.943359>)
+18:33:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4312.426758, 5.319308, 4114.652344>)
+18:33:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4320.292480, 5.249730, 4106.622070>)
+18:33:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4328.339844, 4.971588, 4098.754883>)
+18:33:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4336.841797, 4.583072, 4090.473877>)
+18:33:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4337.223145, 4.573356, 4090.101318>)
+18:33:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4344.128418, 4.564191, 4082.904053>)
+18:33:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4351.225586, 4.507550, 4074.661133>)
+18:33:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4358.199707, 4.465687, 4066.222412>)
+18:33:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4363.338379, 4.313572, 4059.833008>)
+18:33:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4373.616699, 4.037332, 4046.992676>)
+18:33:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4382.717773, 4.020011, 4035.310303>)
+18:33:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4391.982422, 4.020644, 4023.340088>)
+18:33:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4401.250000, 4.019993, 4011.360352>)
+18:33:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4410.542480, 4.023040, 3999.349121>)
+18:33:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4417.809082, 4.060467, 3989.767090>)
+18:33:35 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4424.800781, 4.119146, 3980.085938>)
+18:33:35 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4424.961914, 4.147203, 3966.225586>)
+18:33:35 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4423.015137, 4.035056, 3951.623779>)
+18:33:35 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4420.380371, 3.977952, 3937.991943>)
+18:33:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4416.987793, 3.801381, 3923.983154>)
+18:33:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4413.668457, 3.674142, 3910.450195>)
+18:33:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4410.283691, 3.503286, 3896.647949>)
+18:33:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4405.788086, 3.314369, 3883.799316>)
+18:33:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4400.997559, 3.250002, 3871.997070>)
+18:33:37 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4396.144043, 3.170292, 3860.144775>)
+18:33:37 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4391.278809, 3.116573, 3848.286133>)
+18:33:37 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4388.489258, 3.109750, 3841.496826>)
+18:33:37 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4383.369141, 2.956527, 3828.978271>)
+18:33:37 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4378.334961, 2.890002, 3816.683838>)
+18:33:37 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4377.882324, 2.877350, 3815.536621>)
+18:33:38 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4372.652832, 2.830001, 3802.732422>)
+18:33:38 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4367.804199, 2.936218, 3791.013428>)
+18:33:38 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4363.198730, 3.166326, 3779.992676>)
+18:33:38 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4358.741699, 3.590000, 3769.352539>)
+18:33:39 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4354.489746, 3.940001, 3759.240479>)
+18:33:39 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4349.735352, 4.105287, 3747.836670>)
+18:33:39 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4345.170410, 4.274239, 3736.437988>)
+18:33:39 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4341.544922, 4.436120, 3723.151367>)
+18:33:39 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4341.290039, 4.469674, 3709.109131>)
+18:33:40 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4341.138672, 4.435112, 3694.510742>)
+18:33:40 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4341.009277, 4.330473, 3679.806641>)
+18:33:40 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4340.748535, 4.240584, 3664.950928>)
+18:33:40 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4340.296875, 4.274971, 3650.828857>)
+18:33:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4337.799316, 4.374616, 3636.361084>)
+18:33:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4334.743652, 4.523409, 3622.382813>)
+18:33:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4329.115234, 4.731448, 3610.283691>)
+18:33:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4323.530273, 4.998741, 3598.981934>)
+18:33:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4315.942383, 5.137858, 3586.066650>)
+18:33:42 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4307.208984, 4.987923, 3571.215088>)
+18:33:42 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4299.225586, 4.652585, 3555.786377>)
+18:33:42 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4298.081543, 4.414075, 3543.934814>)
+18:33:43 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4299.790527, 4.261155, 3532.895264>)
+18:33:43 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4301.643555, 4.230004, 3522.665527>)
+18:33:43 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4303.641113, 4.245659, 3512.171631>)
+18:33:43 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4305.663574, 4.258673, 3501.361816>)
+18:33:44 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4307.748535, 4.213944, 3490.138672>)
+18:33:44 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4309.692383, 4.245946, 3479.325439>)
+18:33:44 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4311.677246, 4.200043, 3468.303223>)
+18:33:44 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4313.669922, 4.187986, 3457.117920>)
+18:33:45 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4315.688477, 4.140004, 3445.796143>)
+18:33:45 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4317.611328, 4.160115, 3434.942627>)
+18:33:45 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4319.229004, 4.200000, 3423.548340>)
+18:33:45 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4320.812500, 4.199998, 3411.721924>)
+18:33:46 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4322.633301, 4.170657, 3399.670654>)
+18:33:46 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4324.377930, 4.210001, 3388.111816>)
+18:33:46 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4326.770508, 4.226402, 3376.601074>)
+18:33:46 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4330.844727, 4.207117, 3365.243896>)
+18:33:47 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4336.251465, 4.088424, 3354.493164>)
+18:33:47 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4341.918457, 3.902970, 3343.619141>)
+18:33:47 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4348.519043, 3.793931, 3334.380371>)
+18:33:47 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4355.191895, 3.708450, 3325.283447>)
+18:33:48 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4361.830078, 3.588037, 3316.269531>)
+18:33:48 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4368.575195, 3.452526, 3307.119141>)
+18:33:48 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4375.161621, 3.332779, 3298.171387>)
+18:33:48 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4381.842285, 3.192386, 3289.063477>)
+18:33:49 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4388.187988, 3.142932, 3280.386963>)
+18:33:49 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4388.828613, 3.141130, 3279.559326>)
+18:33:49 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4395.293945, 3.115561, 3270.523193>)
+18:33:49 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4401.632813, 3.127974, 3261.322754>)
+18:33:50 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4405.793945, 3.226402, 3249.629639>)
+18:33:50 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4409.731934, 3.291428, 3237.676514>)
+18:33:50 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4410.844727, 3.296674, 3235.831543>)
+18:33:51 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4412.169922, 3.306715, 3223.949219>)
+18:33:52 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4412.745605, 3.177612, 3212.130371>)
+18:34:9 | "MADness": (steamid=76561198968762750) teleported to (pos=Sweet Home <3)
+18:34:16 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4489.098633, 1.432009, 3138.944336>)
+18:34:27 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4418.589844, 2.530077, 3190.862549>)
+18:34:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4423.746582, 2.537451, 3185.193359>)
+18:34:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4428.497070, 2.651560, 3179.954346>)
+18:34:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4433.032715, 2.805877, 3175.043457>)
+18:34:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4437.587402, 2.991722, 3170.138672>)
+18:34:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4441.707031, 3.213885, 3165.608398>)
+18:34:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4446.233887, 3.645770, 3162.258057>)
+18:34:31 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4458.799805, 4.750813, 3154.792480>)
+18:34:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4455.892090, 4.282773, 3150.169922>)
+18:34:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4460.137207, 4.279757, 3140.986816>)
+18:34:33 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+18:34:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4465.631348, 3.928866, 3135.193604>)
+18:34:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4473.656738, 2.623268, 3127.491699>)
+18:34:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4481.486328, 1.513528, 3120.579102>)
+18:34:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4482.596191, 1.434803, 3120.170654>)
+18:34:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4484.071289, 1.333463, 3120.047119>)
+18:34:35 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4484.738281, 1.289160, 3119.665039>)
+18:34:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4493.356934, 1.056957, 3112.425293>)
+18:34:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4499.045410, 0.853697, 3106.009277>)
+18:34:44 | Player "MADness" (steamId=76561198968762750) connected to server!
+18:35:4 | Player "MADness" (steamId=76561198968762750) connected to server!
+18:36:10 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4482.250000, 3.525490, 3136.827637>)
+18:36:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4486.879883, 1.274473, 3123.364746>)
+18:36:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4492.849609, 1.100113, 3115.636719>)
+18:36:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4499.238770, 0.828025, 3107.376953>)
+18:36:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4505.157715, 0.642029, 3098.228760>)
+18:36:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4510.048828, 0.595000, 3088.156494>)
+18:36:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4514.112305, 0.696923, 3078.108887>)
+18:36:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4517.880371, 0.904590, 3068.293701>)
+18:36:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4521.847656, 1.037769, 3057.970947>)
+18:36:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4525.665039, 1.206585, 3048.004150>)
+18:36:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4529.531250, 1.363591, 3037.920410>)
+18:36:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4533.595703, 1.432586, 3027.359619>)
+18:36:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4537.639648, 1.514163, 3016.848877>)
+18:36:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4540.194824, 1.590157, 3010.200195>)
+18:36:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4544.080566, 1.721853, 3000.069092>)
+18:36:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4548.126465, 1.834306, 2989.552734>)
+18:36:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4552.717285, 1.690806, 2977.725342>)
+18:36:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4557.044434, 1.634019, 2966.531494>)
+18:36:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4561.548828, 1.534045, 2954.911377>)
+18:36:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4565.832031, 1.495096, 2943.823730>)
+18:36:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4569.651367, 1.655684, 2933.851807>)
+18:36:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4565.254395, 1.422607, 2948.432373>)
+18:36:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4560.389648, 1.499380, 2961.049072>)
+18:36:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4555.621582, 1.565658, 2973.468994>)
+18:36:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4555.374023, 1.563571, 2974.072021>)
+18:36:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4555.085449, 1.560052, 2974.819336>)
+18:36:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4554.741211, 1.569956, 2975.657715>)
+18:36:24 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4554.454590, 1.581329, 2976.360596>)
+18:36:33 | "V12": (steamid=76561198993125942) teleported to (pos=4087.61,0,5120.99)
+18:37:13 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4024.307617, 17.646294, 5143.474121>)
+18:38:37 | Player "V12" (steamId=76561198993125942) disconnected from server.
+18:38:37 | Player "V12" (steamId=76561198993125942) disconnected from server.
+18:38:38 | Player "V12" (steamId=76561198993125942) disconnected from server.
+18:41:51 | Player "Maltrix CZE" (steamId=76561198188251693) connected to server!
+18:42:10 | Player "Maltrix CZE" (steamId=76561198188251693) connected to server!
+18:48:51 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+18:49:8 | Player "cumtam" (steamId=76561199150532361) connected to server!
+18:49:26 | Player "cumtam" (steamId=76561199150532361) connected to server!
+18:52:0 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+18:52:0 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+18:52:1 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+19:3:33 | Player "Bflame" (steamId=76561198072840834) connected to server!
+19:3:59 | Player "Bflame" (steamId=76561198072840834) connected to server!
+19:6:44 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+19:7:49 | Player "V12" (steamId=76561198993125942) connected to server!
+19:8:15 | Player "V12" (steamId=76561198993125942) connected to server!
+19:10:9 | Player "Bflame" (steamId=76561198072840834) connected to server!
+19:10:29 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4080.362305, 17.347731, 5123.623535>)
+19:10:34 | Player "Bflame" (steamId=76561198072840834) connected to server!
+19:10:48 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4099.318848, 11.675772, 4996.149902>)
+19:11:45 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4122.295410, 0.134102, 4728.603516>)
+19:11:49 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4122.326660, 0.422458, 4697.711426>)
+19:11:49 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4123.463379, 0.644611, 4681.431152>)
+19:11:49 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4124.951172, 0.708131, 4663.367188>)
+19:11:49 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4127.289063, 0.719531, 4644.754883>)
+19:11:50 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4129.753906, 0.793255, 4627.445801>)
+19:11:50 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4132.733398, 0.823977, 4611.429199>)
+19:11:50 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4136.223633, 0.664857, 4594.994629>)
+19:11:50 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4138.984863, 0.858711, 4582.299805>)
+19:11:50 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4142.905762, 1.016054, 4570.001953>)
+19:11:51 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4150.102051, 1.124042, 4557.072266>)
+19:11:51 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4159.280273, 1.040389, 4542.083008>)
+19:11:51 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4167.636230, 1.091740, 4528.474609>)
+19:11:51 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4175.806152, 1.176773, 4515.484863>)
+19:11:52 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4184.722656, 1.086250, 4502.106445>)
+19:11:52 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4193.412598, 1.013133, 4489.141113>)
+19:11:52 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4201.624023, 1.066516, 4476.865234>)
+19:11:52 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4210.245117, 1.062011, 4464.005371>)
+19:11:53 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4218.957031, 1.072350, 4451.016113>)
+19:11:53 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4226.849121, 1.113572, 4438.470215>)
+19:11:53 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4234.319824, 1.213384, 4426.499512>)
+19:11:53 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4242.164063, 1.248362, 4413.949219>)
+19:11:54 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4250.109863, 1.231901, 4401.207031>)
+19:11:54 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4256.654785, 1.552383, 4390.592773>)
+19:11:54 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4256.364258, 3.046858, 4390.447266>)
+19:11:56 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4262.640137, 1.239620, 4374.266113>)
+19:11:56 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4266.810059, 1.314325, 4361.733887>)
+19:11:56 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4271.179688, 1.292605, 4348.626953>)
+19:11:57 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4268.168457, 1.349644, 4334.262695>)
+19:11:57 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4265.275879, 2.138079, 4325.331543>)
+19:11:57 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4263.488281, 3.681542, 4320.618164>)
+19:11:58 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4256.590820, 5.481442, 4310.413574>)
+19:11:58 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4253.502930, 7.866412, 4305.140625>)
+19:12:0 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4249.472168, 10.240909, 4294.991211>)
+19:12:0 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4245.788086, 10.792717, 4285.749512>)
+19:12:4 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4238.234375, 11.680446, 4224.347656>)
+19:12:42 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4341.372070, 1.401276, 4179.113281>)
+19:13:13 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4350.855957, 1.461475, 4177.630371>)
+19:13:14 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4362.778809, 1.461475, 4181.023438>)
+19:13:15 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4372.817871, 1.461475, 4183.741211>)
+19:13:15 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4381.927246, 1.440034, 4186.687988>)
+19:13:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4391.128906, 1.440034, 4189.939453>)
+19:17:17 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4320.471680, 3.775610, 4170.293457>)
+19:17:31 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4260.663086, 10.961972, 4176.980469>)
+19:17:40 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4233.384766, 14.242055, 4169.401855>)
+19:17:42 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4227.658691, 10.548258, 4160.814941>)
+19:17:52 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4247.346191, 10.710012, 4159.123535>)
+19:17:53 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4248.525879, 12.874906, 4155.080078>)
+19:18:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4241.199707, 12.395768, 4166.591797>)
+19:22:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4240.957520, 12.917713, 4170.602051>)
+19:24:48 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4248.485352, 12.970448, 4154.913086>)
+19:25:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4259.884766, 9.050688, 4141.838379>)
+19:29:21 | "V12" (steamid=76561198993125942) Spawned Item: (ExpansionShemag)
+19:30:34 | "V12" (steamid=76561198993125942) Spawned Item: (Msp_WitchHat)
+19:32:56 | "V12" (steamid=76561198993125942) Spawned Item: (Msp_Slouchie_Black)
+19:33:51 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4222.956055, 10.648006, 4147.872070>)
+19:33:52 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4212.741699, 11.842337, 4140.758301>)
+19:33:52 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4206.505371, 13.221989, 4136.690430>)
+19:33:52 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4196.439453, 14.140984, 4130.050781>)
+19:33:53 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4187.225098, 14.672400, 4126.872559>)
+19:33:54 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4180.324219, 15.065354, 4124.401855>)
+19:35:31 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4241.633789, 12.159184, 4166.384766>)
+19:35:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4240.562500, 13.480300, 4170.913086>)
+19:35:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4224.888672, 15.050539, 4176.826660>)
+19:36:4 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4261.649902, 11.154478, 4183.074707>)
+19:36:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4246.203125, 11.263051, 4177.862305>)
+19:36:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4253.503418, 11.559486, 4184.413086>)
+19:36:24 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4258.933594, 11.403640, 4186.184570>)
+19:36:25 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4265.063965, 11.104372, 4186.571777>)
+19:36:25 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4269.642090, 10.564775, 4183.637207>)
+19:36:26 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4275.882813, 9.493274, 4178.637695>)
+19:36:26 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4283.467773, 8.162457, 4171.680664>)
+19:36:27 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4290.472168, 6.598439, 4158.389160>)
+19:36:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4285.888184, 7.428920, 4165.566895>)
+19:36:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4281.785156, 8.346417, 4172.091797>)
+19:36:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4277.535645, 9.266579, 4178.489746>)
+19:36:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4273.164551, 10.173847, 4184.832520>)
+19:36:29 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4267.353027, 11.012916, 4189.764160>)
+19:36:29 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4259.120605, 11.611334, 4193.120117>)
+19:36:30 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4253.295410, 11.651696, 4187.132324>)
+19:36:30 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4246.227539, 11.575125, 4182.050781>)
+19:36:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4233.333008, 14.343184, 4169.179199>)
+19:36:39 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4227.135254, 12.638480, 4161.510254>)
+19:37:13 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4235.972656, 15.739385, 4166.536133>)
+19:37:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4259.788574, 12.984865, 4171.452148>)
+19:37:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4246.008789, 11.521880, 4157.087402>)
+19:38:46 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4251.056152, 10.409447, 4169.750977>)
+19:40:4 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4202.631836, 21.957308, 4183.039551>)
+19:40:7 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4179.973145, 23.436653, 4172.159180>)
+19:40:8 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4155.416016, 24.413891, 4155.184570>)
+19:40:14 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4171.973633, 22.866724, 4169.862793>)
+19:40:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4225.763672, 13.932242, 4211.511230>)
+19:40:32 | "V12": (steamid=76561198993125942) teleported to (pos=1529.62,0,3141.16)
+19:45:2 | "V12" (steamid=76561198993125942) Spawned Item: (EpoxyPutty)
+19:45:10 | "V12" (steamid=76561198993125942) Spawned Item: (Pipe)
+19:49:40 | "V12" (steamid=76561198993125942) deleted object "ExpansionSafeMini" (pos=<1144.795166, 19.740141, 2524.884766>)
+19:52:31 | "V12" (steamid=76561198993125942) deleted object "ExpansionAirdropContainer_Basebuilding" (pos=<1157.525024, 19.765484, 2530.307617>)
+19:55:33 | "V12" (steamid=76561198993125942) deleted object "ExpansionSafeMedium" (pos=<1155.981567, 19.631056, 2589.491211>)
+19:55:36 | "V12" (steamid=76561198993125942) deleted object "ExpansionSafeMini" (pos=<1154.072754, 19.723217, 2588.983154>)
+19:59:38 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<993.500549, 15.739999, 2410.597656>)
+19:59:49 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<995.903259, 15.740000, 2412.822510>)
+20:0:13 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<999.246643, 15.740002, 2375.898193>)
+20:0:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1065.243652, 16.709282, 2410.690674>)
+20:0:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1065.423828, 16.757393, 2410.791992>)
+20:0:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1072.480713, 18.772659, 2414.157715>)
+20:0:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1078.043701, 20.458239, 2416.657715>)
+20:0:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1086.198486, 22.009226, 2420.466064>)
+20:0:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1122.346924, 18.091425, 2442.326660>)
+20:0:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1148.480103, 18.158817, 2470.815674>)
+20:0:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1149.903931, 18.020206, 2486.731201>)
+20:0:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1150.927612, 18.303690, 2499.046631>)
+20:0:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1151.213989, 18.745953, 2504.176270>)
+20:3:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1151.048340, 23.927277, 2538.335693>)
+20:3:55 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1150.923340, 21.726322, 2517.398682>)
+20:12:59 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1826.092529, 2.059999, 3451.912109>)
+20:13:0 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1826.127930, 2.060000, 3460.723389>)
+20:13:1 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1830.436646, 2.060000, 3467.582031>)
+20:13:1 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1834.475342, 2.059989, 3473.851563>)
+20:13:1 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1838.286987, 2.060000, 3481.637695>)
+20:13:56 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1833.262207, 6.392131, 3563.543945>)
+20:14:1 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1851.673706, 2.059994, 3576.945068>)
+20:20:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1803.104370, 2.059999, 3739.454590>)
+20:20:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1800.200684, 2.060011, 3728.327393>)
+20:20:35 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1798.211548, 2.060000, 3718.924561>)
+20:21:0 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1787.299438, 2.060000, 3712.346191>)
+20:21:0 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1785.831055, 2.060000, 3699.159424>)
+20:24:53 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1665.199341, 2.158398, 3679.218262>)
+20:24:53 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<1659.080444, 2.713467, 3671.146484>)
+20:34:9 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4245.924805, 11.552146, 4157.066895>)
+20:34:10 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4248.401855, 13.025810, 4154.760742>)
+20:34:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4240.795410, 12.953019, 4170.599609>)
+20:35:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4301.433594, 5.928372, 4149.592773>)
+20:35:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4310.081543, 5.627258, 4137.157227>)
+20:35:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4315.989746, 5.357474, 4128.681152>)
+20:35:17 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4323.679688, 5.280835, 4117.568359>)
+20:35:17 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4334.617676, 4.928109, 4102.058105>)
+20:35:17 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4339.516113, 4.652273, 4095.510986>)
+20:35:17 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4351.326660, 4.544618, 4078.942871>)
+20:35:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4364.104492, 4.322269, 4061.060303>)
+20:35:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4377.305176, 4.014608, 4042.602783>)
+20:35:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4388.557617, 4.019993, 4026.742432>)
+20:35:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4399.668457, 4.021989, 4010.668701>)
+20:35:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4407.929199, 4.020282, 3993.928223>)
+20:35:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4412.815430, 3.978155, 3977.333496>)
+20:35:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4414.626953, 4.030650, 3960.722168>)
+20:35:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4413.517090, 3.970385, 3941.579834>)
+20:35:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4411.028809, 3.732816, 3920.376709>)
+20:35:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4408.470703, 3.505280, 3899.168213>)
+20:35:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4404.603027, 3.271469, 3878.080078>)
+20:35:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4398.835449, 3.168920, 3859.460449>)
+20:35:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4391.571289, 3.109997, 3840.269531>)
+20:35:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4381.885254, 2.890001, 3817.076416>)
+20:35:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4371.418457, 2.874048, 3794.679932>)
+20:35:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4363.110352, 3.297561, 3777.178955>)
+20:35:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4355.467285, 3.863835, 3761.120117>)
+20:35:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4351.972656, 4.250000, 3740.542725>)
+20:35:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4348.290527, 4.436582, 3718.419189>)
+20:35:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4344.230957, 4.426101, 3693.609863>)
+20:35:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4339.810547, 4.242829, 3666.415283>)
+20:35:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4335.830566, 4.271479, 3642.129639>)
+20:35:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4331.923828, 4.544027, 3621.844482>)
+20:35:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4327.098145, 4.873074, 3604.308350>)
+20:35:24 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4319.460449, 5.104908, 3588.373535>)
+20:35:24 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4310.305176, 5.011744, 3570.289795>)
+20:35:25 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4306.677734, 4.590884, 3551.044189>)
+20:35:25 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4304.643555, 4.262021, 3533.004639>)
+20:35:25 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4303.788574, 4.235266, 3517.367676>)
+20:35:26 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4306.275391, 4.257453, 3500.433350>)
+20:35:26 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4309.820801, 4.250723, 3482.147949>)
+20:35:26 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4313.482910, 4.189095, 3461.268066>)
+20:35:27 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4317.114746, 4.149004, 3440.497070>)
+20:35:27 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4320.522949, 4.198951, 3420.905029>)
+20:35:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4324.473145, 4.172791, 3398.604248>)
+20:35:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4328.021484, 4.232838, 3379.440918>)
+20:35:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4334.168457, 4.177003, 3362.278809>)
+20:35:29 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4341.831543, 3.928024, 3346.188721>)
+20:35:29 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4350.357422, 3.769169, 3332.574707>)
+20:35:30 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4359.815918, 3.611849, 3319.502441>)
+20:35:30 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4369.333008, 3.436084, 3306.507080>)
+20:35:30 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4378.942871, 3.243719, 3293.396729>)
+20:35:31 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4388.312988, 3.141096, 3280.602295>)
+20:35:31 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4389.371582, 3.138191, 3279.209229>)
+20:35:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4397.123047, 3.137269, 3266.340088>)
+20:35:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4403.824707, 3.182823, 3253.977295>)
+20:35:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4409.865723, 3.279032, 3240.294678>)
+20:35:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4410.400391, 3.283445, 3239.139160>)
+20:35:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4411.356445, 3.291420, 3237.143799>)
+20:35:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4415.245117, 3.328631, 3229.798828>)
+20:35:35 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4425.791016, 3.383350, 3207.499268>)
+20:35:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4435.202148, 3.204225, 3187.560791>)
+20:35:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4442.358887, 3.399117, 3172.911621>)
+20:35:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4448.292480, 3.875979, 3160.834229>)
+20:35:37 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4455.259277, 4.247049, 3147.707520>)
+20:35:38 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4470.464844, 3.034109, 3128.162354>)
+20:35:39 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4486.535156, 1.243738, 3107.948486>)
+20:36:17 | "V12": (steamid=76561198993125942) teleported to (pos=4276.72,0,4178.78)
+20:40:9 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4292.745117, 10.805959, 4174.184570>)
+20:43:44 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4275.933105, 12.238333, 4193.956055>)
+20:44:22 | "V12": (steamid=76561198993125942) teleported to (pos=3667.39,0,389.287)
+20:44:23 | "V12": (steamid=76561198993125942) teleported to (pos=3667.39,0,389.287)
+20:45:16 | "V12": (steamid=76561198993125942) teleported to (pos=4270.37,0,4181.68)
+20:46:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4276.005371, 12.315778, 4194.121582>)
+20:50:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4275.325195, 12.287864, 4194.766602>)
+20:55:1 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4274.294434, 12.292620, 4193.100098>)
+20:55:1 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4271.721191, 10.567864, 4189.731445>)
+20:55:17 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4257.631836, 11.629298, 4191.199219>)
+20:55:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4251.710938, 11.914257, 4194.959961>)
+20:55:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4246.345703, 12.206952, 4198.783203>)
+20:55:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4240.788574, 12.564377, 4202.899902>)
+20:55:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4233.858398, 13.089013, 4208.063477>)
+20:55:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4227.412109, 13.721238, 4211.748535>)
+20:55:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4219.908203, 14.014967, 4216.558594>)
+20:55:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4209.895020, 14.316773, 4225.669434>)
+20:55:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4201.990234, 14.316773, 4233.441895>)
+20:55:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4194.321289, 14.316773, 4241.291992>)
+20:55:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4186.914551, 14.304626, 4249.731934>)
+20:55:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4179.812500, 14.304626, 4257.620605>)
+20:55:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4171.492188, 14.029985, 4266.760742>)
+20:55:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4166.178223, 14.349138, 4273.191406>)
+20:55:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4161.365234, 14.579790, 4280.178711>)
+20:55:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4157.099609, 14.655553, 4288.040527>)
+20:55:24 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4153.082031, 14.632773, 4296.638672>)
+20:55:24 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4148.820801, 14.366482, 4306.487793>)
+20:55:24 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4144.503418, 13.968960, 4317.182617>)
+20:55:29 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4140.190430, 13.707179, 4337.267090>)
+20:55:29 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4130.856445, 13.839144, 4344.705078>)
+20:55:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4119.767578, 13.839552, 4358.184570>)
+20:55:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4111.950195, 13.880514, 4364.880859>)
+20:55:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4103.145508, 14.030241, 4372.379883>)
+20:55:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4095.759277, 14.230124, 4378.986816>)
+20:55:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4088.698486, 14.548115, 4385.333008>)
+20:55:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4082.168701, 14.987991, 4391.136719>)
+20:55:33 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4075.713135, 15.422503, 4396.718750>)
+20:55:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4069.434814, 15.896461, 4401.834961>)
+20:55:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4062.572266, 16.282047, 4406.901855>)
+20:55:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4055.297852, 16.621941, 4412.212891>)
+20:55:34 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4047.293945, 16.790834, 4418.150391>)
+20:55:35 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4038.548584, 16.705481, 4426.425293>)
+20:55:35 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4028.305664, 16.496460, 4435.506348>)
+20:55:35 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4017.404541, 16.219906, 4444.738281>)
+20:55:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4006.575684, 16.013899, 4453.614258>)
+20:55:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3997.573486, 16.152960, 4461.036133>)
+20:55:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3989.126465, 16.394329, 4468.017578>)
+20:55:36 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3981.071533, 16.697306, 4474.692871>)
+20:55:37 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3974.055908, 17.167730, 4480.175781>)
+20:55:40 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3961.426270, 17.850119, 4488.287598>)
+20:55:40 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3954.910400, 18.133987, 4493.402832>)
+20:55:40 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3948.385742, 18.402866, 4498.613281>)
+20:55:40 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3942.115479, 18.639050, 4504.188965>)
+20:55:40 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3936.280029, 18.803911, 4509.850586>)
+20:55:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3930.466064, 18.954403, 4515.527344>)
+20:55:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3924.578125, 19.075926, 4521.278809>)
+20:55:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3918.627441, 19.175201, 4526.583984>)
+20:55:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3912.530273, 19.317793, 4531.371582>)
+20:55:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3906.165527, 19.376719, 4536.271484>)
+20:55:42 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3900.055664, 19.471962, 4540.978027>)
+20:55:42 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3893.600830, 19.533876, 4545.885254>)
+20:55:42 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3886.813721, 19.559910, 4551.023438>)
+20:55:42 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3879.840332, 19.513313, 4556.291992>)
+20:55:43 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3872.519531, 19.424379, 4561.804688>)
+20:55:43 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3865.381836, 19.325924, 4567.188965>)
+20:55:43 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3858.283447, 19.281693, 4572.566406>)
+20:55:43 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3851.723633, 19.280008, 4578.146973>)
+20:55:44 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3845.925781, 19.280006, 4585.209473>)
+20:55:44 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3840.371582, 19.312389, 4592.699219>)
+20:55:44 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3834.825439, 19.557699, 4599.890625>)
+20:55:44 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3829.060791, 19.940233, 4606.579102>)
+20:55:45 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3823.793701, 20.450731, 4612.596191>)
+20:55:45 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3818.847900, 21.120754, 4618.308594>)
+20:55:45 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3814.703857, 21.880743, 4623.802734>)
+20:55:45 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3810.833008, 22.597288, 4629.443848>)
+20:55:46 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3806.969971, 23.182909, 4635.483887>)
+20:55:46 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3803.649658, 23.539669, 4642.275879>)
+20:55:46 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3800.295410, 23.885752, 4649.285645>)
+20:55:46 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3797.042725, 24.241196, 4656.142090>)
+20:55:46 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3793.988525, 24.626373, 4662.655273>)
+20:55:47 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3791.026611, 25.068970, 4669.071289>)
+20:55:47 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3788.116211, 25.404808, 4676.147949>)
+20:55:47 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3784.748535, 25.418045, 4684.302734>)
+20:55:57 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3780.683594, 23.321264, 4710.664063>)
+20:55:57 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3782.784424, 22.304041, 4720.027344>)
+20:55:57 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3784.619873, 21.613688, 4728.652832>)
+20:55:58 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3786.340820, 21.038113, 4737.943359>)
+20:55:58 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3788.079102, 20.306423, 4748.418457>)
+20:55:58 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3789.777832, 19.694517, 4758.781250>)
+20:55:58 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3791.294922, 19.426825, 4767.822754>)
+20:55:58 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3792.629150, 19.454094, 4775.503906>)
+20:55:59 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3793.938477, 19.608343, 4782.883301>)
+20:55:59 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3795.290039, 19.770769, 4790.201660>)
+20:55:59 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3796.677002, 19.942591, 4797.535645>)
+20:55:59 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3798.152588, 20.067730, 4805.076660>)
+20:56:0 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3799.539063, 20.336931, 4812.011719>)
+20:56:0 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3801.072754, 20.432697, 4819.886719>)
+20:56:1 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3802.956787, 20.446423, 4830.001953>)
+20:56:1 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3803.883057, 20.367998, 4839.489746>)
+20:56:8 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3799.903809, 20.170252, 4840.686523>)
+20:56:8 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3788.871582, 20.080929, 4837.650879>)
+20:56:8 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3781.582275, 20.694597, 4835.252441>)
+20:56:8 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3775.552002, 21.527990, 4833.288574>)
+20:56:12 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3762.747559, 22.512592, 4833.094238>)
+20:56:12 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3756.278809, 22.651348, 4836.741211>)
+20:56:13 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3745.191650, 22.542887, 4838.083496>)
+20:56:13 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3737.724365, 22.457132, 4840.333008>)
+20:56:15 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3727.714600, 22.394495, 4844.187012>)
+20:56:15 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3720.878662, 22.365736, 4846.669922>)
+20:56:15 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3714.063721, 22.350142, 4849.111816>)
+20:56:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3706.873779, 22.276237, 4851.668945>)
+20:56:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3698.357910, 22.104033, 4854.362793>)
+20:56:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3688.062012, 21.167007, 4861.465332>)
+20:56:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3675.978027, 18.989349, 4866.039063>)
+20:56:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3653.623291, 13.668615, 4873.767090>)
+20:56:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3646.356689, 13.403546, 4876.487305>)
+20:56:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3639.380371, 13.688658, 4879.107910>)
+20:56:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3632.124268, 14.283029, 4881.770020>)
+20:56:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3625.598633, 14.942151, 4884.192383>)
+20:56:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3619.245850, 15.740423, 4886.594727>)
+20:56:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3613.180420, 16.660767, 4889.001953>)
+20:56:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3607.101074, 17.588926, 4891.437500>)
+20:56:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3600.930420, 18.453548, 4893.908203>)
+20:56:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3594.833252, 19.322208, 4896.354980>)
+20:56:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3588.886719, 20.202976, 4898.779297>)
+20:56:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3582.568604, 21.097681, 4901.337891>)
+20:56:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3576.548828, 21.906723, 4903.790527>)
+20:56:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3570.591553, 22.587917, 4906.192383>)
+20:56:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3564.277832, 23.167000, 4908.328125>)
+20:56:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3557.701416, 23.606339, 4910.405762>)
+20:56:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3551.007568, 23.855232, 4912.490234>)
+20:56:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3544.677979, 24.080559, 4914.402832>)
+20:56:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3538.322266, 24.299133, 4916.237793>)
+20:56:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3530.490479, 24.295952, 4918.318848>)
+20:56:24 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3521.359375, 23.351423, 4924.729492>)
+20:56:25 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3513.872559, 22.278650, 4931.514648>)
+20:56:25 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3506.939453, 20.976761, 4939.281738>)
+20:56:26 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3502.095947, 19.064600, 4951.278809>)
+20:56:27 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3493.109375, 17.385509, 4958.568359>)
+20:56:27 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3486.371338, 16.054813, 4964.770996>)
+20:56:28 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3480.360596, 15.154798, 4970.635742>)
+20:57:9 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3479.434326, 15.412990, 4968.230957>)
+20:57:9 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3484.938477, 15.883430, 4965.392090>)
+20:57:9 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3485.167236, 15.909065, 4965.286621>)
+20:57:9 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3485.384521, 15.932074, 4965.217773>)
+20:57:9 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3485.632324, 15.953697, 4965.181152>)
+20:57:13 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3488.467773, 15.155401, 4973.533203>)
+21:0:25 | "V12" (steamid=76561198993125942) /refuel used on self.
+21:2:7 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3507.839111, 18.524773, 4959.476563>)
+21:2:8 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3515.056152, 19.213776, 4956.236816>)
+21:2:8 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3521.455078, 19.694134, 4953.314941>)
+21:2:8 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3527.913330, 20.082991, 4950.764648>)
+21:2:9 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3534.137207, 20.435148, 4948.945801>)
+21:2:9 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3541.913086, 20.226324, 4952.183594>)
+21:2:10 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3549.879639, 19.590607, 4954.745605>)
+21:2:10 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3554.923096, 19.662807, 4957.025879>)
+21:2:11 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3559.825684, 18.540005, 4961.677734>)
+21:2:12 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3561.625488, 19.306135, 4963.040039>)
+21:2:13 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3573.598633, 14.794692, 4972.327637>)
+21:2:13 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3597.482910, 7.085501, 4990.397949>)
+21:2:14 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3605.434326, 6.443421, 4995.500977>)
+21:2:14 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3614.261963, 5.932253, 5000.578613>)
+21:2:14 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3623.731445, 5.444643, 5005.586426>)
+21:2:15 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3632.888672, 5.231333, 5010.044922>)
+21:2:15 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3642.103027, 5.110628, 5014.299805>)
+21:2:15 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3651.619873, 4.975864, 5018.516113>)
+21:2:15 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3661.451904, 4.836863, 5022.867188>)
+21:2:15 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3671.200439, 4.709166, 5027.100586>)
+21:2:15 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3680.751709, 4.589412, 5031.237305>)
+21:2:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3690.463867, 4.437445, 5035.449219>)
+21:2:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3700.143555, 4.292014, 5039.645996>)
+21:2:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3707.383057, 4.193790, 5042.738281>)
+21:2:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3717.964844, 4.008000, 5047.117676>)
+21:2:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3729.384033, 3.773605, 5051.501953>)
+21:2:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3741.937500, 3.596215, 5055.930664>)
+21:2:17 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3763.027344, 4.026456, 5060.506836>)
+21:2:17 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3786.822266, 4.557924, 5065.089355>)
+21:2:17 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3807.041504, 5.337101, 5068.902344>)
+21:2:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3830.260254, 5.800603, 5073.061523>)
+21:2:18 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3849.713867, 6.463834, 5076.484375>)
+21:2:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3864.692139, 7.575892, 5079.048828>)
+21:2:19 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3879.340576, 8.634379, 5081.549805>)
+21:2:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3895.550293, 8.050152, 5089.083984>)
+21:2:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3908.627930, 7.300229, 5095.812012>)
+21:2:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3920.699951, 6.734014, 5101.996582>)
+21:2:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3931.776123, 6.340707, 5108.140137>)
+21:2:21 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3943.136719, 5.891001, 5114.721680>)
+21:2:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3952.412109, 5.869158, 5120.044434>)
+21:2:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3965.276123, 5.238485, 5127.617188>)
+21:2:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3977.200684, 4.828269, 5134.727051>)
+21:2:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3988.232910, 4.653753, 5141.301270>)
+21:2:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<3995.522705, 4.600293, 5145.644043>)
+21:2:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4006.347900, 4.560133, 5151.867676>)
+21:2:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4017.479004, 4.514132, 5157.526855>)
+21:2:23 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4030.079102, 4.454269, 5161.946777>)
+21:2:25 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4045.294678, 4.492099, 5156.062012>)
+21:2:25 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4055.158691, 4.607504, 5151.720703>)
+21:2:25 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4065.363770, 4.764178, 5145.413086>)
+21:2:51 | Player "V12" (steamId=76561198993125942) disconnected from server.
+21:2:51 | Player "V12" (steamId=76561198993125942) disconnected from server.
+21:2:52 | Player "V12" (steamId=76561198993125942) disconnected from server.
+21:26:3 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+21:26:3 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+21:27:38 | Player "Martina_(.)(.)_" (steamId=76561198097548152) disconnected from server.
+21:27:38 | Player "Martina_(.)(.)_" (steamId=76561198097548152) disconnected from server.
+21:36:50 | Player "Maltrix CZE" (steamId=76561198188251693) disconnected from server.
+21:36:50 | Player "Maltrix CZE" (steamId=76561198188251693) disconnected from server.
+21:36:52 | Player "Maltrix CZE" (steamId=76561198188251693) disconnected from server.
+22:5:36 | Player "Relikt" (steamId=76561198112422459) connected to server!
+22:8:45 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+22:8:45 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+22:8:46 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+22:10:22 | Player "Relikt" (steamId=76561198112422459) disconnected from server.

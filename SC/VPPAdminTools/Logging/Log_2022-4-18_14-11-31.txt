@@ -1,0 +1,487 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-4-18_14-11-31
+====================================================================================
+14:11:31 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+14:11:31 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+14:11:31 | [PermissionManager] Perm (FreeCamera) has been registered!
+14:11:31 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuItemManager) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuServerManager) has been registered!
+14:11:31 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+14:11:31 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+14:11:31 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+14:11:31 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+14:11:31 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+14:11:31 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+14:11:31 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+14:11:31 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+14:11:31 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+14:11:31 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+14:11:31 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+14:11:31 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+14:11:31 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+14:11:31 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+14:11:31 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+14:11:31 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+14:11:31 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+14:11:31 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuBansManager) has been registered!
+14:11:31 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+14:11:31 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+14:11:31 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+14:11:31 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+14:11:31 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+14:11:31 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+14:11:31 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+14:11:31 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+14:11:31 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+14:11:31 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+14:11:31 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+14:11:31 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+14:11:31 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+14:11:31 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+14:11:31 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+14:11:31 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+14:11:31 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+14:11:31 | [PermissionManager] Adding Super Admin (76561198016672415)
+14:11:31 | [PermissionManager] Loaded UserGroups.json
+14:11:31 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+14:11:31 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+14:11:31 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+14:11:31 | Building Sets Loaded: 0
+14:11:31 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+14:11:31 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+14:12:1 | Player "MADness" (steamId=76561198968762750) connected to server!
+14:12:19 | Player "MADness" (steamId=76561198968762750) connected to server!
+14:12:36 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4197.295898, 14.128164, 4134.672852>)
+14:12:36 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4203.868652, 13.294935, 4136.541016>)
+14:12:37 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4211.095703, 12.386789, 4139.048340>)
+14:12:38 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4220.738281, 11.042933, 4143.658203>)
+14:12:38 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4228.156250, 10.352221, 4147.563477>)
+14:12:40 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4245.553711, 10.082345, 4145.831055>)
+14:12:42 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4250.468262, 9.050688, 4135.524414>)
+14:13:51 | "MADness" (steamid=76561198968762750) deleted object "land_zisb_grate_door" (pos=<4254.445801, 11.483782, 4115.564453>)
+14:14:6 | Player "Martina_(.)(.)_" (steamId=76561198097548152) connected to server!
+14:14:27 | Player "Martina_(.)(.)_" (steamId=76561198097548152) connected to server!
+14:15:38 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4263.239258, 9.050688, 4128.469238>)
+14:15:38 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4280.207031, 6.076849, 4138.838867>)
+14:15:44 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4276.938477, 6.534264, 4136.216309>)
+14:15:44 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4270.782227, 8.346380, 4133.392090>)
+14:15:45 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4261.457520, 9.050688, 4127.292480>)
+14:16:44 | Player "cumtam" (steamId=76561199150532361) connected to server!
+14:16:45 | Player "StaryKojot" (steamId=76561198080276111) connected to server!
+14:17:4 | Player "StaryKojot" (steamId=76561198080276111) connected to server!
+14:17:4 | Player "cumtam" (steamId=76561199150532361) connected to server!
+14:19:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4258.647461, 9.050688, 4123.943848>)
+14:22:19 | "MADness" (steamid=76561198968762750) Teleporting player: "Martina_(.)(.)_" (steamid=76561198097548152) to (pos=<319.452393, 0.000000, 7297.880859>)
+14:27:30 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:30 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:30 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:31 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:31 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:31 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:31 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:31 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:31 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:32 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:32 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:32 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:32 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:32 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:42 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:43 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:43 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:43 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:43 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:43 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:43 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:27:43 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+14:29:52 | "MADness" (steamid=76561198968762750) deleted object "ExpansionMerlin" (pos=<4256.716309, 12.913339, 4137.916016>)
+14:32:45 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4245.428711, 10.127149, 4145.110352>)
+14:34:48 | "MADness" (steamid=76561198968762750) Teleporting player: "StaryKojot" (steamid=76561198080276111) to (pos=<224.171982, 0.000000, 7696.714355>)
+14:38:5 | "MADness" (steamid=76561198968762750) Teleporting player: "cumtam" (steamid=76561199150532361) to (pos=<541.021057, 0.000000, 7475.749512>)
+14:39:39 | Player "V12" (steamId=76561198993125942) connected to server!
+14:40:8 | Player "V12" (steamId=76561198993125942) connected to server!
+14:40:41 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4255.541504, 14.372402, 4109.501465>)
+14:45:22 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4279.129395, 12.006749, 4187.745117>)
+14:45:32 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<4283.493164, 11.262604, 4190.689941>)
+14:45:52 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4248.589355, 10.903014, 4124.393066>)
+14:45:53 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4245.300293, 13.620940, 4122.553223>)
+14:45:58 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4248.349121, 17.540993, 4112.088379>)
+14:46:8 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4244.966309, 13.142870, 4126.280762>)
+14:46:12 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4256.053711, 9.050688, 4123.469727>)
+14:46:39 | "V12": (steamid=76561198993125942) teleported to (pos=151.132,0,7867.21)
+14:47:3 | "MADness" (steamid=76561198968762750) toggled godmode
+14:47:11 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4258.067383, 9.050688, 4130.116699>)
+14:47:12 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4262.707520, 9.050688, 4139.361816>)
+14:47:12 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4265.040039, 8.416327, 4156.852539>)
+14:47:13 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4266.943848, 9.407589, 4166.781250>)
+14:47:14 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4268.475098, 9.894398, 4170.916504>)
+14:47:15 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4273.107910, 10.167442, 4184.551758>)
+14:47:16 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4275.553711, 10.089668, 4191.240234>)
+14:47:17 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4277.657715, 11.289440, 4197.074219>)
+14:47:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4488.211426, 9.229040, 4894.343262>)
+14:47:24 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4540.170410, 16.241982, 5012.489258>)
+14:48:20 | "MADness" (steamid=76561198968762750) Teleporting player: "MADness" (steamid=76561198968762750) to (pos=<0.000000, 0.000000, 7062.011719>)
+14:49:20 | "MADness" (steamid=76561198968762750) toggled godmode
+14:52:8 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<262.215668, 389.523132, 7928.340332>)
+14:52:30 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+14:52:50 | Player "cumtam" (steamId=76561199150532361) connected to server!
+14:53:7 | Player "cumtam" (steamId=76561199150532361) connected to server!
+14:54:41 | "V12": (steamid=76561198993125942) teleported to (pos=Lunapark Trader)
+14:57:53 | "V12": (steamid=76561198993125942) teleported to (pos=Sweet Home <3)
+15:0:3 | "V12": (steamid=76561198993125942) teleported to (pos=679.058,0,7687.23)
+15:9:49 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGyrocopter)
+15:9:56 | "MADness" (steamid=76561198968762750) /refuel used on self.
+15:10:42 | "V12" (steamid=76561198993125942) Spawned Item: (TF_Ammo_338LM)
+15:10:42 | "V12" (steamid=76561198993125942) Spawned Item: (TF_Ammo_338LM)
+15:10:42 | "V12" (steamid=76561198993125942) Spawned Item: (TF_Ammo_338LM)
+15:10:55 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+15:11:23 | Player "cumtam" (steamId=76561199150532361) connected to server!
+15:11:41 | Player "cumtam" (steamId=76561199150532361) connected to server!
+15:16:7 | "V12" (steamid=76561198993125942) Spawned Item: (HuntingOptic)
+15:18:11 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+15:18:57 | Player "cumtam" (steamId=76561199150532361) connected to server!
+15:19:15 | Player "cumtam" (steamId=76561199150532361) connected to server!
+15:22:20 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<670.186829, 428.452515, 7350.419922>)
+15:23:0 | "MADness" (steamid=76561198968762750) Teleporting player: "MADness" (steamid=76561198968762750) to (pos=<0.000000, 0.000000, 5457.590332>)
+15:23:15 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+15:23:15 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+15:23:16 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+15:23:16 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+15:23:16 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+15:23:16 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+15:23:16 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+15:23:16 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+15:27:42 | "MADness" (steamid=76561198968762750) Teleporting player: "MADness" (steamid=76561198968762750) to (pos=<422.114990, 0.000000, 6735.565430>)
+15:33:33 | "MADness": (steamid=76561198968762750) teleported to (pos=Lunapark Trader)
+15:33:42 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+15:37:44 | "MADness" (steamid=76561198968762750) Teleporting player: "StaryKojot" (steamid=76561198080276111) to (pos=<115.238274, 0.000000, 6046.963867>)
+15:39:50 | "V12": (steamid=76561198993125942) teleported to (pos=Sweet Home <3)
+15:39:59 | "V12": (steamid=76561198993125942) teleported to (pos=Lunapark Trader)
+15:40:19 | "V12": (steamid=76561198993125942) teleported to (pos=309.905,0,7880.68)
+15:40:49 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<112.805161, 415.442932, 7865.386719>)
+15:42:3 | "V12" (steamid=76561198993125942) just updated a health stat on (steamid=76561198993125942)
+15:42:3 | "V12" (steamid=76561198993125942) just updated a health stat on (steamid=76561198993125942)
+15:43:21 | Player "V12" (steamId=76561198993125942) disconnected from server.
+15:43:21 | Player "V12" (steamId=76561198993125942) disconnected from server.
+15:43:22 | Player "V12" (steamId=76561198993125942) disconnected from server.
+15:43:44 | "MADness" (steamid=76561198968762750) Teleporting player: "StaryKojot" (steamid=76561198080276111) to (pos=<294.808228, 0.000000, 7885.775879>)
+15:43:52 | "MADness" (steamid=76561198968762750) Teleporting player: "StaryKojot" (steamid=76561198080276111) to (pos=<0.000000, 0.000000, 6809.189453>)
+15:43:58 | "MADness": (steamid=76561198968762750) teleported to (pos=262.348,0,7904.71)
+15:47:37 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+15:47:37 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+15:47:38 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+15:48:5 | Player "MADness" (steamId=76561198968762750) connected to server!
+15:48:23 | Player "MADness" (steamId=76561198968762750) connected to server!
+15:49:31 | [WeatherManager] Send Data Count is 0
+15:49:37 | [Time Manager] Setting Date to 2019/10/14 4:49
+15:49:41 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+15:49:51 | [WeatherManager] Send Data Count is 0
+15:49:55 | [Time Manager] Setting Date to 2019/10/14 4:52
+15:50:7 | [Time Manager] Setting Date to 2019/10/14 6:52
+15:50:13 | Player "cumtam" (steamId=76561199150532361) connected to server!
+15:50:31 | Player "cumtam" (steamId=76561199150532361) connected to server!
+15:58:23 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<406.587128, 409.383240, 7679.962402>)
+16:1:15 | "MADness": (steamid=76561198968762750) teleported to (pos=Lunapark Trader)
+16:1:19 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4251.380859, 9.559340, 4161.035156>)
+16:1:35 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+16:1:43 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+16:1:43 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+16:5:36 | "MADness": (steamid=76561198968762750) teleported to (pos=180.951,0,7800.47)
+16:6:18 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<299.622131, 377.933411, 7752.075195>)
+16:6:19 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<308.333557, 381.293060, 7748.225098>)
+16:6:19 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<315.538269, 384.893311, 7745.026367>)
+16:6:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<324.323212, 389.009247, 7741.158203>)
+16:6:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<333.993774, 392.404877, 7737.238770>)
+16:6:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<463.375397, 415.174927, 7683.169434>)
+16:6:24 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<479.442383, 427.119476, 7675.794922>)
+16:6:25 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<488.325165, 434.958466, 7671.452148>)
+16:6:25 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<496.828125, 441.048248, 7667.109863>)
+16:6:26 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<505.296326, 445.810150, 7662.632324>)
+16:6:27 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<513.190308, 449.208893, 7658.351563>)
+16:6:27 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<521.329285, 452.025909, 7653.947266>)
+16:6:28 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<532.797363, 454.905518, 7647.689453>)
+16:7:3 | "MADness": (steamid=76561198968762750) teleported to (pos=566.256,0,7131.05)
+16:7:26 | "MADness": (steamid=76561198968762750) teleported to (pos=186.626,0,7779.66)
+16:7:33 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<181.509293, 408.440948, 7784.946289>)
+16:7:33 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<177.312088, 410.025116, 7787.695801>)
+16:7:34 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<171.734268, 411.278717, 7791.249512>)
+16:7:35 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<163.112061, 411.475250, 7795.071777>)
+16:7:45 | "MADness" (steamid=76561198968762750) Teleporting player: "StaryKojot" (steamid=76561198080276111) to (pos=<828.115479, 0.000000, 6921.481934>)
+16:8:9 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<137.582077, 405.814728, 7811.560059>)
+16:8:10 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<132.406662, 406.240540, 7823.212891>)
+16:8:38 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<504.611084, 445.794586, 7659.405762>)
+16:9:33 | Player "Rik_Plays" (steamId=76561198016672415) connected to server!
+16:9:56 | Player "Rik_Plays" (steamId=76561198016672415) connected to server!
+16:10:41 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+16:11:5 | "Rik_Plays": (steamid=76561198016672415) teleported to (pos=22.9094,0,6003.96)
+16:11:22 | "Rik_Plays" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+16:11:22 | Player "MADness" (steamId=76561198968762750) connected to server!
+16:11:24 | "Rik_Plays" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+16:11:25 | "Rik_Plays" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+16:11:26 | "Rik_Plays" (steamid=76561198016672415) healed player (steamid=76561198016672415)
+16:11:40 | Player "MADness" (steamId=76561198968762750) connected to server!
+16:13:6 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (Expansion_PMII25Optic)
+16:13:14 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (LongrangeOptic)
+16:13:16 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (HuntingOptic)
+16:13:29 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_HAMROptic_Black)
+16:13:47 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<23.515507, 461.280151, 6183.562012>)
+16:13:57 | "Rik_Plays" (steamid=76561198016672415) gave unlimited ammo to (steamid=76561198016672415)
+16:14:10 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<43.439625, 473.284821, 6287.511719>)
+16:14:11 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<45.922081, 474.044830, 6296.839355>)
+16:14:11 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<47.895374, 474.653503, 6304.684082>)
+16:14:11 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<49.834244, 475.393585, 6312.599609>)
+16:14:11 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<53.589458, 474.803528, 6327.719238>)
+16:14:23 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<263.451874, 413.792969, 6571.362793>)
+16:14:31 | "Rik_Plays" (steamid=76561198016672415) deleted object "ExpansionGyrocopter" (pos=<260.174896, 414.139313, 6568.671875>)
+16:14:39 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<275.394562, 430.184601, 6603.630859>)
+16:14:39 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<279.300507, 437.475403, 6611.633789>)
+16:14:40 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<291.414612, 461.959351, 6631.733887>)
+16:14:45 | "Rik_Plays" (steamid=76561198016672415) gave godmode to (steamid=76561198016672415)
+16:14:50 | "Rik_Plays": (steamid=76561198016672415) teleported to (pos=239.594,0,6652.58)
+16:15:3 | "Rik_Plays" (steamid=76561198016672415) gave godmode to (steamid=76561198016672415)
+16:15:13 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<318.844543, 490.546295, 6806.236328>)
+16:15:37 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (DressShoes_White)
+16:16:11 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (JoggingShoes_White)
+16:16:12 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (JoggingShoes_Violet)
+16:18:23 | Player "V12" (steamId=76561198993125942) connected to server!
+16:18:49 | Player "V12" (steamId=76561198993125942) connected to server!
+16:25:7 | "MADness" (steamid=76561198968762750) Teleporting player: "StaryKojot" (steamid=76561198080276111) to (pos=<0.000000, 0.000000, 9521.776367>)
+16:25:45 | "MADness" (steamid=76561198968762750) Teleporting player: "StaryKojot" (steamid=76561198080276111) to (pos=<2721.796387, 0.000000, 3579.437256>)
+16:26:2 | "MADness" (steamid=76561198968762750) Teleporting player: "Martina_(.)(.)_" (steamid=76561198097548152) to (pos=<2721.796387, 0.000000, 3596.362793>)
+16:26:25 | "MADness" (steamid=76561198968762750) Teleporting player: "Martina_(.)(.)_" (steamid=76561198097548152) to (pos=<2721.796387, 0.000000, 3556.867676>)
+16:28:35 | "MADness": (steamid=76561198968762750) teleported to (pos=Lunapark Trader)
+16:29:4 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+16:29:4 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+16:29:4 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+16:32:57 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<638.449768, 371.602112, 7488.815918>)
+16:33:0 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<649.760437, 379.932220, 7587.583984>)
+16:33:15 | "MADness": (steamid=76561198968762750) teleported to (pos=245.895,0,7149.91)
+16:33:20 | "MADness" (steamid=76561198968762750) Teleporting player: "Martina_(.)(.)_" (steamid=76561198097548152) to (pos=<264.571960, 0.000000, 7179.483398>)
+16:33:24 | "MADness": (steamid=76561198968762750) teleported to (pos=Lunapark Trader)
+16:34:36 | "MADness": (steamid=76561198968762750) teleported to (pos=677.026,0,7500.11)
+16:38:27 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<233.103043, 381.254333, 7844.411133>)
+16:40:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<686.579041, 407.598206, 7696.433594>)
+16:40:52 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+16:40:52 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+16:40:58 | Player "MADness" (steamId=76561198968762750) re-connected to server [canceledLogout]
+16:41:3 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+16:41:3 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+16:41:10 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+16:41:38 | "V12": (steamid=76561198993125942) teleported to (pos=Lunapark Trader)
+16:45:16 | Player "MADness" (steamId=76561198968762750) connected to server!
+16:45:35 | Player "MADness" (steamId=76561198968762750) connected to server!
+16:46:8 | "MADness" (steamid=76561198968762750) Teleporting player: "StaryKojot" (steamid=76561198080276111) to (pos=<270.776154, 0.000000, 7976.901855>)
+16:46:52 | "MADness" (steamid=76561198968762750) Teleporting player: "Martina_(.)(.)_" (steamid=76561198097548152) to (pos=<144.483002, 0.000000, 7591.787109>)
+16:48:18 | "V12": (steamid=76561198993125942) teleported to (pos=Sweet Home <3)
+16:48:22 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<345.149078, 366.892273, 7499.676270>)
+16:48:31 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<386.055573, 379.329590, 7512.696289>)
+16:48:32 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<391.688080, 379.550079, 7521.986328>)
+16:48:38 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<404.355560, 390.256714, 7556.611816>)
+16:48:39 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<406.091400, 394.929047, 7563.792969>)
+16:48:39 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<408.231384, 398.973358, 7570.637695>)
+16:48:39 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<410.447388, 402.051178, 7575.397949>)
+16:48:40 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<413.605011, 404.987183, 7580.152832>)
+16:48:40 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<416.897339, 407.836670, 7584.486328>)
+16:48:40 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<420.073212, 410.641907, 7588.632813>)
+16:48:40 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<423.191620, 413.404510, 7592.686035>)
+16:48:40 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<426.586578, 416.163330, 7597.003418>)
+16:48:41 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<430.127960, 418.690613, 7600.991699>)
+16:48:41 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<435.253326, 421.475800, 7606.050293>)
+16:48:42 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<440.503967, 423.373444, 7611.082520>)
+16:48:42 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<446.170227, 424.708527, 7616.375000>)
+16:48:42 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<451.291595, 425.968414, 7620.997070>)
+16:48:43 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<456.190216, 427.240448, 7625.342773>)
+16:48:43 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<460.855927, 428.190247, 7629.485352>)
+16:48:43 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<465.350555, 429.254089, 7633.529297>)
+16:48:43 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<469.812622, 430.338074, 7637.475586>)
+16:48:43 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<474.489227, 431.464874, 7641.613770>)
+16:48:44 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<478.249023, 432.712555, 7644.984863>)
+16:48:44 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<481.602722, 434.134613, 7647.927246>)
+16:48:44 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<484.708923, 435.756317, 7650.657227>)
+16:48:44 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<488.039581, 437.459351, 7653.632324>)
+16:48:44 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<491.369446, 439.085999, 7656.522461>)
+16:48:45 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<494.571472, 440.610535, 7659.349121>)
+16:48:53 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<511.479218, 446.509277, 7672.497559>)
+16:48:53 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<514.852600, 447.386414, 7674.591797>)
+16:48:53 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<518.097595, 448.172150, 7676.516113>)
+16:48:53 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<520.927246, 448.915619, 7678.561523>)
+16:48:54 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<523.720642, 449.436462, 7680.934082>)
+16:48:54 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<525.920776, 449.690338, 7683.232910>)
+16:49:49 | "V12": (steamid=76561198993125942) teleported to (pos=Lunapark Trader)
+16:51:7 | "MADness" (steamid=76561198968762750) Teleporting player: "Martina_(.)(.)_" (steamid=76561198097548152) to (pos=<292.393402, 0.000000, 7889.884766>)
+16:51:18 | "MADness": (steamid=76561198968762750) teleported to (pos=Lunapark Trader)
+16:51:33 | "V12" (steamid=76561198993125942) just updated a health stat on (steamid=76561198993125942)
+16:51:33 | "V12" (steamid=76561198993125942) just updated a health stat on (steamid=76561198993125942)
+16:51:49 | "V12": (steamid=76561198993125942) teleported to (pos=651.482,0,7394.38)
+16:52:16 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionGoldBar)
+16:55:0 | "Rik_Plays": (steamid=76561198016672415) teleported to (pos=599.035,0,7707.86)
+16:56:8 | "Rik_Plays" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+16:56:9 | "Rik_Plays" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+16:56:10 | "Rik_Plays" (steamid=76561198016672415) gave unlimited ammo to (steamid=76561198016672415)
+16:56:28 | "MADness": (steamid=76561198968762750) teleported to (pos=143.345,0,7915.92)
+16:59:10 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<116.997849, 362.934784, 8009.556641>)
+16:59:10 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<112.453987, 364.660889, 8007.991211>)
+16:59:10 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<107.966675, 366.665619, 8006.431152>)
+16:59:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<83.487755, 385.658447, 7978.539063>)
+16:59:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<78.105225, 391.348206, 7975.159668>)
+16:59:16 | "V12" (steamid=76561198993125942) teleported to crosshair (pos=<73.696991, 396.461151, 7972.448242>)
+17:0:29 | "MADness" (steamid=76561198968762750) Teleporting player: "Martina_(.)(.)_" (steamid=76561198097548152) to (pos=<224.127289, 0.000000, 8027.419434>)
+17:2:3 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+17:2:39 | "Rik_Plays" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+17:2:52 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_ElcanSpecterDR_6xOptic_FDE)
+17:3:6 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_6B23_112Vest_GFlora)
+17:3:17 | "Rik_Plays": (steamid=76561198016672415) teleported to (pos=848.861,0,6530.73)
+17:3:30 | "V12" (steamid=76561198993125942) Spawned Item: (TF_Ammo_338LM)
+17:3:30 | "V12" (steamid=76561198993125942) Spawned Item: (TF_Ammo_338LM)
+17:3:30 | "V12" (steamid=76561198993125942) Spawned Item: (TF_Ammo_338LM)
+17:3:50 | "Rik_Plays": (steamid=76561198016672415) teleported to (pos=272.734,0,5797.57)
+17:4:10 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_M14_EBR)
+17:4:23 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_SCAR_20_Shd)
+17:4:29 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_Mag_SCAR_H_30Rnd_Black)
+17:4:34 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_Mag_M14_20Rnd)
+17:4:49 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_6sh122Pants_Autumn)
+17:4:55 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_6sh122Jacket_Autumn)
+17:5:4 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_MICH2000Helmet_Black)
+17:5:28 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (HuntingOptic)
+17:5:28 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (HuntingOptic)
+17:5:28 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (HuntingOptic)
+17:5:54 | Player "cumtam" (steamId=76561199150532361) connected to server!
+17:6:13 | Player "cumtam" (steamId=76561199150532361) connected to server!
+17:6:28 | "Rik_Plays" (steamid=76561198016672415) gave unlimited ammo to (steamid=76561198016672415)
+17:6:29 | "Rik_Plays" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+17:6:29 | "Rik_Plays" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+17:7:18 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<441.087677, 386.595612, 5922.018555>)
+17:7:20 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<406.739258, 394.213135, 5993.862305>)
+17:7:21 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<388.243958, 395.816010, 6023.406738>)
+17:7:39 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<333.875763, 420.427765, 6405.645996>)
+17:7:48 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<228.157150, 423.163391, 6589.786621>)
+17:9:44 | "Rik_Plays" (steamid=76561198016672415) Teleporting player: "cumtam" (steamid=76561199150532361) to (pos=<4332.446289, 0.000000, 4169.083984>)
+17:11:8 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<313.516571, 488.537292, 6811.316406>)
+17:13:38 | Player "V12" (steamId=76561198993125942) disconnected from server.
+17:15:42 | "Rik_Plays" (steamid=76561198016672415) Teleporting player: "Martina_(.)(.)_" (steamid=76561198097548152) to (pos=<683.341614, 0.000000, 7581.032715>)
+17:25:15 | "Rik_Plays" (steamid=76561198016672415) Teleporting player: "cumtam" (steamid=76561199150532361) to (pos=<766.228333, 0.000000, 7071.142090>)
+17:28:1 | "Rik_Plays" (steamid=76561198016672415) Teleporting player: "StaryKojot" (steamid=76561198080276111) to (pos=<4323.988281, 0.000000, 4174.602539>)
+17:34:32 | Player "MADness" (steamId=76561198968762750) connected to server!
+17:34:46 | "Rik_Plays" (steamid=76561198016672415) Teleporting player: "Martina_(.)(.)_" (steamid=76561198097548152) to (pos=<424.709503, 0.000000, 6738.389648>)
+17:35:8 | "MADness": (steamid=76561198968762750) teleported to (pos=Lunapark Trader)
+17:35:13 | "Rik_Plays": (steamid=76561198016672415) teleported to (pos=55.0059,0,7177.53)
+17:35:30 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<48.243958, 452.457306, 7259.623535>)
+17:35:31 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<43.295658, 453.792603, 7276.481445>)
+17:36:10 | "Rik_Plays" (steamid=76561198016672415) gave unlimited ammo to (steamid=76561198016672415)
+17:37:8 | "Rik_Plays": (steamid=76561198016672415) teleported to (pos=682.163,0,7590.13)
+17:40:38 | "MADness": (steamid=76561198968762750) teleported to (pos=277.107,0,7888.31)
+17:41:39 | "MADness" (steamid=76561198968762750) Teleporting player: "Martina_(.)(.)_" (steamid=76561198097548152) to (pos=<696.704956, 0.000000, 7450.581055>)
+17:41:43 | "Rik_Plays": (steamid=76561198016672415) teleported to (pos=740.896,0,7608.72)
+17:42:2 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (HuntingOptic)
+17:42:2 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (HuntingOptic)
+17:43:2 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_MICH2000Helmet_Black)
+17:43:20 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_6sh122Pants_Autumn)
+17:43:23 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_6sh122Jacket_Autumn)
+17:43:29 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_6B23_112Vest_EMR)
+17:43:38 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_Anzio20)
+17:43:46 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_Anzio_Bipod)
+17:43:47 | "Rik_Plays" (steamid=76561198016672415) Spawned Item: (TF_Mag_Anzio20_3Rnd)
+17:43:50 | "MADness" (steamid=76561198968762750) Teleporting player: "StaryKojot" (steamid=76561198080276111) to (pos=<127.786293, 0.000000, 6799.350098>)
+17:44:10 | Player "StaryKojot" (steamId=76561198080276111) disconnected from server.
+17:44:15 | "Rik_Plays" (steamid=76561198016672415) gave unlimited ammo to (steamid=76561198016672415)
+17:44:16 | "Rik_Plays" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+17:44:17 | "Rik_Plays" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+17:44:31 | Player "StaryKojot" (steamId=76561198080276111) connected to server!
+17:44:49 | Player "StaryKojot" (steamId=76561198080276111) connected to server!
+17:49:32 | "MADness" (steamid=76561198968762750) Teleporting player: "Martina_(.)(.)_" (steamid=76561198097548152) to (pos=<944.445801, 0.000000, 6394.271484>)
+17:49:34 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<49.840408, 452.964142, 7226.253906>)
+17:50:10 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<81.844795, 464.056061, 7095.113770>)
+17:50:11 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<82.212303, 464.697906, 7084.728027>)
+17:50:11 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<82.572266, 465.203583, 7077.332031>)
+17:50:42 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<42.278553, 467.079712, 7027.384766>)
+17:50:43 | "MADness" (steamid=76561198968762750) Teleporting player: "StaryKojot" (steamid=76561198080276111) to (pos=<0.000000, 0.000000, 6347.046387>)
+17:51:49 | "MADness" (steamid=76561198968762750) Teleporting player: "cumtam" (steamid=76561199150532361) to (pos=<0.000000, 0.000000, 6328.157227>)
+17:52:1 | "MADness" (steamid=76561198968762750) Teleporting player: "cumtam" (steamid=76561199150532361) to (pos=<4904.960449, 0.000000, 5687.103516>)
+17:52:2 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<75.908112, 415.194183, 6904.733398>)
+17:52:35 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-11.201878, 448.054443, 6933.900391>)
+17:52:37 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-25.231335, 452.171722, 6938.861816>)
+17:52:38 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-33.802246, 454.413116, 6941.693359>)
+17:52:38 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-39.656311, 455.820953, 6943.877441>)
+17:52:39 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-45.180630, 457.080933, 6945.818359>)
+17:52:39 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-50.484985, 458.193970, 6947.710449>)
+17:52:39 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-55.855328, 459.247375, 6949.575195>)
+17:52:39 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-61.507282, 460.283905, 6951.553711>)
+17:52:40 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-67.238167, 461.235107, 6953.687012>)
+17:52:40 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-72.857887, 462.047516, 6955.927734>)
+17:52:40 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-77.827003, 462.643768, 6958.065918>)
+17:52:40 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-82.857643, 463.220520, 6960.208496>)
+17:52:41 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-88.216026, 463.760468, 6962.524902>)
+17:52:41 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<-93.404984, 464.264618, 6964.791016>)
+17:52:44 | "MADness" (steamid=76561198968762750) Teleporting player: "cumtam" (steamid=76561199150532361) to (pos=<681.171570, 0.000000, 7274.799805>)
+17:52:55 | "Rik_Plays" (steamid=76561198016672415) teleported to crosshair (pos=<14.387978, 459.562653, 7026.902832>)
+17:58:43 | Player "V12" (steamId=76561198993125942) connected to server!
+17:59:24 | "MADness" (steamid=76561198968762750) toggled godmode
+17:59:39 | "MADness" (steamid=76561198968762750) Teleporting player: "Martina_(.)(.)_" (steamid=76561198097548152) to (pos=<745.213135, 0.000000, 6303.355469>)
+17:59:41 | "V12": (steamid=76561198993125942) teleported to (pos=Lunapark Trader)
+17:59:50 | "MADness" (steamid=76561198968762750) toggled godmode
+18:0:49 | "MADness" (steamid=76561198968762750) Teleporting player: "StaryKojot" (steamid=76561198080276111) to (pos=<724.458008, 0.000000, 7130.116211>)
+18:0:51 | "V12" (steamid=76561198993125942) Spawned Item: (ExpansionGoldBar)
+18:0:52 | "V12" (steamid=76561198993125942) Spawned Item: (ExpansionGoldBar)
+18:0:52 | "V12" (steamid=76561198993125942) Spawned Item: (ExpansionGoldBar)
+18:4:34 | "V12" (steamid=76561198993125942) just updated a health stat on (steamid=76561198993125942)
+18:4:34 | "V12" (steamid=76561198993125942) just updated a health stat on (steamid=76561198993125942)
+18:6:29 | "MADness" (steamid=76561198968762750) Teleporting player: "cumtam" (steamid=76561199150532361) to (pos=<0.000000, 0.000000, 6194.597168>)
+18:7:50 | "V12": (steamid=76561198993125942) teleported to (pos=31.7494,0,7138.04)
+18:8:25 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+18:8:25 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+18:10:11 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+18:10:11 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+18:10:13 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+18:10:24 | Player "StaryKojot" (steamId=76561198080276111) disconnected from server.
+18:10:24 | Player "V12" (steamId=76561198993125942) disconnected from server.
+18:10:24 | Player "Rik_Plays" (steamId=76561198016672415) disconnected from server.
+18:10:24 | Player "Martina_(.)(.)_" (steamId=76561198097548152) disconnected from server.
