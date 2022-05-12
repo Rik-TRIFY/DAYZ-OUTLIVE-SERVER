@@ -16,6 +16,17 @@
       "SpawnAttachments": [],
       "Variants": []
     },
+    {
+      "ClassName": "TWP_MarlinHolster",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,                                                                            
+	  "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
 	{
       "ClassName": "TWP_SigSauerP226_mag_12Rnd",
       "MaxPriceThreshold": 720,
@@ -570,6 +581,17 @@
       "ClassName": "TWP_WaltherPPK_mag_8Rnd",
       "MaxPriceThreshold": 480,
       "MinPriceThreshold": 480,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,                                                                           
+	  "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_WaltherMPK_mag_32Rnd",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
       "SellPricePercent": 10,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,                                                                           
