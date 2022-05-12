@@ -112,48 +112,60 @@
             "Variants": []
         },
         {
-            "ClassName": "TF_EMPGrenade",
+            "ClassName": "ammo_Expansion_M203_Smoke_White",
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1500,
-            "SellPricePercent": 20,
+            "SellPricePercent": 30,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "ammo_Expansion_M203_Smoke_Red",
+                "ammo_Expansion_M203_Smoke_Green",
+                "ammo_Expansion_M203_Smoke_Yellow",
+                "ammo_Expansion_M203_Smoke_Purple"
+            ]
         },
         {
-            "ClassName": "TF_PhosphorusGrenade",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 2000,
-            "SellPricePercent": 20,
+            "ClassName": "ammo_Expansion_M203_Sticky_Smoke_White",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 30,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "ammo_Expansion_M203_Sticky_Smoke_Red",
+                "ammo_Expansion_M203_Sticky_Smoke_Green",
+                "ammo_Expansion_M203_Sticky_Smoke_Yellow",
+                "ammo_Expansion_M203_Sticky_Smoke_Purple"
+            ]
         },
         {
-            "ClassName": "TF_TeargasGrenade",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 2000,
-            "SellPricePercent": 20,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "TF_ChemicalGrenade",
+            "ClassName": "ammo_Expansion_M203_Smoke_Teargas",
             "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 2500,
-            "SellPricePercent": 20,
+            "SellPricePercent": 30,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "ammo_Expansion_M203_Sticky_Smoke_Teargas",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
         }
     ]
 }
