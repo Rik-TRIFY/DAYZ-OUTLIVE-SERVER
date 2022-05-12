@@ -67,7 +67,7 @@
 
 			<item name="globalCountMax" val="50" />
 			<item name="zoneCountMin" val="1" />
-			<item name="zoneCountMax" val="3" />
+			<item name="zoneCountMax" val="1" />
 			<item name="playerSpawnRadiusNear" val="25" />
 			<item name="playerSpawnRadiusFar" val="75" />
 		</territory>
@@ -97,12 +97,12 @@
 			<agent type="Male">
 				<spawn configName="ZombieMale3_NewAI" />
 				<item name="countMin" val="0" />
-				<item name="countMax" val="30" />
+				<item name="countMax" val="0" />
 			</agent>
 			<agent type="Female">
 				<spawn configName="ZombieFemale3_NewAI" />
 				<item name="countMin" val="0" />
-				<item name="countMax" val="30" />
+				<item name="countMax" val="0" />
 			</agent>
 			
 			<!-- count of herds of this type in the map -->
