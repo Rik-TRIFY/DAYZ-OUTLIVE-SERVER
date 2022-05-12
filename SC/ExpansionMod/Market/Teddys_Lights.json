@@ -1,4 +1,13 @@
 {
+  "m_Version": 9,
+  "DisplayName": "Teddys_Lights",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "Items": [
+	
+
+{
       "ClassName": "TWP_GlockLight",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
@@ -42,3 +51,5 @@
       "SpawnAttachments": [],
       "Variants": []
     }
+  ]
+}
