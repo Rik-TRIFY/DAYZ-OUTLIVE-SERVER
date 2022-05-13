@@ -849,6 +849,28 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "ExpansionKeyChainBase",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ExpansionKeyChain_Red",
+                "ExpansionKeyChain_White",
+                "ExpansionKeyChain_Black",
+                "ExpansionKeyChain_Blue",
+                "ExpansionKeyChain_Green",
+                "ExpansionKeyChain_Grey",
+                "ExpansionKeyChain_Orange",
+                "ExpansionKeyChain_Pink",
+                "ExpansionKeyChain_Purple",
+                "ExpansionKeyChain_Yellow"
+            ]
         }
     ]
 }
