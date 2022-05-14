@@ -356,13 +356,23 @@
     },
 	{
       "ClassName": "TWP_R700Mod",
-      "MaxPriceThreshold": 15000,
-      "MinPriceThreshold": 15000,
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
       "SellPricePercent": 10,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "SpawnAttachments": [],
       "Variants": []
-    }
+    },
+      {
+          "ClassName": "TWP_T5000",
+          "MaxPriceThreshold": 30000,
+          "MinPriceThreshold": 30000,
+          "SellPricePercent": 10,
+          "MaxStockThreshold": 1,
+          "MinStockThreshold": 1,
+          "SpawnAttachments": [],
+          "Variants": []
+        }
   ]
 }
