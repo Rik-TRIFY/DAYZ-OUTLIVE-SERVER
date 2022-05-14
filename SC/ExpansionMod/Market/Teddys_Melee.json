@@ -97,6 +97,16 @@
       "Variants": [
 		"TWP_SmithWesson_Knife_Black"
 	  ]
-    }
+    },
+    {
+        "ClassName": "TWP_Axe",
+        "MaxPriceThreshold": 1300,
+        "MinPriceThreshold": 1300,
+        "SellPricePercent": 10,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "SpawnAttachments": [],
+        "Variants": []
+      }
   ]
 }
