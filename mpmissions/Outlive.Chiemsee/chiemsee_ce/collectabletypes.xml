@@ -1,0 +1,565 @@
+----------------------
+< Collectable Types >
+----------------------
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="Collectable_Bitcoin">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+    </type>
+    <type name="Collectable_GPU">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+    </type>
+    <type name="Collectable_SSD">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+    </type>
+    <type name="Collectable_USB">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+    </type>
+    <type name="Collectable_SmartPhone">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_MemoryCard">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_TetrisToy">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_Intel">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_RetroToy">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_CrossNecklace">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_PocketWatch">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_RAM">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_Polaroid_One">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_Polaroid_Two">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_Polaroid_Three">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_Polaroid_Four">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_PokemonCard_Pikachu">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_PokemonCard_Eevee">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_PokemonCard_GrassEnergy">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_PokemonCard_Machamp">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_PokemonCard_Mew">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_PokemonCard_PsychicEnergy">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_PokemonCard_Charizard">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_PokemonCard_Jolteon">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_PokemonCard_ShinyMewtwo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_PokemonCard_Volcanion">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_GameBoy_DonkeyKong">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_GameBoy_Medarot">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_GameBoy_Mario">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_GameBoy_PokemonOne">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_GameBoy_PokemonTwo">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_GameBoy_Snakes">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_GameBoy_Tetris">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+
+<type name="Collectable_GameBoy_Yoshi">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_GameBoy_Zelda">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_FloppyDisks_1999">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_FloppyDisks_April">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_FloppyDisks_MTV">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_SmartPhone_Black">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_SmartPhone_Blue">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_SmartPhone_Yellow">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_SmartPhone_Red">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>
+<type name="Collectable_SmartPhone_Green">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="TownVillageOfficeSchool"/>
+        <value name="Tier12"/>
+</type>

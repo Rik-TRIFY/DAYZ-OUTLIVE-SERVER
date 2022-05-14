@@ -1,0 +1,340 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Windstrides Clothing",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Blue_Leggings",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Latex_Leggings",
+                "Latex_White_Leggings",
+                "Adidas_Leggings",
+                "Red_Leggings",
+                "Purple_Leggings"
+            ]
+        },
+        {
+            "ClassName": "PMK_5A_Gas_Mask",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Poncho_Red_Checkered",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Poncho_Blue_Checkered",
+                "Poncho_Yellow_Checkered",
+                "Poncho_White",
+                "Poncho_Brown",
+                "Poncho_Green",
+                "Poncho_Red",
+                "Poncho_Black",
+                "Poncho_BlackAndWhite",
+                "Poncho_BlackAndWhite2"
+            ]
+        },
+        {
+            "ClassName": "Military_Sweater",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Military_Sweater_Red",
+                "Military_Sweater_Blue",
+                "Military_Sweater_Green",
+                "Military_Sweater_Black",
+                "Military_Sweater_White"
+            ]
+        },
+        {
+            "ClassName": "Fingerless_Gloves",
+            "MaxPriceThreshold": 640,
+            "MinPriceThreshold": 640,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Fingerless_Gloves_Brown",
+                "Fingerless_Gloves_Wool",
+                "Fingerless_Gloves_Wool_Grey",
+                "Fingerless_Gloves_Wool_Black"
+            ]
+        },
+        {
+            "ClassName": "High_Knee_Sneakers",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "High_Knee_Sneakers_Black"
+            ]
+        },
+        {
+            "ClassName": "Layered_Shirt_Base",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Layered_Shirt_Cheburashka",
+                "Layered_Shirt_White",
+                "Layered_Shirt_Courage",
+                "Layered_Shirt_Lily"
+            ]
+        },
+        {
+            "ClassName": "Shemagh_Brown",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Shemagh_Green",
+                "Shemagh_Red",
+                "Shemagh_White"
+            ]
+        },
+        {
+            "ClassName": "Shemagh_Bandit_Brown",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Shemagh_Bandit_Green",
+                "Shemagh_Bandit_Red",
+                "Shemagh_Bandit_White"
+            ]
+        },
+        {
+            "ClassName": "Shemagh_Facemask_Brown",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Shemagh_Facemask_Green",
+                "Shemagh_Facemask_Red",
+                "Shemagh_Facemask_White"
+            ]
+        },
+        {
+            "ClassName": "Shemagh_Scarf_Brown",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Shemagh_Scarf_Green",
+                "Shemagh_Scarf_Red",
+                "Shemagh_Scarf_White"
+            ]
+        },
+        {
+            "ClassName": "Canvas_Backpack_Base",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Canvas_Backpack_Black",
+                "Canvas_Backpack_White",
+                "Canvas_Backpack_Red",
+                "Canvas_Backpack_Blue",
+                "Canvas_Backpack_Purple"
+            ]
+        },
+        {
+            "ClassName": "Golden_Winged_Pin",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Button_Pin_Daisy",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Button_Pin_Radioactive",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Sheriff_Badge",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Ragged_Eyepatch",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Kneepads_Jeans_Base",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Kneepads_Jeans_Black"
+            ]
+        },
+        {
+            "ClassName": "Winter_Parka_Base",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Winter_Parka_White",
+                "Winter_Parka_Green"
+            ]
+        },
+        {
+            "ClassName": "Medium_Sleeves_Shirt",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Medium_Sleeves_Shirt_Red",
+                "Medium_Sleeves_Shirt_Blue"
+            ]
+        },
+        {
+            "ClassName": "Flipflops_Colorbase",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SkullMask",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Slouch_Hat_Brown",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Scarf_Brown",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Scarf_ColorPalette1",
+                "Scarf_Blue"
+            ]
+        }
+    ]
+}
