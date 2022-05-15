@@ -74,7 +74,8 @@
       "MinStockThreshold": 1,
       "SpawnAttachments": [],
       "Variants": [
-        "TWP_AK12"
+        "TWP_AK12Green",
+        "TWP_AK12Tan"
       ]
     },
     {
@@ -923,6 +924,46 @@
       "ClassName": "TWP_L85A2",
       "MaxPriceThreshold": 20000,
       "MinPriceThreshold": 20000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_Vepr_Sok94",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_SteyrAugA3",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_SteyrAugA3",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_Howa_Type20",
+      "MaxPriceThreshold": 22000,
+      "MinPriceThreshold": 22000,
       "SellPricePercent": 10,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
