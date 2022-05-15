@@ -2,7 +2,7 @@
 <types>
 	<!-- TeddyWeaponPack - Pistols -->
 	<type name="TWP_ArexZero">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -36,7 +36,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_SigSauerP229">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -70,7 +70,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_FNS9">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -86,7 +86,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_FNS9_mag_18Rnd">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -104,7 +104,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_Beretta92FS">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -120,7 +120,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_Beretta92FSDesert">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -136,7 +136,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_BerettaGoldenFlower">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -170,7 +170,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_BerettaDEBurton">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -186,7 +186,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_BerettaDEBlack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -220,7 +220,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_BerettaPX4">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -288,7 +288,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_Colt1911Gold">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -474,7 +474,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_DesertEagleSky">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -508,7 +508,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_DesertEagleFalcon">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1580,7 +1580,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_USPPsychodelic">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1596,7 +1596,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_USPPsychodelic_mag_15Rnd">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -1784,7 +1784,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_BerettaSamuraiEdge">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2766,7 +2766,7 @@
         <usage name="Village"/>
     </type>
 	<type name="TWP_Rose">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2780,7 +2780,7 @@
         <usage name="Village"/>
     </type>
 	<type name="TWP_Kukri">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2793,7 +2793,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_Kukri_Gradient">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2806,7 +2806,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_Kukri_Sakura">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2819,7 +2819,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_Kukri_Engraved">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2832,7 +2832,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_SmithWesson_Knife_Green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2845,7 +2845,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_SmithWesson_Knife_Black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2858,7 +2858,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_Holymackerel">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2871,7 +2871,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_NinjaSword">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2884,7 +2884,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_Axe">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2897,7 +2897,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_SledgeHammer">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2911,7 +2911,7 @@
         <usage name="Village"/>
     </type>
 	<type name="TWP_FirefighterAxe">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2925,7 +2925,7 @@
         <usage name="Village"/>
     </type>
 	<type name="TWP_FlySwatter_Green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2939,7 +2939,7 @@
         <usage name="Village"/>
     </type>
 	<type name="TWP_FlySwatter_Grey">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2953,7 +2953,7 @@
         <usage name="Village"/>
     </type>
 	<type name="TWP_FlySwatter_Red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2967,7 +2967,7 @@
         <usage name="Village"/>
     </type>
 	<type name="TWP_Machete_Black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2981,7 +2981,7 @@
         <usage name="Village"/>
     </type>
 	<type name="TWP_Machete_Camouflage">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -2995,7 +2995,7 @@
         <usage name="Village"/>
     </type>
 	<type name="TWP_Machete_USA">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -3009,7 +3009,7 @@
         <usage name="Village"/>
     </type>
 	<type name="TWP_Machete_Brazil">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -3023,7 +3023,7 @@
         <usage name="Village"/>
     </type>
 	<type name="TWP_HorseStick">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4631,7 +4631,7 @@
 	
 											<!-- TeddyWeaponPack - Shotgun -->
 	<type name="TWP_Armsan">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4643,7 +4643,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_AA12">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4669,7 +4669,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_AA12Dragon">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4695,7 +4695,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_AA12HellDragon">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4721,7 +4721,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_ClassicShotgun">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4733,7 +4733,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_BenelliM3">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4745,7 +4745,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_DoubleBarrelShotgun">
-        <nominal>8</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4757,7 +4757,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_ImprovisedShotgun">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4769,7 +4769,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_KSG">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4781,7 +4781,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_Mossberg500">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4793,7 +4793,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_BenelliM4">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4805,7 +4805,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_Mossberg590a1">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4817,7 +4817,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_Remington870Tactical">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4829,7 +4829,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_SawedShotgun">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4841,7 +4841,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_SPAS">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4853,7 +4853,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_IthacaM37">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4865,7 +4865,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_M1912">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4877,7 +4877,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_MP153">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4889,7 +4889,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_Komrad12">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4915,7 +4915,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_AA12Black">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4941,7 +4941,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_Toz34">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4953,7 +4953,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_Spas15">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4979,7 +4979,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_BenelliLE">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -5003,7 +5003,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_Fabarm_ST12">
-        <nominal>8</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -5015,7 +5015,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_DoomShotgun">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -5027,7 +5027,7 @@
         <usage name="Police"/>
     </type>
 	<type name="TWP_VR80">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -5053,7 +5053,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_VR80_mag_20Rnd">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -5073,7 +5073,7 @@
 											<!-- TeddyWeaponPack - Assault Rifles-->
 	
 	<type name="TWP_AKS74U">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -5086,7 +5086,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_Vepr_Sok94">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -7992,7 +7992,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_AK47">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -8005,7 +8005,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_AK47_mag_30Rnd">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -8019,7 +8019,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_CalifasNomad">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -8073,7 +8073,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_AK107">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -8518,7 +8518,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_MP5_Custom">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -8585,7 +8585,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="TWP_RK95_mag_30Rnd">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -8714,7 +8714,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_Kar98_Bayonet">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -9649,7 +9649,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_Optic_BlackDragon">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -9751,7 +9751,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_AX50_Bttstck">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -9766,7 +9766,7 @@
 												<!-- TeddyWeaponPack - Halloween -->
 												
 	<type name="TWP_BloodyMachete">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -9778,7 +9778,7 @@
         <usage name="Farm"/>
     </type>
 	<type name="TWP_JasonMachete">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -9790,7 +9790,7 @@
         <usage name="Farm"/>
     </type>
 	<type name="TWP_Scythe">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -10084,7 +10084,7 @@
     </type>
     <!-- Grenades -->									
 	<type name="TWP_JackintheBox">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -10096,7 +10096,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_Stielhandgranate">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -10108,7 +10108,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_HolyGrenade">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -10120,7 +10120,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_MK2_Grenade">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -10132,7 +10132,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_T13_Beano">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -10144,7 +10144,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_M26">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -10156,7 +10156,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_M69">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -10168,7 +10168,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_Zarya3_StunGrenade">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -10180,7 +10180,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_WhoopeeCushion_Mine">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -10192,7 +10192,7 @@
         <usage name="Military"/>
     </type>
 	<type name="TWP_TennisBall_Grenade">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
