@@ -901,7 +901,7 @@
       "Variants": []
     },
     {
-      "ClassName": "TWP_Bushmaster_M17S",
+      "ClassName": "TWP_Bushmaster_M17SMod",
       "MaxPriceThreshold": 20000,
       "MinPriceThreshold": 20000,
       "SellPricePercent": 10,
@@ -948,7 +948,9 @@
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "TWP_SteyrAugA3_Black"
+      ]
     },
     {
       "ClassName": "TWP_SteyrAugA3",
