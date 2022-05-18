@@ -210,7 +210,9 @@
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "TWP_SV98"
+      ]
     },
 	{
       "ClassName": "TWP_SVDDragunov",
@@ -258,6 +260,16 @@
     },
 	{
       "ClassName": "TWP_VSSK",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_Marlin",
       "MaxPriceThreshold": 15000,
       "MinPriceThreshold": 15000,
       "SellPricePercent": 10,
