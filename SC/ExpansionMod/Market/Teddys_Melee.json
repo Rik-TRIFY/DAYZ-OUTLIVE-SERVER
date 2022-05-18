@@ -151,6 +151,26 @@
                 "MinStockThreshold": 1,
                 "SpawnAttachments": [],
                 "Variants": []
-              }
+              },
+              {
+                  "ClassName": "TWP_NinjaSword",
+                  "MaxPriceThreshold": 1500,
+                  "MinPriceThreshold": 1500,
+                  "SellPricePercent": 10,
+                  "MaxStockThreshold": 1,
+                  "MinStockThreshold": 1,
+                  "SpawnAttachments": [],
+                  "Variants": []
+                },
+                {
+                    "ClassName": "TWP_Holymackerel",
+                    "MaxPriceThreshold": 1500,
+                    "MinPriceThreshold": 1500,
+                    "SellPricePercent": 10,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "SpawnAttachments": [],
+                    "Variants": []
+                  }
   ]
 }
