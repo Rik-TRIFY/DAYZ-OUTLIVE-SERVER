@@ -3751,7 +3751,6 @@
 				<usage name="Village" />
 				<usage name="Town" />
 				<container name="lootshelves">
-						<category name="tools" />
 						<category name="clothes" />
 						<category name="food" />
 						<category name="weapons" />
@@ -3818,7 +3817,6 @@
 				<usage name="Village" />
 				<usage name="Town" />
 				<container name="lootshelves">
-						<category name="tools" />
 						<category name="clothes" />
 						<category name="food" />
 						<category name="weapons" />
@@ -3873,7 +3871,6 @@
 				<usage name="Village" />
 				<usage name="Town" />
 				<container name="lootshelves">
-						<category name="tools" />
 						<category name="clothes" />
 						<category name="food" />
 						<category name="weapons" />
@@ -11913,10 +11910,9 @@
 						<point pos="-3.165771 -16.946526 6.819825" range="1.038574" height="1.508690" />
 				</container>
 		</group>
-		<group name="Wreck_UH1Y" lootmax="15">
+		<group name="Wreck_UH1Y" lootmax="10">
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="15">
-						<category name="tools" />
+				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
@@ -11941,10 +11937,9 @@
 						<point pos="-0.732910 -1.856918 0.940430" range="1.199951" height="1.900002" />
 				</container>
 		</group>
-		<group name="Wreck_Mi8" lootmax="15">
+		<group name="Wreck_Mi8" lootmax="10">
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="15">
-						<category name="tools" />
+				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
@@ -11987,8 +11982,7 @@
 		</group>
 		<group name="Wreck_Mi8_Crashed" lootmax="15">
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="15">
-						<category name="tools" />
+				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
@@ -12019,7 +12013,6 @@
 		<group name="Land_Wreck_C130J" lootmax="10">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="10">
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
@@ -12030,7 +12023,6 @@
 		<group name="Land_Wreck_Volha_Police" lootmax="10">
 				<usage name="Police" />
 				<container name="lootFloor" lootmax="10">
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
@@ -12053,7 +12045,6 @@
 		<group name="Land_Mil_Guardhouse3" lootmax="2">
 				<usage name="Police" />
 				<container name="lootFloor" lootmax="3">
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<tag name="floor" />
@@ -12065,7 +12056,6 @@
 						<point pos="-0.648926 -0.990211 0.730957" range="0.390233" height="1.948242" />
 				</container>
 				<container name="lootshelves" lootmax="3">
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="food" />
@@ -12140,7 +12130,6 @@
 		<group name="Land_Mil_Guardbox_Green" lootmax="1">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="1">
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
@@ -12175,7 +12164,6 @@
 		<group name="Land_Mil_ControlTower" lootmax="10">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="4">
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<tag name="floor" />
@@ -12255,7 +12243,6 @@
 		<group name="Land_Chapel2_Yellow" lootmax="2">
 				<usage name="Village" />
 				<container name="lootFloor" lootmax="1">
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<tag name="floor" />
@@ -15157,7 +15144,6 @@
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
 						<category name="vehicleparts" />
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="food" />
@@ -15186,7 +15172,6 @@
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
 						<category name="vehicleparts" />
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="food" />
@@ -15215,7 +15200,6 @@
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
 						<category name="vehicleparts" />
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="food" />
@@ -15244,7 +15228,6 @@
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
 						<category name="vehicleparts" />
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="food" />
@@ -15304,7 +15287,6 @@
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
 						<category name="vehicleparts" />
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="food" />
