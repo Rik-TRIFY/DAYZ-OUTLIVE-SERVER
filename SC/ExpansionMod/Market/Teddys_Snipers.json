@@ -397,6 +397,26 @@
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
-          }
+          },
+          {
+              "ClassName": "TWP_DMR25",
+              "MaxPriceThreshold": 28000,
+              "MinPriceThreshold": 28000,
+              "SellPricePercent": 10,
+              "MaxStockThreshold": 1,
+              "MinStockThreshold": 1,
+              "SpawnAttachments": [],
+              "Variants": []
+            },
+            {
+                "ClassName": "TWP_M107",
+                "MaxPriceThreshold": 42000,
+                "MinPriceThreshold": 42000,
+                "SellPricePercent": 10,
+                "MaxStockThreshold": 1,
+                "MinStockThreshold": 1,
+                "SpawnAttachments": [],
+                "Variants": []
+              }
   ]
 }
