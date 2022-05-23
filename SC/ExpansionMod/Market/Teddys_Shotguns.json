@@ -208,45 +208,55 @@
       "SpawnAttachments": [],
       "Variants": []
     },
+   {
+      "ClassName": "TWP_VR80",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+  {
+      "ClassName": "TWP_DoomShotgun",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+  {
+      "ClassName": "TWP_Fabarm_ST12",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+  {
+      "ClassName": "TWP_Spas15",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
     {
-        "ClassName": "TWP_VR80",
-        "MaxPriceThreshold": 30000,
-        "MinPriceThreshold": 30000,
+        "ClassName": "TWP_Toz34",
+        "MaxPriceThreshold": 17000,
+        "MinPriceThreshold": 17000,
         "SellPricePercent": 10,
         "MaxStockThreshold": 1,
         "MinStockThreshold": 1,
         "SpawnAttachments": [],
         "Variants": []
-      },
-      {
-          "ClassName": "TWP_DoomShotgun",
-          "MaxPriceThreshold": 30000,
-          "MinPriceThreshold": 30000,
-          "SellPricePercent": 10,
-          "MaxStockThreshold": 1,
-          "MinStockThreshold": 1,
-          "SpawnAttachments": [],
-          "Variants": []
-        },
-        {
-            "ClassName": "TWP_Fabarm_ST12",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 30000,
-            "SellPricePercent": 10,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-          },
-          {
-              "ClassName": "TWP_Spas15",
-              "MaxPriceThreshold": 25000,
-              "MinPriceThreshold": 25000,
-              "SellPricePercent": 10,
-              "MaxStockThreshold": 1,
-              "MinStockThreshold": 1,
-              "SpawnAttachments": [],
-              "Variants": []
-            }
+      }
   ]
 }

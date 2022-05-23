@@ -999,6 +999,28 @@
       "MinStockThreshold": 1,
       "SpawnAttachments": [],
       "Variants": []
+    },
+    {
+      "ClassName": "TWP_AKS74U",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TWP_AK107",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 9000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "TWP_AK107Camouflage"
+      ]
     }
   ]
 }
