@@ -18,16 +18,6 @@
             "Weight": 5.0,
             "Loot": [
                 {
-                    "Name": "AKS74U",
-                    "Attachments": [
-                        "AKS74U_Bttstck"
-                    ],
-                    "Chance": 0.07999999821186066,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
                     "Name": "AKM",
                     "Attachments": [
                         "AK_WoodBttstck",
@@ -62,54 +52,6 @@
                     ]
                 },
                 {
-                    "Name": "UMP45",
-                    "Attachments": [
-                        "UniversalLight"
-                    ],
-                    "Chance": 0.25,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": [
-                        {
-                            "Name": "UMP45",
-                            "Attachments": [],
-                            "Chance": 0.6000000238418579
-                        }
-                    ]
-                },
-                {
-                    "Name": "Mosin9130",
-                    "Attachments": [
-                        "PUScopeOptic"
-                    ],
-                    "Chance": 0.4000000059604645,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": [
-                        {
-                            "Name": "Mosin9130",
-                            "Attachments": [],
-                            "Chance": 0.75
-                        }
-                    ]
-                },
-                {
-                    "Name": "B95",
-                    "Attachments": [
-                        "HuntingOptic"
-                    ],
-                    "Chance": 0.30000001192092898,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": [
-                        {
-                            "Name": "B95",
-                            "Attachments": [],
-                            "Chance": 0.6666669845581055
-                        }
-                    ]
-                },
-                {
                     "Name": "CZ527",
                     "Attachments": [
                         "HuntingOptic"
@@ -122,54 +64,6 @@
                             "Name": "CZ527",
                             "Attachments": [],
                             "Chance": 0.4000000059604645
-                        }
-                    ]
-                },
-                {
-                    "Name": "CZ75",
-                    "Attachments": [
-                        "TLRLight"
-                    ],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": [
-                        {
-                            "Name": "CZ75",
-                            "Attachments": [],
-                            "Chance": 0.5
-                        }
-                    ]
-                },
-                {
-                    "Name": "FNX45",
-                    "Attachments": [
-                        "TLRLight"
-                    ],
-                    "Chance": 0.4000000059604645,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": [
-                        {
-                            "Name": "FNX45",
-                            "Attachments": [],
-                            "Chance": 0.75
-                        }
-                    ]
-                },
-                {
-                    "Name": "Expansion_Kedr",
-                    "Attachments": [
-                        "PistolSuppressor"
-                    ],
-                    "Chance": 0.5,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": [
-                        {
-                            "Name": "Expansion_Kedr",
-                            "Attachments": [],
-                            "Chance": 0.6000000238418579
                         }
                     ]
                 },
@@ -320,16 +214,6 @@
                     "Variants": []
                 },
                 {
-                    "Name": "DirtBikeHelmet_Chernarus",
-                    "Attachments": [
-                        "DirtBikeHelmet_Visor"
-                    ],
-                    "Chance": 0.30000001192092898,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
                     "Name": "SewingKit",
                     "Attachments": [],
                     "Chance": 0.25,
@@ -389,46 +273,6 @@
                     "Name": "TWP_AmmoBox_300WinMag_20Rnd",
                     "Attachments": [],
                     "Chance": 0.800000011920929,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Mag_CZ527_5rnd",
-                    "Attachments": [],
-                    "Chance": 0.8999999761581421,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Mag_CZ75_15Rnd",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Mag_FNX45_15Rnd",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Mag_UMP_25Rnd",
-                    "Attachments": [],
-                    "Chance": 0.5,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "AmmoBox_9x39_20Rnd",
-                    "Attachments": [],
-                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Variants": []
@@ -602,30 +446,6 @@
                     "Variants": []
                 },
                 {
-                    "Name": "AmmoBox_12gaSlug_10Rnd",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "AmmoBox_12gaRubberSlug_10Rnd",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "AmmoBox_12gaPellets_10Rnd",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
                     "Name": "Ammo_9x39",
                     "Attachments": [],
                     "Chance": 0.5,
@@ -667,22 +487,6 @@
                 },
                 {
                     "Name": "Ammo_308Win",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_12gaSlug",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_12gaRubberSlug",
                     "Attachments": [],
                     "Chance": 1.0,
                     "QuantityPercent": -1,
@@ -811,17 +615,13 @@
                 "ZmbF_ShortSkirt_stripes",
                 "ZmbF_ShortSkirt_white",
                 "ZmbF_ShortSkirt_yellow",
-                "ZmbF_VillagerOld_Blue",
-                "ZmbF_VillagerOld_Green",
-                "ZmbF_VillagerOld_Red",
-                "ZmbF_VillagerOld_White",
-                "ZmbF_MilkMaidOld_Beige",
+                "Animal_chiemsee_scorpion",
                 "Animal_chiemsee_scorpion",
                 "Animal_chiemsee_scorpion",
                 "Animal_chiemsee_scorpion",
                 "Animal_chiemsee_scorpion"
             ],
-            "ItemCount": 30,
+            "ItemCount": 40,
             "InfectedCount": 25,
             "SpawnInfectedForPlayerCalledDrops": 0
         },
