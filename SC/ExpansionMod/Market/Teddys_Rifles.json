@@ -833,7 +833,9 @@
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "TWP_M4A1"
+      ]
     },
     {
       "ClassName": "TWP_M134",
@@ -1021,6 +1023,16 @@
       "Variants": [
         "TWP_AK107Camouflage"
       ]
+    },
+    {
+      "ClassName": "TWP_AK47",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
     },
     {
       "ClassName": "TWP_AK47",
