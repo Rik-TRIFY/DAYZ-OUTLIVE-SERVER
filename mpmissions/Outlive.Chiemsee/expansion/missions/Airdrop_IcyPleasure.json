@@ -1,0 +1,610 @@
+{
+    "Enabled": 1,
+    "Weight": 294.0,
+    "MissionMaxTime": 7200,
+    "MissionName": "IcyPleasure",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "ExpansionAirdropContainer_Military_WinterCamo",
+    "DropLocation": {
+        "x": 423.0,
+        "z": 6703.0,
+        "Name": "PVP",
+        "Radius": 1000.0
+    },
+    "Loot": [
+        {
+            "Name": "BandageDressing",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Morphine",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Epinephrine",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TacticalBaconCan",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "HunterPants_Winter",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "HuntingJacket_Winter",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TetracyclineAntiBiotics",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "BalaclavaMask_White",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Chemlight_White",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "ammobox_762x39_20rnd",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "SalineBagIV",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Flag_White",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "M18SmokeGrenade_White",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "RDG2SmokeGrenade_White",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_ChestRig_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Combat_Vest_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Combat_Vest_Heavy_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Molle_Panel_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Magazine_Pouch_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Admin_Pouch_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Utility_Pouch_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Medical_Pouch_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Heavy_Pouch_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Taco_Pouch_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Helmet_02_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_WarriorHelmet_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_ArmoredHelmet_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Pack_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Helmet_01_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Belt_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Holster_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Sheath_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_SlingPack_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Radio_Pack_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Canteen_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "MVS_Cap_Snow",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Latex_White_Leggings",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Poncho_White",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Military_Sweater_White",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Shemagh_White",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Canvas_Backpack_White",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Winter_Parka_White",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "GardenLime",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "LockPick",
+            "Attachments": [],
+            "Chance": 0.25,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Collectable_TetrisToy",
+            "Attachments": [],
+            "Chance": 0.25,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Msp_SoloLocker_White_Kit",
+            "Attachments": [],
+            "Chance": 0.25,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Msp_Wardrobe_White_Kit",
+            "Attachments": [],
+            "Chance": 0.25,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Msp_RifleSafe_Grey_Kit",
+            "Attachments": [],
+            "Chance": 0.25,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "Msp_SnowballFridge_Kit",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_JackintheBox",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_Stielhandgranate",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_WhoopeeCushion_Mine",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_Weaponlight",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_MK23Light",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_AK47WhiteWolf",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_WhiteWolfBayonet",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_AK47WhiteWolf_mag_30Rnd",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_Kukri",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_JasonMachete",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_AmmoBox_300WinMag_20Rnd",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_AmmoBox_20x102mm_10Rnd",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_Ammobox_408Cheytac_10Rnd",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_AmmoBox_57x28_30Rnd",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_AmmoBox_50BMG_10Rnd",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_AmmoBox_792x57_20Rnd",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "ammobox_308win_20rnd",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "ammobox_545x39_20rnd",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "ammobox_556x45_20rnd",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "ammobox_762x54_20rnd",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+        {
+            "Name": "CP_CannabisSeedsPackSkunk",
+            "Attachments": [],
+            "Chance": 0.5,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": [
+                {
+                    "Name": "CP_CannabisSeedsPackBlue",
+                    "Attachments": [],
+                    "Chance": 0.5
+                },
+                {
+                    "Name": "CP_CannabisSeedsPackKush",
+                    "Attachments": [],
+                    "Chance": 0.5
+                }
+            ]
+        }
+    ],
+    "Infected": [
+        "ZmbM_HunterOld_Winter",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Desert",
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_PatientSkinny",
+        "Animal_Polar_Bear",
+        "Animal_UrsusArctos",
+        "Animal_CanisLupus_White",
+        "Animal_CanisLupus_Grey"
+    ],
+    "ItemCount": 30,
+    "InfectedCount": 40,
+    "SpawnInfectedForPlayerCalledDrops": 0
+}
