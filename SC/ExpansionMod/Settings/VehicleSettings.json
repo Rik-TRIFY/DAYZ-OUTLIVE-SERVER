@@ -1,6 +1,6 @@
 {
     "m_Version": 8,
-    "VehicleSync": 0,
+    "VehicleSync": 1,
     "VehicleRequireKeyToStart": 1,
     "VehicleRequireAllDoors": 1,
     "VehicleLockedAllowInventoryAccess": 0,
@@ -31,7 +31,7 @@
     "RevvingOverMaxRPMRuinsEngineInstantly": 0,
     "VehicleDropsRuinedDoors": 1,
     "ExplodingVehicleDropsAttachments": 0,
-    "ForcePilotSyncIntervalSeconds": 0.0,
+    "ForcePilotSyncIntervalSeconds": 1.0,
     "VehiclesConfig": [
         {
             "ClassName": "ExpansionUAZCargoRoofless",
