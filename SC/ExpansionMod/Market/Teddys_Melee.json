@@ -117,60 +117,93 @@
           "MinStockThreshold": 1,
           "SpawnAttachments": [],
           "Variants": []
-        },
-        {
-            "ClassName": "TWP_Machete_Black",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": 10,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": [
-              "TWP_Machete_Camouflage",
-              "TWP_Machete_USA",
-              "TWP_Machete_Brazil"
-            ]
-          },
-          {
-              "ClassName": "TWP_BloodyMachete",
-              "MaxPriceThreshold": 1500,
-              "MinPriceThreshold": 1500,
-              "SellPricePercent": 10,
-              "MaxStockThreshold": 1,
-              "MinStockThreshold": 1,
-              "SpawnAttachments": [],
-              "Variants": []
-            },
-            {
-                "ClassName": "TWP_JasonMachete",
-                "MaxPriceThreshold": 1500,
-                "MinPriceThreshold": 1500,
-                "SellPricePercent": 10,
-                "MaxStockThreshold": 1,
-                "MinStockThreshold": 1,
-                "SpawnAttachments": [],
-                "Variants": []
-              },
-              {
-                  "ClassName": "TWP_NinjaSword",
-                  "MaxPriceThreshold": 1500,
-                  "MinPriceThreshold": 1500,
-                  "SellPricePercent": 10,
-                  "MaxStockThreshold": 1,
-                  "MinStockThreshold": 1,
-                  "SpawnAttachments": [],
-                  "Variants": []
-                },
-                {
-                    "ClassName": "TWP_Holymackerel",
-                    "MaxPriceThreshold": 1500,
-                    "MinPriceThreshold": 1500,
-                    "SellPricePercent": 10,
-                    "MaxStockThreshold": 1,
-                    "MinStockThreshold": 1,
-                    "SpawnAttachments": [],
-                    "Variants": []
-                  }
+      },
+      {
+         "ClassName": "TWP_Machete_Black",
+         "MaxPriceThreshold": 1500,
+         "MinPriceThreshold": 1500,
+         "SellPricePercent": 10,
+         "MaxStockThreshold": 1,
+         "MinStockThreshold": 1,
+         "SpawnAttachments": [],
+         "Variants": [
+           "TWP_Machete_Camouflage",
+           "TWP_Machete_USA",
+          "TWP_Machete_Brazil"
+         ]
+      },
+      {
+          "ClassName": "TWP_BloodyMachete",
+          "MaxPriceThreshold": 1500,
+          "MinPriceThreshold": 1500,
+          "SellPricePercent": 10,
+          "MaxStockThreshold": 1,
+          "MinStockThreshold": 1,
+          "SpawnAttachments": [],
+          "Variants": []
+      },
+      {
+          "ClassName": "TWP_JasonMachete",
+          "MaxPriceThreshold": 1500,
+          "MinPriceThreshold": 1500,
+          "SellPricePercent": 10,
+          "MaxStockThreshold": 1,
+          "MinStockThreshold": 1,
+          "SpawnAttachments": [],
+          "Variants": []
+      },
+      {
+          "ClassName": "TWP_NinjaSword",
+          "MaxPriceThreshold": 1500,
+          "MinPriceThreshold": 1500,
+          "SellPricePercent": 10,
+          "MaxStockThreshold": 1,
+          "MinStockThreshold": 1,
+          "SpawnAttachments": [],
+          "Variants": []
+      },
+      {
+          "ClassName": "TWP_Holymackerel",
+          "MaxPriceThreshold": 1500,
+          "MinPriceThreshold": 1500,
+          "SellPricePercent": 10,
+          "MaxStockThreshold": 1,
+          "MinStockThreshold": 1,
+          "SpawnAttachments": [],
+          "Variants": []
+      },
+      {
+          "ClassName": "TWP_SledgeHammer",
+          "MaxPriceThreshold": 1500,
+          "MinPriceThreshold": 1500,
+          "SellPricePercent": 10,
+          "MaxStockThreshold": 1,
+          "MinStockThreshold": 1,
+          "SpawnAttachments": [],
+          "Variants": []
+      },
+      {
+          "ClassName": "TWP_FlySwatter_Green",
+          "MaxPriceThreshold": 1500,
+          "MinPriceThreshold": 1500,
+          "SellPricePercent": 10,
+          "MaxStockThreshold": 1,
+          "MinStockThreshold": 1,
+          "SpawnAttachments": [],
+          "Variants": [
+            "TWP_FlySwatter_Grey",
+            "TWP_FlySwatter_Red"
+          ]
+      },
+      {
+          "ClassName": "TWP_HorseStick",
+          "MaxPriceThreshold": 1500,
+          "MinPriceThreshold": 1500,
+          "SellPricePercent": 10,
+          "MaxStockThreshold": 1,
+          "MinStockThreshold": 1,
+          "SpawnAttachments": [],
+          "Variants": []
+     }
   ]
 }
