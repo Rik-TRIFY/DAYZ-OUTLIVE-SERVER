@@ -23,7 +23,7 @@
           "m_Is3D": 1,
           "m_Text": "OUTLIVE Trader",
           "m_IconName": "Trader",
-          "m_Color": -13710223,
+          "m_Color": -8060815,
           "m_Position": [
             4291.59,
             25.2478,
@@ -36,13 +36,39 @@
             "m_Is3D": 1,
             "m_Text": "OUTLIVE Smuggler Trader",
             "m_IconName": "Trader",
-            "m_Color": -13710223,
+            "m_Color": -16777208,
             "m_Position": [
               9945.55,
               36.5329,
               5359.78
           ]
-          }
+          },
+          {
+              "m_UID": "OUTLIVE_huntertrader",
+              "m_Visibility": 6,
+              "m_Is3D": 1,
+              "m_Text": "OUTLIVE Hunter & Fish Trader",
+              "m_IconName": "Trader",
+              "m_Color": -12157176,
+              "m_Position": [
+                7170.67,
+                36.0,
+                8119.34
+            ]
+            },
+            {
+                "m_UID": "OUTLIVE_leteckaskolicka",
+                "m_Visibility": 6,
+                "m_Is3D": 1,
+                "m_Text": "OUTLIVE Airport",
+                "m_IconName": "Helicopter",
+                "m_Color": -1810745,
+                "m_Position": [
+                  7803.18,
+                  36.0,
+                  784.265
+              ]
+              }
       ],
     "EnableHUDCompass": 1,
     "NeedCompassItemForHUDCompass": 1,

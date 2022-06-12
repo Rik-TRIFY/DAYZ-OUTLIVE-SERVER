@@ -85,6 +85,28 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "SmallFishTrap",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 40,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FishNetTrap",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

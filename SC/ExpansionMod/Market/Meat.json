@@ -7,8 +7,8 @@
     "Items": [
         {
             "ClassName": "bearsteakmeat",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 400,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -18,17 +18,6 @@
         },
         {
             "ClassName": "goatsteakmeat",
-            "MaxPriceThreshold": 160,
-            "MinPriceThreshold": 160,
-            "SellPricePercent": 50,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "boarsteakmeat",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
             "SellPricePercent": 50,
@@ -39,9 +28,20 @@
             "Variants": []
         },
         {
+            "ClassName": "boarsteakmeat",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "pigsteakmeat",
-            "MaxPriceThreshold": 130,
-            "MinPriceThreshold": 130,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -51,8 +51,8 @@
         },
         {
             "ClassName": "deersteakmeat",
-            "MaxPriceThreshold": 180,
-            "MinPriceThreshold": 180,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -62,8 +62,8 @@
         },
         {
             "ClassName": "wolfsteakmeat",
-            "MaxPriceThreshold": 190,
-            "MinPriceThreshold": 190,
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -73,8 +73,8 @@
         },
         {
             "ClassName": "cowsteakmeat",
-            "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 110,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -84,8 +84,8 @@
         },
         {
             "ClassName": "sheepsteakmeat",
-            "MaxPriceThreshold": 130,
-            "MinPriceThreshold": 130,
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -95,8 +95,8 @@
         },
         {
             "ClassName": "chickenbreastmeat",
-            "MaxPriceThreshold": 130,
-            "MinPriceThreshold": 130,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -106,8 +106,8 @@
         },
         {
             "ClassName": "rabbitlegmeat",
-            "MaxPriceThreshold": 180,
-            "MinPriceThreshold": 180,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -117,8 +117,8 @@
         },
         {
             "ClassName": "Lard",
-            "MaxPriceThreshold": 180,
-            "MinPriceThreshold": 180,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
