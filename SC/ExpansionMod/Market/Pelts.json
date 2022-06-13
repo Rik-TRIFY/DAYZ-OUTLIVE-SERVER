@@ -1,14 +1,14 @@
 {
     "m_Version": 9,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_MEAT",
+    "DisplayName": "PELTS",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "bearsteakmeat",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
+            "ClassName": "WildboarPelt",
+            "MaxPriceThreshold": 3600,
+            "MinPriceThreshold": 3600,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -17,9 +17,9 @@
             "Variants": []
         },
         {
-            "ClassName": "goatsteakmeat",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
+            "ClassName": "RabbitPelt",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -28,9 +28,9 @@
             "Variants": []
         },
         {
-            "ClassName": "boarsteakmeat",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 400,
+            "ClassName": "CowPelt",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -39,9 +39,9 @@
             "Variants": []
         },
         {
-            "ClassName": "pigsteakmeat",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
+            "ClassName": "PigPelt",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -50,9 +50,9 @@
             "Variants": []
         },
         {
-            "ClassName": "deersteakmeat",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
+            "ClassName": "DeerPelt",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -61,9 +61,9 @@
             "Variants": []
         },
         {
-            "ClassName": "wolfsteakmeat",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 400,
+            "ClassName": "GoatPelt",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -72,9 +72,9 @@
             "Variants": []
         },
         {
-            "ClassName": "cowsteakmeat",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 300,
+            "ClassName": "BearPelt",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -83,9 +83,9 @@
             "Variants": []
         },
         {
-            "ClassName": "sheepsteakmeat",
-            "MaxPriceThreshold": 250,
-            "MinPriceThreshold": 250,
+            "ClassName": "WolfPelt",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -94,9 +94,9 @@
             "Variants": []
         },
         {
-            "ClassName": "chickenbreastmeat",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
+            "ClassName": "SheepPelt",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -105,21 +105,10 @@
             "Variants": []
         },
         {
-            "ClassName": "rabbitlegmeat",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": 50,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Lard",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "SellPricePercent": 50,
+            "ClassName": "polar_bear_pelt",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 40,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
