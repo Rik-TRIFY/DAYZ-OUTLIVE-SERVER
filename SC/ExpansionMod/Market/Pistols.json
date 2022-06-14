@@ -178,6 +178,20 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "Derringer_Black",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1900,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Derringer_Pink",
+                "Derringer_Grey"
+            ]
         }
     ]
 }

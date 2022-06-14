@@ -1,0 +1,248 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Leather & Hunting Clothes",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "combatboots_beige",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "combatboots_black",
+                "combatboots_brown",
+                "combatboots_green",
+                "combatboots_grey"
+            ]
+        },
+        {
+            "ClassName": "hunterpants_winter",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "hunterpants_autumn",
+                "hunterpants_brown",
+                "hunterpants_spring",
+                "jeans_green",
+                "hunterpants_summer"
+            ]
+        },
+        {
+            "ClassName": "huntingbag",
+            "MaxPriceThreshold": 2600,
+            "MinPriceThreshold": 2600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "huntingjacket_autumn",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "huntingjacket_brown",
+                "huntingjacket_spring",
+                "huntingjacket_summer",
+                "huntingjacket_winter"
+            ]
+        },
+        {
+            "ClassName": "huntingvest",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LeatherHat_Beige",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "LeatherHat_Black",
+                "LeatherHat_Brown",
+                "LeatherHat_Natural"
+            ]
+        },
+        {
+            "ClassName": "LeatherJacket_Beige",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 12000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "LeatherJacket_Black",
+                "LeatherJacket_Brown",
+                "LeatherJacket_Natural",
+                "LeatherJacket_Bloody",
+                "LeatherJacket_DirtyGrass"
+            ]
+        },
+        {
+            "ClassName": "LeatherKnifeSheath",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LeatherShirt_Natural",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LeatherPants_Beige",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 6500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "LeatherPants_Black",
+                "LeatherPants_Brown",
+                "LeatherPants_Natural",
+                "LeatherPants_Bloody",
+                "LeatherPants_DirtyGrass"
+            ]
+        },
+        {
+            "ClassName": "LeatherSack_Beige",
+            "MaxPriceThreshold": 11500,
+            "MinPriceThreshold": 11500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "LeatherSack_Black",
+                "LeatherSack_Brown",
+                "LeatherSack_Natural"
+            ]
+        },
+        {
+            "ClassName": "LeatherShoes_Beige",
+            "MaxPriceThreshold": 4500,
+            "MinPriceThreshold": 4500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "LeatherShoes_Black",
+                "LeatherShoes_Brown",
+                "LeatherShoes_Natural"
+            ]
+        },
+        {
+            "ClassName": "LeatherStorageVest_Beige",
+            "MaxPriceThreshold": 11000,
+            "MinPriceThreshold": 11000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "LeatherStorageVest_Black",
+                "LeatherStorageVest_Brown",
+                "LeatherStorageVest_Natural",
+                "LeatherStorageVest_Bloody",
+                "LeatherStorageVest_DirtyGrass"
+            ]
+        },
+        {
+            "ClassName": "LeatherGloves_Beige",
+            "MaxPriceThreshold": 11000,
+            "MinPriceThreshold": 11000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "LeatherGloves_Black",
+                "LeatherGloves_Brown",
+                "LeatherGloves_Natural",
+                "LeatherGloves_Bloody",
+                "LeatherGloves_DirtyGrass"
+            ]
+        },
+        {
+            "ClassName": "FurCourierBag",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FurImprovisedBag",
+            "MaxPriceThreshold": 7500,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WaterPouch_Natural",
+            "MaxPriceThreshold": 4500,
+            "MinPriceThreshold": 4500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
