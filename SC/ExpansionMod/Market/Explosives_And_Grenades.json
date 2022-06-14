@@ -129,8 +129,8 @@
         },
         {
             "ClassName": "ammo_Expansion_M203_Sticky_Smoke_White",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": 30,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -171,6 +171,81 @@
             "ClassName": "ammo_expansion_m203_he",
             "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 3500,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "Ammo_40mm_Explosive",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "Ammo_40mm_ChemGas",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 8000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "Ammo_40mm_Smoke_Red",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Ammo_40mm_Smoke_Green",
+                "Ammo_40mm_Smoke_White",
+                "Ammo_40mm_Smoke_Black"
+            ]
+        },
+        {
+            "ClassName": "Grenade_ChemGas",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 8000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "Plastic_Explosive",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 40,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "Claymoremine",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
             "SellPricePercent": 30,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
