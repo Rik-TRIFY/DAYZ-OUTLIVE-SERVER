@@ -1,15 +1,25 @@
 #include "$CurrentDir:mpmissions\Outlive.Chiemsee\pvp.c"
 
-void SpawnObject( string type, vector position, vector orientation )
-    {
-        auto obj = GetGame().CreateObjectEx(type, position);
-        obj.SetPosition(position);
-        obj.SetOrientation(orientation);
-        obj.SetOrientation(obj.GetOrientation());
-        obj.Update();
-        obj.SetAffectPathgraph(true, false);
-        if (obj.CanAffectPathgraph()) GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, obj);
+static Object SpawnObject(string type, vector position, vector orientation)
+{
+    Object obj = GetGame().CreateObjectEx(type, position, ECE_SETUP | ECE_UPDATEPATHGRAPH | ECE_CREATEPHYSICS);
+    if (!obj) {
+        Error("Failed to create object " + type);
+        return null;
     }
+
+    obj.SetPosition(position);
+    obj.SetOrientation(orientation);
+    obj.SetOrientation(obj.GetOrientation());
+    obj.SetFlags(EntityFlags.STATIC, false);
+    obj.Update();
+	obj.SetAffectPathgraph(true, false);
+	if (obj.CanAffectPathgraph()) {
+        GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, obj);
+    } 
+
+    return obj;
+}
 
 
 void main()
@@ -24,12 +34,10 @@ void main()
 	weather.GetFog().Set( Math.RandomFloatInclusive(0.05, 0.1), 1, 0);
 
 	//INIT ECONOMY--------------------------------------
+	AddIsleOfTheDead();
 	Hive ce = CreateHive();
 	if ( ce )
 		ce.InitOffline();
-
-
-AddIsleOfTheDead();
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;

@@ -4,7 +4,7 @@ void AddIsleOfTheDead()
 
 // Paste anything below this line into the bottom of your 'void main()' function
 
-
+SpawnObject("Land_Mil_Tent_Big4", "345.130493 366.123230 7436.138672", "-53.999985 0.000000 0.000000");
 // Created Objects
 SpawnObject("EditorLootPoint", "-1.797050 1.468494 -3.884842", "0.000000 0.000000 -0.000000");
 SpawnObject("EditorLootPoint", "-0.059609 0.885150 0.746938", "0.000000 0.000000 -0.000000");
@@ -79,5 +79,5 @@ SpawnObject("EditorLootPoint", "138.065598 421.128387 6527.586914", "0.000000 0.
 
 // Uncomment if you want to export loot from newly added buildings
 // Position, Radius (increase if you have a larger map than Chernarus)
-// GetCEApi().ExportProxyData(Vector(7500, GetGame().SurfaceY(7500, 7500), 7500), 20000);
+ GetCEApi().ExportProxyData(Vector(7500, GetGame().SurfaceY(7500, 7500), 7500), 20000);
 }
