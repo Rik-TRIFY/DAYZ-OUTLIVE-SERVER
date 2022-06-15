@@ -248,10 +248,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>    
     <type name="Msp_Sawblade">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -428,7 +428,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_GrenadeBox">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -438,8 +438,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <tag name="floor" />
-        <usage name="Industrial" />
-        <usage name="Farm" />
+        <usage name="Military" />
+        <value name="Tier4"/>
     </type>
     <type name="Msp_TreasureChest">
         <nominal>0</nominal>
