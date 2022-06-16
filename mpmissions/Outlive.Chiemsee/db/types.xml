@@ -6795,6 +6795,100 @@
 		<usage name="Coast" />
 		<value name="" />
 	</type>
+
+	<type name="M79">
+		<nominal>2</nominal>
+		<restock>3600</restock>
+		<lifetime>36600</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="explosives" />
+		<usage name="Military" />
+		<value name="Tier34" />
+	</type>
+
+	<type name="Ammo_40mm_Explosive">
+		<nominal>5</nominal>
+		<restock>3600</restock>
+		<lifetime>7200</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="explosives" />
+		<usage name="Military" />
+		<value name="Tier234" />
+	</type>
+	<type name="Ammo_40mm_ChemGas">
+		<nominal>5</nominal>
+		<restock>3600</restock>
+		<lifetime>7200</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="explosives" />
+		<usage name="Military" />
+		<value name="Tier234" />
+	</type>
+	<type name="Ammo_40mm_Smoke_Red">
+		<nominal>10</nominal>
+		<restock>3600</restock>
+		<lifetime>7200</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="explosives" />
+		<usage name="Military" />
+		<value name="Tier234" />
+	</type>
+	<type name="Ammo_40mm_Smoke_Green">
+		<nominal>10</nominal>
+		<restock>3600</restock>
+		<lifetime>7200</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="explosives" />
+		<usage name="Military" />
+		<value name="Tier234" />
+	</type>
+	<type name="Ammo_40mm_Smoke_White">
+		<nominal>10</nominal>
+		<restock>3600</restock>
+		<lifetime>7200</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="explosives" />
+		<usage name="Military" />
+		<value name="Tier234" />
+	</type>
+	<type name="Ammo_40mm_Smoke_Black">
+		<nominal>10</nominal>
+		<restock>3600</restock>
+		<lifetime>7200</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="explosives" />
+		<usage name="Military" />
+		<value name="Tier234" />
+	</type>
+
 	<type name="FlashGrenade">
 		<nominal>3</nominal>
 		<restock>0</restock>
