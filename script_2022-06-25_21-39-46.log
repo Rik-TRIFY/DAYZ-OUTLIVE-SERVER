@@ -1,0 +1,1055 @@
+---------------------------------------------
+Log D:\TCAFiles\Users\erikf\6821903\SC\script_2022-06-25_21-39-46.log started at 25.06. 21:39:46
+
+SCRIPT       : Registered 393 temporary action enum(s), UAN==393
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT    (W): @"CannabisPlus/scripts/4_world/cannabisplus.c,395": Missing ';' at the end of line
+SCRIPT    (E): @"scripts/4_World/entities\firearms\weapon_base.c,571": Variable 'weaponType' is private
+SCRIPT    (W): @"dayz_dog/scripts/4_World/dog_types\doggos.c,180": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"dayz_dog/scripts/4_World/dog_types\doggos.c,200": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"dayz_dog/scripts/4_World/dog_types\doggos.c,210": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"dayz_dog/scripts/4_World/dog_types\doggos.c,220": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"dayz_dog/scripts/4_World/dog_types\doggos.c,230": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"dayz_dog/scripts/4_World/actions\actionfeeddog.c,92": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"GameLabs/Scripts/4_World/4_Hooking/пфС?кћЭпєм.wsi,242": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"MuchStuffPack/MSP_Scripts/4_World/codelock\actions\actioninteractlockonmsp.c,85": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"MuchStuffPack/MSP_Scripts/4_World/codelock\actions\actioninteractlockonmsp.c,90": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"PVEZ/4_World/entities\manbase\playerbase.c,182": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/lootchest.c,168": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/lootchest.c,221": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/actionunlockcjchest.c,82": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/actionunlockcjchest.c,102": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/actionunlockcjchest.c,112": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"cabin_mod/scripts/4_World/actions\actiondeployobject.c,11": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"cabin_mod_codelock/scripts/4_World/actioninteractlockoncabinfence.c,92": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"cabin_mod_codelock/scripts/4_World/actioninteractlockoncabinfence.c,97": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"dayz_dog/scripts/5_Mission/gui\dogselectmenu.c,39": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"dayz_dog/scripts/5_Mission/gui\dogselectmenu.c,60": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"GameLabs/Scripts/5_Mission/Ри*идФ.p3d,91": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuesptools\esptoolsmenu.c,286": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:mpmissions\Outlive.Chiemsee\init.c,50": Missing ';' at the end of line
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : Expansion version: 1.6.74
+SCRIPT       : [DefineTest] EXPANSIONMOD is defined
+SCRIPT       : [DefineTest] EXPANSIONMODANIMATIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBOOK is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCHAT is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGROUPS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMISSIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAMETAGS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAVIGATION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODWEAPONS is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : DZ_Expansion_Animations_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Book_Preload
+SCRIPT       : DZ_Expansion_Chat_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Groups_Preload
+SCRIPT       : DZ_Expansion_KillFeed_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_Missions_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_NameTags_Preload
+SCRIPT       : DZ_Expansion_Navigation_Preload
+SCRIPT       : DZ_Expansion_Preload
+SCRIPT       : DZ_Expansion_SpawnSelection_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : DZ_Expansion_Weapons_Preload
+SCRIPT       : CodeLock
+SCRIPT       : AX_Collectables
+SCRIPT       : Covid
+SCRIPT       : CPtoken
+SCRIPT       : DZ_DabsFramework
+SCRIPT       : dayz_dogs
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : bliss
+SCRIPT       : ludwig_FKN_Items_Static
+SCRIPT       : GameLabsDefine
+SCRIPT       : GameLabs
+SCRIPT       : Light
+SCRIPT       : Halloween
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : InventoryFixSolo
+SCRIPT       : MSP_Clothing_Data
+SCRIPT       : MSP_Retextures_Data
+SCRIPT       : MuchStuffPack
+SCRIPT       : MSP_Seasonal_Summer
+SCRIPT       : MSP_Signs_Data
+SCRIPT       : MSP_Sports_Data
+SCRIPT       : MSP_Storage_fridges
+SCRIPT       : MSP_Storage_boxes
+SCRIPT       : MSP_Storage_chests
+SCRIPT       : MSP_Storage_crates
+SCRIPT       : MSP_Storage_lockers
+SCRIPT       : MSP_Storage_otherstorage
+SCRIPT       : MSP_Storage_racks
+SCRIPT       : MSP_Storage_waterbarrels
+SCRIPT       : MSP_Toys_Data
+SCRIPT       : OPSuppressors
+SCRIPT       : PristineRepair
+SCRIPT       : PVEZ
+SCRIPT       : PVEZExpansionPlugin
+SCRIPT       : Ludwig_OBJCET_sewer_assets
+SCRIPT       : Skyline_Hybrid_Suppressor
+SCRIPT       : SnowVegetation
+SCRIPT       : ChiemseeDefines
+SCRIPT       : ludwig_data
+SCRIPT       : Ludwig_OBJCET
+SCRIPT       : lxFoodScripts
+SCRIPT       : Leuchtturm
+SCRIPT       : Ind_Oil_Pump_EP1
+SCRIPT       : ludwig_Navmesh
+SCRIPT       : NIO_OBJECT
+SCRIPT       : Sawcisson_OBJECT
+SCRIPT       : ChiemseeScripts
+SCRIPT       : Simon_Object
+SCRIPT       : chiemsee_world
+SCRIPT       : AVPPAdminTools
+SCRIPT       : WindstrideClothing
+SCRIPT       : Dogtags
+SCRIPT       : FlipTransport
+SCRIPT       : zisb_modular_metro
+SCRIPT       : CannabisPlus
+SCRIPT       : CJ_LootChests
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : deerisle_ludwig_data
+SCRIPT       : MSP_BaseBuilding
+SCRIPT       : MSP_Buildings_Data
+SCRIPT       : MSP_Deco
+SCRIPT       : MSP_Garden_Data
+SCRIPT       : MSP_Halloween
+SCRIPT       : MSP_Weapons_Data
+SCRIPT       : ModularVestSystem_Base
+SCRIPT       : PolarBear
+SCRIPT       : Animal_chiemsee_scorpion
+SCRIPT       : Buggy_Mod
+SCRIPT       : BulletStacksPlusPlusEnhanced
+SCRIPT       : CrSk_Hummer_H2_6x6
+SCRIPT       : Dayz_Dog
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_Missions
+SCRIPT       : DZ_Expansion_NameTags
+SCRIPT       : DZ_Expansion_Navigation
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_PlayerList
+SCRIPT       : DZ_Expansion
+SCRIPT       : DZ_Expansion_SpawnSelection
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : DZ_Expansion_Weapons
+SCRIPT       : Forever_Burning_Campfire
+SCRIPT       : LeatherCrafting
+SCRIPT       : cabin_mod
+SCRIPT       : cabin_mod_codelock
+SCRIPT       : CabinZ
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_Book
+SCRIPT       : DZ_Expansion_Chat
+SCRIPT       : DZ_Expansion_Groups
+SCRIPT       : PVEZ :: Will use config files in D:\TCAFiles\Users\erikf\6821903\SC
+SCRIPT       : PVEZ :: Expansion defined.
+SCRIPT       : 21:40:07.101 [EXPANSION DEBUG]: [ExpansionPartySettings] Load existing setting file:$profile:ExpansionMod\Settings\PartySettings.json
+SCRIPT       : 21:40:07.101 [EXPANSION DEBUG]: [ExpansionChatSettings] Load existing setting file:$profile:ExpansionMod\Settings\ChatSettings.json
+SCRIPT       : 21:40:07.109 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 21:40:07.109 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 21:40:07.109 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : 21:40:07.109 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : 21:40:07.109 [EXPANSION DEBUG]: [ExpansionSpawnSettings] Load existing setting file:$mission:expansion\settings\SpawnSettings.json
+SCRIPT       : 21:40:07.109 [EXPANSION DEBUG]: [ExpansionGeneralSettings] Load existing setting file:$profile:ExpansionMod\Settings\GeneralSettings.json
+SCRIPT       : 21:40:07.109 [EXPANSION DEBUG]: [ExpansionPlayerListSettings] Load existing setting file:$profile:ExpansionMod\Settings\PlayerListSettings.json
+SCRIPT       : 21:40:07.109 [EXPANSION DEBUG]: [ExpansionSocialMediaSettings] Load existing setting file:$profile:ExpansionMod\Settings\SocialMediaSettings.json
+SCRIPT       : 21:40:07.117 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MapSettings.json
+SCRIPT       : 21:40:07.117 [EXPANSION DEBUG]: [ExpansionNameTagsSettings] Load existing setting file:$profile:ExpansionMod\Settings\NameTagsSettings.json
+SCRIPT       : 21:40:07.117 [EXPANSION DEBUG]: [ExpansionAirdropSettings] Load existing setting file:$profile:ExpansionMod\Settings\AirdropSettings.json
+SCRIPT       : 21:40:07.171 [EXPANSION DEBUG]: [ExpansionMissionSettings] Load existing setting file:$profile:ExpansionMod\Settings\MissionSettings.json
+SCRIPT       : 21:40:07.171 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : 21:40:07.171 [EXPANSION DEBUG]: ~ExpansionMarketSettings
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 1 (Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 2 (Ammo_Boxes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 3 (Armbands)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 4 (Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 5 (Backpacks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 6 (Bandanas)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 7 (Batteries)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 8 (Bayonets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 9 (Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 10 (Blouses_And_Suits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 11 (Boats)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 12 (Boots_And_Shoes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 13 (Buttstocks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 14 (Cannabis)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 15 (Caps)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 16 (Cars)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 17 (Coats_And_Jackets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 18 (Containers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 19 (Crossbows)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 20 (Drinks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 21 (Electronics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 22 (Event)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 23 (Exchange)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 24 (Explosives_And_Grenades)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 25 (Eyewear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 26 (Fish)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 27 (Fishing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 28 (Flags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 29 (Food)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 30 (Fruit_And_Vegetables)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 31 (Furnishings)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 32 (Gardening)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 33 (Ghillies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 34 (Gloves)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 35 (Handguards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 36 (Hats_And_Hoods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 37 (Helicopters)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 38 (Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 39 (Holsters_And_Pouches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 40 (Hunting_Leather)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 41 (Kits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 42 (Knifes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 43 (Launchers)
+SCRIPT    (E): 
+Item headtorch_black has already been added to category Eyewear (ID 25)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:184
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1070
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:86
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:28
+DayZExpansion/Missions/Scripts/3_Game/dayzexpansion_missions\expansionsettings.c:29
+DayZExpansion/NameTags/Scripts/3_Game/dayzexpansion_nametags\settings\expansionsettings.c:31
+DayZExpansion/Navigation/Scripts/3_Game/dayzexpansion_navigation\expansionsettings.c:25
+DayZExpansion/NotificationScheduler/Scripts/3_Game/dayzexpansion_notificationscheduler\expansionsettings.c:28
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:40
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c:31
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:29
+DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\expansionsettings.c:40
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:28
+DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionsettings.c:25
+DayZExpansion/Groups/Scripts/3_Game/dayzexpansion_groups\expansionsettings.c:25
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:204
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:29
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 44 (Lights)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 45 (Liquids)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 46 (Locks)
+SCRIPT    (E): 
+[ExpansionMarketItem] The minimum price must be lower than or equal to the maximum price for 'mag_vss_10rnd'
+Class:      'ExpansionMarketItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketitem.c:141
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:140
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:184
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1070
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:86
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:28
+DayZExpansion/Missions/Scripts/3_Game/dayzexpansion_missions\expansionsettings.c:29
+DayZExpansion/NameTags/Scripts/3_Game/dayzexpansion_nametags\settings\expansionsettings.c:31
+DayZExpansion/Navigation/Scripts/3_Game/dayzexpansion_navigation\expansionsettings.c:25
+DayZExpansion/NotificationScheduler/Scripts/3_Game/dayzexpansion_notificationscheduler\expansionsettings.c:28
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:40
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c:31
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:29
+DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\expansionsettings.c:40
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:28
+DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionsettings.c:25
+DayZExpansion/Groups/Scripts/3_Game/dayzexpansion_groups\expansionsettings.c:25
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:204
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:29
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 47 (Magazines)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 48 (Masks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 49 (Meat)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 50 (Medical)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 51 (Melee_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 52 (Muzzles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 53 (MVS_Bags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 54 (MVS_Clothing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 55 (MVS_Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 56 (MVS_Pouches_Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 57 (MVS_Rigs)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 58 (Navigation)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 59 (Optics)
+SCRIPT    (E): 
+Item jeans_green has already been added to category Hunting_Leather (ID 40)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:266
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:243
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:145
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:184
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1070
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:86
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:28
+DayZExpansion/Missions/Scripts/3_Game/dayzexpansion_missions\expansionsettings.c:29
+DayZExpansion/NameTags/Scripts/3_Game/dayzexpansion_nametags\settings\expansionsettings.c:31
+DayZExpansion/Navigation/Scripts/3_Game/dayzexpansion_navigation\expansionsettings.c:25
+DayZExpansion/NotificationScheduler/Scripts/3_Game/dayzexpansion_notificationscheduler\expansionsettings.c:28
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:40
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c:31
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:29
+DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\expansionsettings.c:40
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:28
+DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionsettings.c:25
+DayZExpansion/Groups/Scripts/3_Game/dayzexpansion_groups\expansionsettings.c:25
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:204
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:29
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 60 (Pants_And_Shorts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 61 (Pelts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 62 (Pistols)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 63 (Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 64 (Shirts_And_TShirts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 65 (Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 66 (Skirts_And_Dresses)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 67 (Sniper_Rifles)
+SCRIPT    (E): 
+Item expansionspraycangreen has already been added to category Cannabis (ID 14)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:184
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1070
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:86
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:28
+DayZExpansion/Missions/Scripts/3_Game/dayzexpansion_missions\expansionsettings.c:29
+DayZExpansion/NameTags/Scripts/3_Game/dayzexpansion_nametags\settings\expansionsettings.c:31
+DayZExpansion/Navigation/Scripts/3_Game/dayzexpansion_navigation\expansionsettings.c:25
+DayZExpansion/NotificationScheduler/Scripts/3_Game/dayzexpansion_notificationscheduler\expansionsettings.c:28
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:40
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c:31
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:29
+DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\expansionsettings.c:40
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:28
+DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionsettings.c:25
+DayZExpansion/Groups/Scripts/3_Game/dayzexpansion_groups\expansionsettings.c:25
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:204
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:29
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 68 (Spraycans)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 69 (Submachine_Guns)
+SCRIPT    (E): 
+Item gardenlime has already been added to category Gardening (ID 32)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:184
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1070
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:86
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:28
+DayZExpansion/Missions/Scripts/3_Game/dayzexpansion_missions\expansionsettings.c:29
+DayZExpansion/NameTags/Scripts/3_Game/dayzexpansion_nametags\settings\expansionsettings.c:31
+DayZExpansion/Navigation/Scripts/3_Game/dayzexpansion_navigation\expansionsettings.c:25
+DayZExpansion/NotificationScheduler/Scripts/3_Game/dayzexpansion_notificationscheduler\expansionsettings.c:28
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:40
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c:31
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:29
+DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\expansionsettings.c:40
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:28
+DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionsettings.c:25
+DayZExpansion/Groups/Scripts/3_Game/dayzexpansion_groups\expansionsettings.c:25
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:204
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:29
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 70 (Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 71 (Sweaters_And_Hoodies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 72 (Teddys_Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 73 (Teddys_AmmoBoxs)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 74 (Teddys_Bayonets)
+SCRIPT    (E): 
+Item twp_cosmetic_heart has already been added to category ID 75
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:184
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1070
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:86
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:28
+DayZExpansion/Missions/Scripts/3_Game/dayzexpansion_missions\expansionsettings.c:29
+DayZExpansion/NameTags/Scripts/3_Game/dayzexpansion_nametags\settings\expansionsettings.c:31
+DayZExpansion/Navigation/Scripts/3_Game/dayzexpansion_navigation\expansionsettings.c:25
+DayZExpansion/NotificationScheduler/Scripts/3_Game/dayzexpansion_notificationscheduler\expansionsettings.c:28
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:40
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c:31
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:29
+DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\expansionsettings.c:40
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:28
+DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionsettings.c:25
+DayZExpansion/Groups/Scripts/3_Game/dayzexpansion_groups\expansionsettings.c:25
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:204
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:29
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 75 (Teddys_Cosmetics)
+SCRIPT    (E): 
+Item twp_toiletroll has already been added to category Medical (ID 50)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:184
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1070
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:86
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:28
+DayZExpansion/Missions/Scripts/3_Game/dayzexpansion_missions\expansionsettings.c:29
+DayZExpansion/NameTags/Scripts/3_Game/dayzexpansion_nametags\settings\expansionsettings.c:31
+DayZExpansion/Navigation/Scripts/3_Game/dayzexpansion_navigation\expansionsettings.c:25
+DayZExpansion/NotificationScheduler/Scripts/3_Game/dayzexpansion_notificationscheduler\expansionsettings.c:28
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:40
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c:31
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:29
+DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\expansionsettings.c:40
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:28
+DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionsettings.c:25
+DayZExpansion/Groups/Scripts/3_Game/dayzexpansion_groups\expansionsettings.c:25
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:204
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:29
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 76 (Teddys_Covid)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 77 (Teddys_Gernades)
+SCRIPT    (E): 
+Item twp_coffin has already been added to category Furnishings (ID 31)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:184
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1070
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:86
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:28
+DayZExpansion/Missions/Scripts/3_Game/dayzexpansion_missions\expansionsettings.c:29
+DayZExpansion/NameTags/Scripts/3_Game/dayzexpansion_nametags\settings\expansionsettings.c:31
+DayZExpansion/Navigation/Scripts/3_Game/dayzexpansion_navigation\expansionsettings.c:25
+DayZExpansion/NotificationScheduler/Scripts/3_Game/dayzexpansion_notificationscheduler\expansionsettings.c:28
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:40
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c:31
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:29
+DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\expansionsettings.c:40
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:28
+DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionsettings.c:25
+DayZExpansion/Groups/Scripts/3_Game/dayzexpansion_groups\expansionsettings.c:25
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:204
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:29
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 78 (Teddys_Halloween)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 79 (Teddys_Lights)
+SCRIPT    (E): 
+Item twp_m60_mag_200rnd has already been added to category ID 80
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:184
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1070
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:86
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:28
+DayZExpansion/Missions/Scripts/3_Game/dayzexpansion_missions\expansionsettings.c:29
+DayZExpansion/NameTags/Scripts/3_Game/dayzexpansion_nametags\settings\expansionsettings.c:31
+DayZExpansion/Navigation/Scripts/3_Game/dayzexpansion_navigation\expansionsettings.c:25
+DayZExpansion/NotificationScheduler/Scripts/3_Game/dayzexpansion_notificationscheduler\expansionsettings.c:28
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:40
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c:31
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:29
+DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\expansionsettings.c:40
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:28
+DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionsettings.c:25
+DayZExpansion/Groups/Scripts/3_Game/dayzexpansion_groups\expansionsettings.c:25
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:204
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:29
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 80 (Teddys_Magazines)
+SCRIPT    (E): 
+Item twp_bloodymachete has already been added to category Teddys_Halloween (ID 78)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:184
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1070
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:86
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:28
+DayZExpansion/Missions/Scripts/3_Game/dayzexpansion_missions\expansionsettings.c:29
+DayZExpansion/NameTags/Scripts/3_Game/dayzexpansion_nametags\settings\expansionsettings.c:31
+DayZExpansion/Navigation/Scripts/3_Game/dayzexpansion_navigation\expansionsettings.c:25
+DayZExpansion/NotificationScheduler/Scripts/3_Game/dayzexpansion_notificationscheduler\expansionsettings.c:28
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:40
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c:31
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:29
+DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\expansionsettings.c:40
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:28
+DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionsettings.c:25
+DayZExpansion/Groups/Scripts/3_Game/dayzexpansion_groups\expansionsettings.c:25
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:204
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:29
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 81 (Teddys_Melee)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 82 (Teddys_Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 83 (Teddys_Pistols)
+SCRIPT    (E): 
+Item twp_ak47 has already been added to category ID 84
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:184
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1070
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:86
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:28
+DayZExpansion/Missions/Scripts/3_Game/dayzexpansion_missions\expansionsettings.c:29
+DayZExpansion/NameTags/Scripts/3_Game/dayzexpansion_nametags\settings\expansionsettings.c:31
+DayZExpansion/Navigation/Scripts/3_Game/dayzexpansion_navigation\expansionsettings.c:25
+DayZExpansion/NotificationScheduler/Scripts/3_Game/dayzexpansion_notificationscheduler\expansionsettings.c:28
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:40
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c:31
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:29
+DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\expansionsettings.c:40
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:28
+DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionsettings.c:25
+DayZExpansion/Groups/Scripts/3_Game/dayzexpansion_groups\expansionsettings.c:25
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:204
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:29
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 84 (Teddys_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 85 (Teddys_Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 86 (Teddys_Snipers)
+SCRIPT    (E): 
+Item twp_mac10 has already been added to category ID 87
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:184
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1070
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:86
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionsettings.c:28
+DayZExpansion/Missions/Scripts/3_Game/dayzexpansion_missions\expansionsettings.c:29
+DayZExpansion/NameTags/Scripts/3_Game/dayzexpansion_nametags\settings\expansionsettings.c:31
+DayZExpansion/Navigation/Scripts/3_Game/dayzexpansion_navigation\expansionsettings.c:25
+DayZExpansion/NotificationScheduler/Scripts/3_Game/dayzexpansion_notificationscheduler\expansionsettings.c:28
+DayZExpansion/Scripts/3_Game/dayzexpansion\settings\expansionsettings.c:40
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c:31
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\expansionsettings.c:29
+DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\expansionsettings.c:40
+DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\expansionsettings.c:28
+DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionsettings.c:25
+DayZExpansion/Groups/Scripts/3_Game/dayzexpansion_groups\expansionsettings.c:25
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:204
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:29
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 87 (Teddys_SubMachineGuns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 88 (Teddys_Suppressors)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 89 (Tents)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 90 (Tools)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 91 (Vehicle_Parts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 92 (Vests)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 93 (WindstridesClothing)
+SCRIPT       : 21:40:07.484 [EXPANSION DEBUG]: [ExpansionMarketTrader] Error: Category Teddys_Light does not exist!
+SCRIPT       : 21:40:07.796 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 21:40:07.796 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 21:40:07.796 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 21:40:07.796 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : [MSP_Codelock_Config] '$profile:\CodeLock\MSP_CodeLockConfig.json' found, loading existing config!
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : string dirtyName = 'EXAMPLENAME'
+SCRIPT       : [CP] Config Sucessfully loaded!
+SCRIPT       : 21:40:07.796 [EXPANSION DEBUG]: ModStorage v5
+SCRIPT       : 21:40:07.968 [EXPANSION DEBUG]: Loading Expansion client settings version 42
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : 21:40:13.054 [EXPANSION DEBUG]: ExpansionTraderPeter<ac1c5010>::SetTraderObject ExpansionTraderObjectBase<ac46e4e0> <7173.500000, 72.561798, 8110.560059>
+SCRIPT       : 21:40:13.054 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderPeter<ac1c5010> fileName Hunting
+SCRIPT       : 21:40:13.085 [EXPANSION DEBUG]: ExpansionTraderBoris<76c9b800>::SetTraderObject ExpansionTraderObjectBase<ac6584e0> <4226.529785, 10.934600, 4159.430176>
+SCRIPT       : 21:40:13.085 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderBoris<76c9b800> fileName BuildingSupplies
+SCRIPT       : 21:40:13.125 [EXPANSION DEBUG]: ExpansionTraderEva<6bcab600>::SetTraderObject ExpansionTraderObjectBase<ac7bab40> <4200.959961, 14.413500, 4124.879883>
+SCRIPT       : 21:40:13.125 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderEva<6bcab600> fileName Medicals
+SCRIPT       : 21:40:13.156 [EXPANSION DEBUG]: ExpansionTraderOliver<50f6a960>::SetTraderObject ExpansionTraderObjectBase<ac9ae610> <4207.939941, 11.525500, 4156.709961>
+SCRIPT       : 21:40:13.156 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderOliver<50f6a960> fileName Attachments
+SCRIPT       : 21:40:13.203 [EXPANSION DEBUG]: ExpansionTraderLinda<341ba750>::SetTraderObject ExpansionTraderObjectBase<acaa53e0> <4185.950195, 15.677600, 4132.939941>
+SCRIPT       : 21:40:13.203 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLinda<341ba750> fileName Clothing
+SCRIPT       : 21:40:13.257 [EXPANSION DEBUG]: ExpansionTraderDenis<b6769020>::SetTraderObject ExpansionTraderObjectBase<b67d6ed0> <4212.490234, 10.890500, 4160.359863>
+SCRIPT       : 21:40:13.257 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderDenis<b6769020> fileName Weapons
+SCRIPT       : 21:40:13.273 [EXPANSION DEBUG]: ExpansionTraderPeter<b67dc010>::SetTraderObject ExpansionTraderObjectBase<b6a7f830> <4256.890137, 9.539930, 4118.299805>
+SCRIPT       : 21:40:13.273 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderPeter<b67dc010> fileName Vehicles
+SCRIPT       : 21:40:13.296 [EXPANSION DEBUG]: ExpansionTraderNaomi<b6bae800>::SetTraderObject ExpansionTraderObjectBase<b6bc84a0> <4209.750000, 13.122700, 4130.080078>
+SCRIPT       : 21:40:13.296 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNaomi<b6bae800> fileName Consumables
+SCRIPT       : 21:40:13.328 [EXPANSION DEBUG]: ExpansionTraderRolf<b6ae42b0>::SetTraderObject ExpansionTraderObjectBase<b6cc0c40> <4406.970215, 1.551740, 4188.319824>
+SCRIPT       : 21:40:13.328 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderRolf<b6ae42b0> fileName Boats
+SCRIPT       : 21:40:13.367 [EXPANSION DEBUG]: ExpansionTraderElias<b6be5020>::SetTraderObject ExpansionTraderObjectBase<b6da1af0> <9944.089844, 10.767800, 5359.959961>
+SCRIPT       : 21:40:13.367 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderElias<b6be5020> fileName Blacktrader
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:346
+LeatherCrafting\scripts\4_World/dryingrack.c:120
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'Unlock'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:257
+LeatherCrafting\scripts\4_World/dryingrack.c:126
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:346
+LeatherCrafting\scripts\4_World/dryingrack.c:120
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'Unlock'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:257
+LeatherCrafting\scripts\4_World/dryingrack.c:126
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:346
+LeatherCrafting\scripts\4_World/dryingrack.c:120
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'Unlock'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:257
+LeatherCrafting\scripts\4_World/dryingrack.c:126
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:346
+LeatherCrafting\scripts\4_World/dryingrack.c:120
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'Unlock'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:257
+LeatherCrafting\scripts\4_World/dryingrack.c:126
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:346
+LeatherCrafting\scripts\4_World/dryingrack.c:120
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'Unlock'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:257
+LeatherCrafting\scripts\4_World/dryingrack.c:126
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:346
+LeatherCrafting\scripts\4_World/dryingrack.c:120
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'Unlock'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:257
+LeatherCrafting\scripts\4_World/dryingrack.c:126
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:346
+LeatherCrafting\scripts\4_World/dryingrack.c:120
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'Unlock'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:257
+LeatherCrafting\scripts\4_World/dryingrack.c:126
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:346
+LeatherCrafting\scripts\4_World/dryingrack.c:120
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'Unlock'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:257
+LeatherCrafting\scripts\4_World/dryingrack.c:126
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:346
+LeatherCrafting\scripts\4_World/dryingrack.c:120
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'Unlock'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:257
+LeatherCrafting\scripts\4_World/dryingrack.c:126
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:346
+LeatherCrafting\scripts\4_World/dryingrack.c:120
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'Unlock'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:257
+LeatherCrafting\scripts\4_World/dryingrack.c:126
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:346
+LeatherCrafting\scripts\4_World/dryingrack.c:120
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'Unlock'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:257
+LeatherCrafting\scripts\4_World/dryingrack.c:126
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT       : 21:41:07.523 [EXPANSION DEBUG]: ExpansionCarKey<5e3cf80>::GetKeyObject - found Expansion_Landrover<c870330>
+SCRIPT       : 21:41:07.523 [EXPANSION DEBUG]: ExpansionCarKey<148ba180>::GetKeyObject - found ExpansionUtilityBoat<593f8200>
+SCRIPT       : 21:41:07.523 [EXPANSION DEBUG]: ExpansionCarKey<5e45250>::GetKeyObject - found Expansion_Landrover<c870330>
+SCRIPT       : 21:41:07.531 [EXPANSION DEBUG]: ExpansionCarKey<a4ce2e0>::GetKeyObject - found ExpansionUtilityBoat<593f1f90>
+SCRIPT       : 21:41:07.531 [EXPANSION DEBUG]: ExpansionCarKey<fa52b1a0>::GetKeyObject - found Expansion_Landrover<c874700>
+SCRIPT       : 21:41:07.539 [EXPANSION DEBUG]: ExpansionCarKey<f1939d90>::GetKeyObject - found ExpansionMerlin<813b5020>
+SCRIPT       : 21:41:07.539 [EXPANSION DEBUG]: ExpansionCarKey<fe2680b0>::GetKeyObject - found ExpansionUtilityBoat<593ebd20>
+SCRIPT       : 21:41:07.539 [EXPANSION DEBUG]: ExpansionCarKey<11142860>::GetKeyObject - found ExpansionMerlin<813bc4a0>
+SCRIPT       : 21:41:07.539 [EXPANSION DEBUG]: ExpansionCarKey<148b28c0>::GetKeyObject - found ExpansionUtilityBoat<593f8200>
+SCRIPT       : 21:41:07.539 [EXPANSION DEBUG]: ExpansionCarKey<faa58d50>::GetKeyObject - found CrSk_Hummer_H2_6x6<c866e00>
+SCRIPT       : 21:41:07.546 [EXPANSION DEBUG]: ExpansionCarKey<111464c0>::GetKeyObject - found ExpansionGyrocopter<813bfee0>
+SCRIPT       : 21:41:07.554 [EXPANSION DEBUG]: ExpansionCarKey<8024650>::GetKeyObject - found ExpansionUtilityBoat<593ee750>
+SCRIPT       : 21:41:07.554 [EXPANSION DEBUG]: ExpansionCarKey<f193bbc0>::GetKeyObject - found CrSk_Hummer_H2_6x6<c86e810>
+SCRIPT       : 21:41:07.554 [EXPANSION DEBUG]: ExpansionCarKey<f41dfe60>::GetKeyObject - found ExpansionUtilityBoat<593fac30>
+SCRIPT       : 21:41:07.554 [EXPANSION DEBUG]: ExpansionCarKey<5e38910>::GetKeyObject - found ExpansionGyrocopter<813b8a60>
+SCRIPT       : 21:41:07.554 [EXPANSION DEBUG]: ExpansionCarKey<faa58340>::GetKeyObject - found ExpansionUtilityBoat<593f0370>
+SCRIPT       : 21:41:07.554 [EXPANSION DEBUG]: ExpansionCarKey<fe7c8f50>::GetKeyObject - found ExpansionUAZ<c876fb0>
+SCRIPT       : 21:41:07.554 [EXPANSION DEBUG]: ExpansionCarKey<faa60610>::GetKeyObject - found CrSk_Hummer_H2_6x6<c866e00>
+SCRIPT       : 21:41:07.554 [EXPANSION DEBUG]: ExpansionCarKey<fe270380>::GetKeyObject - found Truck_01_Covered<593f3bb0>
+SCRIPT       : 21:41:07.554 [EXPANSION DEBUG]: ExpansionCarKey<18ade2d0>::GetKeyObject - found ExpansionMh6<813c1c00>
+SCRIPT       : 21:41:07.562 [EXPANSION DEBUG]: ExpansionCarKey<11141e50>::GetKeyObject - found ExpansionUh1h<813c0d70>
+SCRIPT       : 21:41:07.562 [EXPANSION DEBUG]: ExpansionCarKey<f19310b0>::GetKeyObject - found CrSk_Hummer_H2_6x6<c86e810>
+SCRIPT       : 21:41:07.562 [EXPANSION DEBUG]: ExpansionCarKey<8026480>::GetKeyObject - found ExpansionUAZ<c8710c0>
+SCRIPT       : 21:41:07.562 [EXPANSION DEBUG]: ExpansionCarKey<f1a44a0>::GetKeyObject - found ExpansionGyrocopter<813c47b0>
+SCRIPT       : 21:41:07.570 [EXPANSION DEBUG]: ExpansionCarKey<f41e6300>::GetKeyObject - found Truck_01_Covered<593ed940>
+SCRIPT       : 21:41:07.570 [EXPANSION DEBUG]: ExpansionCarKey<7eab090>::GetKeyObject - found ExpansionVodnik<593f1180>
+SCRIPT       : 21:41:07.570 [EXPANSION DEBUG]: ExpansionCarKey<4348e40>::GetKeyObject - found ExpansionUAZ<c876fb0>
+SCRIPT       : 21:41:07.570 [EXPANSION DEBUG]: ExpansionCarKey<fe7cc1a0>::GetKeyObject - found ExpansionUtilityBoat<593ecb30>
+SCRIPT       : 21:41:07.570 [EXPANSION DEBUG]: ExpansionCarKey<7ea7e40>::GetKeyObject - found ExpansionUtilityBoat<593ecb30>
+SCRIPT       : 21:41:07.578 [EXPANSION DEBUG]: ExpansionCarKey<f1936130>::GetKeyObject - found CrSk_Hummer_H2_6x6<c86e810>
+SCRIPT       : 21:41:07.578 [EXPANSION DEBUG]: ExpansionCarKey<fdf2cec0>::GetKeyObject - found ExpansionMh6<813c1c00>
+SCRIPT       : 21:41:07.578 [EXPANSION DEBUG]: ExpansionCarKey<80319a0>::GetKeyObject - found ExpansionUAZ<c8710c0>
+SCRIPT       : 21:41:07.578 [EXPANSION DEBUG]: ExpansionCarKey<f1941650>::GetKeyObject - found CrSk_Hummer_H2_6x6<c879860>
+SCRIPT       : 21:41:07.578 [EXPANSION DEBUG]: ExpansionCarKey<fc371bc0>::GetKeyObject - found CrSk_Hummer_H2_6x6<c866e00>
+SCRIPT       : 21:41:07.578 [EXPANSION DEBUG]: ExpansionCarKey<f193d9f0>::GetKeyObject - found ExpansionMerlin<813b5020>
+SCRIPT       : 21:41:07.578 [EXPANSION DEBUG]: ExpansionCarKey<11149710>::GetKeyObject - found ExpansionMh6<813bb610>
+SCRIPT       : 21:41:07.585 [EXPANSION DEBUG]: ExpansionCarKey<16f76340>::GetKeyObject - found ExpansionUtilityBoat<593ebd20>
+SCRIPT       : 21:41:07.585 [EXPANSION DEBUG]: ExpansionCarKey<148bf200>::GetKeyObject - found Truck_01_Covered_Blue<593e76d0>
+SCRIPT       : 21:41:07.585 [EXPANSION DEBUG]: ExpansionCarKey<174776a0>::GetKeyObject - found ExpansionUtilityBoat<593fac30>
+SCRIPT       : 21:41:07.585 [EXPANSION DEBUG]: ExpansionCarKey<fa5242f0>::GetKeyObject - found ExpansionUtilityBoat<593fc850>
+SCRIPT       : 21:41:07.585 [EXPANSION DEBUG]: ExpansionCarKey<1edf00>::GetKeyObject - found ExpansionUtilityBoat<593f1f90>
+SCRIPT       : 21:41:07.585 [EXPANSION DEBUG]: ExpansionCarKey<a4cb090>::GetKeyObject - found ExpansionUtilityBoat<593f1f90>
+SCRIPT       : ExpansionZoneCircle<fc3db9f0> position=<9945.549805, 0.000000, 5359.779785> radius=50
+SCRIPT       : ExpansionZoneCircle<fc3db210> position=<4291.589844, 0.000000, 4162.500000> radius=130
+SCRIPT       : Found 2 zones!
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<3d96b0f0>
+SCRIPT       : int worth =   10000
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<3d969390>
+SCRIPT       : int worth =   100
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<3d96a470>
+SCRIPT       : int worth =   10
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<3d969250>
+SCRIPT       : int worth =   1
+SCRIPT       : m_LoginTimeMs: 11200
+SCRIPT       : 21:41:12.171 [EXPANSION DEBUG]: ExpansionUtilityBoat<593fac30>::OnEnterZone <4415.578125, 0.100000, 4180.250488>
+SCRIPT       : 21:41:12.179 [EXPANSION DEBUG]: Expansion_Landrover<c874700>::OnEnterZone <4255.503906, 10.630372, 4172.089355>
+SCRIPT       : 21:41:12.179 [EXPANSION DEBUG]: OffroadHatchback<593ef560>::OnEnterZone <4257.732422, 11.834748, 4199.812500>
+SCRIPT       : 21:41:12.179 [EXPANSION DEBUG]: CrSk_Hummer_H2_6x6<c879860>::OnEnterZone <4265.179199, 9.110116, 4162.547852>
+SCRIPT       : 21:41:12.179 [EXPANSION DEBUG]: OffroadHatchback<593f57d0>::OnEnterZone <4266.286133, 11.273293, 4192.932129>
+SCRIPT       : 21:41:12.179 [EXPANSION DEBUG]: ExpansionUAZ<c876fb0>::OnEnterZone <4273.280762, 10.402944, 4190.065918>
+SCRIPT       : 21:41:12.179 [EXPANSION DEBUG]: Sedan_02<593f49c0>::OnEnterZone <4289.143555, 7.555226, 4178.116699>
+SCRIPT       : 21:41:12.179 [EXPANSION DEBUG]: Truck_01_Covered<593ed940>::OnEnterZone <4287.393555, 8.042559, 4182.248535>
+SCRIPT       : [VPPAT] Player "MADness" (steamId=76561198968762750) connected to server!
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:1201110
+
+Function: 'LockLeatherSlots'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:276
+LeatherCrafting\scripts\4_World/dryingrack.c:258
+scripts/3_Game/tools\tools.c:599
+scripts/3_Game/tools\tools.c:289
+scripts/3_Game/tools\tools.c:403
+scripts/3_Game/dayzgame.c:2484
+GameLabs/Scripts/3_Game/3_Hooking/ьс*д.p3d:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:59
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:212
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:1204145
+
+Function: 'LockLeatherSlots'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:276
+LeatherCrafting\scripts\4_World/dryingrack.c:258
+scripts/3_Game/tools\tools.c:599
+scripts/3_Game/tools\tools.c:289
+scripts/3_Game/tools\tools.c:403
+scripts/3_Game/dayzgame.c:2484
+GameLabs/Scripts/3_Game/3_Hooking/ьс*д.p3d:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:59
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:212
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:1195769
+
+Function: 'LockLeatherSlots'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:276
+LeatherCrafting\scripts\4_World/dryingrack.c:258
+scripts/3_Game/tools\tools.c:599
+scripts/3_Game/tools\tools.c:289
+scripts/3_Game/tools\tools.c:403
+scripts/3_Game/dayzgame.c:2484
+GameLabs/Scripts/3_Game/3_Hooking/ьс*д.p3d:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:59
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:212
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:1206707
+
+Function: 'LockLeatherSlots'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:276
+LeatherCrafting\scripts\4_World/dryingrack.c:258
+scripts/3_Game/tools\tools.c:599
+scripts/3_Game/tools\tools.c:289
+scripts/3_Game/tools\tools.c:403
+scripts/3_Game/dayzgame.c:2484
+GameLabs/Scripts/3_Game/3_Hooking/ьс*д.p3d:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:59
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:212
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:1195399
+
+Function: 'LockLeatherSlots'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:276
+LeatherCrafting\scripts\4_World/dryingrack.c:258
+scripts/3_Game/tools\tools.c:599
+scripts/3_Game/tools\tools.c:289
+scripts/3_Game/tools\tools.c:403
+scripts/3_Game/dayzgame.c:2484
+GameLabs/Scripts/3_Game/3_Hooking/ьс*д.p3d:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:59
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:212
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:1195026
+
+Function: 'LockLeatherSlots'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:276
+LeatherCrafting\scripts\4_World/dryingrack.c:258
+scripts/3_Game/tools\tools.c:599
+scripts/3_Game/tools\tools.c:289
+scripts/3_Game/tools\tools.c:403
+scripts/3_Game/dayzgame.c:2484
+GameLabs/Scripts/3_Game/3_Hooking/ьс*д.p3d:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:59
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:212
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:1207870
+
+Function: 'LockLeatherSlots'
+Stack trace:
+LeatherCrafting\scripts\4_World/dryingrack.c:276
+LeatherCrafting\scripts\4_World/dryingrack.c:258
+scripts/3_Game/tools\tools.c:599
+scripts/3_Game/tools\tools.c:289
+scripts/3_Game/tools\tools.c:403
+scripts/3_Game/dayzgame.c:2484
+GameLabs/Scripts/3_Game/3_Hooking/ьс*д.p3d:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:59
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:212
+SCRIPT       : [CP] -> Sucessfully sent: MADness CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 21:43:21.390 [EXPANSION DEBUG]: ExpansionPartyData<64a371b0>::OnJoin party Pink Bunnies player MADness (ID OWXX6Y-5LFd-7A6ELi2o-QPO0kjmZUMZvMTKL0AQ_q0=)
+SCRIPT       : [VPPAT] Player "MADness" (steamId=76561198968762750) connected to server!
+SCRIPT       : [Permissions Manager] Admin (MADness) (76561198968762750) Successfully Logged in!
+SCRIPT       : 21:48:31.179 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 21:48:31.179 [EXPANSION DEBUG]: ExpansionAirdropContainer 246
+SCRIPT       : 21:48:31.179 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 251
+SCRIPT       : 21:48:31.179 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 256
+SCRIPT       : 21:48:31.179 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military 261
+SCRIPT       : 21:48:31.179 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - map is Chiemsee - size 10240
+SCRIPT       : 21:48:31.179 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <3048.843018, 1127.355469, 0.000000>
+SCRIPT       : 21:48:31.187 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 21:48:31.187 [EXPANSION DEBUG]: ExpansionAirdropContainer 246
+SCRIPT       : 21:48:31.187 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 251
+SCRIPT       : 21:48:31.187 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 256
+SCRIPT       : 21:48:31.187 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military 261
+SCRIPT       : 21:48:31.187 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - map is Chiemsee - size 10240
+SCRIPT       : 21:48:31.187 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <8743.079102, 1012.567871, 0.000000>
+SCRIPT       : [VPPAT] Player "Chasuf" (steamId=76561198004282474) connected to server!
+SCRIPT       : [CP] -> Sucessfully sent: Chasuf CP Plus Config!
