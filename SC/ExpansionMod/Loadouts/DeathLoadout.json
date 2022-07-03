@@ -11,7 +11,30 @@
             "SlotName": "Body",
             "Items": [
                 {
-                    "ClassName": "Raincoat_Pink",
+                    "ClassName": "Military_Sweater_Black",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Headwear",
+            "Items": [
+                {
+                    "ClassName": "WitchHood_Black",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -57,7 +80,7 @@
             "SlotName": "Legs",
             "Items": [
                 {
-                    "ClassName": "Latex_White_Leggings",
+                    "ClassName": "Latex_Leggings",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -80,7 +103,7 @@
             "SlotName": "Feet",
             "Items": [
                 {
-                    "ClassName": "High_Knee_Sneakers_Black",
+                    "ClassName": "CombatBoots_Black",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -123,10 +146,33 @@
             ]
         },
         {
+            "SlotName": "Face",
+            "Items": [
+                {
+                    "ClassName": "MVS_Balaclava_Wraith",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": []
+                }
+            ]
+        },
+        {
             "SlotName": "Hands",
             "Items": [
                 {
-                    "ClassName": "Bear_Pink",
+                    "ClassName": "TWP_Scythe",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
