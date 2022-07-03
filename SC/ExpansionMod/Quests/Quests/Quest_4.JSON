@@ -1,13 +1,12 @@
 {
     "ConfigVersion": 3,
-    "ID": 1,
-    "Type": 5,
-    "Title": "Tajná pošta",
+    "ID": 4,
+    "Type": 3,
+    "Title": "Zkontoluj přehradu",
     "Descriptions": [
-        "Šmarja chlape, jsi to ty? Tvoje jméno je %1 , že ano? Myslím, že už jsme spolu v minulosti obchodovali. To je jedno... Každopádně mám pro Tebe prácičku. Musíš neprodleně doručit tenhle dopis Lindě. Je to otázka života a smrti!",
-        "No na co ještě čekáš? Běž!"
+        "Dojdi se podívat na přehradu a zredukuj stavy infikovaných."
     ],
-    "ObjectiveText": "Doruč dopis pro Lindu.",
+    "ObjectiveText": "Zkontoluj přehradu.",
     "PreQuest": -1,
     "FollowUpQuest": 2,
     "QuestGiverID": 1,
@@ -26,8 +25,15 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 1,
-            "ObjectiveType": 5,
+            "ID": 4,
+            "ObjectiveType": 3,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 2,
+            "ObjectiveType": 2,
             "ObjectiveText": "",
             "TimeLimit": -1
         }
@@ -35,11 +41,11 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_RPK16Tan",
+            "ClassName": "TWP_AR15Aztec_mag_30Rnd",
             "Amount": 1
         },
         {
-            "ClassName": "TWP_RPK16tan_mag_100Rnd",
+            "ClassName": "TWP_AR15_Aztec",
             "Amount": 1
         }
     ],

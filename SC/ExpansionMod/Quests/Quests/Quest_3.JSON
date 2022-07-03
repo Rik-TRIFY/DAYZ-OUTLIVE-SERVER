@@ -1,13 +1,12 @@
 {
     "ConfigVersion": 3,
-    "ID": 1,
-    "Type": 5,
-    "Title": "Tajná pošta",
+    "ID": 3,
+    "Type": 3,
+    "Title": "Objev nepoznané",
     "Descriptions": [
-        "Šmarja chlape, jsi to ty? Tvoje jméno je %1 , že ano? Myslím, že už jsme spolu v minulosti obchodovali. To je jedno... Každopádně mám pro Tebe prácičku. Musíš neprodleně doručit tenhle dopis Lindě. Je to otázka života a smrti!",
-        "No na co ještě čekáš? Běž!"
+        "Slyšel jsem, že se na východě se rozkládá vesnička, která je téměř celá zatopená. Měl bys to jít prozkoumat. "
     ],
-    "ObjectiveText": "Doruč dopis pro Lindu.",
+    "ObjectiveText": "Objev zatopenou vesničku.",
     "PreQuest": -1,
     "FollowUpQuest": 2,
     "QuestGiverID": 1,
@@ -27,7 +26,7 @@
         {
             "ConfigVersion": 4,
             "ID": 1,
-            "ObjectiveType": 5,
+            "ObjectiveType": 3,
             "ObjectiveText": "",
             "TimeLimit": -1
         }
@@ -35,11 +34,11 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_RPK16Tan",
+            "ClassName": "TWP_P2000BlueGirl",
             "Amount": 1
         },
         {
-            "ClassName": "TWP_RPK16tan_mag_100Rnd",
+            "ClassName": "TWP_P2000BlueGirl_mag_16Rnd",
             "Amount": 1
         }
     ],

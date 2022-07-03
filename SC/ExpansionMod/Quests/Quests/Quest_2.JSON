@@ -4,10 +4,10 @@
     "Type": 5,
     "Title": "Tajná pošta",
     "Descriptions": [
-        "Šmarja chlape, jsi to ty? Tvoje jméno je %1 , že ano? Myslím, že už jsme spolu v minulosti obchodovali. To je jedno... Každopádně mám pro Tebe prácičku. Musíš neprodleně doručit tenhle dopis Lindě. Je to otázka života a smrti!",
+        "Šmarja chlape, jsi to ty? Tvoje jméno je %1 , že ano? Myslím, že už jsme spolu v minulosti obchodovali. To je jedno... Každopádně mám pro Tebe prácičku. Musíš neprodleně doručit tyhle léky Sethovi. Je to otázka života a smrti!",
         "No na co ještě čekáš? Běž!"
     ],
-    "ObjectiveText": "Doruč dopis pro Lindu.",
+    "ObjectiveText": "Doruč léky pro Setha.",
     "PreQuest": -1,
     "FollowUpQuest": 2,
     "QuestGiverID": 1,
@@ -26,7 +26,7 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 1,
+            "ID": 2,
             "ObjectiveType": 5,
             "ObjectiveText": "",
             "TimeLimit": -1
@@ -35,11 +35,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_RPK16Tan",
-            "Amount": 1
-        },
-        {
-            "ClassName": "TWP_RPK16tan_mag_100Rnd",
+            "ClassName": "CP_CannabisSeedsPackKush",
             "Amount": 1
         }
     ],

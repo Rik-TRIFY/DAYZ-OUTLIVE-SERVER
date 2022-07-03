@@ -43,7 +43,7 @@ Mám problém se vstáváním. Ráno se prostě ne a ne vzbudit. Nevěděl bys o
 
 
 DELIVERY (dorucovacie)
-Dones léky mému kamarádovi Petrovi. 
+// D_2 - Q_2 - Dones léky mému kamarádovi Sethovi. 
 Dones do vězení Denisovi jointy.
 Dones na letiště tenhle kanystr. 
 Mámu kamarádovi u Flae tradera došlo vápno, dones mu ho !
@@ -56,7 +56,7 @@ XY se rozbil chladič. Dones mu prosím nový.
 XY se na jeho autě vybila baterka. Dones mu tuhle nabíječku. 
 XY píchnul kolo a nemá klíč, dones mu ho. 
 XY se chystá uprchnout z vězení. Pomoz mu a dones mu klíčky od pout. 
-
+// D_1 - Q_01 -  Tenhle dopis musí neprodleně obdržet Linda. Dones jí ho.
 
 
 
@@ -77,14 +77,15 @@ Zabij 15 zombíků vidlema .
 Zabij 15 zombiků sekáčkem na maso.
 Zabij 15 zombiků paličkou na maso.
 Zabij 5 zombíků kopím.
+TA_2 - Q_4 Zabij 30 infikovaných v okolí přehrady. 
 
 
 
 TRAVEL (cestovatelske)
-x T_1 -  Objev Atlantidu.
-x T_2 - Podívej se na KrautInsel, prý tam vznikla nová vesnička. 
-x T_3 - Zajdi prosím kouknout na atomovou elektrárnu, dostaly se ke mě nějaké fámy o unikajícím toxickém plynu - zjisti, jak je to doopravdy. 
-Běž se podívat na přehradu a trochu tam zredukuj stavy infikovaných.
+// T_1 - Q_3 -  Objev Atlantidu.//
+ T_2 - Podívej se na KrautInsel, prý tam vznikla nová vesnička. 
+ T_3 - Zajdi prosím kouknout na atomovou elektrárnu, dostaly se ke mě nějaké fámy o unikajícím toxickém plynu - zjisti, jak je to doopravdy. 
+ T_4 - Q_4 - Běž se podívat na přehradu a trochu tam zredukuj stavy infikovaných.
 Běž navštívit vězení a zkontolovat, jestli jsou všichni vězni v celách.
 Už jsi byl na letišti? Běž se tam podívat!
 Navštiv Hunter Tradera, dlouho tě neviděl! 
@@ -120,3 +121,12 @@ NPC
 6 - Boris - Voják v bílém - vchod do PVP
 7 - Mirek - NBC - AtomKraftWerk
 8 - Tabule - u Hunter Tradera
+
+
+
+
+questy 
+Q1 -  Dones Lindě dopis
+Q2 - Dones Sethovi mast
+Q3 - objev Atlantidu
+Q4 - dojdi na přehradu a zabij tam 30 zombiku
