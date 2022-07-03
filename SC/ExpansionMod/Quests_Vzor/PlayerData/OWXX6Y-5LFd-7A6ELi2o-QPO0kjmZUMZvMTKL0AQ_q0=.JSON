@@ -1,0 +1,74 @@
+{
+    "ConfigVersion": 1,
+    "QuestDatas": [
+        {
+            "QuestID": 19,
+            "State": 3,
+            "Timestamp": -1,
+            "QuestObjectives": [
+                {
+                    "ObjectiveIndex": 0,
+                    "ObjectiveType": 2,
+                    "IsCompleted": 0,
+                    "IsActive": 1,
+                    "ObjectiveAmount": 10,
+                    "ObjectiveCount": 10,
+                    "ObjectivePosition": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "ActionState": 0,
+                    "TimeLimit": -1
+                }
+            ],
+            "LastUpdateTime": 1656769360
+        },
+        {
+            "QuestID": 20,
+            "State": 1,
+            "Timestamp": -1,
+            "QuestObjectives": [
+                {
+                    "ObjectiveIndex": 0,
+                    "ObjectiveType": 2,
+                    "IsCompleted": 0,
+                    "IsActive": 1,
+                    "ObjectiveAmount": 100,
+                    "ObjectiveCount": 40,
+                    "ObjectivePosition": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "ActionState": 0,
+                    "TimeLimit": -1
+                }
+            ],
+            "LastUpdateTime": 1656788103
+        },
+        {
+            "QuestID": 23,
+            "State": 1,
+            "Timestamp": -1,
+            "QuestObjectives": [
+                {
+                    "ObjectiveIndex": 0,
+                    "ObjectiveType": 10,
+                    "IsCompleted": 0,
+                    "IsActive": 1,
+                    "ObjectiveAmount": -1,
+                    "ObjectiveCount": -1,
+                    "ObjectivePosition": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "ActionState": 0,
+                    "TimeLimit": -1
+                }
+            ],
+            "LastUpdateTime": 1656780712
+        }
+    ]
+}
