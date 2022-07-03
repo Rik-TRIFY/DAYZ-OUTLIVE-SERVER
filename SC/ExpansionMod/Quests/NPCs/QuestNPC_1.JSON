@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 1,
     "ID": 1,
-    "ClassName": "ExpansionQuestNPCDenis",
+    "ClassName": "ExpansionQuestNPCPeter",
     "IsAI": 0,
     "Position": [
-        0.0,
-        0.0,
-        0.0
+        1658.33,
+        24.8282,
+        9967.71
     ],
     "Orientation": [
         0.0,
@@ -21,7 +21,7 @@
         25
     ],
     "NPCName": "Peter",
-    "DefaultNPCText": "Hmm?",
-    "NPCLoadoutFile": "NBCLoadout",
+    "DefaultNPCText": "Nazdar, co tu delas?",
+    "NPCLoadoutFile": "PrisonerLoadout",
     "IsStatic": 0
 }
