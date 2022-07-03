@@ -1,15 +1,15 @@
 {
     "ConfigVersion": 1,
-    "ID": 7,
-    "ClassName": "ExpansionQuestNPCMirek",
+    "ID": 8,
+    "ClassName": "ExpansionQuestBoardSmall",
     "IsAI": 0,
     "Position": [
-        3010.44,
-        24.5741,
-        8444.95
+        7177.79,
+        72.5975,
+        8120.68
     ],
     "Orientation": [
-        -104.78,
+        -154.531,
         0.0,
         -0.0
     ],
@@ -18,8 +18,8 @@
         5,
         8
     ],
-    "NPCName": "Mirek",
+    "NPCName": "Quest Board",
     "DefaultNPCText": "There is nothing to do here for you...",
-    "NPCLoadoutFile": "NBCLoadout",
-    "IsStatic": 0
+    "NPCLoadoutFile": "",
+    "IsStatic": 1
 }
