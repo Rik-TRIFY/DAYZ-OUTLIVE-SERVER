@@ -1,17 +1,16 @@
 {
     "ConfigVersion": 3,
-    "ID": 16,
+    "ID": 18,
     "Type": 4,
-    "Title": "Spánek jako v peřinkách",
+    "Title": "Oslava bez alkoholu",
     "Descriptions": [
-        "Na té trvdé zemi se tak špatně spí.... Navíc je tu zima a mráz... Pořád tu sněží, sníh netaje. Potřebuju něco, co mě v noci zahřeje. Dones mi kožešinku z bílého mědvěda",
-        "A nebo víš co...? Ušij mi z ní rovnou kobereček - na oplátku ti dám něco ze své výbavy."
+        "Jak známo - Po pivu se teprve člověk cítí, jak by se měl cítit před pivem! ... Víš jak jsem mluvila o té oslavě? Nu tak bych na ní potřebovala ještě trochu alkoholu. 6 piv a 2 vodky budou snad stačit. Kdybys nemohl sehnat vodku, myslím, že ti Naomi pomůže!"
     ],
-    "ObjectiveText": "Dones mi kobereček z medvěda.",
+    "ObjectiveText": "Dones mi 6 piv a 2 vodky",
     "PreQuest": -1,
     "FollowUpQuest": -1,
-    "QuestGiverID": 6,
-    "QuestTurnInID": 6,
+    "QuestGiverID": 8,
+    "QuestTurnInID": 8,
     "IsAchivement": 0,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -26,7 +25,14 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 408,
+            "ID": 409,
+            "ObjectiveType": 3,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 410,
             "ObjectiveType": 3,
             "ObjectiveText": "",
             "TimeLimit": -1
@@ -35,12 +41,8 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "MMG_MK_V_Armor_alpine",
-            "Amount": 1
-        },
-        {
-            "ClassName": "MMG_mk5_utility_pouch_alpine",
-            "Amount": 1
+            "ClassName": "ExpansionGoldBar",
+            "Amount": 3
         }
     ],
     "NeedToSelectReward": 0,
