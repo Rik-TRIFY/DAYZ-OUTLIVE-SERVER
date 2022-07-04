@@ -4,13 +4,13 @@
     "Type": 4,
     "Title": "Kdo si hraje nezlobí",
     "Descriptions": [
-        "Ty jo, to byly časy, když jsme pařili Tetris. Myslíš, že by se to dalo ještě sehnat?"
+        "Ty jo, to byly časy, když jsme pařili Tetris. Myslíš, že by se to dalo ještě sehnat? Přines mi 2, ať můžu hrát s někým."
     ],
     "ObjectiveText": "Zkus sehnat Tetris",
     "PreQuest": -1,
     "FollowUpQuest": -1,
-    "QuestGiverID": 1,
-    "QuestTurnInID": 2,
+    "QuestGiverID": 3,
+    "QuestTurnInID": 3,
     "IsAchivement": 0,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -25,7 +25,7 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 3,
+            "ID": 403,
             "ObjectiveType": 4,
             "ObjectiveText": "",
             "TimeLimit": -1
@@ -34,8 +34,8 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "Collectable_MemoryCard",
-            "Amount": 3
+            "ClassName": "Collectable_Bitcoin",
+            "Amount": 1
         }
     ],
     "NeedToSelectReward": 0,

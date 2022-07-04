@@ -6,14 +6,14 @@
     "Descriptions": [
         "Jak se říká - Když máte kladivo, všechny problémy se začnou podobat hřebíkům. - na, tady máš perlík a tvým úkolem je zabít jím 10 infikovaných. Hodně štěstí. P.S. pokud se osvědčíš, dostaneš lepší kladívko!"
     ],
-    "ObjectiveText": "Zabij 10 infikovaných perlíkem.",
-    "PreQuest": 1,
-    "FollowUpQuest": 3,
-    "QuestGiverID": 2,
-    "QuestTurnInID": 2,
+    "ObjectiveText": "Zabij 20 infikovaných perlíkem.",
+    "PreQuest": -1,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 10,
+    "QuestTurnInID": 10,
     "IsAchivement": 0,
     "Repeatable": 0,
-    "IsDailyQuest": 0,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
@@ -25,7 +25,7 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 1,
+            "ID": 201,
             "ObjectiveType": 2,
             "ObjectiveText": "",
             "TimeLimit": -1

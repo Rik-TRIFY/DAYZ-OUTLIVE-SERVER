@@ -8,9 +8,9 @@
     ],
     "ObjectiveText": "Dones mi růži",
     "PreQuest": -1,
-    "FollowUpQuest": 2,
-    "QuestGiverID": 1,
-    "QuestTurnInID": 2,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 6,
+    "QuestTurnInID": 8,
     "IsAchivement": 0,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -25,7 +25,7 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 2,
+            "ID": 402,
             "ObjectiveType": 4,
             "ObjectiveText": "",
             "TimeLimit": -1
@@ -35,7 +35,7 @@
     "Rewards": [
         {
             "ClassName": "GardenLime",
-            "Amount": 3
+            "Amount": 4
         }
     ],
     "NeedToSelectReward": 0,
