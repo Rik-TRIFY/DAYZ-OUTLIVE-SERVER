@@ -11,7 +11,7 @@
             "SlotName": "Body",
             "Items": [
                 {
-                    "ClassName": "MMG_tactical_shirt_alpine",
+                    "ClassName": "huntingjacket_spring",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -34,7 +34,7 @@
             "SlotName": "Headwear",
             "Items": [
                 {
-                    "ClassName": "MMG_tactical_helmet_alpine",
+                    "ClassName": "CowboyHat_green",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -57,53 +57,7 @@
             "SlotName": "Vest",
             "Items": [
                 {
-                    "ClassName": "MMG_MK_III_Armor_alpine",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": []
-                }
-            ]
-        },
-        {
-            "SlotName": "Hips",
-            "Items": [
-                {
-                    "ClassName": "MMG_falcon_b1_belt_alpine",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": []
-                }
-            ]
-        },
-        {
-            "SlotName": "Eyewear",
-            "Items": [
-                {
-                    "ClassName": "mmg_tac_googles_blue_black",
+                    "ClassName": "huntingvest",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -126,7 +80,7 @@
             "SlotName": "Legs",
             "Items": [
                 {
-                    "ClassName": "mmg_tactical_pants_alpine",
+                    "ClassName": "hunterpants_spring",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -149,7 +103,7 @@
             "SlotName": "Feet",
             "Items": [
                 {
-                    "ClassName": "MMG_boots_alpine",
+                    "ClassName": "combatboots_green",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -172,30 +126,7 @@
             "SlotName": "Gloves",
             "Items": [
                 {
-                    "ClassName": "mmg_tactical_gloves_alpine",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": []
-                }
-            ]
-        },
-        {
-            "SlotName": "Face",
-            "Items": [
-                {
-                    "ClassName": "MMG_facemask_alpine",
+                    "ClassName": "Fingerless_Gloves_Brown",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -218,7 +149,24 @@
             "SlotName": "Hands",
             "Items": [
                 {
-                    "ClassName": "TWP_M24Snow",
+                    "ClassName": "DeadRabbit",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Back",
+            "Items": [
+                {
+                    "ClassName": "huntingbag",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,

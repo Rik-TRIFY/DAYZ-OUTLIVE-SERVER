@@ -1,0 +1,44 @@
+{
+    "ConfigVersion": 3,
+    "ID": 13,
+    "Type": 4,
+    "Title": "Půl prasete",
+    "Descriptions": [
+        "S manželem plánujeme grilovačku pro pár kamarádů. Koupím od tebe vepřové steaky. Potřebuju jich alespoň 20. Dobře ti zaplatím. Hlavně mi prosímtě nenos steaky z divokého prasete, špatně se na grilu propečou!"
+    ],
+    "ObjectiveText": "Sežeň mi 20 vepřových steaků.",
+    "PreQuest": 1,
+    "FollowUpQuest": 3,
+    "QuestGiverID": 8,
+    "QuestTurnInID": 8,
+    "IsAchivement": 0,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 4,
+            "ID": 406,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionGoldNugget",
+            "Amount": 6
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}

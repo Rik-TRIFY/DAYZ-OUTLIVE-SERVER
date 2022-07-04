@@ -1,26 +1,26 @@
 {
     "ConfigVersion": 1,
     "ID": 8,
-    "ClassName": "ExpansionQuestBoardSmall",
+    "ClassName": "ExpansionQuestNPCIrena",
     "IsAI": 0,
     "Position": [
-        7177.79,
-        72.5975,
-        8120.68
+        7178.39,
+        71.3456,
+        8123.54
     ],
     "Orientation": [
-        -154.531,
+        -54.4271,
         0.0,
         -0.0
     ],
     "QuestIDs": [
-        3,
-        4,
-        5,
-        10
+        11,
+        12,
+        13,
+        14
     ],
-    "NPCName": "Quest Board",
+    "NPCName": "Irena",
     "DefaultNPCText": "There is nothing to do here for you...",
-    "NPCLoadoutFile": "",
-    "IsStatic": 1
+    "NPCLoadoutFile": "HunterLoadout",
+    "IsStatic": 0
 }

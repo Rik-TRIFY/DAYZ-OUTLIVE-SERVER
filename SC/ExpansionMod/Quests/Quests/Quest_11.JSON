@@ -1,0 +1,44 @@
+{
+    "ConfigVersion": 3,
+    "ID": 11,
+    "Type": 4,
+    "Title": "Bez černý?",
+    "Descriptions": [
+        "Chci překvapit manžela domácí griotkou, ale nesehnala jsem bezinky. Neviděls je někde? Dones mi jich alespoň 15. "
+    ],
+    "ObjectiveText": "Dones 15 bezinek.",
+    "PreQuest": 1,
+    "FollowUpQuest": 3,
+    "QuestGiverID": 8,
+    "QuestTurnInID": 8,
+    "IsAchivement": 0,
+    "Repeatable": 0,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 4,
+            "ID": 404,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionGoldNugget",
+            "Amount": 5
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}
