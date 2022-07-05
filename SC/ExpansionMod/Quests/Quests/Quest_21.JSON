@@ -1,0 +1,123 @@
+{
+    "ConfigVersion": 3,
+    "ID": 21,
+    "Type": 4,
+    "Title": "Růžová není jenom barva, je to styl!",
+    "Descriptions": [ "Ahoj hrdino! Chceš říct můj oblíbený citát?",
+    "Věřím v růžovou.",
+    "Věřím, že smích je nejlepší spalovač kalorií.",
+    "Věřím v líbání, v hodně líbání.",
+    "Věřím, že šťastné dívky jsou ty nejkrásnější dívky.",
+    "Věřím, že zítřek je novým začátkem, a věřím v zázraky. —  Audrey Hepburn",
+    "Běž, hledej, nakupuj, vyměňuj a sháněj! Zahrň mě růžovou a já se ti odměním! "
+    ],
+    "ObjectiveText": "Zahrň mě růžovou",
+    "PreQuest": -1,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 3,
+    "QuestTurnInID": 3,
+    "IsAchivement": 0,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 4,
+            "ID": 411,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 412,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 413,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 414,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 405,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 402,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 415,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 416,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "CP_CannabisBrickBlackFrost",
+            "Amount": 1
+        },
+        {
+            "ClassName": "mmg_gp_nvg_black",
+            "Amount": 1
+        },
+        {
+            "ClassName": "ExpansionGoldBar",
+            "Amount": 3
+        },
+        {
+            "ClassName": "TWP_HolyGrenade",
+            "Amount": 1
+        },
+        {
+            "ClassName": "TWP_ASW338",
+            "Amount": 1
+        },
+        {
+            "ClassName": "TWP_Ammo_338Lapua_Magnum",
+            "Amount": 1
+        },
+        {
+            "ClassName": "dog_shed_small_kit",
+            "Amount": 1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}
