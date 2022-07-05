@@ -1,24 +1,24 @@
 {
     "ConfigVersion": 1,
-    "ID": 9,
-    "ClassName": "ExpansionQuestNPCCyril",
+    "ID": 10,
+    "ClassName": "ExpansionQuestNPCFrida",
     "IsAI": 0,
     "Position": [
-        2663.12,
-        17.5434,
-        6029.2
+        8265.17,
+        15.2363,
+        4437.87
     ],
     "Orientation": [
-        -65.0555,
+        -67.6308,
         0.0,
         -0.0
     ],
     "QuestIDs": [
-        27,
-        28
+        5,
+        30
     ],
-    "NPCName": "Cyril",
+    "NPCName": "Frida",
     "DefaultNPCText": "There is nothing to do here for you...",
-    "NPCLoadoutFile": "MafiaLoadout",
+    "NPCLoadoutFile": "PoorLoadout",
     "IsStatic": 0
 }

@@ -1,20 +1,20 @@
 {
     "ConfigVersion": 3,
-    "ID": 5,
+    "ID": 29,
     "Type": 3,
-    "Title": "Podívej se na KrautInsel",
+    "Title": "Prozkoumej letiště",
     "Descriptions": [
-        "Dojdi se podívat na KrautInsel a zredukuj stavy infikovaných. Úkol odevzdej Frídě."
+        "Už jsi byl na letišti? Běž se tam podívat! Oliver ti dá tvou odměnu."
     ],
-    "ObjectiveText": "Zkontoluj Kraut Insel.",
+    "ObjectiveText": "Prozkoumej letiště",
     "PreQuest": -1,
     "FollowUpQuest": -1,
     "QuestGiverID": 1,
-    "QuestTurnInID": 5,
+    "QuestTurnInID": 4,
     "IsAchivement": 0,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
@@ -25,15 +25,8 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 302,
+            "ID": 308,
             "ObjectiveType": 3,
-            "ObjectiveText": "",
-            "TimeLimit": -1
-        },
-        {
-            "ConfigVersion": 4,
-            "ID": 203,
-            "ObjectiveType": 2,
             "ObjectiveText": "",
             "TimeLimit": -1
         }
@@ -41,7 +34,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "MMG_MK_III_Armor_black",
+            "ClassName": "Mag_CMAG_100Rnd",
             "Amount": 1
         }
     ],

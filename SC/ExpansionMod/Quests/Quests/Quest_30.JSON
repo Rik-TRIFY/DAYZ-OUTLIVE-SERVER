@@ -1,20 +1,20 @@
 {
     "ConfigVersion": 3,
-    "ID": 5,
-    "Type": 3,
-    "Title": "Podívej se na KrautInsel",
+    "ID": 30,
+    "Type": 5,
+    "Title": "Pomoz Frídě",
     "Descriptions": [
-        "Dojdi se podívat na KrautInsel a zredukuj stavy infikovaných. Úkol odevzdej Frídě."
+        "Frída už prý 2 dny nejedla. Dones jí prosím tuhle makrelu, ať tolik nestrádá."
     ],
-    "ObjectiveText": "Zkontoluj Kraut Insel.",
+    "ObjectiveText": "Pomoz Frídě",
     "PreQuest": -1,
     "FollowUpQuest": -1,
-    "QuestGiverID": 1,
-    "QuestTurnInID": 5,
+    "QuestGiverID": 5,
+    "QuestTurnInID": 10,
     "IsAchivement": 0,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
@@ -25,15 +25,8 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 302,
-            "ObjectiveType": 3,
-            "ObjectiveText": "",
-            "TimeLimit": -1
-        },
-        {
-            "ConfigVersion": 4,
-            "ID": 203,
-            "ObjectiveType": 2,
+            "ID": 506,
+            "ObjectiveType": 5,
             "ObjectiveText": "",
             "TimeLimit": -1
         }
@@ -41,7 +34,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "MMG_MK_III_Armor_black",
+            "ClassName": "Mag_CMAG_100Rnd",
             "Amount": 1
         }
     ],
