@@ -1,24 +1,24 @@
 {
     "ConfigVersion": 1,
-    "ID": 7,
-    "ClassName": "ExpansionQuestNPCMirek",
+    "ID": 8,
+    "ClassName": "ExpansionQuestNPCCyril",
     "IsAI": 0,
     "Position": [
-        3010.44,
-        24.5741,
-        8444.95
+        2663.12,
+        17.5434,
+        6029.2
     ],
     "Orientation": [
-        -104.78,
+        -65.0555,
         0.0,
         -0.0
     ],
     "QuestIDs": [
-        7,
-        25
+        27,
+        28
     ],
-    "NPCName": "Mirek",
+    "NPCName": "Cyril",
     "DefaultNPCText": "There is nothing to do here for you...",
-    "NPCLoadoutFile": "NBCLoadout",
+    "NPCLoadoutFile": "MafiaLoadout",
     "IsStatic": 0
 }
