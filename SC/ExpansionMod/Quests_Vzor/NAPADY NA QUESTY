@@ -27,12 +27,12 @@ Sakra! Mám poslední dobou to maso nějaké tvrdé. Dones mi prosím 3 paličky
 Potřeboval bych sekáček. Seženeš mi ho? 
 Světlice... Světlice... Potřebuju světlice... Alespoň 10... Nemáš? 
 Chybí mi do sbírky Polaroid fotka číslo 4, nemáš ji?
-Ztatil jsem USB. Nenašels ho? 
+//q32 Ztatil jsem USB. Nenašels ho? 
 Dones mi kuze z 8 zajicu. 
 // C8 Q16 - Dones mi koberec z polárního medvěda. 
 Miluju hranolky, ale nemůžu sehat brambory. Pomůžeš mi? 8 brambor by mělo stačit. 
 Zahrál bych si Zeldu, neseženeš mi ji? 
-Snažím se už týden zprovoznit počítač. Teď jsem přišel na to, že asi odešla RAMka, sežeň mi novou, zaplatím ti. 
+//q34 - Snažím se už týden zprovoznit počítač. Teď jsem přišel na to, že asi odešla RAMka, sežeň mi novou, zaplatím ti. 
 Snažím se už týden zprovoznit počítač. Teď jsem přišel na to, že asi odešla grafika, sežeň mi novou, zaplatím ti. 
 Sakra! Sakra! Sakra! Rozbil jsem přítelkyni helikoptéru a nemám Bitcoin na servis. Neprodáš mi jeden? 
 Už jsem zase píchnul a nemám klíč na kola! Dones mi jeden, prosím. 
@@ -77,7 +77,7 @@ TARGET (cielove)
 Zabij krávu perlíkem :D 
 Ukaž, že jsi chlap a zabij 8 zombíků holýma rukama.
 Zabij prase kladivem. 
-Zabij hnědého medvěda BK133. 
+// q 31  Zabij hnědého medvěda BK133. 
 Zabij 8 zajíců. 
 Zabij 100 zombíků kuší.
 Zabij 30 zombiků loveckým nožem.
@@ -121,14 +121,14 @@ TREASUREHUNT (hladanie pokladov)
 // Q 28 - GPU                            30.000-     Collectable_GPU
             SSD                                15.000-   Collectable_SSD
             SSDv2                            18.000-       Collectable_SSDV2
-            USB                            5.000-           Collectable_USB
+ // q 32           USB                            5.000-           Collectable_USB
             MemoryCard                    10.000-           Collectable_MemoryCard
             Tetris                            40.000-       Collectable_TetrisToy
-            Document (INTEL)                        10.000- Collectable_Intel
+//q 33            Document (INTEL)                        10.000- Collectable_Intel
             RetroToy                        4.000-          Collectable_RetroToy
-            Prívesok (s krížom)                5.000-       Collectable_CrossNecklace
-            Kapesné hodinky                7.000-           Collectable_PocketWatch
-            RAM                            8.000-           Collectable_RAM
+/ q 36            Prívesok (s krížom)                5.000-       Collectable_CrossNecklace
+//q 35            Kapesné hodinky                7.000-           Collectable_PocketWatch
+//q 34            RAM                            8.000-           Collectable_RAM
             Polaroid (set 4 fotky)                15.000    Collectable_Polaroid_One Collectable_Polaroid_Two Collectable_Polaroid_Three Collectable_Polaroid_Four
             Balíček Pokemon kartičiek        250.000-
             Gameboy DonkeyKong 2ks        5.000-            Collectable_GameBoy_DonkeyKong
