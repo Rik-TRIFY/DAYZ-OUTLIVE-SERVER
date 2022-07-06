@@ -1,0 +1,23 @@
+{
+    "ConfigVersion": 4,
+    "ID": 207,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Zabij hnědého medvěda BK133",
+    "TimeLimit": -1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1,
+    "Target": {
+        "Amount": 1,
+        "ClassNames": [
+            "Animal_UrsusArctos"
+        ],
+        "SpecialWeapon": 1,
+        "AllowedWeapons": [
+            "Mp133Shotgun"
+        ]
+    }
+}

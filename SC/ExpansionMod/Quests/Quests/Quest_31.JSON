@@ -1,20 +1,20 @@
 {
     "ConfigVersion": 3,
-    "ID": 28,
-    "Type": 4,
-    "Title": "28 - GPU",
+    "ID": 31,
+    "Type": 2,
+    "Title": "31 - Medvídek sem, medvídek tam...",
     "Descriptions": [
-        "Přines mi GPU"
+        "Zabij hnědého medvěda BK133"
     ],
-    "ObjectiveText": "Přines mi GPU",
+    "ObjectiveText": "Zabij hnědého medvěda pomocí BK133",
     "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 9,
-    "QuestTurnInID": 9,
+    "QuestGiverID": 8,
+    "QuestTurnInID": 8,
     "IsAchivement": 0,
     "Repeatable": 1,
-    "IsDailyQuest": 1,
-    "IsWeeklyQuest": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
@@ -25,17 +25,22 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 418,
-            "ObjectiveType": 4,
+            "ID": 207,
+            "ObjectiveType": 2,
             "ObjectiveText": "",
             "TimeLimit": -1
         }
     ],
-    "QuestItems": [],
+    "QuestItems": [
+        {
+            "ClassName": "Mp133Shotgun",
+            "Amount": 1
+        }
+    ],
     "Rewards": [
         {
-            "ClassName": "ExpansionGoldBar",
-            "Amount": 3
+            "ClassName": "Msp_Gunwall_Kit",
+            "Amount": 1
         }
     ],
     "NeedToSelectReward": 0,
