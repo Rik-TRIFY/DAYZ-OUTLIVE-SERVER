@@ -1,0 +1,44 @@
+{
+    "ConfigVersion": 3,
+    "ID": 41,
+    "Type": 5,
+    "Title": "Veselo za mřížemi",
+    "Descriptions": [
+        "Mám známého... Je to divný cápek. Celý život byl ve výkonu trestu a zvykl si na to tolik, že ani nyní, kdy je svět v této krizi ze své vězeňské cely nevychází. Běž a dones mu prosím nějakou trávu, ať mu není smutno."
+    ],
+    "ObjectiveText": "Doruč trávu pro Petra.",
+    "PreQuest": -1,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 8,
+    "QuestTurnInID": 1,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 4,
+            "ID": 507,
+            "ObjectiveType": 5,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "NailBox",
+            "Amount": 2
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}
