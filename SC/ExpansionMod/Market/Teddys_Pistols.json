@@ -364,13 +364,23 @@
               },
               {
                   "ClassName": "TWP_Taurus",
-                  "MaxPriceThreshold": 6500,
-                  "MinPriceThreshold": 6500,
+                  "MaxPriceThreshold": 4500,
+                  "MinPriceThreshold": 4500,
                   "SellPricePercent": 10,
                   "MaxStockThreshold": 1,
                   "MinStockThreshold": 1,
                   "SpawnAttachments": [],
                   "Variants": []
-                }
+                },
+                {
+                    "ClassName": "TWP_MagnumCompetitor",
+                    "MaxPriceThreshold": 4500,
+                    "MinPriceThreshold": 4500,
+                    "SellPricePercent": 10,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "SpawnAttachments": [],
+                    "Variants": []
+                  }
   ]
 }
