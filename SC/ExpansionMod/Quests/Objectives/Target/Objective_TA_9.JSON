@@ -1,17 +1,17 @@
 {
     "ConfigVersion": 4,
-    "ID": 203,
+    "ID": 209,
     "ObjectiveType": 2,
-    "ObjectiveText": "Zabij 20 infikovaných obyvatel Kraut Inselu.",
+    "ObjectiveText": "Zabij 35 infikovaných",
     "TimeLimit": -1,
     "Position": [
-        8231.0,
-        42.0,
-        4378.0
+        4657.0,
+        21.0,
+        5231.0
     ],
-    "MaxDistance": 150,
+    "MaxDistance": 250,
     "Target": {
-        "Amount": 20,
+        "Amount": 35,
         "ClassNames": [
             "ZmbM_CitizenASkinny_Base",
             "ZmbM_CitizenASkinny_LT_Base",
@@ -78,15 +78,12 @@
             "ZmbF_SurvivorNormal_LT_Base",
             "ZmbF_VillagerOld_Base",
             "ZmbF_VillagerOld_LT_Base",
-            "ZmbM_usSoldier_normal_Woodland",
-            "ZmbM_SoldierNormal",
-            "ZmbM_usSoldier_normal_Desert",
-            "ZmbM_PatrolNormal_PautRev",
-            "ZmbM_PatrolNormal_Autumn",
-            "ZmbM_PatrolNormal_Flat",
-            "ZmbM_PatrolNormal_Summer",
-            "ZmbM_NBC_Grey",
+            "ZmbM_PatrolNormal_Base",
+            "ZmbM_Soldier_Base",
+            "ZmbM_SoldierNormal_Base",
+            "ZmbM_usSoldier_normal_Base",
             "ZmbM_NBC_Yellow",
+            "ZmbM_NBC_Grey",
             "ZmbM_PatrolNormal_Autumn",
             "ZmbM_usSoldier_Heavy_Woodland",
             "ZmbM_usSoldier_Officer_Desert"

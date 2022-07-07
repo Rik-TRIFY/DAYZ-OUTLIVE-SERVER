@@ -1,0 +1,48 @@
+{
+    "ConfigVersion": 3,
+    "ID": 43,
+    "Type": 2,
+    "Title": "43 - S tím kempem jsou pořád potíže",
+    "Descriptions": [
+        "V Refugi Campu už je zase přespříliš infikovaných. Místo toho aby to byl kemp pro přeživší, tak se tam množí infikovaní! Bež s tím něco udělat."
+    ],
+    "ObjectiveText": "Očisti Camp Refugi.",
+    "PreQuest": 21,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 5,
+    "QuestTurnInID": 5,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+       {
+            "ConfigVersion": 4,
+            "ID": 209,
+            "ObjectiveType": 2,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TWP_FRF2BlackDragon",
+            "Amount": 1
+        },
+        {
+            "ClassName": "TWP_FRF2BlackDragon_mag_10Rnd",
+            "Amount": 1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}
