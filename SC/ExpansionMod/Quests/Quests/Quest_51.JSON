@@ -1,0 +1,44 @@
+{
+    "ConfigVersion": 3,
+    "ID": 51,
+    "Type": 4,
+    "Title": "51 -  SSDv2",
+    "Descriptions": [
+        "Přines mi SSDv2!"
+    ],
+    "ObjectiveText": "Přines mi SSDv2",
+    "PreQuest": 21,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 9,
+    "QuestTurnInID": 9,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 4,
+            "ID": 435,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionGoldNugget",
+            "Amount": 180
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}
