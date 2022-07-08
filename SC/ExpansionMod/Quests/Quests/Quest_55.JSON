@@ -1,0 +1,49 @@
+{
+    "ConfigVersion": 3,
+    "ID": 55,
+    "Type": 2,
+    "Title": "55 - Multifunkční vidle",
+    "Descriptions": [
+        "A pak že jsou vidle dobré jen na hnůj. Tvým úkolem je zabít jimi 15 infikovaných. Hodně štěstí."
+    ],
+    "ObjectiveText": "Zabij 15 infikovaných vidlemi.",
+    "PreQuest": 21,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 10,
+    "QuestTurnInID": 10,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 4,
+            "ID": 210,
+            "ObjectiveType": 2,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [
+        {
+            "ClassName": "Pitchfork",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "Lockpick",
+            "Amount": 1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}

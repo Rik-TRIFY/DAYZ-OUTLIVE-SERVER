@@ -1,0 +1,44 @@
+{
+    "ConfigVersion": 3,
+    "ID": 56,
+    "Type": 5,
+    "Title": "56 - Zas ta Frída",
+    "Descriptions": [
+        "No hádej co.... Frída už má zase hlad. Buď tak hodný a doruč ji prosímtě tenhle košík s jídlem."
+    ],
+    "ObjectiveText": "Doruč zásilku Frídě.",
+    "PreQuest": 21,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 8,
+    "QuestTurnInID": 10,
+    "IsAchivement": 0,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 4,
+            "ID": 508,
+            "ObjectiveType": 5,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "Msp_MilitaryCrate_Grey",
+            "Amount": 1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}
