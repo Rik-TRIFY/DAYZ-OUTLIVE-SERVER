@@ -1,0 +1,202 @@
+{
+    "m_Version": 7,
+    "SpawnLocations": [
+        {
+            "Name": "Woods",
+            "Positions": [
+                [
+                    7695.17626953125,
+                    109.58570861816406,
+                    8274.57421875
+                ],
+                [
+                    7806.8583984375,
+                    108.95684814453125,
+                    7918.46875
+                ],
+                [
+                    7519.05419921875,
+                    101.60570526123047,
+                    7859.42919921875
+                ],
+                [
+                    7394.6259765625,
+                    95.5753402709961,
+                    8126.52880859375
+                ],
+                [
+                    8013.90673828125,
+                    99.15043640136719,
+                    7958.1083984375
+                ],
+                [
+                    7971.34033203125,
+                    95.09745025634766,
+                    7634.94775390625
+                ],
+                [
+                    7747.353515625,
+                    104.65230560302735,
+                    7446.14697265625
+                ],
+                [
+                    7740.39501953125,
+                    105.16558837890625,
+                    7781.51123046875
+                ],
+                [
+                    7586.498046875,
+                    114.43054962158203,
+                    7909.26123046875
+                ],
+                [
+                    7489.01123046875,
+                    104.66510009765625,
+                    8481.0927734375
+                ],
+                [
+                    7583.57080078125,
+                    122.58345031738281,
+                    8777.2763671875
+                ],
+                [
+                    7770.70361328125,
+                    104.02501678466797,
+                    8580.9013671875
+                ],
+                [
+                    7681.1484375,
+                    116.99626159667969,
+                    8910.384765625
+                ],
+                [
+                    7812.64208984375,
+                    122.6773452758789,
+                    8827.9814453125
+                ],
+                [
+                    7947.31005859375,
+                    120.65209197998047,
+                    8844.392578125
+                ],
+                [
+                    8217.591796875,
+                    85.40860748291016,
+                    8743.6728515625
+                ],
+                [
+                    8079.2158203125,
+                    71.1496353149414,
+                    8437.955078125
+                ],
+                [
+                    8141.91650390625,
+                    60.72209548950195,
+                    8174.6572265625
+                ]
+            ],
+            "UseCooldown": 1
+        }
+    ],
+    "StartingClothing": {
+        "EnableCustomClothing": 1,
+        "SetRandomHealth": 1,
+        "Headgear": [],
+        "Glasses": [],
+        "Masks": [],
+        "Tops": [
+            "TShirt_Green",
+            "TShirt_Blue",
+            "TShirt_Black",
+            "TShirt_Beige",
+            "TShirt_Red",
+            "TShirt_OrangeWhiteStripes",
+            "TShirt_White",
+            "TShirt_Red",
+            "TShirt_Grey",
+            "TShirt_RedBlackStripes"
+        ],
+        "Vests": [],
+        "Gloves": [],
+        "Pants": [
+            "CanvasPants_Beige",
+            "CanvasPants_Blue",
+            "CanvasPants_Grey",
+            "CanvasPants_Red",
+            "CanvasPants_Violet",
+            "CanvasPantsMidi_Beige",
+            "CanvasPantsMidi_Blue",
+            "CanvasPantsMidi_Grey",
+            "CanvasPantsMidi_Red",
+            "CanvasPantsMidi_Violet"
+        ],
+        "Belts": [],
+        "Shoes": [
+            "AthleticShoes_Blue",
+            "AthleticShoes_Grey",
+            "AthleticShoes_Brown",
+            "AthleticShoes_Green",
+            "AthleticShoes_Black"
+        ],
+        "Armbands": [],
+        "Backpacks": [
+            "TaloonBag_Blue",
+            "TaloonBag_Green",
+            "TaloonBag_Orange",
+            "TaloonBag_Violet"
+        ]
+    },
+    "EnableSpawnSelection": 0,
+    "SpawnOnTerritory": 0,
+    "StartingGear": {
+        "EnableStartingGear": 1,
+        "ApplyEnergySources": 1,
+        "SetRandomHealth": 1,
+        "UpperGear": [
+            {
+                "ClassName": "Rag",
+                "Quantity": 4,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Apple",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Chemlight_White",
+                "Quantity": -1,
+                "Attachments": []
+            }
+        ],
+        "PantsGear": [],
+        "BackpackGear": [],
+        "VestGear": [],
+        "PrimaryWeapon": {},
+        "SecondaryWeapon": {}
+    },
+    "UseLoadouts": 0,
+    "MaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "FemaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "SpawnHealthValue": 100.0,
+    "SpawnEnergyValue": 2000.0,
+    "SpawnWaterValue": 2000.0,
+    "EnableRespawnCooldowns": 1,
+    "RespawnCooldown": 120,
+    "TerritoryRespawnCooldown": 240,
+    "PunishMultispawn": 1,
+    "PunishCooldown": 120,
+    "PunishTimeframe": 300,
+    "CreateDeathMarker": 1,
+    "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
+}
