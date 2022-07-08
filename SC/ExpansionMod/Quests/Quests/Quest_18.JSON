@@ -12,7 +12,7 @@
     "QuestGiverID": 8,
     "QuestTurnInID": 8,
     "IsAchivement": 0,
-    "Repeatable": 1,
+    "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 1,
     "CancelQuestOnPlayerDeath": 1,
@@ -42,7 +42,7 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldBar",
-            "Amount": 3
+            "Amount": 2
         }
     ],
     "NeedToSelectReward": 0,
