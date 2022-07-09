@@ -1,0 +1,44 @@
+{
+    "ConfigVersion": 3,
+    "ID": 57,
+    "Type": 4,
+    "Title": "57 -  Kniha džunglí",
+    "Descriptions": [
+        "Jak dlouho sis nepřečetl žádnou knížku? Je tu strašná nuda. Pořád jen samí infikovaní, nálety toxických bomb... Utekl bych do nějakého fantastického světa. Zkus mi sehnat Knihu džunglí - byla to v dětství má nejoblíbenější kniha."
+    ],
+    "ObjectiveText": "Přines mi Knihu džunglí",
+    "PreQuest": 21,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 11,
+    "QuestTurnInID": 11,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 4,
+            "ID": 440,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "dog_bowl",
+            "Amount": 1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}

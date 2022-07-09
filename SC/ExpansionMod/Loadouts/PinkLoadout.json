@@ -31,10 +31,33 @@
             ]
         },
         {
+            "SlotName": "Melee",
+            "Items": [
+                {
+                    "ClassName": "SVD_Pink",
+                    "Chance": 0.800000011920929,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": []
+                }
+            ]
+        },
+        {
             "SlotName": "Eyewear",
             "Items": [
                 {
-                    "ClassName": "TWP_MiniReaper",
+                    "ClassName": "AviatorGlasses",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
