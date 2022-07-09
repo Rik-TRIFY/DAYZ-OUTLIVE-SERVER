@@ -2657,9 +2657,9 @@
     </type>
 	<!-- LAUNCHERS -->
 	<type name="ExpansionRPG7">
-        <nominal>3</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
-        <restock>43200</restock>
+        <restock>3600</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2671,9 +2671,9 @@
         <value name="Tier4"/>
     </type>
 	<type name="ExpansionLAW">
-        <nominal>3</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
-        <restock>43200</restock>
+        <restock>3600</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2741,7 +2741,7 @@
 	<type name="Expansion_M9">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>43200</restock>
+        <restock>1800</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2756,7 +2756,7 @@
 	<type name="Expansion_Longhorn">
         <nominal>12</nominal>
         <lifetime>10800</lifetime>
-        <restock>43200</restock>
+        <restock>1800</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2770,7 +2770,7 @@
     </type>
 	<!-- SUBMACHINE GUNS -->
 	<type name="Expansion_G36">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>3600</restock>
         <min>2</min>
@@ -2784,7 +2784,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="Expansion_MPX">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>2</min>
@@ -2800,7 +2800,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="Expansion_MP5">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>2</min>
@@ -2816,7 +2816,7 @@
         <value name="Tier1"/>
     </type>
 	<type name="Expansion_MP5SD">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -2862,7 +2862,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="Expansion_Kedr">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>900</restock>
         <min>3</min>
@@ -2878,7 +2878,7 @@
         <value name="Tier3"/>
     </type>
 	<type name="Expansion_VityazSN">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>1200</restock>
         <min>3</min>
@@ -2895,7 +2895,7 @@
     </type>
 	<!-- ASSAULT RIFLES -->
 	<type name="Expansion_M16">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>3600</restock>
         <min>2</min>
@@ -2910,7 +2910,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Expansion_M1A">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>3600</restock>
         <min>2</min>
@@ -2925,7 +2925,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Expansion_M14">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -2941,7 +2941,7 @@
     </type>
 	<!-- RIFLES -->
 	<type name="Expansion_DT11">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>2</min>
@@ -3507,8 +3507,8 @@
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>1</min>
-        <quantmin>1</quantmin>
-        <quantmax>300</quantmax>
+        <quantmin>10</quantmin>
+        <quantmax>30</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
@@ -3528,7 +3528,7 @@
         <restock>1800</restock>
         <min>1</min>
         <quantmin>10</quantmin>
-        <quantmax>300</quantmax>
+        <quantmax>30</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>

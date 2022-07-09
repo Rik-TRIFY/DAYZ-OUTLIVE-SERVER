@@ -386,7 +386,7 @@
         <tag name="floor" />
     </type>
     <type name="Msp_AmmoCrate">
-        <nominal>3</nominal>
+        <nominal>10</nominal>
         <lifetime>3888000</lifetime>
         <restock>3400</restock>
         <min>1</min>
@@ -400,7 +400,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_MedievalChest">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>4800</restock>
         <min>1</min>
@@ -2136,7 +2136,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_WoodenTable_Kit">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>21800</lifetime>
         <restock>21800</restock>
         <min>1</min>

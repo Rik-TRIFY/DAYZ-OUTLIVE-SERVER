@@ -3,7 +3,7 @@
     <!-- Vanilla Tweaks -->
     <event name="VehicleHatchback02">
         <nominal>0</nominal>
-        <min>1</min>
+        <min>0</min>
         <max>0</max>
         <lifetime>300</lifetime>
         <restock>300</restock>
@@ -20,7 +20,7 @@
     </event>
     <event name="VehicleTruck01">
         <nominal>0</nominal>
-        <min>1</min>
+        <min>0</min>
         <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
@@ -74,7 +74,7 @@
     </event>
 	<event name="VehicleVodnik">
         <nominal>0</nominal>
-        <min>1</min>
+        <min>0</min>
         <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
@@ -91,7 +91,7 @@
     </event>
 	<event name="VehicleBus">
         <nominal>0</nominal>
-        <min>1</min>
+        <min>0</min>
         <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
@@ -130,7 +130,7 @@
 	<!-- HELICOPTERS -->
 	<event name="VehicleMH6Helicopter">
         <nominal>0</nominal>
-        <min>1</min>
+        <min>0</min>
         <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
@@ -161,7 +161,7 @@
     </event>
 	<event name="VehicleMerlinHelicopter">
         <nominal>0</nominal>
-        <min>1</min>
+        <min>0</min>
         <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
@@ -183,7 +183,7 @@
     </event>
 	<event name="VehicleUh1hHelicopter">
         <nominal>0</nominal>
-        <min>1</min>
+        <min>0</min>
         <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
@@ -204,7 +204,7 @@
 	<!-- BOATS -->
 	<event name="VehicleUtilityBoat">
         <nominal>0</nominal>
-        <min>1</min>
+        <min>0</min>
         <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
@@ -221,7 +221,7 @@
     </event>
 	<event name="VehicleZodiacBoat">
         <nominal>0</nominal>
-        <min>1</min>
+        <min>0</min>
         <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
