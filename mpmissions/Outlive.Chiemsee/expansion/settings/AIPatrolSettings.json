@@ -8,7 +8,7 @@
     "ObjectPatrols": [
         {
             "Faction": "West",
-            "LoadoutFile": "",
+            "LoadoutFile": "WestLoadout",
             "NumberOfAI": -3,
             "Behaviour": "ALTERNATE",
             "Speed": "WALK",
@@ -25,7 +25,7 @@
         },
         {
             "Faction": "East",
-            "LoadoutFile": "",
+            "LoadoutFile": "EastLoadout",
             "NumberOfAI": -3,
             "Behaviour": "ALTERNATE",
             "Speed": "WALK",
@@ -112,7 +112,7 @@
     "Patrols": [
         {
             "Faction": "West",
-            "LoadoutFile": "",
+            "LoadoutFile": "WestLoadout",
             "NumberOfAI": 3,
             "Behaviour": "ALTERNATE",
             "Speed": "WALK",
@@ -128,25 +128,25 @@
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6137.18017578125,
-                    8.18280029296875,
-                    14667.2998046875
+                    2408.889893,
+                    29.400200,
+                    7279.649902
                 ],
                 [
-                    6127.64990234375,
-                    8.159799575805664,
-                    14655.7001953125
+                    2426.030762,
+                    29.400177,
+                    7251.519043
                 ],
                 [
-                    6127.18994140625,
-                    6.345180034637451,
-                    14647.099609375
+                    2430.185791,
+                    29.400177,
+                    7174.684570
                 ]
             ]
         },
         {
-            "Faction": "East",
-            "LoadoutFile": "",
+            "Faction": "West",
+            "LoadoutFile": "WestLoadout",
             "NumberOfAI": 3,
             "Behaviour": "ALTERNATE",
             "Speed": "WALK",
@@ -162,19 +162,14 @@
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6167.18017578125,
-                    8.18280029296875,
-                    14667.2998046875
+                    2392.828369,
+                    29.400181,
+                    7175.423828
                 ],
                 [
-                    6127.64990234375,
-                    8.159799575805664,
-                    14655.7001953125
-                ],
-                [
-                    6127.18994140625,
-                    6.345180034637451,
-                    14647.099609375
+                    2476.976807,
+                    29.400171,
+                    7182.166992
                 ]
             ]
         },
