@@ -113,7 +113,7 @@
         {
             "Faction": "West",
             "LoadoutFile": "WestLoadout",
-            "NumberOfAI": 3,
+            "NumberOfAI": -3,
             "Behaviour": "ALTERNATE",
             "Speed": "WALK",
             "UnderThreatSpeed": "SPRINT",
@@ -147,8 +147,8 @@
         {
             "Faction": "West",
             "LoadoutFile": "WestLoadout",
-            "NumberOfAI": 3,
-            "Behaviour": "ALTERNATE",
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
             "Speed": "WALK",
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
@@ -162,22 +162,17 @@
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    2392.828369,
-                    29.400181,
-                    7175.423828
-                ],
-                [
-                    2476.976807,
-                    29.400171,
-                    7182.166992
+                    233.748993,
+                    363.946991,
+                    4819.459961
                 ]
             ]
         },
         {
             "Faction": "East",
-            "LoadoutFile": "",
-            "NumberOfAI": 4,
-            "Behaviour": "ALTERNATE",
+            "LoadoutFile": "EastLoadout",
+            "NumberOfAI": -2,
+            "Behaviour": "HALT",
             "Speed": "JOG",
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
@@ -191,28 +186,18 @@
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    13342.3759765625,
-                    27.020343780517579,
-                    11228.2255859375
-                ],
-                [
-                    13469.0693359375,
-                    11.28278636932373,
-                    11163.26171875
-                ],
-                [
-                    13567.7626953125,
-                    6.128973007202148,
-                    11127.0673828125
+                    89.572998,
+                    395.148010,
+                    5312.270020
                 ]
             ]
         },
         {
-            "Faction": "Raiders",
-            "LoadoutFile": "",
-            "NumberOfAI": 1,
-            "Behaviour": "ALTERNATE",
-            "Speed": "SPRINT",
+            "Faction": "East",
+            "LoadoutFile": "EastLoadout",
+            "NumberOfAI": -2,
+            "Behaviour": "HALT",
+            "Speed": "JOG",
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
@@ -225,19 +210,105 @@
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    7332.3876953125,
-                    5.71245002746582,
-                    2651.121337890625
-                ],
+                    312.761993,
+                    408.042999,
+                    5835.919922
+                ]
+            ]
+        },
+        {
+            "Faction": "East",
+            "LoadoutFile": "EastLoadout",
+            "NumberOfAI": -2,
+            "Behaviour": "HALT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
                 [
-                    7632.80322265625,
-                    5.507638931274414,
-                    3075.661865234375
-                ],
+                    553.017029,
+                    458.067993,
+                    7648.720215
+                ]
+            ]
+        },
+        {
+            "Faction": "East",
+            "LoadoutFile": "EastLoadout",
+            "NumberOfAI": -2,
+            "Behaviour": "HALT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
                 [
-                    7621.01318359375,
-                    5.8920488357543949,
-                    3083.05322265625
+                    553.017029,
+                    458.067993,
+                    7648.720215
+                ]
+            ]
+        },
+        {
+            "Faction": "East",
+            "LoadoutFile": "EastLoadout",
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    1356.64,
+                    12.6302,
+                    9912.20215
+                ]
+            ]
+        },
+        {
+            "Faction": "East",
+            "LoadoutFile": "EastLoadout",
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    8278.8,
+                    8.208,
+                    784.528
                 ]
             ]
         }
