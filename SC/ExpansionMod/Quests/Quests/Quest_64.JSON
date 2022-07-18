@@ -1,20 +1,20 @@
 {
     "ConfigVersion": 3,
-    "ID": 21,
+    "ID": 64,
     "Type": 4,
-    "Title": "21 - Růžová není jenom barva, je to styl!",
-    "Descriptions": [ 
-        "Věřím v růžovou. Dones mi tedy těhle pár věcí a já se ti odměním!"
+    "Title": "64 -  Polaroid Photos",
+    "Descriptions": [
+        "Kdysi jsem s přáteli udělal pár fotografií - celkem 4, ale někde jsem je vytratil. Pomůžeš mi je najít?"
     ],
-    "ObjectiveText": "Zahrň mě růžovou",
-    "PreQuest": -1,
+    "ObjectiveText": "Polaroid Photos",
+    "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 3,
-    "QuestTurnInID": 3,
+    "QuestGiverID": 9,
+    "QuestTurnInID": 9,
     "IsAchivement": 0,
-    "Repeatable": 0,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
@@ -25,21 +25,28 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 412,
+            "ID": 445,
             "ObjectiveType": 4,
             "ObjectiveText": "",
             "TimeLimit": -1
         },
         {
             "ConfigVersion": 4,
-            "ID": 411,
+            "ID": 446,
             "ObjectiveType": 4,
             "ObjectiveText": "",
             "TimeLimit": -1
         },
         {
             "ConfigVersion": 4,
-            "ID": 416,
+            "ID": 447,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 448,
             "ObjectiveType": 4,
             "ObjectiveText": "",
             "TimeLimit": -1
@@ -49,7 +56,11 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "dog_shed_small_kit",
+            "ClassName": "ExpansionGoldNugget",
+            "Amount": 50
+        },
+        {
+            "ClassName": "ExpansionGoldBar",
             "Amount": 1
         }
     ],
