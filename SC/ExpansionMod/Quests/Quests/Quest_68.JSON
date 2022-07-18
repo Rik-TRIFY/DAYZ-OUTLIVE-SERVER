@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 3,
-    "ID": 67,
+    "ID": 68,
     "Type": 4,
-    "Title": "67 -  Směna",
+    "Title": "68 -  Sbírka telefonů",
     "Descriptions": [
-        "Vyměním s tebou těchto pár věcí za Bitcoin"
+        "Jsem vášnivým sběratelem telefonů. Slyšel jsem, že se jich pár po mapě válí. Dones mi od každého jeden."
     ],
-    "ObjectiveText": "Přines mi tyhle věci",
+    "ObjectiveText": "Sbírka telefonů",
     "PreQuest": 21,
     "FollowUpQuest": -1,
     "QuestGiverID": 9,
@@ -25,14 +25,35 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 449,
+            "ID": 450,
             "ObjectiveType": 4,
             "ObjectiveText": "",
             "TimeLimit": -1
         },
         {
             "ConfigVersion": 4,
-            "ID": 419,
+            "ID": 451,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 452,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 453,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 454,
             "ObjectiveType": 4,
             "ObjectiveText": "",
             "TimeLimit": -1
@@ -42,8 +63,8 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "Collectable_Bitcoin",
-            "Amount": 1
+            "ClassName": "ExpansionGoldBar",
+            "Amount": 3
         }
     ],
     "NeedToSelectReward": 0,

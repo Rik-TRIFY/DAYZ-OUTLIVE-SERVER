@@ -123,6 +123,17 @@
                 "Dogtag_Granite",
                 "Dogtag_Cobalt"
             ]
+        },
+        {
+            "ClassName": "Collectable_Bitcoin",
+            "MaxPriceThreshold": 105000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": 90,
+            "MaxStockThreshold": 6,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
