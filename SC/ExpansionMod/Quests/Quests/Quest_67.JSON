@@ -1,20 +1,20 @@
 {
     "ConfigVersion": 3,
-    "ID": 5,
-    "Type": 3,
-    "Title": "5 - Podívej se na KrautInsel",
+    "ID": 67,
+    "Type": 4,
+    "Title": "67 -  Směna",
     "Descriptions": [
-        "Dojdi se podívat na KrautInsel a zredukuj stavy infikovaných. Úkol odevzdej Frídě - bydlí v chatrči na KrautInselu."
+        "Vyměním s tebou těchto pár věcí za Bitcoin"
     ],
-    "ObjectiveText": "Zkontoluj Kraut Insel.",
-    "PreQuest": -1,
+    "ObjectiveText": "Přines mi tyhle věci",
+    "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 1,
-    "QuestTurnInID": 10,
+    "QuestGiverID": 9,
+    "QuestTurnInID": 9,
     "IsAchivement": 0,
-    "Repeatable": 0,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
@@ -25,23 +25,31 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 302,
-            "ObjectiveType": 3,
+            "ID": 418,
+            "ObjectiveType": 4,
             "ObjectiveText": "",
             "TimeLimit": -1
         },
         {
             "ConfigVersion": 4,
-            "ID": 203,
-            "ObjectiveType": 2,
+            "ID": 418,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 419,
+            "ObjectiveType": 4,
             "ObjectiveText": "",
             "TimeLimit": -1
         }
+
     ],
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "MMG_MK_III_Armor_black",
+            "ClassName": "Collectable_Bitcoin",
             "Amount": 1
         }
     ],

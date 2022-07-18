@@ -1,20 +1,20 @@
 {
     "ConfigVersion": 3,
-    "ID": 18,
+    "ID": 66,
     "Type": 4,
-    "Title": "18 - Oslava bez alkoholu",
+    "Title": "66 -  Prý chceš Bitcoin",
     "Descriptions": [
-        "Jak známo - Po pivu se teprve člověk cítí, jak by se měl cítit před pivem! ... Víš jak jsem mluvila o té oslavě? Nu tak bych na ní potřebovala ještě trochu alkoholu. 6 piv a 2 vodky budou snad stačit. Kdybys nemohl sehnat vodku, myslím, že ti Naomi pomůže!"
+        "Vyměním s tebou těchto pár věcí za Bitcoin"
     ],
-    "ObjectiveText": "Dones mi 6 piv a 2 vodky",
-    "PreQuest": -1,
+    "ObjectiveText": "Přines mi tyhle věci",
+    "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 8,
-    "QuestTurnInID": 8,
+    "QuestGiverID": 9,
+    "QuestTurnInID": 9,
     "IsAchivement": 0,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
@@ -25,24 +25,39 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 409,
+            "ID": 435,
             "ObjectiveType": 4,
             "ObjectiveText": "",
             "TimeLimit": -1
         },
         {
             "ConfigVersion": 4,
-            "ID": 410,
+            "ID": 421,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 418,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 4,
+            "ID": 420,
             "ObjectiveType": 4,
             "ObjectiveText": "",
             "TimeLimit": -1
         }
+
     ],
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "ExpansionGoldBar",
-            "Amount": 2
+            "ClassName": "Collectable_Bitcoin",
+            "Amount": 1
         }
     ],
     "NeedToSelectReward": 0,

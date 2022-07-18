@@ -4,11 +4,11 @@
     "Type": 3,
     "Title": "3 - Objev nepoznané",
     "Descriptions": [
-        "Slyšel jsem, že se na východě se rozkládá vesnička, která je téměř celá zatopená. Měl bys to jít prozkoumat. "
+        "Slyšel jsem, že se na východě se rozkládá vesnička, která je téměř celá zatopená. Měl bys to jít prozkoumat a přijď mi dát vědět, cos objevil."
     ],
     "ObjectiveText": "Objev zatopenou vesničku.",
     "PreQuest": -1,
-    "FollowUpQuest": 2,
+    "FollowUpQuest": -1,
     "QuestGiverID": 5,
     "QuestTurnInID": 5,
     "IsAchivement": 0,
@@ -27,7 +27,7 @@
             "ConfigVersion": 4,
             "ID": 301,
             "ObjectiveType": 3,
-            "ObjectiveText": "Výborne, vrat sa zpet",
+            "ObjectiveText": "Výborne, vrať se zpět",
             "TimeLimit": -1
         }
     ],
