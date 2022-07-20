@@ -1,0 +1,26 @@
+{
+    "ConfigVersion": 4,
+    "ID": 214,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Ulov 15 krav",
+    "TimeLimit": -1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "Target": {
+        "Amount": 15,
+        "ClassNames": [
+            "Animal_BosTaurusF_Brown",
+            "Animal_BosTaurusF_Spotted",
+            "Animal_BosTaurusF_White",
+            "Animal_BosTaurus_Brown",
+            "Animal_BosTaurus_Spotted",
+            "Animal_BosTaurus_White"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    }
+}

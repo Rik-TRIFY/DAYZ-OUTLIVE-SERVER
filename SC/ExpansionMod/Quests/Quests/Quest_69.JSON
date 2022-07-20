@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 3,
-    "ID": 65,
+    "ID": 69,
     "Type": 2,
-    "Title": "65 - Zamořený HerrenInsel",
+    "Title": "69 - Samá kráva",
     "Descriptions": [
-        "Jáááááj, to jsi zase ty? A chceš další úkol? Nu mám tu pro tebe další specialitku. Tentokrát je to objednávka od zabijáka s nickem Kocur69. Běž a zabij na Herren Inselu 250 zombíků."
+        "Čau kamaráde, mám pro tebe úkolíček. Běž a ulov mi pár krav. Takových 15 by mělo stačit."
     ],
-    "ObjectiveText": "Zabij 250 infikovaných na Herren Insel.",
+    "ObjectiveText": "Ulov 15 krav",
     "PreQuest": 21,
     "FollowUpQuest": -1,
     "QuestGiverID": 11,
@@ -25,7 +25,7 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 213,
+            "ID": 214,
             "ObjectiveType": 2,
             "ObjectiveText": "",
             "TimeLimit": -1
@@ -34,19 +34,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_M60",
-            "Amount": 1
-        },
-        {
-            "ClassName": "TWP_M60_mag_200Rnd",
-            "Amount": 1
-        },
-        {
-            "ClassName": "TWP_M60_mag_200Rnd",
-            "Amount": 1
-        },
-        {
-            "ClassName": "TWP_Cosmetic_DogTag",
+            "ClassName": "TWP_MiniReaper",
             "Amount": 1
         }
     ],
