@@ -311,6 +311,78 @@
                     784.528
                 ]
             ]
+        },
+        {
+            "Faction": "East",
+            "LoadoutFile": "EastLoadout",
+            "NumberOfAI": -5,
+            "Behaviour": "HALT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    8155.017029,
+                    1.787993,
+                    3667.720215
+                ]
+            ]
+        },
+        {
+            "Faction": "East",
+            "LoadoutFile": "EastLoadout",
+            "NumberOfAI": -3,
+            "Behaviour": "HALT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    7924.017029,
+                    2.587993,
+                    3641.720215
+                ]
+            ]
+        },
+        {
+            "Faction": "East",
+            "LoadoutFile": "EastLoadout",
+            "NumberOfAI": -6,
+            "Behaviour": "HALT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    8072.017029,
+                    19.357993,
+                    3859.660215
+                ]
+            ]
         }
     ]
 }
