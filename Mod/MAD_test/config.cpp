@@ -168,9 +168,9 @@ class CfgVehicles
 		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
-			"MAD_test\Data\backpack\mad_hunting_pink.paa.paa",		// on-ground texture
-			"MAD_test\Data\backpack\mad_hunting_pink.paa.paa",	// on-character texture
-			"MAD_test\Data\backpack\mad_hunting_pink.paa.paa",		// on-character texture
+			"MAD_test\Data\backpack\mad_hunting_pink.paa",		// on-ground texture
+			"MAD_test\Data\backpack\mad_hunting_pink.paa",	// on-character texture
+			"MAD_test\Data\backpack\mad_hunting_pink.paa",		// on-character texture
 		};
 	};
 
@@ -203,7 +203,12 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "FirstAidKit from MADness";
-		descriptionShort="Teddy from MADness";
+		descriptionShort = "";
+//příklad
+		attachments[]=
+		{
+			"MedicalBandage"
+		};
 		itemSize[]={5,5};
 		itemsCargoSize[]={8,5};
 		weight=2500;
@@ -216,16 +221,12 @@ class CfgVehicles
 		varWetMax=0.0;
 		heatIsolation=0.7;
 		hiddenSelections[]=
-		{
-			"camoGround",
-			"camoMale",
-			"camoFemale"
-		};
-		attachments[]=
-		{
-			"MedicalBandage"
-		};
-		
+		{};
+//konec příkladu od PTI
+
+
+
+		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
 			"MAD_test\Data\pouches\mad_firstaidkit_pink.paa",		// on-ground texture
@@ -233,7 +234,65 @@ class CfgVehicles
 			"MAD_test\Data\pouches\mad_firstaidkit_pink.paa",		// on-character texture
 		};
 	};
+	class Barrel_ColorBase;
+	class MAD_Barrel: Barrel_ColorBase
+	{
+		scope = 2;
+		displayName = "Pink MAD Barrel";
+		descriptionShort = "";
+//příklad
+
+		itemSize[]={20,10};
+		itemsCargoSize[]={10,50};
+		weight=2500;
+		quickBarBonus=4;
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{};
+//konec příkladu od PTI
 
 
+
+		// link the textures here
+		hiddenSelectionsTextures[] =
+		{
+			"MAD_test\Data\pouches\MAD_pink_barrel_co.paa",		// on-ground texture
+			"MAD_test\Data\pouches\MAD_pink_barrel_co.paa",	// on-character texture
+			"MAD_test\Data\pouches\MAD_pink_barrel_co.paa",		// on-character texture
+		};
+	};
+	class Barrel_ColorBase;
+	class OUTLIVE_Barrel: Barrel_ColorBase
+	{
+		scope = 2;
+		displayName = "OUTLIVE Woodland Barrel";
+		descriptionShort = "";
+//příklad
+
+		itemSize[]={20,10};
+		itemsCargoSize[]={10,50};
+		weight=2500;
+		quickBarBonus=4;
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{};
+//konec příkladu od PTI
+
+
+
+		// link the textures here
+		hiddenSelectionsTextures[] =
+		{
+			"MAD_test\Data\pouches\barrel_woodland_co.paa",		// on-ground texture
+			"MAD_test\Data\pouches\barrel_woodland_co.paa",	// on-character texture
+			"MAD_test\Data\pouches\barrel_woodland_co.paa",		// on-character texture
+		};
+	};
 
 };
