@@ -203,14 +203,7 @@ class CfgVehicles
 	{
 		scope = 2;
 		displayName = "FirstAidKit from MADness";
-		descriptionShort = "";
-//příklad
-		attachments[]=
-		{
-			"MedicalBandage"
-		};
-		itemInfo[]=
-		{};
+		descriptionShort="Teddy from MADness";
 		itemSize[]={5,5};
 		itemsCargoSize[]={8,5};
 		weight=2500;
@@ -223,12 +216,16 @@ class CfgVehicles
 		varWetMax=0.0;
 		heatIsolation=0.7;
 		hiddenSelections[]=
-		{};
-//konec příkladu od PTI
-
-
-
-		// link the textures here
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+		attachments[]=
+		{
+			"MedicalBandage"
+		};
+		
 		hiddenSelectionsTextures[] =
 		{
 			"MAD_test\Data\pouches\mad_firstaidkit_pink.paa",		// on-ground texture
