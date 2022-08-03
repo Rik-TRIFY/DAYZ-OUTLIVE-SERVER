@@ -234,65 +234,182 @@ class CfgVehicles
 			"MAD_test\Data\pouches\mad_firstaidkit_pink.paa",		// on-character texture
 		};
 	};
-	class Barrel_ColorBase;
-	class MAD_Barrel: Barrel_ColorBase
-	{
-		scope = 2;
-		displayName = "Pink MAD Barrel";
-		descriptionShort = "";
-//příklad
-
-		itemSize[]={20,10};
+	/*
+   class Barrel_ColorBase;
+   class OUTLIVE_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="OUTLIVE Barrel";
+        descriptionShort="BIG BARREL";
 		itemsCargoSize[]={10,50};
-		weight=2500;
-		quickBarBonus=4;
-		randomQuantity=6;
-		absorbency=0;
-		varWetMax=0.0;
-		heatIsolation=0.7;
-		hiddenSelections[]=
-		{};
-//konec příkladu od PTI
-
-
-
-		// link the textures here
-		hiddenSelectionsTextures[] =
-		{
-			"MAD_test\Data\pouches\MAD_pink_barrel_co.paa",		// on-ground texture
-			"MAD_test\Data\pouches\MAD_pink_barrel_co.paa",	// on-character texture
-			"MAD_test\Data\pouches\MAD_pink_barrel_co.paa",		// on-character texture
+        weight=10000;
+        itemSize[]={10,10};
+        attachments[]=
+                {};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
 		};
-	};
-	class Barrel_ColorBase;
-	class OUTLIVE_Barrel: Barrel_ColorBase
-	{
-		scope = 2;
-		displayName = "OUTLIVE Woodland Barrel";
-		descriptionShort = "";
-//příklad
-
-		itemSize[]={20,10};
+        hiddenSelectionsTextures[]=
+        {
+            "MAD_test\Data\barely\barrel_woodland_co.paa",
+			"MAD_test\Data\barely\barrel_woodland_co.paa",
+			"MAD_test\Data\barely\barrel_woodland_co.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,60};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};      
+    };
+	*/
+   class Barrel_ColorBase;
+   class OUTLIVE_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="OUTLIVE Barrel";
+        descriptionShort="BIG BARREL";
+		itemsCargoSize[]={10,25};
+        weight=10000;
+        itemSize[]={10,10};
+        attachments[]=
+                {};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
+		};
+        hiddenSelectionsTextures[]=
+        {
+            "MAD_test\Data\barely\barrel_woodland_co.paa",
+			"MAD_test\Data\barely\barrel_woodland_co.paa",
+			"MAD_test\Data\barely\barrel_woodland_co.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,50};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};
+    };
+    class MAD_Pink_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="MAD Pink Barrel";
+        descriptionShort="BIG BARREL";
+		itemsCargoSize[]={10,25};
+        weight=10000;
+        itemSize[]={10,10};
+        attachments[]=
+                {};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
+		};
+        hiddenSelectionsTextures[]=
+        {
+            "MAD_test\Data\barely\MAD_pink_barrel_co.paa",
+			"MAD_test\Data\barely\MAD_pink_barrel_co.paa",
+			"MAD_test\Data\barely\MAD_pink_barrel_co.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,50};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};
+    };
+    class MAD_Black_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="MAD Black Barrel";
+        descriptionShort="BIG BARREL";
+		itemsCargoSize[]={10,25};
+        weight=10000;
+        itemSize[]={10,10};
+        attachments[]=
+                {};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
+		};
+        hiddenSelectionsTextures[]=
+        {
+            "MAD_test\Data\barely\mad_barrel_black.paa",
+			"MAD_test\Data\barely\mad_barrel_black.paa",
+			"MAD_test\Data\barely\mad_barrel_black.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,50};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};
+    };
+    class OUTLIVE_Black_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="OUTLIVE Black Barrel";
+        descriptionShort="BIG BARREL";
 		itemsCargoSize[]={10,50};
-		weight=2500;
-		quickBarBonus=4;
-		randomQuantity=6;
-		absorbency=0;
-		varWetMax=0.0;
-		heatIsolation=0.7;
-		hiddenSelections[]=
-		{};
-//konec příkladu od PTI
-
-
-
-		// link the textures here
-		hiddenSelectionsTextures[] =
-		{
-			"MAD_test\Data\pouches\barrel_woodland_co.paa",		// on-ground texture
-			"MAD_test\Data\pouches\barrel_woodland_co.paa",	// on-character texture
-			"MAD_test\Data\pouches\barrel_woodland_co.paa",		// on-character texture
+        weight=10000;
+        itemSize[]={10,10};
+        attachments[]=
+                {};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
 		};
-	};
-
+        hiddenSelectionsTextures[]=
+        {
+            "MAD_test\Data\barely\barrel_OUTLIVE_black_co.paa",
+			"MAD_test\Data\barely\barrel_OUTLIVE_black_co.paa",
+			"MAD_test\Data\barely\barrel_OUTLIVE_black_co.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,60};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};      
+    };
+    class OUTLIVE_White_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="OUTLIVE White Barrel";
+        descriptionShort="BIG BARREL";
+		itemsCargoSize[]={10,50};
+        weight=10000;
+        itemSize[]={10,10};
+        attachments[]=
+                {};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
+		};
+        hiddenSelectionsTextures[]=
+        {
+            "MAD_test\Data\barely\barrel_OUTLIVE_black_white_co.paa",
+			"MAD_test\Data\barely\barrel_OUTLIVE_black_white_co.paa",
+			"MAD_test\Data\barely\barrel_OUTLIVE_black_white_co.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,60};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};      
+    };
 };
