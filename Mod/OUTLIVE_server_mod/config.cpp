@@ -126,7 +126,6 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Backpack from MADness";
 		descriptionShort = "";
-//příklad
 		attachments[]=
 		{
 			"Knife",
@@ -163,9 +162,6 @@ class CfgVehicles
 			"camoMale",
 			"camoFemale"
 		};
-//konec příkladu od PTI
-
-
 
 		// link the textures here
 		hiddenSelectionsTextures[] =
@@ -206,7 +202,6 @@ class CfgVehicles
 		scope = 2;
 		displayName = "FirstAidKit from MADness";
 		descriptionShort = "";
-//příklad
 		attachments[]=
 		{
 			"MedicalBandage"
@@ -224,9 +219,6 @@ class CfgVehicles
 		heatIsolation=0.7;
 		hiddenSelections[]=
 		{};
-//konec příkladu od PTI
-
-
 
 		// link the textures here
 		hiddenSelectionsTextures[] =
@@ -414,15 +406,23 @@ class CfgVehicles
 			allowOwnedCargoManipulation=1;
 		};      
     };
+	
 	class SmallProtectorCase;
 	class MAD_ProtectorCase_Pink: SmallProtectorCase
 	{ 
 		scope=2;
 		displayName="Case MAD";
 		descriptionShort="Case from MADness";
+		rotationFlags=17;
+		weight=980;
 		itemsCargoSize[]={6,7};
 		absorbency=0;
+		canBeDigged=1;
 		isMeleeWeapon=1;
+		allowOwnedCargoManipulation=1;
+		randomQuantity=2;
+		repairableWithKits[]={8};
+		repairCosts[]={25};
 		attachments[]=
 		{
 			"VestGrenadeA",
@@ -437,5 +437,342 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\pouches\MAD_protectorcase.paa",	// on-character texture
 			"OUTLIVE_server_mod\Data\pouches\MAD_protectorcase.paa",		// on-character texture
 		};
+		class DamageSystem
+		{
+			class GlobalHealth
+			{
+				class Health
+				{
+					hitpoints=750;
+					healthLevels[]=
+					{
+						
+						{
+							1,
+							
+							{
+								"DZ\gear\containers\data\Protector_Case.rvmat"
+							}
+						},
+						
+						{
+							0.69999999,
+							
+							{
+								"DZ\gear\containers\data\Protector_Case.rvmat"
+							}
+						},
+						
+						{
+							0.5,
+							
+							{
+								"DZ\gear\containers\data\Protector_Case_damage.rvmat"
+							}
+						},
+						
+						{
+							0.30000001,
+							
+							{
+								"DZ\gear\containers\data\Protector_Case_damage.rvmat"
+							}
+						},
+						
+						{
+							0,
+							
+							{
+								"DZ\gear\containers\data\Protector_Case_destruct.rvmat"
+							}
+						}
+					};
+				};
+			};
+			class GlobalArmor
+			{
+				class FragGrenade
+				{
+					class Health
+					{
+						damage=8;
+					};
+					class Blood
+					{
+						damage=8;
+					};
+					class Shock
+					{
+						damage=8;
+					};
+				};
+			};
+		};
+		class AnimEvents
+		{
+			class SoundWeapon
+			{
+				class pickUpItem
+				{
+					soundSet="smallprotectorcase_pickup_SoundSet";
+					id=797;
+				};
+				class drop
+				{
+					soundset="smallprotectorcase_drop_SoundSet";
+					id=898;
+				};
+			};
+		};
 	};
+	
+	class WaterproofBag_ColorBase;
+	class MAD_WaterproofBag_Pink: WaterproofBag_ColorBase
+	{ 
+		scope=2;
+		displayName="WaterproofBag MAD";
+		descriptionShort="WaterproofBag from MADness";
+		rotationFlags=17;
+		weight=980;
+		itemsCargoSize[]={6,7};
+		absorbency=0;
+		canBeDigged=1;
+		varWetMax=0.249;
+		isMeleeWeapon=1;
+		heatIsolation=1;
+		repairableWithKits[]={5,6};
+		repairCosts[]={30,25};
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\pouches\MAD_waterproof.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\pouches\MAD_waterproof.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\pouches\MAD_waterproof.paa",		// on-character texture
+		};
+	};
+	class AmmoBox;
+	class MAD_AmmoBox_Pink: AmmoBox
+	{ 
+		scope=2;
+		displayName="AmmoBox MAD";
+		descriptionShort="AmmoBox from MADness";
+		rotationFlags=17;
+		weight=2250;
+		itemSize[]={5,4};
+		itemsCargoSize[]={8,6};
+			attachments[]=
+		{
+			"VestGrenadeA",
+			"VestGrenadeB",
+			"VestGrenadeC",
+			"VestGrenadeD"
+						
+		};
+		allowOwnedCargoManipulation=1;
+		randomQuantity=4;
+		canBeDigged=1;
+		repairableWithKits[]={8};
+		repairCosts[]={25};
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\pouches\300roundbox_MAD_Pink.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\pouches\300roundbox_MAD_Pink.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\pouches\300roundbox_MAD_Pink.paa",		// on-character texture
+		};
+	};/*
+	class PlateCarrierVest;
+	class MAD_PlateCarrier: PlateCarrierVest
+	{
+		scope=2;
+		displayName="MAD Pink Platecarrier";
+		descriptionShort="MAD Pink Platecarrier";
+		model="OUTLIVE_server_mod\Data\vesty\plate_carrier_g.p3d";
+		inventorySlot[]=
+		{
+			"Vest"
+		};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Vest"
+		};
+		attachments[]=
+		{
+			"VestHolster",
+			"VestPouch",
+			"VestBackpack",
+			"VestGrenadeA",
+			"VestGrenadeB",
+			"VestGrenadeC",
+			"VestGrenadeD"
+		};
+		weight=5500;
+		itemSize[]={5,4};
+		itemsCargoSize[]={5,10};
+		varWetMax=0.0;
+		heatIsolation=0.2;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa"
+		};
+	class ClothingTypes
+		{
+			male="OUTLIVE_server_mod\Data\vesty\plate_carrier_m.p3d";
+			female="OUTLIVE_server_mod\Data\vesty\plate_carrier_f.p3d";
+		};
+		
+		class DamageSystem
+		{
+			class GlobalHealth
+			{
+				class Health
+				{
+					hitpoints=1000;
+					healthLevels[]=
+					{
+						
+						{
+							1,
+							
+							{
+								"OUTLIVE_server_mod\Data\vesty\BallisticVest.rvmat"
+							}
+						},
+						
+						{
+							0.69999999,
+							
+							{
+								"OUTLIVE_server_mod\Data\vesty\BallisticVest.rvmat"
+							}
+						},
+						
+						{
+							0.5,
+							
+							{
+								"OUTLIVE_server_mod\Data\vesty\BallisticVest_damage.rvmat"
+							}
+						},
+						
+						{
+							0.30000001,
+							
+							{
+								"OUTLIVE_server_mod\Data\vesty\BallisticVest_damage.rvmat"
+							}
+						},
+						
+						{
+							0,
+							
+							{
+								"OUTLIVE_server_mod\Data\vesty\BallisticVest_destruct.rvmat"
+							}
+						}
+					};
+				};
+			};
+			class GlobalArmor
+			{
+				class Projectile
+				{
+					class Health
+					{
+						damage=0.1;
+					};
+					class Blood
+					{
+						damage=0;
+					};
+					class Shock
+					{
+						damage=0.05999999;
+					};
+				};
+				class Melee
+				{
+					class Health
+					{
+						damage=0.05;
+					};
+					class Blood
+					{
+						damage=0;
+					};
+					class Shock
+					{
+						damage=0.05;
+					};
+				};
+				class Infected
+				{
+					class Health
+					{
+						damage=0.005;
+					};
+					class Blood
+					{
+						damage=0;
+					};
+					class Shock
+					{
+						damage=0.005;
+					};
+				};
+				class FragGrenade
+				{
+					class Health
+					{
+						damage=0.05;
+					};
+					class Blood
+					{
+						damage=0;
+					};
+					class Shock
+					{
+						damage=0.05999999;
+					};
+				};
+			};
+		};
+		class AnimEvents
+		{
+			class SoundWeapon
+			{
+				class pickUpItem
+				{
+					soundSet="SmershVest_pickup_SoundSet";
+					id=797;
+				};
+				class drop
+				{
+					soundset="SmershVest_drop_SoundSet";
+					id=898;
+				};
+			};
+		};
+	};
+	class MAD_PINK: MAD_PlateCarrier
+	{
+		scope=2;
+		displayName="MAD Pink Platecarrier";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa"
+		};
+			
+	};*/
 };
