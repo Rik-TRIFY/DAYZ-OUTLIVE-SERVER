@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!-- Cabin -->
-    <type name="MAD_Bear_ColorBase">
-        <lifetime>3888000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-    <type name="mad_firstaidkit">
-        <lifetime>3888000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
     <type name="MAD_Pink_Barrel">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MAD_Black_Barrel">
-        <lifetime>3888000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-    <type name="Backpack_mad_co">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
@@ -33,5 +21,216 @@
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-    
+    <type name="rf_helipad_kit">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Village"/>
+		<usage name="Town"/>
+        <usage name="Farm"/>
+    </type>
+	<type name="rf_helipad">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="RFSolarPanelKit">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Village"/>
+		<usage name="Town"/>
+        <usage name="Farm"/>
+    </type>
+	<type name="RFSolarPanel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="R_Coffeepot">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="R_Coffeecup">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="R_Coffeebag">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>2258</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+        <type name="R_Coffeebag_Esp">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>2258</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="Backpack_mad_co">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Hunting" />
+		<value name="" />
+	</type>
+    <type name="MAD_AmmoBox_Pink">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>3888000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="containers" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+    <type name="MAD_WaterproofBag_Pink">
+		<nominal>2</nominal>
+		<restock>28000</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Coast" />
+		<value name="" />
+	</type>
+    <type name="MAD_ProtectorCase_Pink">
+		<nominal>2</nominal>
+		<restock>28000</restock>
+		<lifetime>3888000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Industrial" />
+		<usage name="Town" />
+		<value name="" />
+	</type>
+    <type name="MAD_Bear_ColorBase">
+		<nominal>2</nominal>
+		<restock>28000</restock>
+		<lifetime>3888000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="" />
+	</type>
+    <type name="mad_firstaidkit">
+		<nominal>2</nominal>
+		<restock>28000</restock>
+		<lifetime>3888000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Medic" />
+		<value name="" />
+	</type>
 </types>
