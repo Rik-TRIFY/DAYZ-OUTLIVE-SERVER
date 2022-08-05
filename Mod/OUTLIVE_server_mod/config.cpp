@@ -1154,41 +1154,6 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\top\MAD_tshirt_black.paa"		// on-character texture
 		};
 	};
-	class Outlive_TShirt: TShirt_ColorBase
-	{
-		scope = 2;
-		displayName = "TShirt Outlive";
-		descriptionShort = "";
-		attachments[]={};
-		itemInfo[]=
-		{
-			"Clothing",
-			"Body"
-		};
-		itemSize[]={3,3};
-		itemsCargoSize[]={4,5};
-		weight=1500;
-		quickBarBonus=4;
-		repairableWithKits[]={5,3,2};
-		repairCosts[]={10,15,25};
-		soundAttType="Military";
-		randomQuantity=6;
-		absorbency=0;
-		varWetMax=0.0;
-		heatIsolation=0.7;
-		hiddenSelections[]=
-		{
-			"camoGround",
-			"camoMale",
-			"camoFemale"
-		};
-		hiddenSelectionsTextures[] =
-		{
-			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa",		// on-ground texture
-			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa"		// on-character texture
-		};
-	};
 	class CargoPants_ColorBase;
 	class MAD_Black_CargoPants: CargoPants_ColorBase
 	{
@@ -1225,41 +1190,7 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\kalhoty\MAD_cargoPants_black.paa"		// on-character texture
 		};
 	};
-	class Outlive_Black_CargoPants: CargoPants_ColorBase
-	{
-		scope = 2;
-		displayName = "Pants Outlive";
-		descriptionShort = "";
-		attachments[]={};
-		itemInfo[]=
-		{
-			"Clothing",
-			"Body"
-		};
-		itemSize[]={3,3};
-		itemsCargoSize[]={4,6};
-		weight=1500;
-		quickBarBonus=4;
-		repairableWithKits[]={5,3,2};
-		repairCosts[]={10,15,25};
-		soundAttType="Military";
-		randomQuantity=6;
-		absorbency=0;
-		varWetMax=0.0;
-		heatIsolation=0.7;
-		hiddenSelections[]=
-		{
-			"camoGround",
-			"camoMale",
-			"camoFemale"
-		};
-		hiddenSelectionsTextures[] =
-		{
-			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa",		// on-ground texture
-			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa"		// on-character texture
-		};
-	};
+
 /*
 	class Bottle_Base;
 	class MAD_Canteen_Pink: Bottle_Base
@@ -1330,6 +1261,82 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa"		// on-character texture
 		};
 	};
+// BAMBIE START
+	class CargoPants_ColorBase;
+	class Outlive_Black_CargoPants: CargoPants_ColorBase
+	{
+		scope = 2;
+		displayName = "Pants Outlive";
+		descriptionShort = "";
+		attachments[]={};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Body"
+		};
+		itemSize[]={3,3};
+		itemsCargoSize[]={4,6};
+		weight=1500;
+		quickBarBonus=4;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		soundAttType="Military";
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa"		// on-character texture
+		};
+	};
+
+	class TShirt_ColorBase;
+	class Outlive_TShirt: TShirt_ColorBase
+	{
+		scope = 2;
+		displayName = "TShirt Outlive";
+		descriptionShort = "";
+		attachments[]={};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Body"
+		};
+		itemSize[]={3,3};
+		itemsCargoSize[]={4,5};
+		weight=1500;
+		quickBarBonus=4;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		soundAttType="Military";
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa"		// on-character texture
+		};
+	};
+
+// BAMBIE KONEC
 
 // DOPLNA RIK
 /*
