@@ -1261,8 +1261,8 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa"		// on-character texture
 		};
 	};
+
 // BAMBIE START
-	class CargoPants_ColorBase;
 	class Outlive_Black_CargoPants: CargoPants_ColorBase
 	{
 		scope = 2;
@@ -1299,7 +1299,6 @@ class CfgVehicles
 		};
 	};
 
-	class TShirt_ColorBase;
 	class Outlive_TShirt: TShirt_ColorBase
 	{
 		scope = 2;
