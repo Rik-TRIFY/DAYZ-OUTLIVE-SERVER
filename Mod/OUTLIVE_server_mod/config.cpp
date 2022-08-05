@@ -392,11 +392,9 @@ class CfgVehicles
         scope=2;
         displayName="OUTLIVE Barrel";
         descriptionShort="BIG BARREL";
-		itemsCargoSize[]={10,25};
         weight=10000;
-        itemSize[]={10,10};
-        attachments[]=
-                {};
+        itemSize[]={10,20};
+        attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
         hiddenSelections[]=
@@ -421,11 +419,9 @@ class CfgVehicles
         scope=2;
         displayName="MAD Pink Barrel";
         descriptionShort="BIG BARREL";
-		itemsCargoSize[]={10,25};
         weight=10000;
-        itemSize[]={10,10};
-        attachments[]=
-                {};
+        itemSize[]={10,20};
+        attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
         hiddenSelections[]=
@@ -450,9 +446,8 @@ class CfgVehicles
         scope=2;
         displayName="MAD Black Barrel";
         descriptionShort="BIG BARREL";
-		itemsCargoSize[]={10,25};
         weight=10000;
-        itemSize[]={10,10};
+        itemSize[]={10,20};
         attachments[]=
                 {};
         itemBehaviour=0;
@@ -479,9 +474,8 @@ class CfgVehicles
         scope=2;
         displayName="OUTLIVE Black Barrel";
         descriptionShort="BIG BARREL";
-		// itemsCargoSize[]={10,50};
         weight=10000;
-        itemSize[]={10,10};
+        itemSize[]={10,20};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -507,9 +501,8 @@ class CfgVehicles
         scope=2;
         displayName="OUTLIVE White Barrel";
         descriptionShort="BIG BARREL";
-		// itemsCargoSize[]={10,50};
         weight=10000;
-        itemSize[]={10,10};
+        itemSize[]={10,20};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -535,9 +528,8 @@ class CfgVehicles
         scope=2;
         displayName="MAD Tools Barrel";
         descriptionShort="BIG TOOLS BARREL";
-		itemsCargoSize[]={10,30};
         weight=10000;
-        itemSize[]={20,10};
+        itemSize[]={10,20};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -563,9 +555,8 @@ class CfgVehicles
         scope=2;
         displayName="MAD Medic Barrel";
         descriptionShort="BIG MEDIC BARREL";
-		itemsCargoSize[]={10,30};
         weight=10000;
-        itemSize[]={20,10};
+        itemSize[]={10,20};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -591,9 +582,8 @@ class CfgVehicles
         scope=2;
         displayName="MAD Food Barrel";
         descriptionShort="BIG FOOD BARREL";
-		itemsCargoSize[]={10,30};
         weight=10000;
-        itemSize[]={20,10};
+        itemSize[]={10,20};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -619,9 +609,8 @@ class CfgVehicles
         scope=2;
         displayName="MAD Attachment Barrel";
         descriptionShort="BIG ATTACHMENT BARREL";
-		itemsCargoSize[]={10,30};
         weight=10000;
-        itemSize[]={20,10};
+        itemSize[]={10,20};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -647,9 +636,8 @@ class CfgVehicles
         scope=2;
         displayName="MAD Ammo Barrel";
         descriptionShort="BIG AMMO BARREL";
-		itemsCargoSize[]={10,30};
         weight=10000;
-        itemSize[]={20,10};
+        itemSize[]={10,20};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -675,9 +663,8 @@ class CfgVehicles
         scope=2;
         displayName="MAD Ammo Barrel II";
         descriptionShort="BIG AMMO BARREL";
-		itemsCargoSize[]={10,30};
         weight=10000;
-        itemSize[]={20,10};
+        itemSize[]={10,20};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
