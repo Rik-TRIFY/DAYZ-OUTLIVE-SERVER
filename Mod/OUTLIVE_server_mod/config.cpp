@@ -23,7 +23,7 @@ class CfgPatches
 			"DZ_Gear_Drinks"
 		};
 		author = "MADness";
-		name = "";
+		name = "MADness for OUTLIVE DayZ server";
 		url = "";
 	};
 };
