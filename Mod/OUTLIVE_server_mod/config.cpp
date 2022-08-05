@@ -27,6 +27,43 @@ class CfgPatches
 		url = "";
 	};
 };
+class CfgMods
+{
+	class OUTLIVE_mod
+	{
+		dir = "Data";
+		name = "OUTLIVE_mod";
+		hideName = 1;
+		hidePicture = 1;
+		credits = "MADness";
+		author = "MADness";
+		authorID = "76561198968762750";
+		version = "1.0";
+		extra = 0;
+		type = "mod";
+		/*
+		dependencies[] = {"Game","World","Mission"};
+		class defs
+		{
+			class gameScriptModule
+			{
+				value = "";
+				files[] = {"PTI_Gear/Scripts/3_Game"};
+			};
+			class worldScriptModule
+			{
+				value = "";
+				files[] = {"PTI_Gear/Scripts/4_World"};
+			};
+			class missionScriptModule
+			{
+				value = "";
+				files[] = {"PTI_Gear/Scripts/5_Mission"};
+			};
+		};
+		*/
+	};
+};
 
 class CfgVehicles
 {
@@ -36,7 +73,6 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Hoodie from MADness";
 		descriptionShort = "";
-//příklad
 		attachments[]=
 		{};
 		itemInfo[]=
@@ -61,16 +97,11 @@ class CfgVehicles
 			"camoMale",
 			"camoFemale"
 		};
-//konec příkladu od PTI
-
-
-
-		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\top\Hoodie_mad_co.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\top\Hoodie_mad_co.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\top\Hoodie_mad_co.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\top\Hoodie_mad_co.paa"		// on-character texture
 		};
 	};
 	class GorkaPants_ColorBase;
@@ -79,7 +110,6 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Pants from MADness";
 		descriptionShort = "";
-//příklad
 		attachments[]=
 		{
 			"Knife",
@@ -109,16 +139,11 @@ class CfgVehicles
 			"camoMale",
 			"camoFemale"
 		};
-//konec příkladu od PTI
-
-
-
-		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\kalhoty\mad_gorka_pants.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\kalhoty\mad_gorka_pants.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\kalhoty\mad_gorka_pants.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\kalhoty\mad_gorka_pants.paa"		// on-character texture
 		};
 	};
 	class HuntingBag;
@@ -163,13 +188,11 @@ class CfgVehicles
 			"camoMale",
 			"camoFemale"
 		};
-
-		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\backpack\mad_hunting_pink.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\backpack\mad_hunting_pink.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\backpack\mad_hunting_pink.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\backpack\mad_hunting_pink.paa"		// on-character texture
 		};
 	};
 	class MAD_Backpack_Black: HuntingBag
@@ -213,13 +236,11 @@ class CfgVehicles
 			"camoMale",
 			"camoFemale"
 		};
-
-		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\backpack\mad_hunting_black.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\backpack\mad_hunting_black.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\backpack\mad_hunting_black.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\backpack\mad_hunting_black.paa"		// on-character texture
 		};
 	};
 	class OUTLIVE_Backpack_Black: HuntingBag
@@ -263,16 +284,13 @@ class CfgVehicles
 			"camoMale",
 			"camoFemale"
 		};
-
-		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\backpack\outlive_hunting_black.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\backpack\outlive_hunting_black.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\backpack\outlive_hunting_black.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\backpack\outlive_hunting_black.paa"		// on-character texture
 		};
 	};
-
 	class Bear_ColorBase;
 	class MAD_Bear_ColorBase: Bear_ColorBase
 	{ 
@@ -287,14 +305,13 @@ class CfgVehicles
 			"VestGrenadeA",
 			"VestGrenadeB",
 			"VestGrenadeC",
-			"VestGrenadeD"
-						
+			"VestGrenadeD"			
 		};
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\pouches\mad_teddybear_pink.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\pouches\mad_teddybear_pink.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\pouches\mad_teddybear_pink.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\pouches\mad_teddybear_pink.paa"		// on-character texture
 		};
 	};
 	class FirstAidKit;
@@ -326,10 +343,10 @@ class CfgVehicles
 		{
 			"OUTLIVE_server_mod\Data\pouches\mad_firstaidkit_pink.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\pouches\mad_firstaidkit_pink.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\pouches\mad_firstaidkit_pink.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\pouches\mad_firstaidkit_pink.paa"		// on-character texture
 		};
 	};
-	/*
+/*
    class Barrel_ColorBase;
    class OUTLIVE_Barrel: Barrel_ColorBase
     {
@@ -360,9 +377,10 @@ class CfgVehicles
 			allowOwnedCargoManipulation=1;
 		};      
     };
-	*/
-   class Barrel_ColorBase;
-   class OUTLIVE_Barrel: Barrel_ColorBase
+*/
+// BARREL START
+   	class Barrel_ColorBase;
+   	class OUTLIVE_Barrel: Barrel_ColorBase
     {
         scope=2;
         displayName="OUTLIVE Barrel";
@@ -454,11 +472,10 @@ class CfgVehicles
         scope=2;
         displayName="OUTLIVE Black Barrel";
         descriptionShort="BIG BARREL";
-		itemsCargoSize[]={10,50};
+		// itemsCargoSize[]={10,50};
         weight=10000;
         itemSize[]={10,10};
-        attachments[]=
-                {};
+        attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
         hiddenSelections[]=
@@ -483,11 +500,10 @@ class CfgVehicles
         scope=2;
         displayName="OUTLIVE White Barrel";
         descriptionShort="BIG BARREL";
-		itemsCargoSize[]={10,50};
+		// itemsCargoSize[]={10,50};
         weight=10000;
         itemSize[]={10,10};
-        attachments[]=
-                {};
+        attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
         hiddenSelections[]=
@@ -507,7 +523,175 @@ class CfgVehicles
 			allowOwnedCargoManipulation=1;
 		};      
     };
-	
+	class MAD_Tools_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="MAD Tools Barrel";
+        descriptionShort="BIG TOOLS BARREL";
+		itemsCargoSize[]={10,30};
+        weight=10000;
+        itemSize[]={20,10};
+        attachments[]={};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
+		};
+        hiddenSelectionsTextures[]=
+        {
+            "OUTLIVE_server_mod\Data\barely\mad_barrel_tools.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_tools.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_tools.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,30};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};      
+    };
+	class MAD_Medic_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="MAD Medic Barrel";
+        descriptionShort="BIG MEDIC BARREL";
+		itemsCargoSize[]={10,30};
+        weight=10000;
+        itemSize[]={20,10};
+        attachments[]={};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
+		};
+        hiddenSelectionsTextures[]=
+        {
+            "OUTLIVE_server_mod\Data\barely\mad_barrel_medic.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_medic.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_medic.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,30};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};      
+    };
+   	class MAD_Food_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="MAD Food Barrel";
+        descriptionShort="BIG FOOD BARREL";
+		itemsCargoSize[]={10,30};
+        weight=10000;
+        itemSize[]={20,10};
+        attachments[]={};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
+		};
+        hiddenSelectionsTextures[]=
+        {
+            "OUTLIVE_server_mod\Data\barely\mad_barrel_food.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_food.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_food.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,30};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};      
+    };
+    class MAD_Atachment_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="MAD Attachment Barrel";
+        descriptionShort="BIG ATTACHMENT BARREL";
+		itemsCargoSize[]={10,30};
+        weight=10000;
+        itemSize[]={20,10};
+        attachments[]={};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
+		};
+        hiddenSelectionsTextures[]=
+        {
+            "OUTLIVE_server_mod\Data\barely\mad_barrel_attachment.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_attachment.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_attachment.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,30};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};      
+    };	
+    class MAD_Ammo_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="MAD Ammo Barrel";
+        descriptionShort="BIG AMMO BARREL";
+		itemsCargoSize[]={10,30};
+        weight=10000;
+        itemSize[]={20,10};
+        attachments[]={};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
+		};
+        hiddenSelectionsTextures[]=
+        {
+            "OUTLIVE_server_mod\Data\barely\mad_barrel_ammo2.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_ammo2.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_ammo2.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,30};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};      
+    };	
+   	class MAD_Ammo2_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="MAD Ammo Barrel II";
+        descriptionShort="BIG AMMO BARREL";
+		itemsCargoSize[]={10,30};
+        weight=10000;
+        itemSize[]={20,10};
+        attachments[]={};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
+		};
+        hiddenSelectionsTextures[]=
+        {
+            "OUTLIVE_server_mod\Data\barely\mad_barrel_ammo.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_ammo.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_ammo.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,30};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};      
+    };
+// BARREL KONEC	
 	class SmallProtectorCase;
 	class MAD_ProtectorCase_Pink: SmallProtectorCase
 	{ 
@@ -530,13 +714,12 @@ class CfgVehicles
 			"VestGrenadeB",
 			"VestGrenadeC",
 			"VestGrenadeD"
-						
 		};
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\pouches\MAD_protectorcase.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\pouches\MAD_protectorcase.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\pouches\MAD_protectorcase.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\pouches\MAD_protectorcase.paa"		// on-character texture
 		};
 		class DamageSystem
 		{
@@ -626,7 +809,6 @@ class CfgVehicles
 			};
 		};
 	};
-	
 	class WaterproofBag_ColorBase;
 	class MAD_WaterproofBag_Pink: WaterproofBag_ColorBase
 	{ 
@@ -647,7 +829,7 @@ class CfgVehicles
 		{
 			"OUTLIVE_server_mod\Data\pouches\MAD_waterproof.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\pouches\MAD_waterproof.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\pouches\MAD_waterproof.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\pouches\MAD_waterproof.paa"		// on-character texture
 		};
 	};
 	class AmmoBox;
@@ -660,13 +842,12 @@ class CfgVehicles
 		weight=2250;
 		itemSize[]={5,4};
 		itemsCargoSize[]={8,6};
-			attachments[]=
+		attachments[]=
 		{
 			"VestGrenadeA",
 			"VestGrenadeB",
 			"VestGrenadeC",
-			"VestGrenadeD"
-						
+			"VestGrenadeD"	
 		};
 		allowOwnedCargoManipulation=1;
 		randomQuantity=4;
@@ -676,8 +857,8 @@ class CfgVehicles
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\pouches\300roundbox_MAD_Pink.paa",		// on-ground texture
-			"OUTLIVE_server_mod\Data\pouches\300roundbox_MAD_Pink.paa",	// on-character texture
 			"OUTLIVE_server_mod\Data\pouches\300roundbox_MAD_Pink.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\pouches\300roundbox_MAD_Pink.paa"		// on-character texture
 		};
 	};
 	class PlateCarrierVest;
@@ -894,9 +1075,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Jacket from MADness";
 		descriptionShort = "";
-//příklad
-		attachments[]=
-		{};
+		attachments[]={};
 		itemInfo[]=
 		{
 			"Clothing",
@@ -919,16 +1098,11 @@ class CfgVehicles
 			"camoMale",
 			"camoFemale"
 		};
-//konec příkladu od PTI
-
-
-
-		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\top\MAD_shirt_pink.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\top\MAD_shirt_pink.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\top\MAD_shirt_pink.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\top\MAD_shirt_pink.paa"		// on-character texture
 		};
 	};
 	class TShirt_ColorBase;
@@ -937,9 +1111,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "TShirt from MADness";
 		descriptionShort = "";
-//příklad
-		attachments[]=
-		{};
+		attachments[]={};
 		itemInfo[]=
 		{
 			"Clothing",
@@ -962,26 +1134,19 @@ class CfgVehicles
 			"camoMale",
 			"camoFemale"
 		};
-//konec příkladu od PTI
-
-
-
-		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\top\MAD_tshirt_black.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\top\MAD_tshirt_black.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\top\MAD_tshirt_black.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\top\MAD_tshirt_black.paa"		// on-character texture
 		};
 	};
-		class Outlive_TShirt: TShirt_ColorBase
+	class Outlive_TShirt: TShirt_ColorBase
 	{
 		scope = 2;
 		displayName = "TShirt Outlive";
 		descriptionShort = "";
-//příklad
-		attachments[]=
-		{};
+		attachments[]={};
 		itemInfo[]=
 		{
 			"Clothing",
@@ -1004,16 +1169,11 @@ class CfgVehicles
 			"camoMale",
 			"camoFemale"
 		};
-//konec příkladu od PTI
-
-
-
-		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa"		// on-character texture
 		};
 	};
 	class CargoPants_ColorBase;
@@ -1022,9 +1182,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Pants from MADness";
 		descriptionShort = "";
-//příklad
-		attachments[]=
-		{};
+		attachments[]={};
 		itemInfo[]=
 		{
 			"Clothing",
@@ -1047,16 +1205,11 @@ class CfgVehicles
 			"camoMale",
 			"camoFemale"
 		};
-//konec příkladu od PTI
-
-
-
-		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\kalhoty\MAD_cargoPants_black.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\kalhoty\MAD_cargoPants_black.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\kalhoty\MAD_cargoPants_black.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\kalhoty\MAD_cargoPants_black.paa"		// on-character texture
 		};
 	};
 	class Outlive_Black_CargoPants: CargoPants_ColorBase
@@ -1064,9 +1217,7 @@ class CfgVehicles
 		scope = 2;
 		displayName = "Pants Outlive";
 		descriptionShort = "";
-//příklad
-		attachments[]=
-		{};
+		attachments[]={};
 		itemInfo[]=
 		{
 			"Clothing",
@@ -1089,18 +1240,14 @@ class CfgVehicles
 			"camoMale",
 			"camoFemale"
 		};
-//konec příkladu od PTI
-
-
-
-		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa"		// on-character texture
 		};
-	};/*
+	};
+/*
 	class Bottle_Base;
 	class MAD_Canteen_Pink: Bottle_Base
 		{
@@ -1126,9 +1273,10 @@ class CfgVehicles
 		{
 			"OUTLIVE_server_mod\Data\pouches\MAD_canteen_pink.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\pouches\MAD_canteen_pink.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\pouches\MAD_canteen_pink.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\pouches\MAD_canteen_pink.paa"		// on-character texture
 		};
-	};*/
+	};
+*/
 	class MilitaryBoots_ColorBase;
 	class MAD_Black_MilitaryBoots: MilitaryBoots_ColorBase
 	{
@@ -1161,16 +1309,56 @@ class CfgVehicles
 			"camoMale",
 			"camoFemale"
 		};
-//konec příkladu od PTI
 
-
-
-		// link the textures here
 		hiddenSelectionsTextures[] =
 		{
 			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa",		// on-character texture
+			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa"		// on-character texture
 		};
 	};
+
+// DOPLNA RIK
+/*
+class MAD_Black_MilitaryBoots: MilitaryBoots_ColorBase
+	{
+		scope = 2;
+		displayName = "MilitaryBoots from MADness";
+		descriptionShort = "";
+		attachments[]=
+		{
+			"Knife"
+		};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Body"
+		};
+		itemSize[]={3,3};
+		itemsCargoSize[]={3,1};
+		weight=1500;
+		quickBarBonus=4;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		soundAttType="Military";
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa"		// on-character texture
+		};
+	};
+*/
+// KONEC
 };
