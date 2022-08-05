@@ -147,6 +147,7 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\kalhoty\mad_gorka_pants.paa"		// on-character texture
 		};
 	};
+
 // OBLECENIE MIX KONEC
 // BATOHY START
 	class HuntingBag;
@@ -294,6 +295,7 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\backpack\outlive_hunting_black.paa"		// on-character texture
 		};
 	};
+
 // BATOHY KONEC
 	class Bear_ColorBase;
 	class MAD_Bear_ColorBase: Bear_ColorBase
@@ -382,6 +384,7 @@ class CfgVehicles
 		};      
     };
 */
+
 // BARREL START
    	class Barrel_ColorBase;
    	class OUTLIVE_Barrel: Barrel_ColorBase
@@ -695,7 +698,9 @@ class CfgVehicles
 			allowOwnedCargoManipulation=1;
 		};      
     };
+
 // BARREL KONEC	
+
 	class SmallProtectorCase;
 	class MAD_ProtectorCase_Pink: SmallProtectorCase
 	{ 
@@ -865,6 +870,7 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\pouches\300roundbox_MAD_Pink.paa"		// on-character texture
 		};
 	};
+
 // VESTY START
 	class PlateCarrierVest;
 	class MAD_PlateCarrier: PlateCarrierVest
@@ -1074,7 +1080,8 @@ class CfgVehicles
 		};
 			
 	};
-// VESTY KONEC
+
+//VESTY KONEC
 	class HikingJacket_ColorBase;
 	class MAD_Pink_Jacket: HikingJacket_ColorBase
 	{
