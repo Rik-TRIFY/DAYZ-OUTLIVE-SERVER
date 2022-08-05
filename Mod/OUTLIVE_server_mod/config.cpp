@@ -19,7 +19,8 @@ class CfgPatches
 			"DZ_Characters_Headgear",
 			"DZ_Gear_Containers",
 			"DZ_Weapons_Magazines",
-			"DZ_Weapons_Melee"
+			"DZ_Weapons_Melee",
+			"DZ_Gear_Drinks"
 		};
 		author = "MADness";
 		name = "";
@@ -169,6 +170,106 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\backpack\mad_hunting_pink.paa",		// on-ground texture
 			"OUTLIVE_server_mod\Data\backpack\mad_hunting_pink.paa",	// on-character texture
 			"OUTLIVE_server_mod\Data\backpack\mad_hunting_pink.paa",		// on-character texture
+		};
+	};
+	class MAD_Backpack_Black: HuntingBag
+	{
+		scope = 2;
+		displayName = "Backpack from MADness";
+		descriptionShort = "";
+		attachments[]=
+		{
+			"Knife",
+			"CanisterGasoline",
+			"VestGrenadeA",
+			"VestGrenadeB",
+			"VestHolster",
+			"MedicalBandage",
+			"Chemlight",
+			"shoulder",
+			"WalkieTalkie",
+			"Melee",			
+			"VestBackpack"
+		};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Back"
+		};
+		itemSize[]={10,10};
+		itemsCargoSize[]={10,15};
+		weight=5500;
+		quickBarBonus=4;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		soundAttType="Military";
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+
+		// link the textures here
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\backpack\mad_hunting_black.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\backpack\mad_hunting_black.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\backpack\mad_hunting_black.paa",		// on-character texture
+		};
+	};
+	class OUTLIVE_Backpack_Black: HuntingBag
+	{
+		scope = 2;
+		displayName = "Backpack Outlive";
+		descriptionShort = "";
+		attachments[]=
+		{
+			"Knife",
+			"CanisterGasoline",
+			"VestGrenadeA",
+			"VestGrenadeB",
+			"VestHolster",
+			"MedicalBandage",
+			"Chemlight",
+			"shoulder",
+			"WalkieTalkie",
+			"Melee",			
+			"VestBackpack"
+		};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Back"
+		};
+		itemSize[]={10,10};
+		itemsCargoSize[]={10,15};
+		weight=5500;
+		quickBarBonus=4;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		soundAttType="Military";
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+
+		// link the textures here
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\backpack\outlive_hunting_black.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\backpack\outlive_hunting_black.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\backpack\outlive_hunting_black.paa",		// on-character texture
 		};
 	};
 
@@ -578,14 +679,14 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\pouches\300roundbox_MAD_Pink.paa",	// on-character texture
 			"OUTLIVE_server_mod\Data\pouches\300roundbox_MAD_Pink.paa",		// on-character texture
 		};
-	};/*
+	};
 	class PlateCarrierVest;
 	class MAD_PlateCarrier: PlateCarrierVest
 	{
 		scope=2;
-		displayName="MAD Pink Platecarrier";
-		descriptionShort="MAD Pink Platecarrier";
-		model="OUTLIVE_server_mod\Data\vesty\plate_carrier_g.p3d";
+		displayName="MAD Platecarrier";
+		descriptionShort="MAD Platecarrier";
+		model="\DZ\characters\vests\plate_carrier_g.p3d";
 		inventorySlot[]=
 		{
 			"Vest"
@@ -605,9 +706,9 @@ class CfgVehicles
 			"VestGrenadeC",
 			"VestGrenadeD"
 		};
-		weight=5500;
-		itemSize[]={5,4};
-		itemsCargoSize[]={5,10};
+		weight=1200;
+		itemSize[]={4,4};
+		itemsCargoSize[]={6,10};
 		varWetMax=0.0;
 		heatIsolation=0.2;
 		repairableWithKits[]={5,3,2};
@@ -620,14 +721,14 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa",
-			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa",
-			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa"
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_black.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_black.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_black.paa"
 		};
-	class ClothingTypes
+		class ClothingTypes
 		{
-			male="OUTLIVE_server_mod\Data\vesty\plate_carrier_m.p3d";
-			female="OUTLIVE_server_mod\Data\vesty\plate_carrier_f.p3d";
+			male="\DZ\characters\vests\plate_carrier_m.p3d";
+			female="\DZ\characters\vests\plate_carrier_f.p3d";
 		};
 		
 		class DamageSystem
@@ -644,7 +745,7 @@ class CfgVehicles
 							1,
 							
 							{
-								"OUTLIVE_server_mod\Data\vesty\BallisticVest.rvmat"
+								"DZ\characters\vests\Data\BallisticVest.rvmat"
 							}
 						},
 						
@@ -652,7 +753,7 @@ class CfgVehicles
 							0.69999999,
 							
 							{
-								"OUTLIVE_server_mod\Data\vesty\BallisticVest.rvmat"
+								"DZ\characters\vests\Data\BallisticVest.rvmat"
 							}
 						},
 						
@@ -660,7 +761,7 @@ class CfgVehicles
 							0.5,
 							
 							{
-								"OUTLIVE_server_mod\Data\vesty\BallisticVest_damage.rvmat"
+								"DZ\characters\vests\Data\BallisticVest_damage.rvmat"
 							}
 						},
 						
@@ -668,7 +769,7 @@ class CfgVehicles
 							0.30000001,
 							
 							{
-								"OUTLIVE_server_mod\Data\vesty\BallisticVest_damage.rvmat"
+								"DZ\characters\vests\Data\BallisticVest_damage.rvmat"
 							}
 						},
 						
@@ -676,7 +777,7 @@ class CfgVehicles
 							0,
 							
 							{
-								"OUTLIVE_server_mod\Data\vesty\BallisticVest_destruct.rvmat"
+								"DZ\characters\vests\Data\BallisticVest_destruct.rvmat"
 							}
 						}
 					};
@@ -763,7 +864,7 @@ class CfgVehicles
 			};
 		};
 	};
-	class MAD_PINK: MAD_PlateCarrier
+	class MAD_Pink_Plate: MAD_PlateCarrier
 	{
 		scope=2;
 		displayName="MAD Pink Platecarrier";		
@@ -774,5 +875,302 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa"
 		};
 			
+	};
+	class MAD_Green_Plate: MAD_PlateCarrier
+	{
+		scope=2;
+		displayName="MAD Green Platecarrier";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_green.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_green.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_green.paa"
+		};
+			
+	};
+	class HikingJacket_ColorBase;
+	class MAD_Pink_Jacket: HikingJacket_ColorBase
+	{
+		scope = 2;
+		displayName = "Jacket from MADness";
+		descriptionShort = "";
+//příklad
+		attachments[]=
+		{};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Body"
+		};
+		itemSize[]={5,5};
+		itemsCargoSize[]={8,5};
+		weight=1500;
+		quickBarBonus=4;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		soundAttType="Military";
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+//konec příkladu od PTI
+
+
+
+		// link the textures here
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\top\MAD_shirt_pink.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\top\MAD_shirt_pink.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\top\MAD_shirt_pink.paa",		// on-character texture
+		};
+	};
+	class TShirt_ColorBase;
+	class MAD_Pink_TShirt: TShirt_ColorBase
+	{
+		scope = 2;
+		displayName = "TShirt from MADness";
+		descriptionShort = "";
+//příklad
+		attachments[]=
+		{};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Body"
+		};
+		itemSize[]={3,3};
+		itemsCargoSize[]={6,5};
+		weight=1500;
+		quickBarBonus=4;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		soundAttType="Military";
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+//konec příkladu od PTI
+
+
+
+		// link the textures here
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\top\MAD_tshirt_black.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\top\MAD_tshirt_black.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\top\MAD_tshirt_black.paa",		// on-character texture
+		};
+	};
+		class Outlive_TShirt: TShirt_ColorBase
+	{
+		scope = 2;
+		displayName = "TShirt Outlive";
+		descriptionShort = "";
+//příklad
+		attachments[]=
+		{};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Body"
+		};
+		itemSize[]={3,3};
+		itemsCargoSize[]={4,5};
+		weight=1500;
+		quickBarBonus=4;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		soundAttType="Military";
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+//konec příkladu od PTI
+
+
+
+		// link the textures here
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\top\tshirt_outlive.paa",		// on-character texture
+		};
+	};
+	class CargoPants_ColorBase;
+	class MAD_Black_CargoPants: CargoPants_ColorBase
+	{
+		scope = 2;
+		displayName = "Pants from MADness";
+		descriptionShort = "";
+//příklad
+		attachments[]=
+		{};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Body"
+		};
+		itemSize[]={3,3};
+		itemsCargoSize[]={8,5};
+		weight=1500;
+		quickBarBonus=4;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		soundAttType="Military";
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+//konec příkladu od PTI
+
+
+
+		// link the textures here
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\kalhoty\MAD_cargoPants_black.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\kalhoty\MAD_cargoPants_black.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\kalhoty\MAD_cargoPants_black.paa",		// on-character texture
+		};
+	};
+	class Outlive_Black_CargoPants: CargoPants_ColorBase
+	{
+		scope = 2;
+		displayName = "Pants Outlive";
+		descriptionShort = "";
+//příklad
+		attachments[]=
+		{};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Body"
+		};
+		itemSize[]={3,3};
+		itemsCargoSize[]={4,6};
+		weight=1500;
+		quickBarBonus=4;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		soundAttType="Military";
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+//konec příkladu od PTI
+
+
+
+		// link the textures here
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\kalhoty\outlive_cargoPants.paa",		// on-character texture
+		};
+	};/*
+	class Bottle_Base;
+	class MAD_Canteen_Pink: Bottle_Base
+		{
+		scope=2;
+		displayName="MAD Canteen Pink";
+		descriptionShort="Canteen from MADness";
+		model="\dz\gear\drinks\Canteen.p3d";
+		debug_ItemCategory=6;
+		inventorySlot[]=
+		{
+			"Belt_Left"
+		};
+		weight=250;
+		itemSize[]={2,2};
+		varQuantityInit=1000;
+		varQuantityMin=0;
+		varQuantityMax=1000;
+		destroyOnEmpty=0;
+		varQuantityDestroyOnMin=0;
+		varLiquidTypeInit=512;
+		liquidContainerType="1 + 2 + 4 + 8 + 16 + 32 + 64 + 128 + 256 + 512 + 1024 + 2048 + 4096 + 8192 + 16384 + 32768 + 65536  - (1 + 2 + 4 + 8 + 16 + 32 + 64 + 128 + 256) -32768";
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\pouches\MAD_canteen_pink.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\pouches\MAD_canteen_pink.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\pouches\MAD_canteen_pink.paa",		// on-character texture
+		};
 	};*/
+	class MilitaryBoots_ColorBase;
+	class MAD_Black_MilitaryBoots: MilitaryBoots_ColorBase
+	{
+		scope = 2;
+		displayName = "MilitaryBoots from MADness";
+		descriptionShort = "";
+		attachments[]=
+		{
+			"Knife"
+		};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Body"
+		};
+		itemSize[]={3,3};
+		itemsCargoSize[]={3,1};
+		weight=1500;
+		quickBarBonus=4;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		soundAttType="Military";
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+//konec příkladu od PTI
+
+
+
+		// link the textures here
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa",		// on-character texture
+		};
+	};
 };
