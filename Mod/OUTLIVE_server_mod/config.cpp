@@ -8,7 +8,6 @@ class CfgPatches
 		requiredAddons[] =
 		{
 			"DZ_Data",
-			"DZ_Characters_Tops",
 			"DZ_Characters",
 			"DZ_Characters_Backpacks",
 			"DZ_Characters_Pants",
@@ -20,7 +19,10 @@ class CfgPatches
 			"DZ_Gear_Containers",
 			"DZ_Weapons_Magazines",
 			"DZ_Weapons_Melee",
-			"DZ_Gear_Drinks"
+			"DZ_Gear_Drinks",
+			"DZ_Structures",
+			"DZ_Scripts",
+			"Mass_Textures"
 		};
 		author = "MADness";
 		name = "MADness for OUTLIVE DayZ server";
@@ -41,6 +43,23 @@ class CfgMods
 		version = "1.0";
 		extra = 0;
 		type = "mod";
+		dependencies[]=
+		{
+			"Game",
+			"World",
+			"Mission"
+		};
+		class defs
+		{
+			class worldScriptModule
+			{
+				value="";
+				files[]=
+				{
+					"OUTLIVE_server_mod/Data/scripts/4_World"
+				};
+			};
+		};
 		/*
 		dependencies[] = {"Game","World","Mission"};
 		class defs
@@ -247,6 +266,54 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\backpack\mad_hunting_black.paa"		// on-character texture
 		};
 	};
+		class MAD_Backpack_Green: HuntingBag
+	{
+		scope = 2;
+		displayName = "Backpack from MADness";
+		descriptionShort = "";
+		attachments[]=
+		{
+			"Knife",
+			"CanisterGasoline",
+			"VestGrenadeA",
+			"VestGrenadeB",
+			"VestHolster",
+			"MedicalBandage",
+			"Chemlight",
+			"shoulder",
+			"WalkieTalkie",
+			"Melee",			
+			"VestBackpack"
+		};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Back"
+		};
+		itemSize[]={10,10};
+		itemsCargoSize[]={10,15};
+		weight=5500;
+		quickBarBonus=4;
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={10,15,25};
+		soundAttType="Military";
+		randomQuantity=6;
+		absorbency=0;
+		varWetMax=0.0;
+		heatIsolation=0.7;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+		hiddenSelectionsTextures[] =
+		{
+			"OUTLIVE_server_mod\Data\backpack\mad_hunting_green.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\backpack\mad_hunting_green.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\backpack\mad_hunting_green.paa"		// on-character texture
+		};
+	};
 	class OUTLIVE_Backpack_Black: HuntingBag
 	{
 		scope = 2;
@@ -320,38 +387,42 @@ class CfgVehicles
 			"OUTLIVE_server_mod\Data\pouches\mad_teddybear_pink.paa"		// on-character texture
 		};
 	};
-	class FirstAidKit;
-	class MAD_firstaidkit_pink: FirstAidKit
+/*	
+NEFUNKCNI FIRST AID KIT 
+class FirstAidKit;
+	class MAD_firstaidkit_Base: FirstAidKit
 	{
 		scope = 2;
 		displayName = "FirstAidKit from MADness";
-		descriptionShort = "";
+		inventorySlot[] = {"Belt_Left"};
+		displayName = "First AidKit";
+		descriptionShort = "First AidKit";
+		model = "\dz\gear\containers\FirstAidKit.p3d";
+		rotationFlags = 17;
+		weight = 140;
 		attachments[]=
 		{
 			"MedicalBandage"
 		};
 		itemSize[]={5,5};
-		itemsCargoSize[]={8,5};
-		weight=2500;
-		quickBarBonus=4;
-		repairableWithKits[]={5,3,2};
-		repairCosts[]={10,15,25};
-		soundAttType="Military";
-		randomQuantity=6;
-		absorbency=0;
-		varWetMax=0.0;
-		heatIsolation=0.7;
-		hiddenSelections[]=
-		{};
-
-		// link the textures here
+		itemsCargoSize[]={6,5};
+		allowOwnedCargoManipulation = 1;
+		randomQuantity = 2;
+		canBeDigged = 1;
+		isMeleeWeapon = 1;
+		hiddenSelections[] = {};
 		hiddenSelectionsTextures[] =
-		{
-			"OUTLIVE_server_mod\Data\pouches\mad_firstaidkit_pink.paa",		// on-ground texture
-			"OUTLIVE_server_mod\Data\pouches\mad_firstaidkit_pink.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\pouches\mad_firstaidkit_pink.paa"		// on-character texture
-		};
+		{};
 	};
+	class MAD_FirstAidKit_Pink: MAD_firstaidkit_Base
+	{
+		scope = 2;
+		displayName = "MAD FirstAidKit Pink";
+		descriptionShort = "MAD FirstAidKit Pink";
+		hiddenSelections[] = {};
+		hiddenSelectionsTextures[] = {"OUTLIVE_server_mod\Data\pouches\mad_firstaidkit_pink.paa"};
+	};
+*/
 /*
    class Barrel_ColorBase;
    class OUTLIVE_Barrel: Barrel_ColorBase
@@ -392,9 +463,11 @@ class CfgVehicles
         scope=2;
         displayName="OUTLIVE Barrel";
         descriptionShort="BIG BARREL";
+		itemsCargoSize[]={10,25};
         weight=10000;
-        itemSize[]={10,20};
-        attachments[]={};
+        itemSize[]={10,10};
+        attachments[]=
+                {};
         itemBehaviour=0;
         carveNavmesh=1;
         hiddenSelections[]=
@@ -419,9 +492,11 @@ class CfgVehicles
         scope=2;
         displayName="MAD Pink Barrel";
         descriptionShort="BIG BARREL";
+		itemsCargoSize[]={10,25};
         weight=10000;
-        itemSize[]={10,20};
-        attachments[]={};
+        itemSize[]={10,10};
+        attachments[]=
+                {};
         itemBehaviour=0;
         carveNavmesh=1;
         hiddenSelections[]=
@@ -446,8 +521,9 @@ class CfgVehicles
         scope=2;
         displayName="MAD Black Barrel";
         descriptionShort="BIG BARREL";
+		itemsCargoSize[]={10,25};
         weight=10000;
-        itemSize[]={10,20};
+        itemSize[]={10,10};
         attachments[]=
                 {};
         itemBehaviour=0;
@@ -474,8 +550,9 @@ class CfgVehicles
         scope=2;
         displayName="OUTLIVE Black Barrel";
         descriptionShort="BIG BARREL";
+		// itemsCargoSize[]={10,50};
         weight=10000;
-        itemSize[]={10,20};
+        itemSize[]={10,10};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -501,8 +578,9 @@ class CfgVehicles
         scope=2;
         displayName="OUTLIVE White Barrel";
         descriptionShort="BIG BARREL";
+		// itemsCargoSize[]={10,50};
         weight=10000;
-        itemSize[]={10,20};
+        itemSize[]={10,10};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -528,8 +606,9 @@ class CfgVehicles
         scope=2;
         displayName="MAD Tools Barrel";
         descriptionShort="BIG TOOLS BARREL";
+		itemsCargoSize[]={10,30};
         weight=10000;
-        itemSize[]={10,20};
+        itemSize[]={20,10};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -555,8 +634,9 @@ class CfgVehicles
         scope=2;
         displayName="MAD Medic Barrel";
         descriptionShort="BIG MEDIC BARREL";
+		itemsCargoSize[]={10,30};
         weight=10000;
-        itemSize[]={10,20};
+        itemSize[]={20,10};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -582,8 +662,9 @@ class CfgVehicles
         scope=2;
         displayName="MAD Food Barrel";
         descriptionShort="BIG FOOD BARREL";
+		itemsCargoSize[]={10,30};
         weight=10000;
-        itemSize[]={10,20};
+        itemSize[]={20,10};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -609,8 +690,9 @@ class CfgVehicles
         scope=2;
         displayName="MAD Attachment Barrel";
         descriptionShort="BIG ATTACHMENT BARREL";
+		itemsCargoSize[]={10,30};
         weight=10000;
-        itemSize[]={10,20};
+        itemSize[]={20,10};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -636,8 +718,9 @@ class CfgVehicles
         scope=2;
         displayName="MAD Ammo Barrel";
         descriptionShort="BIG AMMO BARREL";
+		itemsCargoSize[]={10,30};
         weight=10000;
-        itemSize[]={10,20};
+        itemSize[]={20,10};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -663,8 +746,9 @@ class CfgVehicles
         scope=2;
         displayName="MAD Ammo Barrel II";
         descriptionShort="BIG AMMO BARREL";
+		itemsCargoSize[]={10,30};
         weight=10000;
-        itemSize[]={10,20};
+        itemSize[]={20,10};
         attachments[]={};
         itemBehaviour=0;
         carveNavmesh=1;
@@ -685,9 +769,128 @@ class CfgVehicles
 			allowOwnedCargoManipulation=1;
 		};      
     };
-
+	   	class MAD_Clothes_Barrel: Barrel_ColorBase
+    {
+        scope=2;
+        displayName="MAD Clothes Barrel";
+        descriptionShort="BIG Clothes BARREL";
+		itemsCargoSize[]={10,30};
+        weight=10000;
+        itemSize[]={20,10};
+        attachments[]={};
+        itemBehaviour=0;
+        carveNavmesh=1;
+        hiddenSelections[]=
+        {
+			"camoGround"
+		};
+        hiddenSelectionsTextures[]=
+        {
+            "OUTLIVE_server_mod\Data\barely\mad_barrel_clothes.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_clothes.paa",
+			"OUTLIVE_server_mod\Data\barely\mad_barrel_clothes.paa"
+        };
+		class Cargo
+		{
+			itemsCargoSize[]={10,30};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};      
+    };
+	class MAD_Static_Barrel: Barrel_ColorBase
+	{
+		scope=2;
+		displayName="Donation Barrel";
+		descriptionShort="Barrel to donate your unwanted items. Take what you need, donate what you don't.";
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\barely\MAD_Static_Barrel_wings.paa"
+		};
+		class Cargo
+		{
+			itemsCargoSize[]={10,60};
+			openable=0;
+			allowOwnedCargoManipulation=1;
+		};
+		class DamageSystem
+		{
+			class GlobalHealth
+			{
+				class Health
+				{
+					hitpoints=100;
+				};
+			};
+			class GlobalArmor
+			{
+				class Projectile
+				{
+					class Health
+					{
+						damage=0;
+					};
+					class Blood
+					{
+						damage=0;
+					};
+					class Shock
+					{
+						damage=0;
+					};
+				};
+				class FragGrenade
+				{
+					class Health
+					{
+						damage=0;
+					};
+					class Blood
+					{
+						damage=0;
+					};
+					class Shock
+					{
+						damage=0;
+					};
+				};
+			};
+		};
+	};
+	class OUTLIVE_Static_Barrel: MAD_Static_Barrel
+	{
+		scope=2;
+		displayName="Donation OUTLIVE Barrel";
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\barely\barrel_OUTLIVE_black_co.paa"
+		};
+	};
+	class BarrelHoles_ColorBase;
+	class MAD_BarrelHoles: BarrelHoles_ColorBase
+	{
+		scope = 2;
+		displayName="MAD Fire Barrel";
+		descriptionShort="Fire barrel from MADness";
+		hiddenSelectionsTextures[] = 
+		{
+			"\dz\gear\cooking\data\stoneground_co.paa",
+			"OUTLIVE_server_mod\Data\barely\MAD_barrel_holes.paa",
+			"OUTLIVE_server_mod\Data\barely\MAD_barrel_holes.paa"
+		};
+	};
+		class MAD_Static_BarrelHoles: BarrelHoles_ColorBase
+	{
+		scope = 2;
+		displayName="MAD Static Fire Barrel";
+		descriptionShort="Static fire barrel from MADness";
+		hiddenSelectionsTextures[] = 
+		{
+			"\dz\gear\cooking\data\stoneground_co.paa",
+			"OUTLIVE_server_mod\Data\barely\MAD_barrel_holes.paa",
+			"OUTLIVE_server_mod\Data\barely\MAD_barrel_holes.paa"
+		};
+	};
 // BARREL KONEC	
-
 	class SmallProtectorCase;
 	class MAD_ProtectorCase_Pink: SmallProtectorCase
 	{ 
@@ -887,7 +1090,7 @@ class CfgVehicles
 		};
 		weight=1200;
 		itemSize[]={4,4};
-		itemsCargoSize[]={6,10};
+		itemsCargoSize[]={8,5};
 		varWetMax=0.0;
 		heatIsolation=0.2;
 		repairableWithKits[]={5,3,2};
@@ -1067,6 +1270,18 @@ class CfgVehicles
 		};
 			
 	};
+	class OUTLIVE_Black_Plate: MAD_PlateCarrier
+	{
+		scope=2;
+		displayName="OUTLIVE Platecarrier";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\vesty\OUTLIVE_ballisticvest_black.paa",
+			"OUTLIVE_server_mod\Data\vesty\OUTLIVE_ballisticvest_black.paa",
+			"OUTLIVE_server_mod\Data\vesty\OUTLIVE_ballisticvest_black.paa"
+		};
+			
+	};
 
 //VESTY KONEC
 	class HikingJacket_ColorBase;
@@ -1243,11 +1458,13 @@ class CfgVehicles
 
 		hiddenSelectionsTextures[] =
 		{
-			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa",		// on-ground texture
-			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa",	// on-character texture
-			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black.paa"		// on-character texture
+			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black2.paa",		// on-ground texture
+			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black2.paa",	// on-character texture
+			"OUTLIVE_server_mod\Data\boots\MAD_MilitaryBoots_black2.paa"		// on-character texture
 		};
 	};
+	
+
 
 // BAMBIE START
 	class Outlive_Black_CargoPants: CargoPants_ColorBase
@@ -1367,4 +1584,453 @@ class MAD_Black_MilitaryBoots: MilitaryBoots_ColorBase
 	};
 */
 // KONEC
+	class Container_Base;
+	class MAD_CarrierPouches_Base: Container_Base
+	{
+		scope = 2;
+		displayName = "MAD Pouches";
+		descriptionShort = "MAD Carrier Pouches";
+		model = "\dz\characters\vests\plate_carrier_pouches_g.p3d";
+		inventorySlot = "VestPouch";
+		weight = 250;
+		itemSize[] = {6,4};
+		itemsCargoSize[] = {7,6};
+		repairableWithKits[] = {5,2};
+		repairCosts[] = {30.0,25.0};
+		allowOwnedCargoManipulation = 1;
+		randomQuantity = 2;
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_black.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_black.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_black.paa"
+		};
+		lootTag[] = {"Military_east","Military_west"};
+		class DamageSystem
+		{
+			class GlobalHealth
+			{
+				class Health
+				{
+					hitpoints = 500;
+					healthLabels[] = {1.0,0.7,0.5,0.3,0.0};
+					healthLevels[] = {{1.0,{"DZ\gear\containers\data\PlateCarrier.rvmat"}},{0.5,{"DZ\gear\containers\data\PlateCarrier_damage.rvmat"}},{0.0,{"DZ\gear\containers\data\PlateCarrier_destruct.rvmat"}}};
+				};
+			};
+		};
+	};
+	class MAD_CarrierPouches_Pink: MAD_CarrierPouches_Base
+	{
+		scope=2;
+		displayName="MAD Pink Platecarrier Pouches";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa"
+		};
+		
+	};
+	class MAD_CarrierPouches_Green: MAD_CarrierPouches_Base
+	{
+		scope=2;
+		displayName="MAD Green Platecarrier Pouches";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_green.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_green.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_green.paa"
+		};
+		
+	};
+		class Outlive_CarrierPouches: MAD_CarrierPouches_Base
+	{
+		scope=2;
+		displayName="Outlive Platecarrier Pouches";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\vesty\OUTLIVE_ballisticvest_black.paa",
+			"OUTLIVE_server_mod\Data\vesty\OUTLIVE_ballisticvest_black.paa",
+			"OUTLIVE_server_mod\Data\vesty\OUTLIVE_ballisticvest_black.paa"
+		};
+		
+	};
+	class PlateCarrierHolster;
+	class MAD_PlateCarrierHolster_Base: PlateCarrierHolster
+	{
+		scope = 2;
+		displayName = "MAD Holster";
+		descriptionShort = "MAD Holster";
+		model="\DZ\characters\vests\plate_carrier_holster_g.p3d";
+		inventorySlot[]=
+		{
+			"VestHolster",
+			"Belt_Right"
+		};
+		vehicleClass="Clothing";
+		itemInfo[]=
+		{
+			"Clothing",
+			"Vest"
+		};
+		weight=110;
+		itemSize[]={2,3};
+		attachments[]=
+		{
+			"Pistol"
+		};
+		varWetMax=0.79000002;
+		heatIsolation=0;
+		repairableWithKits[]={3};
+		repairCosts[]={25};
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_black.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_black.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_black.paa"
+		};
+		class DamageSystem
+		{
+			class GlobalHealth
+			{
+				class Health
+				{
+					hitpoints=500;
+					transferToAttachmentsCoef=0;
+					healthLevels[]=
+					{
+						
+						{
+							1,
+							
+							{
+								"DZ\characters\vests\data\ballisticvest.rvmat"
+							}
+						},
+						
+						{
+							0.69999999,
+							
+							{
+								"DZ\characters\vests\data\ballisticvest.rvmat"
+							}
+						},
+						
+						{
+							0.5,
+							
+							{
+								"DZ\characters\vests\data\ballisticvest_damage.rvmat"
+							}
+						},
+						
+						{
+							0.30000001,
+							
+							{
+								"DZ\characters\vests\data\ballisticvest_damage.rvmat"
+							}
+						},
+						
+						{
+							0,
+							
+							{
+								"DZ\characters\vests\data\ballisticvest_destruct.rvmat"
+							}
+						}
+					};
+				};
+			};
+		};
+		class ClothingTypes
+		{
+			male="\DZ\characters\vests\chest_holster_m.p3d";
+			female="\DZ\characters\vests\chest_holster_f.p3d";
+		};
+		class AnimEvents
+		{
+			class SoundWeapon
+			{
+				class pickUpItem
+				{
+					soundSet="Shirt_pickup_SoundSet";
+					id=797;
+				};
+				class drop
+				{
+					soundset="Shirt_drop_SoundSet";
+					id=898;
+				};
+			};
+		};
+	};
+	class MAD_Holster_Pink: MAD_PlateCarrierHolster_Base
+	{
+		scope=2;
+		displayName="MAD Pink Holster";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest.paa"
+		};
+		
+	};
+	class MAD_Holster_Green: MAD_PlateCarrierHolster_Base
+	{
+		scope=2;
+		displayName="MAD Green Holster";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_green.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_green.paa",
+			"OUTLIVE_server_mod\Data\vesty\MAD_ballisticvest_green.paa"
+		};
+		
+	};
+		class OUTLIVE_Holster: MAD_PlateCarrierHolster_Base
+	{
+		scope=2;
+		displayName="Outlive Holster";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\vesty\OUTLIVE_ballisticvest_black.paa",
+			"OUTLIVE_server_mod\Data\vesty\OUTLIVE_ballisticvest_black.paa",
+			"OUTLIVE_server_mod\Data\vesty\OUTLIVE_ballisticvest_black.paa"
+		};
+		
+	};
+//BELTS START
+	class MilitaryBelt;
+	class MAD_Belt_Base: MilitaryBelt
+	{
+		scope=0;
+		displayName="MAD Belt";
+		descriptionShort="MAD Military Belt";
+		model="\DZ\characters\belts\mil_belt_g.p3d";
+		attachments[]=
+		{
+			"Belt_Back",
+			"Belt_Right",
+			"Belt_Left",
+			"WalkieTalkie",
+			"VestBackpack",
+			"VestGrenadeA",
+			"VestGrenadeB",
+			"VestGrenadeC",
+			"VestGrenadeD",
+			"VestHolster",
+			"VestPouch"
+		};
+		vehicleClass="Clothing";
+		simulation="clothing";
+		inventorySlot[]=
+		{
+			"Hips"
+		};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Hips"
+		};
+		itemSize[]={3,1};
+		weight=20;
+		repairableWithKits[]={5,2};
+		repairCosts[]={30,25};
+		lootCategory="Crafted";
+		hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+		
+		class DamageSystem
+		{
+			class GlobalHealth
+			{
+				class Health
+				{
+					hitpoints=1000;
+					healthLevels[]=
+					{
+						
+						{
+							1,
+							
+							{
+								"DZ\characters\belts\data\mil_belt.rvmat"
+							}
+						},
+						
+						{
+							0.69999999,
+							
+							{
+								"DZ\characters\belts\data\mil_belt.rvmat"
+							}
+						},
+						
+						{
+							0.5,
+							
+							{
+								"DZ\characters\belts\data\mil_belt_damage.rvmat"
+							}
+						},
+						
+						{
+							0.30000001,
+							
+							{
+								"DZ\characters\belts\data\mil_belt_damage.rvmat"
+							}
+						},
+						
+						{
+							0,
+							
+							{
+								"DZ\characters\belts\data\mil_belt_destruct.rvmat"
+							}
+						}
+					};
+				};
+			};
+		};
+		class ClothingTypes
+		{
+			male="\DZ\characters\belts\mil_belt_m.p3d";
+			female="\DZ\characters\belts\mil_belt_f.p3d";
+		};
+		class AnimEvents
+		{
+			class SoundWeapon
+			{
+				class pickUpItem
+				{
+					soundSet="WorkingGloves_pickup_SoundSet";
+					id=797;
+				};
+				class drop
+				{
+					soundset="WorkingGloves_drop_SoundSet";
+					id=898;
+				};
+			};
+		};
+	};
+	class MAD_Black_Belt: MAD_Belt_Base
+	{
+		scope=2;
+		displayName="MAD Black Belt";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\Belts\MAD_Black_Belt.paa",
+			"OUTLIVE_server_mod\Data\Belts\MAD_Black_Belt.paa",
+			"OUTLIVE_server_mod\Data\Belts\MAD_Black_Belt.paa"
+		};
+	};
+	class MAD_Pink_Belt: MAD_Belt_Base
+	{
+		scope=2;
+		displayName="MAD Pink Belt";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\Belts\MAD_Pink_Belt.paa",
+			"OUTLIVE_server_mod\Data\Belts\MAD_Pink_Belt.paa",
+			"OUTLIVE_server_mod\Data\Belts\MAD_Pink_Belt.paa"
+		};
+	};
+	class MAD_Green_Belt: MAD_Belt_Base
+	{
+		scope=2;
+		displayName="MAD Green Belt";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\Belts\MAD_Green_Belt.paa",
+			"OUTLIVE_server_mod\Data\Belts\MAD_Green_Belt.paa",
+			"OUTLIVE_server_mod\Data\Belts\MAD_Green_Belt.paa"
+		};
+	};
+	class OUTLIVE_Belt: MAD_Belt_Base
+	{
+		scope=2;
+		displayName="Outlive Belt";		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\Belts\Outlive_Black_Belt.paa",
+			"OUTLIVE_server_mod\Data\Belts\Outlive_Black_Belt.paa",
+			"OUTLIVE_server_mod\Data\Belts\Outlive_Black_Belt.paa"
+		};
+	};
+//BELTS KONEC
+//GLOVES 
+	class TacticalGloves_ColorBase;	
+	class MAD_Gloves_Base: TacticalGloves_ColorBase
+	{
+		displayName="MAD Black Gloves";
+		descriptionShort="Gloves from MADness";
+		scope=2;
+		weight=170;
+		itemsCargoSize[]={3,1};
+		quickBarBonus=1;
+		itemSize[]={2,2};
+		repairableWithKits[]={5,3,2};
+		repairCosts[]={25,25};
+		absorbency=0;
+		heatIsolation=0.7;
+		varWetMax=0.0;
+		attachments[]=
+		{};
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\Gloves\MAD_tacticalgloves_black.paa",
+			"OUTLIVE_server_mod\Data\Gloves\MAD_tacticalgloves_black.paa",
+			"OUTLIVE_server_mod\Data\Gloves\MAD_tacticalgloves_black.paa"
+		};
+	};
+	class MAD_Gloves_Pink: MAD_Gloves_Base
+	{
+		displayName="MAD Pink Gloves";
+		descriptionShort="Gloves from MADness";
+		scope=2;		
+		absorbency=0;
+		heatIsolation=1.0;
+		varWetMax=0.0;		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\Gloves\MAD_tacticalgloves_pink.paa",
+			"OUTLIVE_server_mod\Data\Gloves\MAD_tacticalgloves_pink.paa",
+			"OUTLIVE_server_mod\Data\Gloves\MAD_tacticalgloves_pink.paa"
+		};
+	};
+	class MAD_Gloves_Green: MAD_Gloves_Base
+	{
+		displayName="MAD Green Gloves";
+		descriptionShort="Gloves from MADness";
+		scope=2;		
+		absorbency=0;
+		heatIsolation=1.0;
+		varWetMax=0.0;		
+		hiddenSelectionsTextures[]=
+		{
+			"OUTLIVE_server_mod\Data\Gloves\MAD_tacticalgloves_green.paa",
+			"OUTLIVE_server_mod\Data\Gloves\MAD_tacticalgloves_green.paa",
+			"OUTLIVE_server_mod\Data\Gloves\MAD_tacticalgloves_green.paa"
+		};
+	};
 };
