@@ -879,4 +879,645 @@
 		<value name="Tier3" />
         <value name="Tier4" />
 	</type>
+	<!-- MAD GHILLIE -->
+<type name="MAD_GhillieTop_Black">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieSuit_Black">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieHood_Black">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieAtt_Black">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieTop_Grey">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieSuit_Grey">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieHood_Grey">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieAtt_Grey">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieTop_White">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieSuit_White">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieHood_White">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieAtt_White">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieTop_UltraWhite">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieSuit_UltraWhite">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieHood_UltraWhite">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieAtt_UltraWhite">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieTop_UltraPink">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieSuit_UltraPink">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+	<type name="MAD_GhillieHood_UltraPink">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="MAD_GhillieAtt_UltraPink">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="MAD_GhillieTop_Pink">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="MAD_GhillieSuit_Pink">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="MAD_GhillieHood_Pink">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="MAD_GhillieAtt_Pink">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="MAD_GhillieTop_DarkGreen">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="MAD_GhillieSuit_DarkGreen">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="MAD_GhillieHood_DarkGreen">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="MAD_GhillieAtt_DarkGreen">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="MAD_GhillieTop_Purple">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="MAD_GhillieSuit_Purple">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="MAD_GhillieHood_Purple">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="MAD_GhillieAtt_Purple">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="MAD_GhillieTop_Yellow">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="MAD_GhillieSuit_Yellow">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="MAD_GhillieHood_Yellow">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="MAD_GhillieAtt_Yellow">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="OUTLIVE_GhillieTop_WoodLand">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="OUTLIVE_GhillieSuit_WoodLand">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="OUTLIVE_GhillieHood_WoodLand">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		<type name="OUTLIVE_GhillieAtt_WoodLand">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="OUTLIVE_GhillieTop_SNOW">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="OUTLIVE_GhillieSuit_SNOW">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="OUTLIVE_GhillieHood_SNOW">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="OUTLIVE_GhillieAtt_SNOW">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="OUTLIVE_GhillieTop_woodland2">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="OUTLIVE_GhillieSuit_woodland2">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="OUTLIVE_GhillieHood_woodland2">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
+		</type>
+		<type name="OUTLIVE_GhillieAtt_woodland2">
+		<nominal>1</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="" />
+	</type>
 </types>
