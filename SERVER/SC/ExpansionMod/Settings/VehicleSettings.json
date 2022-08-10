@@ -1,6 +1,6 @@
 {
     "m_Version": 10,
-    "VehicleSync": 1,
+    "VehicleSync": 0,
     "VehicleRequireKeyToStart": 1,
     "VehicleRequireAllDoors": 1,
     "VehicleLockedAllowInventoryAccess": 0,
@@ -19,7 +19,7 @@
     "EnableHelicopterExplosions": 0,
     "DisableVehicleDamage": 0,
     "VehicleCrewDamageMultiplier": 0.0,
-    "VehicleSpeedDamageMultiplier": 0.30000001192092898,
+    "VehicleSpeedDamageMultiplier": 0.1,
     "CanChangeLock": 0,
     "ChangeLockTools": [],
     "ChangeLockTimeSeconds": 120,
@@ -28,7 +28,7 @@
     "RevvingOverMaxRPMRuinsEngineInstantly": 0,
     "VehicleDropsRuinedDoors": 1,
     "ExplodingVehicleDropsAttachments": 0,
-    "DesyncInvulnerabilityTimeoutSeconds": 3.0,
+    "DesyncInvulnerabilityTimeoutSeconds": 1.0,
     "VehiclesConfig": [
         {
             "ClassName": "ExpansionUAZCargoRoofless",
