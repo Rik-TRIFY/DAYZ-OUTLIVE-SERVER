@@ -1,0 +1,57 @@
+{
+    "ConfigVersion": 3,
+    "ID": 73,
+    "Type": 2,
+    "Title": "73 - Zkontoluj laboratoře",
+    "Descriptions": [
+        "Mě se tááááák nechce... Nechceš kšeftík? Je třeba dojít k laboratořím a podívat se, jestli se tam netoulají infikovaní. Popřípadě zredukovat jejich stavy. A ať vypadá,l že něco dělám, tak tam prosím, zabij 20 infikovaných. Zbraň ti dát nemůžu, ale dám ti paličku. Ty to s ní zvládneš."
+    ],
+    "ObjectiveText": "Zkontoluj laboratoře.",
+    "PreQuest": 21,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 6,
+    "QuestTurnInID": 6,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+       {
+            "ConfigVersion": 4,
+            "ID": 215,
+            "ObjectiveType": 2,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [
+        {
+            "ClassName": "MeatTenderizer",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "mmg_tactical_gloves_alpine",
+            "Amount": 1
+        },
+        {
+            "ClassName": "MMG_tactical_helmet_alpine",
+            "Amount": 1
+        },
+        {
+            "ClassName": "MMG_mk_V_grenade_pouch_alpine",
+            "Amount": 1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}

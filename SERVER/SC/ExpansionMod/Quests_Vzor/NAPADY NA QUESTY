@@ -102,8 +102,8 @@ TRAVEL (cestovatelske)
 // T_304, Q_4 - Běž se podívat na přehradu a trochu tam zredukuj stavy infikovaných.
 // T_5, Q_6 - Měli jsme dnes sraz se Smugglerem, ale vůbec se neukázal. Běž se podívat, jestli je u sebe v obchodě! 
 // q29 Už jsi byl na letišti? Běž se tam podívat!
-q42 T09 - Ted Valley, krásné místo. Už jsi tam byl? .... Tak tam zajdi ! ;) 
-q43 Slyšel jsem, že v Refugi Campu se přemnožili zombici, jdi se tam podívat a malinko zredukuj stavy. 
+// q42 T09 - Ted Valley, krásné místo. Už jsi tam byl? .... Tak tam zajdi ! ;) 
+// q43 Slyšel jsem, že v Refugi Campu se přemnožili zombici, jdi se tam podívat a malinko zredukuj stavy. 
 // T 306, Q15 - Běž se podívat v jakém stavu je most při vchodu do PVP zony, slyšel jsem, že do něj zas někdo naboural. Hlášení podej Borisovi.
 //q26 Už 3 dny sháním Flea tradera a nikde není. Zajdi kouknout k němu do krámu, jestli se tam neukázal. 
 
@@ -166,7 +166,7 @@ q66 -             1x GPU + 1x SSDv2 + INTEL + Ram = Bitcoin
 3 - Linda - Pink - PVP hrča Q - 1,2,9,21
 4 - Oliver - Hasič - Airport Q - 7,10, 6,24
 5 - Seth - Policajt - Eggstadt Q 2,3,24
-6 - Boris - Voják v bílém - vchod do PVP Q 8, 15, 16
+6 - Boris - Voják v bílém - vchod do PVP Q 8, 15, 16, 70-72
 7 - Mirek - NBC - AtomKraftWerk Q 7, 25
 8 - Irena - u Hunter Tradera manželka Q 11,12,13,14,18,22,31
 9 - Cyril - u Flea Tradera 27, 28
@@ -250,6 +250,12 @@ OK        q43 - camp refugi - 35 Zmb
         q67            2x GPU + USB = Bitcoin
         q68            SmartPhone set  
         q69            Ulov 15 krav
+        q70 - dones jednorozci maso
+        q71 - dones energydrink
+        q72 - dones toaletní papír
+        q73 - Zkontoluj laboratoře.
+        q74 - Zkontoluj letadlo
+
 
 
 
@@ -259,7 +265,47 @@ TWP_ToiletRoll
 TWP_GhostBackpack_Scared
 TWP_Coffin
 
+MMG_JPC_Vest_alpine
+MMG_tt_Vest_alpine
+MMG_chestrig_alpine
+MMG_MK_III_Armor_alpine
 
+MMG_Mag_Pouch_alpine
+MMG_triple_magpouch_alpine
+MMG_double_magpouch_alpine
+MMG_Med_Pouch_alpine
+
+MMG_tactical_pouch_alpine
+
+
+MMG_supplybag_alpine
+MMG_assault_pack_alpine
+MMG_camelback_alpine
+
+MMG_striker_helmet_alpine
+
+
+
+MMG_operatorshirt_alpine
+MMG_tactical_shirt_alpine
+MMG_combatshirt_alpine
+MMG_combatpants_alpine
++++ mmg_tactical_pants_alpine
++++ mmg_tactical_gloves_alpine
++++ MMG_boots_alpine
++++ MMG_facemask_alpine
++++ MMG_balaclava_alpine
++++ mmg_boonie_alpine
++++ MMG_sheath_alpine
++++ MMG_bottle_alpine
++++ MMG_Holster_alpine
++++ MMG_falcon_b1_belt_alpine
++++ MMG_tactical_helmet_alpine
++++ MMG_mk5_utility_pouch_alpine
++++ MMG_mk_V_grenade_pouch_alpine
++++ MMG_carrier_backpack_alpine
++++ MMG_ammo_pouch_alpine
++++ MMG_MK_V_Armor_alpine
 
 
 
