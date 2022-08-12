@@ -119,45 +119,8 @@ Navštiv Hunter Tradera, dlouho tě neviděl!
 
 
 TREASUREHUNT (hladanie pokladov)
+xxx
 
-
-==========================
-// Q 28 418 - GPU                            30.000-     Collectable_GPU
-q50            SSD                                15.000-   Collectable_SSD
-q51 - 435           SSDv2                            18.000-       Collectable_SSDV2
- // q 32   419        USB                            5.000-           Collectable_USB
-q52            MemoryCard                    10.000-           Collectable_MemoryCard
-q53           Tetris                            40.000-       Collectable_TetrisToy
-//q 33    420        Document (INTEL)                        10.000- Collectable_Intel
-q49            RetroToy                        4.000-          Collectable_RetroToy
-/ q 36            Prívesok (s krížom)                5.000-       Collectable_CrossNecklace
-//q 35            Kapesné hodinky                7.000-           Collectable_PocketWatch
-//q 34  421          RAM                            8.000-           Collectable_RAM
-//q37            Gameboy DonkeyKong 2ks        5.000-            Collectable_GameBoy_DonkeyKong
-q48            Gameboy Medarot    2ks            6.000-        Collectable_GameBoy_Medarot
-q38            Gameboy Mario 2ks            10.000-            Collectable_GameBoy_Mario
-q54            Gameboy Pokemon 1 a 2        25.000-            Collectable_GameBoy_PokemonOne Collectable_GameBoy_PokemonTwo 
-q40            Gameboy Snakes 2ks            15.000-           Collectable_GameBoy_Snakes
-q39            Gameboy Tetris                    5.000-        Collectable_GameBoy_Tetris
-//q47            Gameboy Yoshi                    6.000-         Collectable_GameBoy_Yoshi
-// Q27      Gameboy Zelda 2ks                5.000-  Collectable_GameBoy_Zelda
-//q44            Disketa 1999                    5.000-          Collectable_FloppyDisks_1999
-//q45            Disketa April                    15.000-        Collectable_FloppyDisks_April
-//q46            Disketa MTV                    10.000-          Collectable_FloppyDisks_MTV
-            Bitcoin                            86.000-(cena sa pohybuje)     Collectable_Bitcoin
-q68         SmartPhone set        (Black, Blue, Yellow, Red, Green)        30.000-   Collectable_SmartPhone Collectable_SmartPhone_Black  Collectable_SmartPhone_Blue  Collectable_SmartPhone_Yellow Collectable_SmartPhone_Red Collectable_SmartPhone_Green
-q64         Polaroid (set 4 fotky)                15.000    Collectable_Polaroid_One Collectable_Polaroid_Two Collectable_Polaroid_Three Collectable_Polaroid_Four
-            Balíček Pokemon kartičiek        250.000-
-
-
-Výmena:
-
-q67            2x GPU + USB = Bitcoin
-            1x GPU + 2x SSD + INTEL = Bitcoin
-q66 -             1x GPU + 1x SSDv2 + INTEL + Ram = Bitcoin
-            2x SSD + 2x SSDv2 + INTEL + Ram = GPU + Tetris
-            5x Tetris + Disketa 1999 = 250.000- 
-=============================================
 
 
 "(NPC)" 
@@ -256,7 +219,9 @@ OK        q43 - camp refugi - 35 Zmb
         q73 - Zkontoluj laboratoře.
         q74 - Zkontoluj letadlo
         q75 - 5 polarnich medvedu
-
+        q76 - dones Lindě energiťák
+        q77 - dones 6 piv
+        q78 - kemp banditů
 
 
 
@@ -272,20 +237,20 @@ TWP_Coffin
 MMG_JPC_Vest_alpine
 MMG_tt_Vest_alpine
 MMG_chestrig_alpine
-MMG_MK_III_Armor_alpine
+++ MMG_MK_III_Armor_alpine
 
-MMG_Mag_Pouch_alpine
-MMG_triple_magpouch_alpine
+++ MMG_triple_magpouch_alpine
 MMG_Med_Pouch_alpine
 
-MMG_tactical_pouch_alpine
-MMG_combatshirt_alpine
-MMG_combatpants_alpine
++++ MMG_tactical_pouch_alpine
+++ MMG_combatshirt_alpine
+++ MMG_combatpants_alpine
 MMG_operatorshirt_alpine
 MMG_supplybag_alpine
 MMG_assault_pack_alpine
-MMG_camelback_alpine
 
++++ MMG_camelback_alpine
++++ MMG_Mag_Pouch_alpine
 +++ MMG_striker_helmet_alpine
 +++ MMG_double_magpouch_alpine
 +++ MMG_tactical_shirt_alpine
@@ -307,6 +272,43 @@ MMG_camelback_alpine
 +++ MMG_MK_V_Armor_alpine
 
 
+==========================
+// Q 28 418 - GPU                            30.000-     Collectable_GPU
+q50            SSD                                15.000-   Collectable_SSD
+q51 - 435           SSDv2                            18.000-       Collectable_SSDV2
+ // q 32   419        USB                            5.000-           Collectable_USB
+q52            MemoryCard                    10.000-           Collectable_MemoryCard
+q53           Tetris                            40.000-       Collectable_TetrisToy
+//q 33    420        Document (INTEL)                        10.000- Collectable_Intel
+q49            RetroToy                        4.000-          Collectable_RetroToy
+/ q 36            Prívesok (s krížom)                5.000-       Collectable_CrossNecklace
+//q 35            Kapesné hodinky                7.000-           Collectable_PocketWatch
+//q 34  421          RAM                            8.000-           Collectable_RAM
+//q37            Gameboy DonkeyKong 2ks        5.000-            Collectable_GameBoy_DonkeyKong
+q48            Gameboy Medarot    2ks            6.000-        Collectable_GameBoy_Medarot
+q38            Gameboy Mario 2ks            10.000-            Collectable_GameBoy_Mario
+q54            Gameboy Pokemon 1 a 2        25.000-            Collectable_GameBoy_PokemonOne Collectable_GameBoy_PokemonTwo 
+q40            Gameboy Snakes 2ks            15.000-           Collectable_GameBoy_Snakes
+q39            Gameboy Tetris                    5.000-        Collectable_GameBoy_Tetris
+//q47            Gameboy Yoshi                    6.000-         Collectable_GameBoy_Yoshi
+// Q27      Gameboy Zelda 2ks                5.000-  Collectable_GameBoy_Zelda
+//q44            Disketa 1999                    5.000-          Collectable_FloppyDisks_1999
+//q45            Disketa April                    15.000-        Collectable_FloppyDisks_April
+//q46            Disketa MTV                    10.000-          Collectable_FloppyDisks_MTV
+            Bitcoin                            86.000-(cena sa pohybuje)     Collectable_Bitcoin
+q68         SmartPhone set        (Black, Blue, Yellow, Red, Green)        30.000-   Collectable_SmartPhone Collectable_SmartPhone_Black  Collectable_SmartPhone_Blue  Collectable_SmartPhone_Yellow Collectable_SmartPhone_Red Collectable_SmartPhone_Green
+q64         Polaroid (set 4 fotky)                15.000    Collectable_Polaroid_One Collectable_Polaroid_Two Collectable_Polaroid_Three Collectable_Polaroid_Four
+            Balíček Pokemon kartičiek        250.000-
+
+
+Výmena:
+
+q67            2x GPU + USB = Bitcoin
+            1x GPU + 2x SSD + INTEL = Bitcoin
+q66 -             1x GPU + 1x SSDv2 + INTEL + Ram = Bitcoin
+            2x SSD + 2x SSDv2 + INTEL + Ram = GPU + Tetris
+            5x Tetris + Disketa 1999 = 250.000- 
+=============================================
 
 
 

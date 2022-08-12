@@ -1,0 +1,102 @@
+{
+    "ConfigVersion": 4,
+    "ID": 801,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Zabij všech 10 banditů",
+    "TimeLimit": -1,
+    "AICamp": {
+        "Positions": [
+            [
+                118.320389,
+                377.951569,
+                8105.527832
+            ],
+            [
+                125.191147,
+                375.488556,
+                8125.747559
+            ],
+            [
+                82.124916,
+                387.607971,
+                8157.881836
+            ],
+            [
+                52.873585,
+                397.818085,
+                8153.738281
+            ],
+            [
+                26.178558,
+                420.194183,
+                8096.890625
+            ],
+            [
+                29.730946,
+                421.327942,
+                8056.233887
+            ],
+            [
+                23.919838,
+                422.710663,
+                8042.965820
+            ],
+            [
+                64.373718,
+                352.436127,
+                8335.049805
+            ],
+            [
+                93.318291,
+                353.111542,
+                8301.012695
+            ],
+            [
+                67.307816,
+                374.280029,
+                8258.190430
+            ]
+        ],
+        "NPCSpeed": "RUN",
+        "NPCMode": "HALT",
+        "NPCFaction": "West",
+        "NPCLoadoutFile": "BanditLoadout.json",
+        "ClassNames": [
+            "eAI_SurvivorM_Mirek",
+            "eAI_SurvivorM_Denis",
+            "eAI_SurvivorM_Boris",
+            "eAI_SurvivorM_Cyril",
+            "eAI_SurvivorM_Elias",
+            "eAI_SurvivorM_Francis",
+            "eAI_SurvivorM_Guo",
+            "eAI_SurvivorM_Hassan",
+            "eAI_SurvivorM_Indar",
+            "eAI_SurvivorM_Jose",
+            "eAI_SurvivorM_Kaito",
+            "eAI_SurvivorM_Lewis",
+            "eAI_SurvivorM_Manua",
+            "eAI_SurvivorM_Niki",
+            "eAI_SurvivorM_Oliver",
+            "eAI_SurvivorM_Peter",
+            "eAI_SurvivorM_Quinn",
+            "eAI_SurvivorM_Rolf",
+            "eAI_SurvivorM_Seth",
+            "eAI_SurvivorM_Taiki",
+            "eAI_SurvivorF_Linda",
+            "eAI_SurvivorF_Maria",
+            "eAI_SurvivorF_Frida",
+            "eAI_SurvivorF_Gabi",
+            "eAI_SurvivorF_Helga",
+            "eAI_SurvivorF_Irena",
+            "eAI_SurvivorF_Judy",
+            "eAI_SurvivorF_Keiko",
+            "eAI_SurvivorF_Eva",
+            "eAI_SurvivorF_Naomi",
+            "eAI_SurvivorF_Baty"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    },
+    "MinDistRadius": 50.0,
+    "MaxDistRadius": 150.0
+}
