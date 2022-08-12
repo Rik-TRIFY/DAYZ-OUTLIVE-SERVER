@@ -1,0 +1,51 @@
+{
+    "ConfigVersion": 3,
+    "ID": 75,
+    "Type": 2,
+    "Title": "75 - Polární plyšáci",
+    "Descriptions": [
+        "Vypadá to, že se mi tu venku toulá spousta polárních kožek. Zbav mě pěti z nich. "
+    ],
+    "ObjectiveText": "Zabij 5 polárních medvědů.",
+    "PreQuest": 21,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 6,
+    "QuestTurnInID": 6,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+       {
+            "ConfigVersion": 4,
+            "ID": 216,
+            "ObjectiveType": 2,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "MMG_tactical_shirt_alpine",
+            "Amount": 1
+        },
+        {
+            "ClassName": "MMG_striker_helmet_alpine",
+            "Amount": 1
+        },
+        {
+            "ClassName": "MMG_double_magpouch_alpine",
+            "Amount": 1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}

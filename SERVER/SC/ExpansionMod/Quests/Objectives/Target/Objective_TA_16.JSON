@@ -1,0 +1,21 @@
+{
+    "ConfigVersion": 4,
+    "ID": 216,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Zabij 5 polárních medvědů",
+    "TimeLimit": -1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "Target": {
+        "Amount": 5,
+        "ClassNames": [
+            "Animal_Polar_Bear"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    }
+}
