@@ -1,0 +1,67 @@
+{
+    "ConfigVersion": 4,
+    "ID": 803,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Bandité se usadili kousek vedle mě. Běž mě jich prosím zbavit. Měli by tam být asi 3.",
+    "TimeLimit": -1,
+    "AICamp": {
+        "Positions": [
+            [
+                10190.346680,
+                6.593278,
+                7200.571777
+            ],
+            [
+                10194.757813,
+                6.639991,
+                7198.836426
+            ],
+            [
+                10194.688477,
+                6.628698,
+                7200.850098
+            ]
+        ],
+        "NPCSpeed": "RUN",
+        "NPCMode": "HALT",
+        "NPCFaction": "West",
+        "NPCLoadoutFile": "BanditLoadout.json",
+        "ClassNames": [
+            "eAI_SurvivorM_Mirek",
+            "eAI_SurvivorM_Denis",
+            "eAI_SurvivorM_Boris",
+            "eAI_SurvivorM_Cyril",
+            "eAI_SurvivorM_Elias",
+            "eAI_SurvivorM_Francis",
+            "eAI_SurvivorM_Guo",
+            "eAI_SurvivorM_Hassan",
+            "eAI_SurvivorM_Indar",
+            "eAI_SurvivorM_Jose",
+            "eAI_SurvivorM_Kaito",
+            "eAI_SurvivorM_Lewis",
+            "eAI_SurvivorM_Manua",
+            "eAI_SurvivorM_Niki",
+            "eAI_SurvivorM_Oliver",
+            "eAI_SurvivorM_Peter",
+            "eAI_SurvivorM_Quinn",
+            "eAI_SurvivorM_Rolf",
+            "eAI_SurvivorM_Seth",
+            "eAI_SurvivorM_Taiki",
+            "eAI_SurvivorF_Linda",
+            "eAI_SurvivorF_Maria",
+            "eAI_SurvivorF_Frida",
+            "eAI_SurvivorF_Gabi",
+            "eAI_SurvivorF_Helga",
+            "eAI_SurvivorF_Irena",
+            "eAI_SurvivorF_Judy",
+            "eAI_SurvivorF_Keiko",
+            "eAI_SurvivorF_Eva",
+            "eAI_SurvivorF_Naomi",
+            "eAI_SurvivorF_Baty"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    },
+    "MinDistRadius": 50.0,
+    "MaxDistRadius": 150.0
+}
