@@ -1,0 +1,1563 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-5-21_18-11-35
+====================================================================================
+18:11:35 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:11:35 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:11:35 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:11:35 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:11:35 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:11:35 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:11:35 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:11:35 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:11:35 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:11:35 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:11:35 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:11:35 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:11:35 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:11:35 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:11:35 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:11:35 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:11:35 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:11:35 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:11:35 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:11:35 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:11:35 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:11:35 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:11:35 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:11:35 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:11:35 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:11:35 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:11:35 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:11:35 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:11:35 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:11:35 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:11:35 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:11:35 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:11:35 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:11:35 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:11:35 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:11:35 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:11:35 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:11:35 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:11:35 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:11:35 | [PermissionManager] Adding Super Admin (76561198016672415)
+18:11:35 | [PermissionManager] Loaded UserGroups.json
+18:11:35 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:11:35 | Building Sets Loaded: 0
+18:11:35 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:11:35 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:11:35 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+18:11:35 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:12:18 | Player "Bflame" (steamId=76561198072840834) connected to server!
+18:12:35 | Player "Bflame" (steamId=76561198072840834) connected to server!
+18:14:5 | Player "Majky" (steamId=76561198275611052) connected to server!
+18:14:27 | Player "Majky" (steamId=76561198275611052) connected to server!
+18:14:54 | Player "LuIgI" (steamId=76561198016672415) connected to server!
+18:15:13 | Player "LuIgI" (steamId=76561198016672415) connected to server!
+18:15:46 | "LuIgI": (steamid=76561198016672415) teleported to (pos=2658.76,0,6020.85)
+18:15:53 | "LuIgI" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+18:15:54 | "LuIgI" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+18:15:55 | "LuIgI" (steamid=76561198016672415) gave unlimited ammo to (steamid=76561198016672415)
+18:15:56 | "LuIgI" (steamid=76561198016672415) gave godmode to (steamid=76561198016672415)
+18:16:52 | "LuIgI" (steamid=76561198016672415) Spawned Item: (JungleBoots_Brown)
+18:17:2 | "LuIgI": (steamid=76561198016672415) teleported to (pos=10077,0,5011.89)
+18:17:7 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<10051.236328, 7.461220, 5071.328125>)
+18:17:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<10004.308594, 9.300865, 5204.718750>)
+18:17:15 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<9976.266602, 9.895553, 5257.115723>)
+18:17:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<9958.000000, 9.640204, 5313.046875>)
+18:17:53 | "LuIgI": (steamid=76561198016672415) teleported to (pos=4233.05,0,4153.73)
+18:20:16 | "LuIgI": (steamid=76561198016672415) teleported to (pos=313.183,0,7329.38)
+18:20:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<331.360291, 365.735413, 7392.457520>)
+18:20:52 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<361.338867, 372.061096, 7476.919434>)
+18:22:58 | [WeatherManager] Send Data Count is 0
+18:24:54 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<256.769531, 368.565430, 7497.023438>)
+18:25:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<278.982971, 374.991577, 7479.408691>)
+18:27:49 | "LuIgI": (steamid=76561198016672415) teleported to (pos=3321.65,0,1061.77)
+18:27:58 | "LuIgI": (steamid=76561198016672415) teleported to (pos=2057.58,0,2074.67)
+18:28:7 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2060.856689, 31.686918, 2053.625977>)
+18:28:7 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2068.928223, 36.589542, 2034.710327>)
+18:28:7 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2078.732178, 43.176186, 2013.416382>)
+18:28:8 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2084.480469, 47.863712, 2004.568237>)
+18:28:8 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2089.600830, 52.006325, 1998.160522>)
+18:28:8 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2094.502930, 55.392666, 1992.740234>)
+18:28:9 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2100.027344, 58.505413, 1987.113770>)
+18:28:9 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2107.657227, 62.238194, 1979.601807>)
+18:28:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2121.232910, 67.467056, 1967.225708>)
+18:28:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2128.498535, 71.372032, 1960.635986>)
+18:28:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2135.321533, 75.138062, 1954.466064>)
+18:28:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2146.994629, 79.778130, 1944.291992>)
+18:28:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2152.523193, 82.485565, 1939.712646>)
+18:28:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2157.978760, 85.132088, 1935.368896>)
+18:28:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2165.312256, 87.649925, 1929.668701>)
+18:28:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2171.037598, 89.644936, 1925.060913>)
+18:28:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2175.973389, 91.536858, 1920.966675>)
+18:28:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2181.047852, 93.444702, 1916.739746>)
+18:28:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2185.868408, 95.040245, 1912.851074>)
+18:28:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2190.273926, 96.331505, 1909.328247>)
+18:28:13 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2195.268311, 97.553383, 1905.386108>)
+18:28:13 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2200.086914, 98.575600, 1901.565674>)
+18:28:13 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2204.287354, 99.584412, 1897.656860>)
+18:28:13 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2208.708496, 100.550117, 1893.393188>)
+18:28:14 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2213.354736, 101.336212, 1888.999268>)
+18:28:14 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2218.046143, 102.011391, 1884.648926>)
+18:28:14 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2222.683105, 102.611130, 1880.318115>)
+18:28:14 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2227.756836, 103.228218, 1875.557861>)
+18:28:15 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2232.746338, 103.918198, 1870.642700>)
+18:28:15 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2238.328613, 104.480858, 1864.960083>)
+18:28:15 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2245.292236, 104.732277, 1857.583374>)
+18:28:15 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2251.793457, 105.017807, 1850.639282>)
+18:28:15 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2258.450439, 105.365631, 1843.829346>)
+18:28:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2265.074463, 105.723816, 1837.076904>)
+18:28:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2272.368164, 105.882271, 1829.685913>)
+18:28:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2281.742188, 105.410965, 1820.349121>)
+18:28:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2322.031250, 96.389511, 1780.960449>)
+18:28:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2323.601563, 96.616966, 1778.858398>)
+18:28:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2572.069336, 58.921700, 1524.412354>)
+18:30:48 | "LuIgI" (steamid=76561198016672415) deleted object "ExpansionSafeMini" (pos=<2562.346924, 53.141747, 1553.965088>)
+18:31:3 | "LuIgI": (steamid=76561198016672415) teleported to (pos=4526.25,0,3009.04)
+18:31:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4526.571289, 1.536249, 3032.782959>)
+18:31:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4522.874512, 1.212687, 3050.662354>)
+18:31:13 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4518.995605, 0.840712, 3068.886475>)
+18:31:13 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4515.060059, 0.463965, 3087.559814>)
+18:31:14 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4503.823242, 0.876589, 3091.466309>)
+18:31:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4492.400391, 1.101582, 3114.656982>)
+18:31:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4493.037598, 1.097468, 3115.546631>)
+18:31:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4493.197266, 1.095228, 3116.724121>)
+18:31:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4491.240234, 1.252435, 3133.062744>)
+18:31:21 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4487.855957, 1.368803, 3133.598633>)
+18:31:38 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4483.690918, 1.436182, 3125.345703>)
+18:31:38 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4515.722656, 3.644265, 3038.379639>)
+18:31:40 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4547.319336, 1.794118, 2992.011963>)
+18:31:41 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4578.835449, 0.891728, 2947.427979>)
+18:31:41 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4597.685547, 0.427918, 2921.676514>)
+18:33:5 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4612.765137, 0.071462, 2918.448975>)
+18:33:6 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4592.653320, 0.392507, 2942.016113>)
+18:33:6 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4573.722168, 0.783546, 2964.089844>)
+18:33:6 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4573.371582, 0.796488, 2964.754639>)
+18:33:6 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4561.577148, 0.982594, 2983.728516>)
+18:33:6 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4552.428711, 1.312864, 2998.893066>)
+18:33:8 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4532.584961, 1.445190, 3028.162842>)
+18:33:9 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4517.052734, 1.061505, 3063.458984>)
+18:33:9 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4521.135742, 1.225438, 3052.046631>)
+18:33:9 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4520.209473, 1.180936, 3054.208252>)
+18:33:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4508.632813, 0.927035, 3078.489258>)
+18:33:13 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4498.368652, 1.027981, 3096.619629>)
+18:33:15 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4496.649902, 1.027037, 3108.496094>)
+18:33:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4492.036133, 1.142864, 3121.949707>)
+18:33:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4488.304199, 1.357255, 3133.720703>)
+18:33:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4485.183105, 1.692936, 3143.766846>)
+18:34:5 | "LuIgI": (steamid=76561198016672415) teleported to (pos=4261.23,0,4164.14)
+18:37:26 | "LuIgI": (steamid=76561198016672415) teleported to (pos=2517.24,0,9861.33)
+18:38:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2561.574707, 51.794964, 9800.024414>)
+18:38:51 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2494.166016, 40.258297, 9812.339844>)
+18:40:4 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2242.077881, 35.257168, 10227.806641>)
+18:40:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2360.786621, 32.335014, 10193.439453>)
+18:42:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2354.279053, 21.045506, 10148.804688>)
+18:42:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2349.885010, 19.131989, 10137.044922>)
+18:42:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<2342.355713, 14.993919, 10115.374023>)
+18:42:42 | Player "LuIgI" (steamId=76561198016672415) disconnected from server.
+18:42:42 | Player "LuIgI" (steamId=76561198016672415) disconnected from server.
+18:42:43 | Player "LuIgI" (steamId=76561198016672415) disconnected from server.
+19:8:28 | Player "Pivo_tn" (steamId=76561198158616543) connected to server!
+19:9:20 | Player "Pivo_tn" (steamId=76561198158616543) connected to server!
+19:24:56 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+19:24:56 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+19:24:57 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+19:24:58 | Player "Mozecek" (steamId=76561198956395880) connected to server!
+19:25:21 | Player "Mozecek" (steamId=76561198956395880) connected to server!
+19:30:32 | Player "Pivo_tn" (steamId=76561198158616543) disconnected from server.
+19:30:32 | Player "Pivo_tn" (steamId=76561198158616543) disconnected from server.
+19:30:33 | Player "Pivo_tn" (steamId=76561198158616543) re-connected to server [canceledLogout]
+19:30:43 | Player "Pivo_tn" (steamId=76561198158616543) disconnected from server.
+19:30:43 | Player "Pivo_tn" (steamId=76561198158616543) disconnected from server.
+19:30:44 | Player "Pivo_tn" (steamId=76561198158616543) disconnected from server.
+19:31:4 | Player "Pivo_tn" (steamId=76561198158616543) connected to server!
+19:31:17 | Player "Pivo_tn" (steamId=76561198158616543) connected to server!
+19:36:38 | Player "LuIgI" (steamId=76561198016672415) connected to server!
+19:36:51 | Player "Bflame" (steamId=76561198072840834) connected to server!
+19:36:53 | Player "LuIgI" (steamId=76561198016672415) connected to server!
+19:36:59 | "LuIgI" (steamid=76561198016672415) toggled godmode
+19:37:7 | "LuIgI": (steamid=76561198016672415) teleported to (pos=4242.43,0,4208.49)
+19:37:10 | Player "Bflame" (steamId=76561198072840834) connected to server!
+19:37:48 | "LuIgI" (steamid=76561198016672415) Spawned Item: (CarBattery)
+19:37:48 | "LuIgI" (steamid=76561198016672415) Spawned Item: (CarBattery)
+19:37:48 | "LuIgI" (steamid=76561198016672415) Spawned Item: (CarBattery)
+19:37:48 | "LuIgI" (steamid=76561198016672415) Spawned Item: (CarBattery)
+19:37:49 | "LuIgI" (steamid=76561198016672415) Spawned Item: (CarBattery)
+19:42:45 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4222.488770, 14.029998, 4213.171875>)
+19:42:45 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4213.903809, 14.316773, 4221.405273>)
+19:42:45 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4205.322754, 14.316773, 4230.533691>)
+19:42:46 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4196.898438, 14.316773, 4239.102539>)
+19:42:46 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4190.625488, 14.304626, 4245.457031>)
+19:42:46 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4182.251953, 14.304626, 4253.927246>)
+19:42:46 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4173.294922, 14.029992, 4262.824219>)
+19:42:52 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4193.806641, 14.316773, 4240.265137>)
+19:42:53 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4212.140625, 14.316773, 4224.079590>)
+19:42:53 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4221.251465, 14.024582, 4215.541992>)
+19:42:53 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4227.447266, 13.716774, 4210.310059>)
+19:42:54 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4233.107422, 13.127383, 4205.889648>)
+19:42:54 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4238.656250, 12.665801, 4201.563477>)
+19:42:55 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4238.997070, 12.676997, 4203.126953>)
+19:42:56 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4233.667969, 13.099743, 4207.121582>)
+19:42:56 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4229.172852, 13.495914, 4210.083008>)
+19:42:56 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4224.811035, 14.029998, 4212.877930>)
+19:42:56 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4218.454102, 14.013292, 4217.599609>)
+19:42:57 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4212.121094, 14.316773, 4223.337402>)
+19:42:57 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4206.389160, 14.316773, 4228.569336>)
+19:42:57 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4200.784668, 14.316773, 4233.692871>)
+19:42:57 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4195.380859, 14.316773, 4238.629395>)
+19:42:57 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4189.987793, 14.304626, 4243.647461>)
+19:42:58 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4184.353027, 14.304626, 4248.986816>)
+19:42:58 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4178.912109, 14.304626, 4254.369629>)
+19:42:58 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4172.902832, 14.030002, 4260.559570>)
+19:42:59 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4175.240234, 14.304626, 4256.665039>)
+19:42:59 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4180.300293, 14.304626, 4251.474609>)
+19:42:59 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4185.477051, 14.304626, 4247.000977>)
+19:42:59 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4190.604004, 14.304626, 4242.637207>)
+19:43:0 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4195.589355, 14.316773, 4238.330566>)
+19:43:0 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4200.593262, 14.316773, 4233.831543>)
+19:43:0 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4205.604492, 14.316773, 4229.270508>)
+19:43:0 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4210.315430, 14.316773, 4224.808105>)
+19:43:0 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4214.892578, 14.316773, 4220.372070>)
+19:43:1 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4219.873047, 14.024191, 4215.659668>)
+19:43:6 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4233.026367, 13.138588, 4206.307617>)
+19:45:9 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4201.491211, 14.316773, 4232.539551>)
+19:45:9 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4194.383301, 14.316773, 4241.547852>)
+19:45:9 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4187.548828, 14.304626, 4250.414551>)
+19:45:9 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4183.313477, 14.967404, 4255.039063>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4173.385742, 14.029980, 4264.412598>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4166.380371, 14.130794, 4271.007813>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4166.316895, 14.136573, 4271.065430>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4166.256836, 14.141993, 4271.120117>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4166.193359, 14.147813, 4271.178223>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4166.133301, 14.153221, 4271.232422>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4166.069824, 14.159056, 4271.290527>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4166.006348, 14.164848, 4271.348145>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4165.946777, 14.170340, 4271.403320>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4165.666992, 14.196602, 4271.665527>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4163.424805, 14.421822, 4273.791504>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4161.267578, 14.563158, 4275.826660>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4161.100586, 14.565085, 4275.977539>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4160.925781, 14.567143, 4276.137207>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4160.823242, 14.568332, 4276.230469>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4160.716797, 14.569569, 4276.327637>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4160.561035, 14.571427, 4276.475098>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4160.040527, 14.577538, 4276.963379>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4157.544434, 14.651060, 4279.307129>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4155.178711, 14.715347, 4281.528809>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4155.116699, 14.716949, 4281.584473>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4155.054199, 14.718570, 4281.640625>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4154.951660, 14.722035, 4281.734375>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4154.858887, 14.725928, 4281.818848>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4154.782715, 14.729135, 4281.888184>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4154.530273, 14.739731, 4282.123535>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4153.123047, 14.798861, 4283.463379>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4151.579102, 14.863665, 4284.930664>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4150.440430, 14.899542, 4285.996582>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4149.219238, 14.932429, 4287.140137>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4149.053711, 14.936386, 4287.306152>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4148.856445, 14.941138, 4287.502930>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4147.920410, 14.963800, 4288.424316>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4147.157227, 14.982178, 4289.183105>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4146.981445, 14.985606, 4289.423828>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4146.654785, 14.992662, 4289.812500>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4144.709473, 15.035718, 4291.685059>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4142.948242, 15.068338, 4293.382813>)
+19:45:10 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4142.757324, 15.071711, 4293.575195>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4142.444824, 15.077243, 4293.895508>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4141.476074, 15.094033, 4294.908203>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4140.569824, 15.079478, 4295.845703>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4140.474121, 15.077981, 4295.937012>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4140.261230, 15.074444, 4296.143555>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4137.582031, 14.989602, 4298.781250>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4135.356445, 14.915552, 4300.975098>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4134.581543, 14.889532, 4301.776367>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4133.907715, 14.868280, 4302.471191>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4133.836426, 14.866312, 4302.539551>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4133.704590, 14.862342, 4302.670898>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4133.183105, 14.845934, 4303.208496>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4132.402344, 14.821835, 4304.001953>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4129.616699, 14.758489, 4306.767090>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4127.274902, 14.721675, 4309.093262>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4127.219727, 14.720894, 4309.146484>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4127.062500, 14.718280, 4309.305176>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4125.958984, 14.700895, 4310.446777>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4125.411133, 14.693640, 4311.014160>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4125.347656, 14.692963, 4311.074707>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4125.088867, 14.689983, 4311.329590>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4122.578613, 14.674980, 4313.823730>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4120.253418, 14.652379, 4316.136230>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4119.608887, 14.637922, 4316.797852>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4118.966309, 14.620520, 4317.457520>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4118.891602, 14.618698, 4317.529297>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4118.769531, 14.615538, 4317.650879>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4118.401367, 14.605618, 4318.026855>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4117.705566, 14.587269, 4318.728516>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4114.800781, 14.532060, 4321.624512>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4112.268555, 14.466478, 4324.147461>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4112.208984, 14.464959, 4324.206055>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4112.079590, 14.461585, 4324.337402>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4111.795898, 14.453971, 4324.628418>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4111.458008, 14.444912, 4324.976074>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4110.903809, 14.443146, 4325.539551>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4110.066406, 14.441445, 4326.382813>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4107.679199, 14.436689, 4328.768066>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4105.445313, 14.428217, 4331.000488>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4105.227539, 14.426864, 4331.223633>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4104.994141, 14.425496, 4331.462891>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4104.564453, 14.430552, 4331.902832>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4104.190430, 14.434938, 4332.286621>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4104.114746, 14.435856, 4332.359863>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4103.696777, 14.440893, 4332.777344>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4101.294922, 14.470031, 4335.186035>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4099.054199, 14.503247, 4337.432617>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4098.941895, 14.505076, 4337.541992>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4098.864746, 14.506305, 4337.618652>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4098.502930, 14.511981, 4337.993164>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4098.156250, 14.517462, 4338.349121>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4097.691895, 14.525007, 4338.796875>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4096.771484, 14.539974, 4339.688477>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4094.101074, 14.580540, 4342.282715>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4092.591064, 14.605108, 4343.751465>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4092.351074, 14.608926, 4343.994629>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4092.075684, 14.613306, 4344.272461>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4091.992676, 14.614667, 4344.352051>)
+19:45:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4091.880371, 14.616475, 4344.460449>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4091.548340, 14.621825, 4344.790039>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4091.016113, 14.630432, 4345.313477>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4088.458984, 14.681330, 4347.797363>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4086.235596, 14.730863, 4349.959473>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4085.989990, 14.736649, 4350.208008>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4085.748779, 14.742420, 4350.450684>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4085.651855, 14.744780, 4350.543945>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4085.403809, 14.750802, 4350.785156>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4083.725586, 14.799050, 4352.423828>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4082.271240, 14.842936, 4353.843750>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4082.182861, 14.845640, 4353.927734>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4081.950439, 14.852654, 4354.153809>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4080.686523, 14.893127, 4355.395020>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4079.560303, 14.939875, 4356.500977>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4078.618652, 14.987000, 4357.422852>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4077.792969, 15.028316, 4358.229980>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4077.698242, 15.033054, 4358.319824>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4077.574463, 15.039252, 4358.437988>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4076.752441, 15.080391, 4359.243164>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4075.938965, 15.121350, 4360.041016>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4074.374756, 15.220079, 4361.579590>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4073.061523, 15.317219, 4362.873535>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4072.958252, 15.324820, 4362.970215>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4072.816406, 15.335299, 4363.104492>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4072.386963, 15.367041, 4363.524414>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4071.875977, 15.404757, 4364.024902>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4070.277832, 15.526562, 4365.598633>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4069.076904, 15.640923, 4366.782715>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4068.367920, 15.711679, 4367.480957>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4067.809814, 15.767393, 4368.029297>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4067.690674, 15.779280, 4368.142090>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4067.551758, 15.793102, 4368.274414>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4067.100098, 15.838177, 4368.717773>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4066.705566, 15.877523, 4369.104980>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4066.645752, 15.883490, 4369.161133>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4066.361816, 15.911839, 4369.439941>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4064.527832, 16.103127, 4371.250977>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4062.803711, 16.299480, 4372.955566>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4062.677979, 16.313719, 4373.074219>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4062.514893, 16.332275, 4373.231934>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4062.111816, 16.378115, 4373.628906>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4061.770752, 16.416952, 4373.965332>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4061.690674, 16.426031, 4374.041504>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4061.321533, 16.468056, 4374.404297>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4059.478271, 16.667130, 4376.224609>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4057.699219, 16.837669, 4377.979004>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4057.594971, 16.847639, 4378.078125>)
+19:45:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4057.442139, 16.862093, 4378.210449>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4056.161865, 16.309965, 4397.219238>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4052.348389, 16.538521, 4403.538574>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4052.140625, 16.547253, 4403.572754>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4051.927734, 16.556219, 4403.610352>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4051.816162, 16.561951, 4403.716309>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4051.703125, 16.567747, 4403.823242>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4051.581787, 16.574017, 4403.939941>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4051.479248, 16.579212, 4404.032227>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4051.339600, 16.585360, 4404.077637>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4051.097900, 16.597296, 4404.266602>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4048.853760, 16.690439, 4406.524902>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4047.003174, 16.745386, 4408.339844>)
+19:45:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4046.765137, 16.749424, 4408.384277>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4046.532715, 16.753811, 4408.449707>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4046.347168, 16.758677, 4408.578125>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4046.058838, 16.766573, 4408.803711>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4044.675781, 16.801849, 4410.092285>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4043.214844, 16.802803, 4411.433594>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4042.043945, 16.804016, 4412.452637>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4041.045410, 16.805052, 4413.320801>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4040.942871, 16.805141, 4413.412598>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4040.800293, 16.805418, 4413.520508>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4040.513672, 16.806665, 4413.650391>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4040.072266, 16.807964, 4413.931152>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4038.647705, 16.797171, 4415.235840>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4037.003906, 16.779289, 4416.725586>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4035.573486, 16.764456, 4417.961914>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4034.863281, 16.757090, 4418.575195>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4034.765869, 16.756115, 4418.656738>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4034.679688, 16.755331, 4418.722656>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4034.317139, 16.753040, 4418.913086>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4033.837158, 16.749296, 4419.224609>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4032.349854, 16.728191, 4420.589844>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4030.711670, 16.698334, 4422.083984>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4029.611084, 16.679228, 4423.038574>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4028.575439, 16.661242, 4423.937988>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4028.501465, 16.659664, 4424.016113>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4028.222900, 16.655018, 4424.249023>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4027.292480, 16.640345, 4424.982910>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4026.386719, 16.627348, 4425.702637>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4026.391846, 16.626347, 4425.758789>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4026.297119, 16.623909, 4425.894043>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4024.598389, 16.597902, 4427.338867>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4023.000244, 16.573534, 4428.692383>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4022.383057, 16.565722, 4429.126465>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4021.847168, 16.558811, 4429.510742>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4021.809326, 16.557102, 4429.604492>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4021.745850, 16.555300, 4429.706543>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4021.229980, 16.549057, 4430.036621>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4020.687988, 16.539734, 4430.394531>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4018.799316, 16.500097, 4431.919434>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4017.208984, 16.466877, 4433.196777>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4016.555176, 16.455233, 4433.644531>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4015.969727, 16.444756, 4434.047363>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4015.892822, 16.442955, 4434.112793>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4015.780029, 16.441284, 4434.194824>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4015.276855, 16.437014, 4434.477051>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4014.643066, 16.456697, 4434.883789>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4012.768066, 16.458359, 4436.354004>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4010.969727, 16.451458, 4437.760742>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4010.897461, 16.451502, 4437.814453>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4010.804932, 16.451925, 4437.880371>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4010.534180, 16.455050, 4438.057129>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4010.145996, 16.458719, 4438.317871>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4008.754395, 16.523930, 4439.315430>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4007.530518, 16.584486, 4440.193848>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4007.446045, 16.584818, 4440.277344>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4007.289551, 16.584303, 4440.439941>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4006.327148, 16.575773, 4441.479004>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4005.548096, 16.563940, 4442.356934>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4005.218994, 16.535595, 4442.899414>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4004.848877, 16.511539, 4443.497070>)
+19:45:17 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4003.273438, 16.545996, 4445.221680>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4002.240479, 16.486254, 4446.438477>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4002.194824, 16.392160, 4446.945313>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4002.074219, 16.313662, 4447.440918>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4000.905762, 16.203398, 4449.027832>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4000.034180, 16.165058, 4450.232910>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4000.064941, 16.163303, 4450.292480>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3999.999512, 16.161949, 4450.447754>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3999.008789, 16.156464, 4451.632813>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3998.228027, 16.151632, 4452.595215>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3997.862793, 16.143085, 4453.394531>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3997.426514, 16.134657, 4454.250488>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3996.482666, 16.139259, 4455.497559>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3995.721436, 16.157503, 4456.504395>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3995.696777, 16.158125, 4456.544922>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3995.667725, 16.158852, 4456.591797>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3995.611328, 16.160294, 4456.681152>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3995.554199, 16.161730, 4456.764160>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3995.499756, 16.162760, 4456.793457>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3995.344482, 16.166193, 4456.955078>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3994.340088, 16.183458, 4458.250000>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3993.267334, 16.198206, 4459.635742>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3992.267822, 16.225683, 4460.964355>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3991.388916, 16.254208, 4462.128418>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3991.281738, 16.256207, 4462.194824>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3991.179443, 16.257978, 4462.251465>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3991.129883, 16.257607, 4462.219727>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3990.994385, 16.259899, 4462.291992>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3989.894043, 16.294621, 4463.625000>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3988.833984, 16.341545, 4464.910156>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3987.826660, 16.382006, 4466.159180>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3986.964844, 16.416157, 4467.216309>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3986.849609, 16.418812, 4467.238770>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3986.748779, 16.421141, 4467.258789>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3986.728516, 16.421698, 4467.266602>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3986.464844, 16.432327, 4467.602051>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3985.472900, 16.473324, 4468.922852>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3984.647705, 16.511560, 4470.022949>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3984.563477, 16.515730, 4470.145996>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3984.385010, 16.524649, 4470.412109>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3983.647217, 16.564575, 4471.510742>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3982.867920, 16.611788, 4472.693848>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3982.858643, 16.616186, 4472.827637>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3982.696045, 16.629173, 4473.172852>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3981.817871, 16.680214, 4474.438477>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3980.867188, 16.737310, 4475.814941>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3980.383545, 16.770662, 4476.625488>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3979.996582, 16.797272, 4477.268066>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3979.916748, 16.803740, 4477.359863>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3979.806641, 16.813978, 4477.525391>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3979.461182, 16.855429, 4478.316895>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3979.043945, 16.901842, 4479.166992>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3978.245605, 16.982094, 4480.287598>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3977.483154, 17.082134, 4481.350098>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3977.028809, 17.144218, 4482.022461>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3976.620117, 17.200432, 4482.632813>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3976.349121, 17.242371, 4483.109863>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3976.129883, 17.275135, 4483.478027>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3976.031494, 17.281872, 4483.518555>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3975.745361, 17.317492, 4483.887207>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3974.894531, 17.423477, 4485.288086>)
+19:45:18 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3973.993896, 17.449266, 4486.783691>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3973.489258, 17.463867, 4487.660156>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3973.083496, 17.475677, 4488.379883>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3972.764648, 17.485352, 4489.041504>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3972.489014, 17.493774, 4489.634766>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3972.501221, 17.493773, 4489.698730>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3972.428711, 17.496284, 4489.929199>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3971.604004, 17.535212, 4491.708008>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3970.789307, 17.575167, 4493.543945>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3970.414307, 17.595949, 4494.588867>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3970.090576, 17.616604, 4495.593262>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3970.184082, 17.615841, 4495.733398>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3970.290527, 17.615322, 4495.914063>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3970.442139, 17.619225, 4496.459961>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3970.504883, 17.626110, 4497.014648>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3969.784424, 17.688692, 4498.919922>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3969.195557, 17.744310, 4500.520508>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3968.917236, 17.714573, 4501.854980>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3968.633301, 17.669933, 4503.221191>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3968.573975, 17.666542, 4503.404785>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3968.539063, 17.657246, 4503.637695>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3968.750488, 17.576771, 4504.580078>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3968.955566, 17.530504, 4505.309082>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3968.929932, 17.534334, 4505.380859>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3968.308350, 17.666691, 4507.415039>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3967.924561, 17.768234, 4508.646484>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3967.467041, 17.888935, 4510.116699>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3967.459717, 17.892900, 4510.178223>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3967.468750, 17.897343, 4510.269043>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3967.754883, 17.911186, 4510.884277>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3967.950195, 17.930462, 4511.479004>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3967.596191, 18.020559, 4512.611816>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3967.266357, 18.106922, 4513.653320>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3966.837402, 18.216412, 4514.962891>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3966.448975, 18.312397, 4516.260254>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3966.617432, 18.318424, 4516.577148>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3966.741699, 18.329300, 4516.931152>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3966.567139, 18.388908, 4517.820801>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3966.400391, 18.442499, 4518.609863>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3966.295410, 18.457354, 4518.757813>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3966.097656, 18.494263, 4519.208984>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3965.561523, 18.609884, 4520.905762>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3965.067139, 18.708721, 4522.458496>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3964.975830, 18.717365, 4522.527832>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3964.914551, 18.727026, 4522.684570>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3965.038086, 18.747221, 4523.329590>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3965.135498, 18.768902, 4524.001465>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3964.980957, 18.801388, 4524.534180>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3964.785645, 18.836658, 4525.185547>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3964.243896, 19.072182, 4526.581055>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3963.561768, 19.017374, 4528.920410>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3963.470703, 19.023565, 4528.971191>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3963.404541, 19.029663, 4529.059082>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3963.482910, 19.038910, 4529.470703>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3963.531982, 19.046434, 4529.782227>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3963.437988, 19.053326, 4529.851074>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3963.251221, 19.074316, 4530.313477>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3962.519775, 19.170172, 4533.123535>)
+19:45:19 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.832520, 19.256533, 4535.774902>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.846436, 19.255966, 4535.783691>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.847412, 19.256180, 4535.796875>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.748047, 19.262993, 4535.868164>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.681396, 19.268209, 4535.949707>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.791260, 19.268917, 4536.282227>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.855225, 19.275646, 4536.791016>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.058594, 19.374075, 4539.826172>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.376953, 19.511877, 4542.361816>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.367188, 19.516134, 4542.455078>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.353027, 19.520721, 4542.547363>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.311768, 19.526733, 4542.636719>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.294678, 19.532915, 4542.766113>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.480225, 19.537413, 4543.156738>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.634033, 19.541750, 4543.495605>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.605469, 19.547529, 4543.597168>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.527344, 19.564362, 4543.900391>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.865234, 19.746441, 4546.535156>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.286377, 19.919672, 4548.827148>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.258789, 19.929401, 4548.958008>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.257080, 19.938622, 4549.097168>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.473389, 19.949335, 4549.383789>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.630859, 19.967285, 4549.746582>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.235840, 20.087139, 4551.306152>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.929199, 20.187595, 4552.515137>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.896484, 20.202372, 4552.696289>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.844238, 20.223022, 4552.947754>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.558594, 20.322334, 4554.147461>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.351563, 20.410717, 4555.239746>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.541748, 20.425974, 4555.497559>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.666016, 20.452532, 4555.889648>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.332764, 20.564070, 4557.205078>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.014160, 20.676311, 4558.458984>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.993652, 20.686707, 4558.575684>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.962158, 20.701031, 4558.736328>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.786133, 20.769249, 4559.500000>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.638184, 20.833866, 4560.273438>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.709961, 20.885696, 4560.999512>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.765625, 20.939314, 4561.748535>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.422852, 21.043089, 4563.116699>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.106201, 21.141903, 4564.383301>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.075195, 21.155304, 4564.555176>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.038818, 21.170626, 4564.751953>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.937988, 21.198904, 4565.193848>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.841553, 21.223568, 4565.729980>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.830811, 21.276236, 4566.874512>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.791016, 21.327599, 4567.991211>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.384277, 21.416677, 4569.693359>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.029785, 21.464312, 4571.214844>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.961914, 21.472673, 4571.537598>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.889404, 21.481634, 4571.883301>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.815674, 21.521584, 4573.336914>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.157471, 23.359432, 4566.783691>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.155518, 23.395741, 4566.792480>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.124512, 23.425419, 4566.932617>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.209961, 21.583509, 4577.058105>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.778809, 21.592207, 4579.015625>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.694824, 21.598911, 4580.015625>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.616455, 21.590094, 4580.857910>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.589111, 21.587948, 4581.011230>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.553955, 21.584726, 4581.263672>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.469727, 21.574430, 4582.190430>)
+19:45:20 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.380859, 21.564526, 4583.051758>)
+19:45:21 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.929443, 21.531603, 4585.100098>)
+19:45:21 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.371094, 22.610889, 4582.241699>)
+19:45:21 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.333984, 21.429596, 4588.467285>)
+19:45:21 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.202881, 21.394726, 4589.590820>)
+19:45:21 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.186768, 21.391743, 4589.682617>)
+19:45:21 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.160645, 21.385643, 4589.875977>)
+19:45:21 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.056885, 21.350544, 4590.904297>)
+19:45:21 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.927002, 21.312656, 4591.982422>)
+19:45:23 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.152588, 20.544613, 4605.501465>)
+19:45:23 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.117188, 19.800955, 4614.409668>)
+19:45:23 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.121826, 19.792112, 4614.511230>)
+19:45:23 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.127686, 19.781277, 4614.634766>)
+19:45:23 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.133789, 19.771505, 4614.746582>)
+19:45:23 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.139648, 19.762714, 4614.846680>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.145996, 19.753752, 4614.947754>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.154785, 19.741667, 4615.075195>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.214111, 19.679386, 4615.691406>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.569336, 19.317059, 4619.216309>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.904785, 18.967716, 4622.565430>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.908691, 18.956951, 4622.669922>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.913330, 18.945267, 4622.782715>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.920654, 18.933523, 4622.895020>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.928955, 18.921181, 4623.013672>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.937500, 18.909658, 4623.123535>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.970459, 18.873142, 4623.470215>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.190430, 18.644871, 4625.655273>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.373047, 18.439314, 4627.604980>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.515137, 18.185577, 4630.034180>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.552246, 18.029951, 4631.428223>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.349854, 18.018078, 4631.605469>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.170166, 17.991226, 4631.911621>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.948486, 17.834639, 4633.412109>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.732910, 17.679773, 4634.894043>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.618896, 17.540253, 4636.947266>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.365723, 17.106989, 4639.590332>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.621338, 17.765858, 4637.374512>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.572021, 17.842312, 4637.164063>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.473389, 17.997963, 4637.151855>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.399658, 18.182491, 4637.070801>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.373291, 18.515629, 4637.051270>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.371338, 18.848988, 4637.055176>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.839111, 16.218157, 4647.145996>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.694092, 16.037476, 4648.792480>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.712646, 16.113682, 4648.108398>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.725586, 16.178463, 4647.536133>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.690674, 16.167898, 4647.641113>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.610107, 16.133274, 4647.974609>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.256104, 15.966083, 4649.586426>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.909180, 15.833174, 4651.256348>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.030762, 16.457403, 4651.018066>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.166504, 17.086718, 4650.686523>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.173828, 17.082941, 4650.693848>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.183838, 17.081402, 4650.702148>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.221680, 17.101475, 4650.723633>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.251465, 17.164402, 4650.722656>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.174805, 17.462412, 4650.851563>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.104492, 17.761608, 4651.106934>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.142090, 18.172071, 4651.571777>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.419678, 15.406180, 4662.701172>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.584229, 15.397124, 4662.655762>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.731934, 15.388076, 4662.666016>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.841797, 15.373322, 4663.119629>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.937500, 15.360353, 4663.520996>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.951904, 15.358887, 4663.554688>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.901855, 15.354853, 4663.945801>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.455811, 15.331430, 4666.418945>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.022217, 15.306684, 4668.726074>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.003662, 15.305052, 4668.851074>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.979248, 15.303945, 4668.967773>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.891846, 15.307246, 4669.056641>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.823975, 15.307899, 4669.212402>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.928711, 15.277535, 4670.281250>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.968750, 15.249414, 4671.416504>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.642090, 15.219266, 4673.837891>)
+19:45:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.325439, 15.184866, 4676.205078>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.304443, 15.179825, 4676.463379>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.291016, 15.173321, 4676.770996>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.320068, 15.159141, 4677.343750>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.347168, 15.145928, 4677.877930>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.345947, 15.146357, 4677.861328>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.314941, 15.141857, 4678.142090>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.003174, 15.089779, 4681.169434>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.729004, 15.039284, 4683.890625>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.700928, 15.024098, 4684.585449>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.675049, 15.011704, 4685.161621>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.659424, 15.010967, 4685.226563>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.646729, 15.009793, 4685.303711>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.655518, 15.003019, 4685.566406>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.364990, 16.699432, 4679.549316>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.337158, 14.937702, 4689.004395>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.069824, 14.887070, 4691.714355>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.062012, 14.870659, 4692.416504>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.059082, 14.857910, 4692.953125>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.076172, 14.855093, 4693.033203>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.092529, 14.852219, 4693.116699>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.100342, 14.850733, 4693.160645>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.073975, 14.842205, 4693.574707>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.786621, 14.789591, 4696.697266>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.546387, 14.751779, 4699.319824>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.542480, 14.749254, 4699.472168>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.541992, 14.745878, 4699.663086>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.560547, 14.736433, 4700.202148>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.578613, 14.729700, 4700.686035>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.591064, 14.725645, 4700.967285>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.545410, 14.718264, 4701.781250>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.337158, 14.701611, 4704.151855>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.106201, 14.694009, 4706.777344>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.096436, 14.693832, 4706.889160>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.092041, 14.692910, 4707.079102>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.127686, 14.686813, 4707.798340>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.156982, 14.681645, 4708.414551>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.148682, 14.681437, 4708.520508>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.070313, 14.682892, 4709.467285>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3950.862061, 14.711775, 4711.971191>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3950.707275, 14.737307, 4713.843750>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3950.711426, 14.738911, 4714.022461>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3950.722900, 14.740292, 4714.210449>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3950.809814, 14.741652, 4714.865234>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3950.895020, 14.751281, 4715.479004>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3950.961182, 14.762707, 4716.035645>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.015381, 14.778986, 4716.756836>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.004395, 14.837913, 4719.004395>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.028809, 14.884996, 4720.937988>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.267578, 14.879223, 4721.156738>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.533691, 14.873103, 4721.412109>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.883545, 14.867128, 4721.828125>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.222900, 14.863550, 4722.316895>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.633057, 14.870665, 4723.430176>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.894287, 14.878408, 4724.296875>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.025635, 14.909839, 4726.320801>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.202637, 14.933668, 4728.363770>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.470703, 14.924540, 4728.629883>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.761719, 14.914860, 4728.935059>)
+19:45:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.114014, 14.905280, 4729.437012>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.413574, 14.899422, 4730.007324>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.760254, 14.910718, 4731.796875>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.140137, 14.923362, 4733.807617>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.099121, 14.927648, 4733.937012>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.085693, 14.931479, 4734.132324>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.520264, 14.927880, 4735.390137>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.958984, 14.926085, 4736.654785>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.492676, 14.922903, 4738.139648>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.892578, 14.921166, 4739.286621>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.850586, 14.925991, 4739.422363>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.856201, 14.931202, 4739.729492>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.107910, 14.942890, 4740.951660>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.323486, 14.950979, 4741.868164>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.697998, 14.952376, 4742.942383>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.153564, 14.952381, 4744.263672>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.577881, 14.956306, 4745.575684>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.969482, 14.961839, 4746.818359>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.931885, 14.967268, 4746.962402>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.931396, 14.972599, 4747.203125>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.253662, 14.980211, 4748.427734>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.586670, 14.986954, 4749.643066>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.005615, 14.991709, 4750.847656>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.355225, 14.997182, 4751.865234>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.766602, 15.006021, 4753.154297>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.136475, 15.014459, 4754.372070>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.270508, 15.025059, 4755.137207>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.381592, 15.038103, 4755.849121>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.316650, 15.046436, 4756.002930>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.312988, 15.057167, 4756.377441>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.556885, 15.081484, 4757.786621>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.788330, 15.111901, 4759.383789>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.788086, 15.154131, 4760.833008>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.700928, 15.198587, 4762.134766>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3961.116699, 15.247843, 4762.569336>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.758545, 15.280072, 4762.903320>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.517334, 15.322769, 4763.828613>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.315918, 15.356153, 4764.524902>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.170410, 15.369303, 4764.663086>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.044678, 15.385745, 4764.951172>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.161377, 15.444318, 4767.009277>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3960.192139, 15.503587, 4768.921387>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.576416, 15.567792, 4769.735840>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3959.048096, 15.622977, 4770.436523>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.954346, 15.633175, 4770.573242>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.858398, 15.644069, 4770.727539>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.668457, 15.670687, 4771.191406>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.505127, 15.697569, 4771.715820>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.589844, 15.762285, 4773.901855>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3958.583984, 15.813420, 4775.520996>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.886963, 15.883033, 4776.400391>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.344971, 15.936927, 4777.076660>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.184570, 15.950030, 4777.182617>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3957.029541, 15.963280, 4777.302734>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.794189, 15.992909, 4777.804199>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.553467, 16.030867, 4778.564453>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3956.232178, 16.118282, 4780.740234>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.911621, 16.198359, 4782.768066>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.796631, 16.208668, 4782.882324>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.656006, 16.221500, 4783.028809>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3955.318848, 16.253881, 4783.434570>)
+19:45:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.976807, 16.292692, 4784.048340>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.634033, 16.361032, 4785.687012>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.312500, 16.426300, 4787.204102>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.243896, 16.434969, 4787.363770>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3954.149902, 16.451872, 4787.738770>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.973145, 16.494368, 4788.779785>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.767578, 16.536816, 4789.772461>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3953.141602, 16.612700, 4791.126953>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.603760, 16.676590, 4792.249023>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3952.141113, 16.722404, 4792.929199>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.712891, 16.762012, 4793.471191>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3951.219238, 16.783684, 4793.346191>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3950.697754, 16.814194, 4793.453613>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3950.136475, 16.867052, 4794.192383>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3949.331787, 16.938988, 4795.300293>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3948.571289, 17.007360, 4796.391113>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3947.695313, 17.084879, 4797.590820>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3947.165527, 17.115515, 4797.836914>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3946.662109, 17.145582, 4798.085449>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3946.077637, 17.185137, 4798.517578>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3945.564453, 17.220047, 4798.903320>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3945.503906, 17.225533, 4798.991211>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3945.231445, 17.249264, 4799.358398>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3943.919189, 17.355768, 4801.083984>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3943.014160, 17.429943, 4802.273438>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3942.928467, 17.436455, 4802.372070>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3942.721436, 17.448843, 4802.523926>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3941.692627, 17.504879, 4803.112305>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3940.716797, 17.559158, 4803.675781>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3940.642578, 17.564394, 4803.751465>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3940.458740, 17.578573, 4803.973633>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3939.230469, 17.669050, 4805.571777>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3938.032471, 17.750870, 4807.038086>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3937.404053, 17.779633, 4807.426270>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3936.841309, 17.805799, 4807.778320>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3936.723877, 17.812576, 4807.887695>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3936.567627, 17.821035, 4808.018555>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3935.983887, 17.848833, 4808.401855>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3935.316895, 17.884283, 4808.941406>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3934.165039, 17.953485, 4810.398438>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3932.956543, 18.020729, 4811.850098>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3932.264160, 18.044920, 4812.304199>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3931.654053, 18.066603, 4812.714355>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3931.252930, 18.083153, 4813.043945>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3930.755127, 18.106071, 4813.516113>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3929.817871, 18.159363, 4814.738770>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3929.076172, 18.200333, 4815.850098>)
+19:45:27 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3929.397217, 18.222017, 4816.234863>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3925.499512, 18.559824, 4822.830566>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3920.800537, 18.863829, 4826.646973>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3920.743652, 18.870054, 4826.702637>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3920.682861, 18.876608, 4826.761230>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3920.609131, 18.883450, 4826.823730>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3920.543213, 18.889517, 4826.879395>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3920.468994, 18.895605, 4826.935547>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3920.210449, 18.914618, 4827.113770>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3917.457031, 19.094179, 4828.950684>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3916.402100, 19.162422, 4829.654297>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3916.286865, 19.169390, 4829.728027>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3916.193848, 19.174852, 4829.785645>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3916.207275, 19.171709, 4829.757324>)
+19:45:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3916.197998, 19.170298, 4829.747559>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3915.992432, 19.183455, 4829.883789>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3915.549561, 19.216356, 4830.178711>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3913.430420, 19.357471, 4831.581055>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3911.901855, 19.465443, 4832.593262>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3911.801025, 19.472048, 4832.655762>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3911.733887, 19.475998, 4832.693359>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3911.781250, 19.469749, 4832.638184>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3911.778809, 19.467203, 4832.617676>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3911.444580, 19.490587, 4832.836914>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3910.948975, 19.525351, 4833.162598>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3908.795166, 19.653002, 4834.583496>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3907.257813, 19.694292, 4835.589844>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3907.120361, 19.695360, 4835.673828>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3907.024170, 19.695919, 4835.729004>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3907.128418, 19.693367, 4835.637695>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3907.156494, 19.691835, 4835.599609>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3906.635498, 19.697243, 4835.938477>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3905.919922, 19.704603, 4836.404297>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3903.932861, 19.723251, 4837.700195>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3902.097168, 19.738741, 4838.896973>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3902.036133, 19.739094, 4838.934570>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3901.999756, 19.739077, 4838.953613>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3902.117188, 19.736788, 4838.855957>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3902.206543, 19.734917, 4838.779297>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3902.096680, 19.735567, 4838.846680>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3901.811279, 19.737793, 4839.030273>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3900.354492, 19.750309, 4839.983398>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3899.008301, 19.811577, 4840.870605>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3898.142090, 19.861717, 4841.437500>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3897.430664, 19.902578, 4841.898438>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3897.515137, 19.896387, 4841.822754>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3897.473633, 19.897713, 4841.833496>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3896.643555, 19.945797, 4842.376953>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3895.826904, 19.993132, 4842.912109>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3894.736328, 20.073442, 4843.630371>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3893.899414, 20.175949, 4844.185547>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3893.791504, 20.188738, 4844.250488>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3893.669922, 20.203114, 4844.323242>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3893.434326, 20.230675, 4844.459961>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3893.070557, 20.274431, 4844.688477>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3891.760254, 20.427040, 4845.556641>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3890.830566, 20.532133, 4846.171387>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3890.678711, 20.548885, 4846.263184>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3890.385254, 20.582125, 4846.458008>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3889.894287, 20.642838, 4846.811523>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3889.392578, 20.720407, 4847.198730>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3889.367676, 20.730278, 4847.337891>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3889.190674, 20.763941, 4847.601074>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3888.020264, 20.951471, 4848.635742>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3887.307373, 21.066010, 4849.272949>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3886.889893, 21.136913, 4849.722656>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3886.514404, 21.198530, 4850.130859>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3886.425781, 21.211266, 4850.208008>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3886.309570, 21.228655, 4850.330078>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3886.027832, 21.273609, 4850.713867>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3885.533203, 21.348562, 4851.261230>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3884.460449, 21.517944, 4852.263184>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3883.550781, 21.672653, 4853.117676>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3883.329590, 21.711002, 4853.347656>)
+19:45:30 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3883.115967, 21.748207, 4853.576172>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3882.941895, 21.779722, 4853.800293>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3882.769043, 21.810766, 4854.013184>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3882.669189, 21.826269, 4854.062012>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3882.450439, 21.862305, 4854.229980>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3881.270752, 22.052063, 4855.332031>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3880.200928, 22.201830, 4856.332520>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3879.802002, 22.249821, 4856.703125>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3879.427002, 22.287319, 4857.039063>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3879.301758, 22.299843, 4857.063477>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3879.177979, 22.312216, 4857.101563>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3879.001953, 22.329823, 4857.258301>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3878.631592, 22.366842, 4857.594727>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3877.298340, 22.500183, 4858.821777>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3876.058105, 22.624193, 4859.948242>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3875.929688, 22.637033, 4859.963379>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3875.800049, 22.650030, 4859.997070>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3875.559082, 22.661276, 4860.212891>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3875.157959, 22.679537, 4860.577148>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3874.114258, 22.664061, 4861.541992>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3873.051758, 22.637415, 4862.517090>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3872.858887, 22.639055, 4862.586426>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3872.606934, 22.637682, 4862.735352>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3871.739014, 22.615005, 4863.547363>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3870.928711, 22.593859, 4864.304199>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3870.067871, 22.567389, 4865.103516>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3869.084961, 22.454201, 4866.036621>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3868.296387, 22.356064, 4866.828125>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3867.675293, 22.275856, 4867.480469>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3867.568359, 22.249443, 4867.716309>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3867.332275, 22.197691, 4868.172852>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3866.489746, 22.028889, 4869.645996>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3865.600342, 21.809395, 4871.321289>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3864.990479, 21.604330, 4872.864258>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3864.458984, 21.384647, 4874.421875>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3864.228760, 21.216608, 4875.673340>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3864.095947, 21.062485, 4876.787598>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3864.394775, 21.075474, 4876.784180>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3864.393555, 21.006020, 4877.302246>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3863.580322, 20.722397, 4879.164063>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3862.683594, 20.415289, 4881.356934>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3862.036865, 20.137270, 4883.519531>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3861.541748, 19.920044, 4885.316895>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3861.728271, 19.904232, 4885.619629>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3861.870117, 19.889948, 4885.879395>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3861.832031, 19.882549, 4885.953613>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3861.719727, 19.856085, 4886.232910>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3861.008057, 19.674397, 4888.178711>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3860.411865, 19.510902, 4889.935547>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3859.953369, 19.399166, 4892.138184>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3859.768799, 19.359184, 4892.994141>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3859.735352, 19.358385, 4892.995605>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3859.703369, 19.356813, 4893.016113>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3859.719238, 19.350391, 4893.177246>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3859.629150, 19.331547, 4893.578613>)
+19:45:31 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3858.943359, 19.254120, 4895.328613>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3850.762939, 19.135574, 4900.725098>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3843.128662, 19.150442, 4901.650879>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3842.981934, 19.150723, 4901.656250>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3842.809326, 19.151073, 4901.652344>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3842.651123, 19.151402, 4901.646973>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3842.513428, 19.151714, 4901.630371>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3842.382813, 19.152012, 4901.610352>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3842.241943, 19.152390, 4901.562500>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3841.562744, 19.153786, 4901.543457>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3838.191406, 19.163616, 4901.671875>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3835.797607, 19.168406, 4901.709473>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3835.527344, 19.168947, 4901.532227>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3835.301270, 19.169397, 4901.359863>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3835.147461, 19.169708, 4901.170410>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3834.655029, 19.170691, 4901.003418>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3832.449951, 19.178347, 4900.929199>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3830.920654, 19.184595, 4900.863770>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3830.812988, 19.185167, 4900.793945>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3830.479736, 19.186651, 4900.712891>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3829.048828, 19.190857, 4900.520020>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3828.032471, 19.193228, 4900.356934>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3827.704590, 19.194256, 4900.166016>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3827.033936, 19.195932, 4899.999023>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3825.227539, 19.199551, 4899.920410>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3823.672119, 19.205315, 4899.853027>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3823.564697, 19.205742, 4899.839844>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3823.115479, 19.207541, 4899.742676>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3821.690430, 19.213238, 4899.398438>)
+19:45:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3820.477295, 19.218952, 4899.093750>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3820.373779, 19.219717, 4899.025879>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3819.929199, 19.222546, 4898.939453>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3818.246094, 19.232994, 4898.763672>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3816.497559, 19.243881, 4898.563965>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3816.204102, 19.245182, 4898.457031>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3815.730225, 19.247074, 4898.307617>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3814.322021, 19.255424, 4897.912598>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3813.200195, 19.264393, 4897.608887>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3806.516602, 19.324833, 4894.907227>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3798.409912, 19.422928, 4891.919922>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3798.052002, 19.427990, 4892.304688>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3797.704834, 19.433041, 4892.747070>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3797.459717, 19.437078, 4893.296387>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3797.302979, 19.439863, 4893.750000>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3797.293457, 19.440769, 4894.146484>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3797.278076, 19.441668, 4894.501953>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3797.187256, 19.442980, 4894.613281>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3796.683838, 19.449100, 4894.653320>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3793.162598, 19.491974, 4894.060547>)
+19:45:34 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3790.180420, 19.529837, 4893.666992>)
+19:45:35 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3790.083252, 19.535109, 4894.352051>)
+19:45:35 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3790.014648, 19.539106, 4894.880371>)
+19:45:35 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3790.095947, 19.537142, 4894.714844>)
+19:45:35 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3781.570801, 19.626396, 4888.083496>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3774.476318, 19.758278, 4884.355469>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3774.387451, 19.761150, 4884.306152>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3774.292480, 19.764202, 4884.254883>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3774.197266, 19.767277, 4884.203125>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3774.102051, 19.770330, 4884.151855>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3774.011963, 19.773220, 4884.103516>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3773.916748, 19.776302, 4884.052246>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3773.569336, 19.787413, 4883.875488>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3770.923096, 19.899551, 4882.552246>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3768.727783, 20.026415, 4881.458008>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3768.625244, 20.032341, 4881.403809>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3768.532959, 20.040400, 4881.354492>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3768.497070, 20.043684, 4881.336426>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3768.453857, 20.047726, 4881.314941>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3768.374023, 20.055243, 4881.272949>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3768.125977, 20.078377, 4881.147461>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3766.845947, 20.197140, 4880.513672>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3765.588623, 20.311825, 4879.891113>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3764.495850, 20.423695, 4879.347168>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3763.627441, 20.517435, 4878.915039>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3763.489746, 20.532551, 4878.841309>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3763.260010, 20.557510, 4878.722168>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3762.550537, 20.634001, 4878.371582>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3761.881104, 20.708008, 4878.040039>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3761.815430, 20.717619, 4878.004883>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3761.549561, 20.755915, 4877.871582>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3760.282959, 20.937288, 4877.252441>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3759.008789, 21.080402, 4876.624023>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3758.858154, 21.096478, 4876.543457>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3758.612793, 21.122370, 4876.415527>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.798096, 21.235619, 4876.009277>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.097656, 21.333614, 4875.659668>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3756.950439, 21.354744, 4875.581055>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3756.689453, 21.391033, 4875.453125>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3755.672363, 21.530846, 4874.960449>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3754.399658, 21.671999, 4874.336914>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3754.119385, 21.696905, 4874.189941>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3753.797119, 21.725552, 4874.021973>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3752.913818, 21.802570, 4873.578125>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3752.049805, 21.877800, 4873.145020>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3751.376953, 21.945471, 4872.815918>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3750.732422, 22.012501, 4872.500000>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3750.571289, 22.029949, 4872.414551>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3750.301025, 22.058640, 4872.275879>)
+19:45:36 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3749.373291, 22.128368, 4871.812500>)
+19:45:37 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3748.584229, 22.176579, 4871.417969>)
+19:45:37 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3748.528320, 22.181194, 4871.388672>)
+19:45:37 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3748.350342, 22.195885, 4871.298828>)
+19:45:37 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3747.245117, 22.285797, 4870.752441>)
+19:45:37 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3746.234619, 22.368126, 4870.252441>)
+19:45:37 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3745.735352, 22.409376, 4870.000488>)
+19:45:37 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3745.172852, 22.451464, 4869.717285>)
+19:45:37 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3744.647705, 22.491083, 4869.453125>)
+19:45:37 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3744.109619, 22.525702, 4869.182617>)
+19:45:43 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3733.836182, 22.417568, 4869.953613>)
+19:45:43 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3723.660400, 21.619663, 4873.395996>)
+19:45:43 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3723.540771, 21.617908, 4873.377441>)
+19:45:43 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3723.414551, 21.616201, 4873.355957>)
+19:45:43 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3723.293213, 21.616131, 4873.326172>)
+19:45:43 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3723.182129, 21.617546, 4873.289063>)
+19:45:43 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3723.074219, 21.627100, 4873.197754>)
+19:45:43 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3723.015137, 21.647177, 4873.049316>)
+19:45:43 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3715.068848, 21.353611, 4873.491211>)
+19:45:43 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3705.152588, 21.047112, 4873.008301>)
+19:45:44 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3692.263428, 20.011049, 4872.621094>)
+19:45:44 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3653.592041, 13.758136, 4873.000000>)
+19:45:44 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3644.232178, 13.837007, 4872.003906>)
+19:45:49 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3616.537354, 17.933861, 4868.870605>)
+19:45:49 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3611.185303, 19.110920, 4869.116699>)
+19:45:49 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3606.030029, 20.260813, 4869.410156>)
+19:46:5 | Player "Mozecek" (steamId=76561198956395880) disconnected from server.
+19:46:5 | Player "Mozecek" (steamId=76561198956395880) disconnected from server.
+19:46:27 | "LuIgI" (steamid=76561198016672415) Spawned Item: (TerritoryFlagKit)
+19:46:53 | Admin "LuIgI" (steamId=76561198016672415) built part base at position: <3568.558105, 24.074200, 4888.406250>
+19:46:54 | Admin "LuIgI" (steamId=76561198016672415) built part support at position: <3568.558105, 24.074200, 4888.406250>
+19:46:55 | Admin "LuIgI" (steamId=76561198016672415) built part pole at position: <3568.558105, 24.074200, 4888.406250>
+19:47:31 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Expansion_Flag_Scotland)
+19:48:21 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+19:48:21 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+19:48:21 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+19:48:21 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+19:48:21 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+19:48:22 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+19:48:22 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+19:48:22 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+19:48:22 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+19:48:28 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+19:48:29 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+19:48:29 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+19:48:29 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+19:48:29 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+19:48:29 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+19:48:29 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+19:48:30 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+19:48:30 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+19:49:17 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3583.987061, 22.727537, 4885.721191>
+19:49:22 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3583.987061, 22.727537, 4885.721191>
+19:49:23 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3583.987061, 22.727537, 4885.721191>
+19:49:33 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3589.440674, 22.727537, 4888.222656>
+19:49:39 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3589.440674, 22.727537, 4888.222656>
+19:49:40 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3589.440674, 22.727537, 4888.222656>
+19:49:52 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3586.488770, 22.728008, 4880.267578>
+19:49:53 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3586.488770, 22.728008, 4880.267578>
+19:49:54 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3586.488770, 22.728008, 4880.267578>
+19:50:15 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3591.942627, 22.728479, 4882.769043>
+19:50:16 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3591.942627, 22.728479, 4882.769043>
+19:50:20 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3591.942627, 22.728479, 4882.769043>
+19:50:42 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3594.894287, 22.727537, 4890.724121>
+19:50:44 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3594.894287, 22.727537, 4890.724121>
+19:50:45 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3594.894287, 22.727537, 4890.724121>
+19:50:45 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3597.396240, 22.728479, 4885.270508>
+19:50:46 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3597.396240, 22.728479, 4885.270508>
+19:50:47 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3597.396240, 22.728479, 4885.270508>
+19:52:45 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3581.260254, 22.727537, 4884.470215>
+19:52:48 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe at position: <3581.260254, 22.727537, 4884.470215>
+19:52:49 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallfinished at position: <3581.260254, 22.727537, 4884.470215>
+19:53:15 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3583.761963, 22.728479, 4879.016602>
+19:53:17 | Admin "LuIgI" (steamId=76561198016672415) built part wood_doorframe at position: <3583.761963, 22.728479, 4879.016602>
+19:53:40 | "LuIgI" (steamid=76561198016672415) deleted objects using ESP
+19:53:54 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3583.761963, 22.728479, 4879.016602>
+19:53:57 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe at position: <3583.761963, 22.728479, 4879.016602>
+19:54:3 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallfinished at position: <3583.761963, 22.728479, 4879.016602>
+19:54:8 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3587.739502, 22.728008, 4877.540527>
+19:54:14 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe at position: <3587.739502, 22.728008, 4877.540527>
+19:54:15 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallfinished at position: <3587.739502, 22.728008, 4877.540527>
+19:54:24 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3593.193359, 22.729422, 4880.041992>
+19:54:26 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe at position: <3593.193359, 22.729422, 4880.041992>
+19:54:26 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallfinished at position: <3593.193359, 22.729422, 4880.041992>
+19:54:35 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3598.646973, 22.728951, 4882.543457>
+19:54:38 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowframe at position: <3598.646973, 22.728951, 4882.543457>
+19:54:39 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowfinished at position: <3598.646973, 22.728951, 4882.543457>
+19:54:46 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3600.123047, 22.728479, 4886.521484>
+19:54:49 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowframe at position: <3600.123047, 22.728479, 4886.521484>
+19:54:50 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowfinished at position: <3600.123047, 22.728479, 4886.521484>
+19:55:0 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3597.621094, 22.727537, 4891.975098>
+19:55:3 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowframe at position: <3597.621094, 22.727537, 4891.975098>
+19:55:4 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowfinished at position: <3597.621094, 22.727537, 4891.975098>
+19:55:20 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionRampKit)
+19:55:21 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionRampKit)
+19:55:21 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionRampKit)
+19:57:25 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3581.065918, 24.231236, 4877.830078>
+19:57:29 | Admin "LuIgI" (steamId=76561198016672415) built part wood_frame at position: <3581.065918, 24.231236, 4877.830078>
+19:57:30 | Admin "LuIgI" (steamId=76561198016672415) built part wood_finished at position: <3581.065918, 24.231236, 4877.830078>
+19:57:57 | "LuIgI" (steamid=76561198016672415) deleted objects using ESP
+19:58:22 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3586.519531, 25.731236, 4880.331543>
+19:58:23 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3586.519531, 25.731236, 4880.331543>
+19:58:24 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3586.519531, 25.731236, 4880.331543>
+19:59:13 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3591.973145, 25.731236, 4882.833008>
+19:59:17 | Admin "LuIgI" (steamId=76561198016672415) built part wood_hatchframe at position: <3591.973145, 25.731236, 4882.833008>
+19:59:20 | Admin "LuIgI" (steamId=76561198016672415) built part wood_hatchfinished at position: <3591.973145, 25.731236, 4882.833008>
+19:59:32 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3597.331299, 25.731707, 4885.300781>
+19:59:33 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3597.331299, 25.731707, 4885.300781>
+19:59:34 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3597.331299, 25.731707, 4885.300781>
+19:59:47 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3594.829590, 25.731707, 4890.754395>
+19:59:48 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3594.829590, 25.731707, 4890.754395>
+19:59:49 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3594.829590, 25.731707, 4890.754395>
+19:59:57 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3593.643311, 22.728008, 4893.451172>
+20:0:1 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe at position: <3593.643311, 22.728008, 4893.451172>
+20:0:2 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallfinished at position: <3593.643311, 22.728008, 4893.451172>
+20:0:6 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3588.189697, 22.728008, 4890.949707>
+20:0:11 | "LuIgI" (steamid=76561198016672415) deleted object "ExpansionWall6x3" (pos=<3588.189697, 22.728008, 4890.949707>)
+20:0:24 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3588.189697, 22.728008, 4890.949707>
+20:0:28 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowframe at position: <3588.189697, 22.728008, 4890.949707>
+20:0:30 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowfinished at position: <3588.189697, 22.728008, 4890.949707>
+20:0:38 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3582.736084, 22.728008, 4888.448242>
+20:0:41 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe at position: <3582.736084, 22.728008, 4888.448242>
+20:0:42 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallfinished at position: <3582.736084, 22.728008, 4888.448242>
+20:1:28 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3578.563965, 24.232178, 4883.283691>
+20:1:30 | Admin "LuIgI" (steamId=76561198016672415) built part wood_frame at position: <3578.563965, 24.232178, 4883.283691>
+20:1:32 | Admin "LuIgI" (steamId=76561198016672415) built part wood_finished at position: <3578.563965, 24.232178, 4883.283691>
+20:1:33 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3577.369629, 25.013844, 4884.672852>)
+20:1:50 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+20:1:50 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+20:1:51 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+20:1:56 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3573.110352, 24.232178, 4880.781738>
+20:1:58 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3573.110352, 24.232178, 4880.781738>
+20:1:59 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3573.110352, 24.232178, 4880.781738>
+20:2:24 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3575.612305, 24.231236, 4875.328125>
+20:2:25 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3575.612305, 24.231236, 4875.328125>
+20:2:26 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3575.612305, 24.231236, 4875.328125>
+20:2:39 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3589.471436, 25.731707, 4888.286621>
+20:2:40 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3589.471436, 25.731707, 4888.286621>
+20:2:41 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3589.471436, 25.731707, 4888.286621>
+20:2:43 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3584.017822, 25.731707, 4885.785156>
+20:2:44 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3584.017822, 25.731707, 4885.785156>
+20:2:46 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3584.017822, 25.731707, 4885.785156>
+20:3:16 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3581.291016, 25.730293, 4884.535156>
+20:3:20 | Admin "LuIgI" (steamId=76561198016672415) built part wood_gateframe at position: <3581.291016, 25.730293, 4884.535156>
+20:3:21 | Admin "LuIgI" (steamId=76561198016672415) built part wood_gatefinished at position: <3581.291016, 25.730293, 4884.535156>
+20:3:34 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3583.792725, 25.731236, 4879.081543>
+20:3:37 | Admin "LuIgI" (steamId=76561198016672415) built part wood_doorframe at position: <3583.792725, 25.731236, 4879.081543>
+20:3:38 | Admin "LuIgI" (steamId=76561198016672415) built part wood_doorfinished at position: <3583.792725, 25.731236, 4879.081543>
+20:3:54 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3587.674561, 25.730764, 4877.571289>
+20:3:57 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowframe at position: <3587.674561, 25.730764, 4877.571289>
+20:3:58 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowfinished at position: <3587.674561, 25.730764, 4877.571289>
+20:4:12 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3593.128418, 25.731236, 4880.072754>
+20:4:15 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe at position: <3593.128418, 25.731236, 4880.072754>
+20:4:16 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallfinished at position: <3593.128418, 25.731236, 4880.072754>
+20:4:32 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3594.604492, 25.732178, 4884.049805>
+20:4:34 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe at position: <3594.604492, 25.732178, 4884.049805>
+20:4:35 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallfinished at position: <3594.604492, 25.732178, 4884.049805>
+20:4:47 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3592.102539, 25.732178, 4889.503418>
+20:4:50 | Admin "LuIgI" (steamId=76561198016672415) built part wood_doorframe at position: <3592.102539, 25.732178, 4889.503418>
+20:4:51 | Admin "LuIgI" (steamId=76561198016672415) built part wood_doorfinished at position: <3592.102539, 25.732178, 4889.503418>
+20:5:28 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3582.801025, 25.730764, 4888.417480>
+20:5:31 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowframe at position: <3582.801025, 25.730764, 4888.417480>
+20:5:32 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowfinished at position: <3582.801025, 25.730764, 4888.417480>
+20:5:40 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3588.254639, 25.730764, 4890.918945>
+20:5:43 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowframe at position: <3588.254639, 25.730764, 4890.918945>
+20:5:44 | Admin "LuIgI" (steamId=76561198016672415) built part wood_windowfinished at position: <3588.254639, 25.730764, 4890.918945>
+20:6:7 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionStairKit)
+20:6:7 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionStairKit)
+20:6:8 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionStairKit)
+20:6:8 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionStairKit)
+20:6:8 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionStairKit)
+20:6:8 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionStairKit)
+20:6:50 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3591.678711, 22.731236, 4882.697754>
+20:6:52 | Admin "LuIgI" (steamId=76561198016672415) built part wood_support at position: <3591.678711, 22.731236, 4882.697754>
+20:6:53 | Admin "LuIgI" (steamId=76561198016672415) built part wood_tread at position: <3591.678711, 22.731236, 4882.697754>
+20:6:54 | Admin "LuIgI" (steamId=76561198016672415) built part wood_handrailing at position: <3591.678711, 22.731236, 4882.697754>
+20:7:24 | "LuIgI" (steamid=76561198016672415) deleted object "ExpansionFloor6x6" (pos=<3597.331299, 25.731707, 4885.300781>)
+20:7:59 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3594.912842, 25.246418, 4885.353027>
+20:8:0 | Admin "LuIgI" (steamId=76561198016672415) built part wood_support at position: <3594.912842, 25.246418, 4885.353027>
+20:8:2 | Admin "LuIgI" (steamId=76561198016672415) built part wood_tread at position: <3594.912842, 25.246418, 4885.353027>
+20:8:2 | Admin "LuIgI" (steamId=76561198016672415) built part wood_handrailing at position: <3594.912842, 25.246418, 4885.353027>
+20:8:30 | "LuIgI" (steamid=76561198016672415) deleted object "TreeHard_t_PiceaAbies_2f_summer" (pos=<3595.781250, 28.719526, 4887.319336>)
+20:8:32 | "LuIgI" (steamid=76561198016672415) deleted object "TreeHard_t_PiceaAbies_2f_summer" (pos=<3595.781250, 28.719526, 4887.319336>)
+20:8:34 | "LuIgI" (steamid=76561198016672415) deleted object "TreeHard_t_PiceaAbies_2f_summer" (pos=<3595.781250, 28.719526, 4887.319336>)
+20:8:51 | "LuIgI" (steamid=76561198016672415) deleted objects using ESP
+20:9:27 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3597.331543, 25.731707, 4885.300781>
+20:9:28 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3597.331543, 25.731707, 4885.300781>
+20:9:29 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3597.331543, 25.731707, 4885.300781>
+20:9:32 | "LuIgI" (steamid=76561198016672415) deleted object "ExpansionFloor6x6" (pos=<3594.829590, 25.731707, 4890.754395>)
+20:10:7 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3594.491699, 25.334877, 4887.736816>
+20:10:7 | Admin "LuIgI" (steamId=76561198016672415) built part wood_support at position: <3594.491699, 25.334877, 4887.736816>
+20:10:8 | Admin "LuIgI" (steamId=76561198016672415) built part wood_tread at position: <3594.491699, 25.334877, 4887.736816>
+20:10:9 | Admin "LuIgI" (steamId=76561198016672415) built part wood_handrailing at position: <3594.491699, 25.334877, 4887.736816>
+20:10:37 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3594.925049, 25.732178, 4890.788086>
+20:10:38 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3594.925049, 25.732178, 4890.788086>
+20:10:39 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3594.925049, 25.732178, 4890.788086>
+20:11:1 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3589.344971, 28.734934, 4888.187988>
+20:11:2 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3589.344971, 28.734934, 4888.187988>
+20:11:2 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3589.344971, 28.734934, 4888.187988>
+20:11:13 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3591.846680, 28.735405, 4882.734375>
+20:11:14 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3591.846680, 28.735405, 4882.734375>
+20:11:15 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3591.846680, 28.735405, 4882.734375>
+20:11:40 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3586.358887, 28.733521, 4880.328613>
+20:11:41 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3586.358887, 28.733521, 4880.328613>
+20:11:42 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3586.358887, 28.733521, 4880.328613>
+20:11:53 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3584.048584, 28.733049, 4885.850586>
+20:11:54 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3584.048584, 28.733049, 4885.850586>
+20:11:55 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3584.048584, 28.733049, 4885.850586>
+20:12:29 | "LuIgI" (steamid=76561198016672415) deleted objects using ESP
+20:12:47 | "LuIgI" (steamid=76561198016672415) deleted objects using ESP
+20:12:52 | "LuIgI" (steamid=76561198016672415) deleted object "ExpansionFloor6x6" (pos=<3597.331543, 25.731707, 4885.300781>)
+20:13:45 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3591.678711, 22.731236, 4882.697754>
+20:13:47 | Admin "LuIgI" (steamId=76561198016672415) built part wood_support at position: <3591.678711, 22.731236, 4882.697754>
+20:13:47 | Admin "LuIgI" (steamId=76561198016672415) built part wood_tread at position: <3591.678711, 22.731236, 4882.697754>
+20:13:48 | Admin "LuIgI" (steamId=76561198016672415) built part wood_handrailing at position: <3591.678711, 22.731236, 4882.697754>
+20:14:20 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3596.704834, 25.686457, 4883.148438>
+20:14:21 | Admin "LuIgI" (steamId=76561198016672415) built part wood_support at position: <3596.704834, 25.686457, 4883.148438>
+20:14:22 | Admin "LuIgI" (steamId=76561198016672415) built part wood_tread at position: <3596.704834, 25.686457, 4883.148438>
+20:14:23 | Admin "LuIgI" (steamId=76561198016672415) built part wood_handrailing at position: <3596.704834, 25.686457, 4883.148438>
+20:14:43 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3597.426758, 25.732649, 4885.334473>
+20:14:44 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorframe at position: <3597.426758, 25.732649, 4885.334473>
+20:14:45 | Admin "LuIgI" (steamId=76561198016672415) built part wood_floorfinished at position: <3597.426758, 25.732649, 4885.334473>
+20:16:6 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3592.071777, 28.734934, 4889.438477>
+20:16:7 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe_half at position: <3592.071777, 28.734934, 4889.438477>
+20:16:12 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3588.319580, 28.733521, 4890.888184>
+20:16:13 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe_half at position: <3588.319580, 28.733521, 4890.888184>
+20:16:42 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3581.321777, 28.733049, 4884.599609>
+20:16:43 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe_half at position: <3581.321777, 28.733049, 4884.599609>
+20:16:48 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3583.631836, 28.733992, 4879.078125>
+20:16:49 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe_half at position: <3583.631836, 28.733992, 4879.078125>
+20:16:54 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3587.609619, 28.733521, 4877.602051>
+20:16:55 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe_half at position: <3587.609619, 28.733521, 4877.602051>
+20:16:58 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3593.063477, 28.733992, 4880.103516>
+20:16:58 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe_half at position: <3593.063477, 28.733992, 4880.103516>
+20:17:10 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3582.865967, 28.733521, 4888.386719>
+20:17:12 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe_half at position: <3582.865967, 28.733521, 4888.386719>
+20:17:31 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3598.677490, 25.732649, 4882.607422>
+20:17:32 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe_half at position: <3598.677490, 25.732649, 4882.607422>
+20:17:43 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3600.092285, 25.731236, 4886.456543>
+20:17:44 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe_half at position: <3600.092285, 25.731236, 4886.456543>
+20:18:0 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3597.590332, 25.730293, 4891.910156>
+20:18:1 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe_half at position: <3597.590332, 25.730293, 4891.910156>
+20:18:12 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3593.612549, 25.730764, 4893.386230>
+20:18:13 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe_half at position: <3593.612549, 25.730764, 4893.386230>
+20:18:29 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionCodeLock)
+20:18:29 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionCodeLock)
+20:18:29 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionCodeLock)
+20:18:30 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionCodeLock)
+20:18:30 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionCodeLock)
+20:18:30 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionCodeLock)
+20:18:30 | "LuIgI" (steamid=76561198016672415) Spawned Item: (ExpansionCodeLock)
+20:19:11 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3582.575195, 25.804758, 4878.371094>)
+20:22:3 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3581.696533, 25.544119, 4877.794434>)
+20:22:4 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3583.631836, 28.733992, 4879.078125>)
+20:22:6 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3582.645020, 25.834185, 4878.500000>)
+20:22:7 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3583.631836, 28.733992, 4879.078125>)
+20:22:51 | Player "Maltrix CZE" (steamId=76561198188251693) connected to server!
+20:23:21 | Player "Maltrix CZE" (steamId=76561198188251693) connected to server!
+20:23:35 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base_half at position: <3593.335938, 29.024092, 4885.933594>
+20:23:36 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe_half at position: <3593.335938, 29.024092, 4885.933594>
+20:25:0 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_Gunwall_Kit)
+20:25:1 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_Gunwall_Kit)
+20:25:1 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_Gunwall_Kit)
+20:25:47 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_Gunwall_Kit)
+20:27:1 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_Gunwall_Kit)
+20:27:34 | "LuIgI" (steamid=76561198016672415) deleted object "Msp_Gunwall" (pos=<3588.359619, 23.730453, 4877.989746>)
+20:27:37 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_Gunwall_Kit)
+20:28:41 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_MilitaryLocker_Kit)
+20:28:58 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_Locker_Kit)
+20:29:28 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_SoloLocker_Red_Kit)
+20:29:46 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_FourDoor_MilitaryLocker_Kit)
+20:30:15 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_RifleSafe_Kit)
+20:31:11 | "LuIgI" (steamid=76561198016672415) Spawned Item: (TWP_AX50)
+20:31:13 | "LuIgI" (steamid=76561198016672415) Spawned Item: (TWP_AX50_Bttstck)
+20:31:14 | "LuIgI" (steamid=76561198016672415) Spawned Item: (TWP_Optic_AX50)
+20:31:34 | "LuIgI" (steamid=76561198016672415) deleted object "CarBattery" (pos=<3594.108398, 22.984188, 4891.353027>)
+20:31:35 | "LuIgI" (steamid=76561198016672415) deleted object "CarBattery" (pos=<3594.108398, 22.984188, 4891.353027>)
+20:32:9 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Mag_M249_Box200Rnd)
+20:32:9 | "LuIgI" (steamid=76561198016672415) Spawned Item: (TWP_M249)
+20:32:35 | "LuIgI" (steamid=76561198016672415) deleted object "Mag_M249_Box200Rnd" (pos=<3593.938965, 22.984007, 4890.004883>)
+20:32:40 | "LuIgI" (steamid=76561198016672415) Spawned Item: (TWP_M249_mag_200Rnd)
+20:33:15 | "LuIgI" (steamid=76561198016672415) Spawned Item: (TWP_M107)
+20:33:15 | "LuIgI" (steamid=76561198016672415) Spawned Item: (TWP_M107_mag_15Rnd)
+20:33:28 | "LuIgI" (steamid=76561198016672415) Spawned Item: (HuntingOptic)
+20:34:20 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Mag_AKM_Drum75Rnd)
+20:34:30 | "LuIgI" (steamid=76561198016672415) Spawned Item: (AKM_Orange)
+20:34:48 | "LuIgI" (steamid=76561198016672415) Spawned Item: (AK_FoldingBttstck_Green)
+20:36:43 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_MilitaryCrate_Tan)
+20:36:45 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_MilitaryCrate_Olive)
+20:36:46 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_MilitaryCrate_Grey)
+20:36:47 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_MilitaryCrate_Green)
+20:36:48 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_MilitaryCrate_Brown)
+20:36:49 | "LuIgI" (steamid=76561198016672415) Spawned Item: (Msp_MilitaryLocker_Kit)
+20:43:19 | "LuIgI": (steamid=76561198016672415) teleported to (pos=4242.3,0,4198.62)
+20:43:27 | "LuIgI" (steamid=76561198016672415) just updated a health stat on (steamid=76561198158616543)
+20:43:28 | "LuIgI" (steamid=76561198016672415) just updated a health stat on (steamid=76561198158616543)
+20:46:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4287.572754, 7.861048, 4172.480469>)
+20:46:28 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4317.223145, 4.035917, 4169.988770>)
+20:46:29 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4338.623535, 1.488537, 4172.938477>)
+20:46:39 | "LuIgI": (steamid=76561198016672415) teleported to (pos=3798.51,0,4520.61)
+20:49:21 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3832.467773, 19.279997, 4538.538086>)
+20:49:22 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3825.259033, 19.279982, 4558.007813>)
+20:49:23 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3820.754883, 19.280008, 4576.367188>)
+20:49:23 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3817.780273, 19.632956, 4593.003418>)
+20:49:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3813.395264, 20.936516, 4608.646973>)
+20:49:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3809.533691, 22.325777, 4621.692871>)
+20:49:24 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3804.620850, 23.442028, 4639.053223>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3800.002197, 23.942093, 4652.789063>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3796.492920, 24.343628, 4662.092773>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3796.455566, 24.349579, 4662.192383>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3796.417969, 24.355541, 4662.291992>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3796.379395, 24.361572, 4662.390137>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3796.340820, 24.367664, 4662.488770>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3796.303955, 24.373394, 4662.582031>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3796.267334, 24.379171, 4662.674316>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3795.370361, 24.510406, 4665.008301>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3793.975830, 24.701555, 4668.633789>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3793.503906, 24.764647, 4669.793457>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3793.462891, 24.769802, 4669.803223>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3793.432129, 24.773636, 4669.795898>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3793.403564, 24.777082, 4669.784180>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3792.649658, 24.888178, 4671.679199>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3791.545654, 25.040794, 4674.496094>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3791.022705, 25.090250, 4675.794922>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3790.961182, 25.095533, 4675.914551>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3790.758545, 25.113195, 4676.292969>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3790.533203, 25.132967, 4676.711426>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3790.414063, 25.143936, 4676.912598>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3790.372803, 25.148281, 4676.960938>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3789.692871, 25.186403, 4678.604004>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3788.596436, 25.196760, 4681.266602>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3787.781250, 25.190361, 4683.185059>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3787.374756, 25.189054, 4684.105957>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3787.165771, 25.188471, 4684.578613>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3787.083984, 25.188145, 4684.764160>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3786.294678, 25.158085, 4686.547363>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3785.105225, 25.106287, 4689.233398>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3784.501221, 25.057556, 4690.540527>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3784.442139, 25.055828, 4690.607910>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3783.809326, 25.000671, 4691.949219>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3782.993896, 24.927761, 4693.708008>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3782.619141, 24.899971, 4694.420898>)
+20:49:25 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3782.480469, 24.895454, 4694.588867>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3782.011230, 24.986265, 4695.565430>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3781.870850, 25.350533, 4695.864258>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3781.735840, 25.567472, 4696.072754>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3778.261963, 24.217857, 4703.563477>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3777.346924, 24.053638, 4705.404297>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3776.481445, 23.905294, 4707.130371>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3776.090332, 23.849346, 4707.801270>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3775.974854, 23.845488, 4707.875488>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3774.590088, 23.608168, 4710.778320>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3773.028809, 23.375414, 4714.118164>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3772.583008, 23.554173, 4715.190918>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3770.822754, 23.026333, 4719.234375>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3770.444092, 22.972536, 4720.072266>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3770.276367, 22.953617, 4720.393555>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3770.100098, 22.919495, 4720.900879>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3769.937988, 22.882948, 4721.437988>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3768.488281, 22.679211, 4724.898438>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3770.171875, 24.002178, 4721.257813>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3770.258057, 24.337132, 4721.000000>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3770.226807, 24.538076, 4720.907227>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3770.243164, 24.573603, 4720.923340>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3770.270020, 24.558733, 4720.981445>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3770.324463, 24.717003, 4721.152344>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3763.508057, 22.014877, 4737.020996>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3762.088379, 21.804483, 4740.554688>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3760.487305, 21.515692, 4744.449707>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3759.817871, 21.394247, 4746.177246>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3759.558838, 21.337240, 4746.971680>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3758.940674, 21.231091, 4748.535645>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3758.063965, 21.118025, 4750.690918>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3758.051758, 21.117287, 4750.723633>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3758.041016, 21.116489, 4750.754883>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3758.026855, 21.113319, 4750.845215>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3758.012939, 21.109407, 4750.951660>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.992676, 21.105772, 4751.060547>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.966553, 21.101908, 4751.182129>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.934082, 21.098324, 4751.304688>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.899414, 21.094959, 4751.424316>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.864014, 21.092602, 4751.523438>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.833496, 21.090952, 4751.599609>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.755371, 21.087816, 4751.770508>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.665527, 21.084576, 4751.958496>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.592773, 21.078642, 4752.186523>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.536133, 21.071869, 4752.412109>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.493408, 21.049549, 4752.887207>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.468994, 21.023863, 4753.393066>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3757.892090, 20.953014, 4754.187012>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3758.581543, 20.863667, 4755.016602>)
+20:49:26 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3759.884033, 20.777977, 4755.297363>)
+20:52:44 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<3582.142822, 27.502577, 4882.990234>)
+20:53:19 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3600.123047, 19.728951, 4886.521484>
+20:53:43 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3597.621094, 19.728008, 4891.975098>
+20:54:6 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3593.643311, 19.728479, 4893.451172>
+20:54:24 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3598.646973, 19.729424, 4882.543457>
+20:54:55 | Admin "LuIgI" (steamId=76561198016672415) built part wood_base at position: <3596.145752, 19.728952, 4887.997070>
+20:54:57 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallframe at position: <3596.145752, 19.728952, 4887.997070>
+20:54:58 | Admin "LuIgI" (steamId=76561198016672415) built part wood_wallfinished at position: <3596.145752, 19.728952, 4887.997070>
+20:57:21 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4172.957520, 14.304626, 4255.748047>)
+21:9:6 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4241.065918, 9.893928, 4163.428711>)
+21:9:12 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4245.639160, 11.047549, 4146.931152>)
+21:9:16 | "LuIgI" (steamid=76561198016672415) teleported to crosshair (pos=<4256.331055, 14.311747, 4109.453125>)
+21:9:20 | Player "LuIgI" (steamId=76561198016672415) disconnected from server.
+21:9:20 | Player "LuIgI" (steamId=76561198016672415) disconnected from server.
+21:9:21 | Player "LuIgI" (steamId=76561198016672415) disconnected from server.
+21:16:10 | Player "cumtam" (steamId=76561199150532361) connected to server!
+21:16:27 | Player "cumtam" (steamId=76561199150532361) connected to server!
+21:30:14 | Player "Pivo_tn" (steamId=76561198158616543) disconnected from server.
+21:30:14 | Player "Pivo_tn" (steamId=76561198158616543) disconnected from server.
+21:30:17 | Player "Pivo_tn" (steamId=76561198158616543) disconnected from server.
+21:46:12 | Player "Majky" (steamId=76561198275611052) disconnected from server.
+21:46:12 | Player "Majky" (steamId=76561198275611052) disconnected from server.
+21:46:19 | Player "Majky" (steamId=76561198275611052) disconnected from server.
+21:58:39 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+21:58:39 | Player "cumtam" (steamId=76561199150532361) disconnected from server.
+22:10:20 | Player "Maltrix CZE" (steamId=76561198188251693) disconnected from server.

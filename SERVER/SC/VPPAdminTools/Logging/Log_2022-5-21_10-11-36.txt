@@ -1,0 +1,597 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-5-21_10-11-36
+====================================================================================
+10:11:36 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+10:11:36 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+10:11:36 | [PermissionManager] Perm (FreeCamera) has been registered!
+10:11:36 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuItemManager) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuServerManager) has been registered!
+10:11:36 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+10:11:36 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+10:11:36 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+10:11:36 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+10:11:36 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+10:11:36 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+10:11:36 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+10:11:36 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+10:11:36 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+10:11:36 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+10:11:36 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+10:11:36 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+10:11:36 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+10:11:36 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+10:11:36 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+10:11:36 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+10:11:36 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+10:11:36 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuBansManager) has been registered!
+10:11:36 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+10:11:36 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+10:11:36 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+10:11:36 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+10:11:36 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+10:11:36 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+10:11:36 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+10:11:36 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+10:11:36 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+10:11:36 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+10:11:36 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+10:11:36 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+10:11:36 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+10:11:36 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+10:11:36 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+10:11:36 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+10:11:36 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+10:11:36 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+10:11:36 | Building Sets Loaded: 0
+10:11:36 | [PermissionManager] Adding Super Admin (76561198016672415)
+10:11:36 | [PermissionManager] Loaded UserGroups.json
+10:11:36 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+10:11:36 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+10:11:36 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+10:11:36 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+10:12:15 | Player "Bflame" (steamId=76561198072840834) connected to server!
+10:12:23 | Player "bliki" (steamId=76561198996710275) connected to server!
+10:12:31 | Player "Bflame" (steamId=76561198072840834) connected to server!
+10:12:38 | Player "bliki" (steamId=76561198996710275) connected to server!
+10:13:14 | Player "Belthazar" (steamId=76561198038755126) connected to server!
+10:13:26 | Player "D3xt3R" (steamId=76561198016672415) connected to server!
+10:13:28 | Player "Belthazar" (steamId=76561198038755126) connected to server!
+10:13:46 | Player "D3xt3R" (steamId=76561198016672415) connected to server!
+10:14:29 | "D3xt3R" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+10:14:30 | "D3xt3R" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+10:14:31 | "D3xt3R" (steamid=76561198016672415) gave godmode to (steamid=76561198016672415)
+10:14:31 | "D3xt3R" (steamid=76561198016672415) gave unlimited ammo to (steamid=76561198016672415)
+10:19:4 | Player "bliki" (steamId=76561198996710275) disconnected from server.
+10:19:4 | Player "bliki" (steamId=76561198996710275) disconnected from server.
+10:19:6 | Player "bliki" (steamId=76561198996710275) disconnected from server.
+10:19:27 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=4514.61,0,3109.77)
+10:19:33 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4512.220215, 1.420814, 3107.820068>)
+10:23:53 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_half at position: <4509.385742, 4.029893, 3104.275391>
+10:23:57 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_half at position: <4509.385742, 4.029893, 3104.275391>
+10:25:25 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4509.385742, 4.029893, 3104.275391>)
+10:25:35 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4513.214355, 1.028452, 3098.768311>)
+10:25:36 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4513.214355, 1.028452, 3098.768311>)
+10:25:36 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4513.214355, 1.028452, 3098.768311>)
+10:25:37 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4513.214355, 1.028452, 3098.768311>)
+10:25:37 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4513.214355, 1.028452, 3098.768311>)
+10:25:38 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4513.214355, 1.028452, 3098.768311>)
+10:25:38 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4513.214355, 1.028452, 3098.768311>)
+10:25:39 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4513.214355, 1.028452, 3098.768311>)
+10:25:40 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4513.214355, 1.028452, 3098.768311>)
+10:25:42 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4513.214355, 1.028452, 3098.768311>
+10:25:47 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4507.705566, 4.030674, 3094.938477>)
+10:26:7 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4497.509277, 4.031343, 3102.556152>)
+10:26:14 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4499.189453, 4.030745, 3111.893066>)
+10:26:21 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4509.426758, 6.519632, 3108.134277>)
+10:26:33 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4506.364258, 7.028856, 3103.892090>
+10:26:38 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4506.364258, 7.028856, 3103.892090>
+10:26:45 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4506.364258, 7.028856, 3103.892090>
+10:30:22 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionFloor6x6" (pos=<4512.354980, 4.029058, 3104.705078>)
+10:31:18 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4512.354980, 4.029058, 3104.705078>
+10:31:21 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4512.354980, 4.029058, 3104.705078>
+10:31:22 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4512.354980, 4.029058, 3104.705078>
+10:31:30 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4510.545898, 3.735404, 3103.281250>
+10:31:33 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_support at position: <4510.545898, 3.735404, 3103.281250>
+10:31:34 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_tread at position: <4510.545898, 3.735404, 3103.281250>
+10:32:51 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4507.224121, 7.025927, 3097.954102>
+10:32:56 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4507.224121, 7.025927, 3097.954102>
+10:32:57 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4507.224121, 7.025927, 3097.954102>
+10:33:39 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4513.166504, 7.032286, 3098.713867>
+10:33:40 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4513.166504, 7.032286, 3098.713867>
+10:33:42 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4513.166504, 7.032286, 3098.713867>
+10:34:6 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+10:34:6 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+10:34:7 | Player "Bflame" (steamId=76561198072840834) disconnected from server.
+10:34:17 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_handrailing at position: <4510.545898, 3.735404, 3103.281250>
+10:35:29 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4512.784668, 4.029058, 3101.736084>
+10:35:45 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4513.643555, 4.029942, 3095.798096>
+10:36:4 | "D3xt3R" (steamid=76561198016672415) deleted objects using ESP
+10:36:15 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionFloor6x6" (pos=<4512.354980, 4.029058, 3104.705078>)
+10:37:15 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4510.389648, 3.944929, 3103.465576>
+10:37:17 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_support at position: <4510.389648, 3.944929, 3103.465576>
+10:37:18 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_tread at position: <4510.389648, 3.944929, 3103.465576>
+10:37:19 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_handrailing at position: <4510.389648, 3.944929, 3103.465576>
+10:37:57 | "D3xt3R" (steamid=76561198016672415) deleted objects using ESP
+10:39:0 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4510.467773, 3.981667, 3102.670898>
+10:39:1 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_support at position: <4510.467773, 3.981667, 3102.670898>
+10:39:2 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_tread at position: <4510.467773, 3.981667, 3102.670898>
+10:39:3 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_handrailing at position: <4510.467773, 3.981667, 3102.670898>
+10:39:21 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4512.354980, 4.029058, 3104.705078>
+10:39:22 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4512.354980, 4.029058, 3104.705078>
+10:39:23 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4512.354980, 4.029058, 3104.705078>
+10:39:58 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4516.183594, 1.028452, 3099.197998>
+10:40:47 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_third at position: <4509.385742, 4.029893, 3104.275391>
+10:40:48 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_third at position: <4509.385742, 4.029893, 3104.275391>
+10:41:19 | "D3xt3R" (steamid=76561198016672415) deleted objects using ESP
+10:41:37 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_half at position: <4509.385742, 4.029893, 3104.275391>
+10:41:38 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_half at position: <4509.385742, 4.029893, 3104.275391>
+10:42:51 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_half at position: <4516.183105, 4.029157, 3099.197021>
+10:42:52 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_half at position: <4516.183105, 4.029157, 3099.197021>
+10:47:2 | "D3xt3R" (steamid=76561198016672415) deleted objects using ESP
+10:47:11 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_half at position: <4513.643555, 4.029942, 3095.798096>
+10:47:12 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_half at position: <4513.643555, 4.029942, 3095.798096>
+10:48:51 | "D3xt3R" (steamid=76561198016672415) deleted objects using ESP
+10:49:4 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_half at position: <4513.643555, 4.029942, 3095.798096>
+10:49:5 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_half at position: <4513.643555, 4.029942, 3095.798096>
+10:49:13 | Player "Pivo_tn" (steamId=76561198158616543) connected to server!
+10:49:29 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4513.602051, 4.279655, 3096.135742>
+10:50:15 | Player "Pivo_tn" (steamId=76561198158616543) connected to server!
+10:52:18 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionWoodPillarKit)
+10:53:39 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4472.595215, 4.188081, 3086.818359>)
+10:53:40 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4487.145020, 1.232337, 3103.785889>)
+10:53:40 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4492.524414, 1.276744, 3109.956299>)
+10:54:21 | "D3xt3R" (steamid=76561198016672415) deleted objects using ESP
+10:57:6 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionWall6x3" (pos=<4512.784668, 4.029058, 3101.736084>)
+10:57:52 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_half at position: <4515.324219, 4.029168, 3105.134766>
+10:57:53 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_half at position: <4515.324219, 4.029168, 3105.134766>
+10:58:10 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_half at position: <4514.464844, 4.028378, 3111.072998>
+10:58:12 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_half at position: <4514.464844, 4.028378, 3111.072998>
+10:58:42 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_half at position: <4511.065918, 4.029295, 3113.612549>
+10:58:43 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_half at position: <4511.065918, 4.029295, 3113.612549>
+10:59:22 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4501.286133, 7.027848, 3097.093750>
+10:59:28 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4501.286133, 7.027848, 3097.093750>
+10:59:29 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4501.286133, 7.027848, 3097.093750>
+10:59:47 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4500.526367, 7.033728, 3103.039551>
+10:59:48 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4500.526367, 7.033728, 3103.039551>
+10:59:49 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4500.526367, 7.033728, 3103.039551>
+11:0:8 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4499.566406, 7.033345, 3108.970947>
+11:0:9 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4499.566406, 7.033345, 3108.970947>
+11:0:10 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4499.566406, 7.033345, 3108.970947>
+11:1:57 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_third at position: <4498.416992, 7.034094, 3096.671631>
+11:1:58 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_third at position: <4498.416992, 7.034094, 3096.671631>
+11:2:10 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_third at position: <4501.714355, 7.033271, 3094.126709>
+11:2:11 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_third at position: <4501.714355, 7.033271, 3094.126709>
+11:2:33 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionHelipadKit)
+11:3:22 | Player "Maltrix CZE" (steamId=76561198188251693) connected to server!
+11:3:30 | Player "D3xt3R" (steamId=76561198016672415) disconnected from server.
+11:3:41 | Player "Maltrix CZE" (steamId=76561198188251693) connected to server!
+11:4:1 | Player "D3xt3R" (steamId=76561198016672415) connected to server!
+11:4:3 | Player "Belthazar" (steamId=76561198038755126) disconnected from server.
+11:4:3 | Player "Belthazar" (steamId=76561198038755126) disconnected from server.
+11:4:11 | Player "Belthazar" (steamId=76561198038755126) disconnected from server.
+11:4:23 | Player "D3xt3R" (steamId=76561198016672415) connected to server!
+11:4:28 | "D3xt3R" (steamid=76561198016672415) toggled godmode
+11:4:37 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionHelipadKitPlacing)
+11:4:37 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionHelipad)
+11:4:54 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionHelipadKitPlacing)
+11:5:31 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (FBF_FireplaceIgnited)
+11:7:33 | "D3xt3R" (steamid=76561198016672415) deleted object "TreeHard_t_LarixDecidua_2fb_summer" (pos=<4437.000000, 11.092749, 3137.613281>)
+11:8:23 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionHelipad)
+11:8:40 | "D3xt3R" (steamid=76561198016672415) deleted objects using ESP
+11:8:57 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionHelipad)
+11:9:21 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_third at position: <4507.652344, 7.033437, 3094.986328>
+11:9:22 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_third at position: <4507.652344, 7.033437, 3094.986328>
+11:10:14 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_third at position: <4513.596191, 7.032705, 3095.744629>
+11:10:15 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_third at position: <4513.596191, 7.032705, 3095.744629>
+11:10:28 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_third at position: <4516.135742, 7.031919, 3099.143555>
+11:10:29 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_third at position: <4516.135742, 7.031919, 3099.143555>
+11:10:46 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_third at position: <4497.557617, 7.034094, 3102.609863>
+11:10:47 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_third at position: <4497.557617, 7.034094, 3102.609863>
+11:11:1 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_third at position: <4496.698242, 7.033311, 3108.548096>
+11:11:2 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_third at position: <4496.698242, 7.033311, 3108.548096>
+11:11:14 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_third at position: <4499.243652, 7.033496, 3111.845459>
+11:11:16 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_third at position: <4499.243652, 7.033496, 3111.845459>
+11:11:40 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_third at position: <4505.182129, 7.033183, 3112.703613>
+11:11:41 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_third at position: <4505.182129, 7.033183, 3112.703613>
+11:11:57 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_third at position: <4508.479492, 7.031869, 3110.159668>
+11:11:58 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_third at position: <4508.479492, 7.031869, 3110.159668>
+11:12:11 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_third at position: <4509.333496, 7.028784, 3104.322021>
+11:12:12 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_third at position: <4509.333496, 7.028784, 3104.322021>
+11:13:20 | Player "Pivo_tn" (steamId=76561198158616543) disconnected from server.
+11:13:20 | Player "Pivo_tn" (steamId=76561198158616543) disconnected from server.
+11:13:21 | Player "Pivo_tn" (steamId=76561198158616543) disconnected from server.
+11:13:37 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (XmasLights)
+11:13:39 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Spotlight)
+11:13:39 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Spotlight)
+11:13:40 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Spotlight)
+11:13:40 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Spotlight)
+11:13:40 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Spotlight)
+11:16:5 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (PowerGenerator)
+11:16:36 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (SparkPlug)
+11:17:4 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (CableReel)
+11:17:4 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (CableReel)
+11:17:4 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (CableReel)
+11:17:5 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (CableReel)
+11:17:5 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (CableReel)
+11:17:5 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (CableReel)
+11:17:6 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (CableReel)
+11:17:6 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (CableReel)
+11:17:6 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (CableReel)
+11:20:53 | Player "Belthazar" (steamId=76561198038755126) connected to server!
+11:21:8 | Player "Belthazar" (steamId=76561198038755126) connected to server!
+11:29:44 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionStaticKeyGrinder)
+11:29:47 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionPropGrill2)
+11:29:47 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionPropGrill2)
+11:30:6 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionPropGrill2)
+11:30:37 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionPropGrill2)
+11:31:9 | "D3xt3R" (steamid=76561198016672415) deleted objects using ESP
+11:32:22 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionPropGrill1)
+11:33:5 | "D3xt3R" (steamid=76561198016672415) deleted objects using ESP
+11:33:21 | "D3xt3R" (steamid=76561198016672415) deleted objects using ESP
+11:33:42 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4501.714355, 7.033271, 3094.126709>)
+11:33:52 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionPropGrill1)
+11:34:20 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionPropGrill1)
+11:34:29 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionPropGrill1)
+11:35:45 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (MVS_Rucksack_Snow)
+11:35:50 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (MVS_Rucksack_Snow)
+11:36:4 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionPropGrill1)
+11:36:8 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionPropGrill1)
+11:36:41 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionPropGrill1" (pos=<4495.679688, 1.273378, 3082.490234>)
+11:36:43 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionPropGrill1" (pos=<4495.332520, 1.247090, 3085.031006>)
+11:36:51 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionPropGrill1" (pos=<4490.295410, 1.443200, 3083.706055>)
+11:37:24 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4519.152344, 1.028452, 3099.627930>
+11:37:25 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4519.152344, 1.028452, 3099.627930>
+11:37:26 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4519.152344, 1.028452, 3099.627930>
+11:37:40 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionPropGrill2" (pos=<4511.354492, 7.282823, 3098.683838>)
+11:37:42 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionPropGrill2" (pos=<4511.354492, 7.282823, 3098.677734>)
+11:45:33 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4509.385742, 4.029893, 3104.275391>)
+11:45:33 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4509.333496, 7.028784, 3104.322021>)
+11:45:34 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4505.182129, 7.033183, 3112.703613>)
+11:45:35 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4505.182129, 7.033183, 3112.703613>)
+11:45:36 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4481.868652, 1.758978, 3140.827637>)
+11:45:50 | Player "D3xt3R" (steamId=76561198016672415) disconnected from server.
+11:46:45 | Player "Hemi" (steamId=76561198065958810) connected to server!
+11:47:8 | Player "D3xt3R" (steamId=76561198016672415) connected to server!
+11:47:30 | Player "D3xt3R" (steamId=76561198016672415) connected to server!
+11:47:54 | "D3xt3R" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+11:47:54 | "D3xt3R" (steamid=76561198016672415) just updated a health stat on (steamid=76561198016672415)
+11:47:56 | "D3xt3R" (steamid=76561198016672415) gave unlimited ammo to (steamid=76561198016672415)
+11:47:56 | "D3xt3R" (steamid=76561198016672415) gave godmode to (steamid=76561198016672415)
+11:49:27 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionCodeLock)
+11:49:28 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionCodeLock)
+11:49:28 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionCodeLock)
+11:49:58 | Player "MADness" (steamId=76561198968762750) connected to server!
+11:50:22 | Player "MADness" (steamId=76561198968762750) connected to server!
+11:50:39 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (TWP_Covid19Head_Red)
+11:52:33 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (TWP_M134)
+11:53:21 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (TWP_M134_mag_750Rnd)
+11:53:37 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4497.557617, 7.034094, 3102.609863>)
+11:53:38 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4485.560059, 1.828651, 3085.410645>)
+11:55:15 | "MADness" (steamid=76561198968762750) toggled godmode
+11:55:28 | "MADness": (steamid=76561198968762750) teleported to (pos=677.876,0,3076.3)
+11:55:29 | "D3xt3R" (steamid=76561198016672415) gave godmode to (steamid=76561198968762750)
+11:55:32 | "D3xt3R" (steamid=76561198016672415) gave godmode to (steamid=76561198968762750)
+11:55:38 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=714.621,0,3056.61)
+11:55:41 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<721.050659, 77.375580, 3034.367432>)
+11:55:42 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<722.082825, 78.425453, 3029.062988>)
+11:56:14 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (NVGoggles)
+11:56:15 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (NVGoggles)
+11:57:27 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<663.221741, 8.280818, 2867.386230>)
+12:4:40 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<643.044495, 3.899355, 2976.093994>)
+12:5:48 | "D3xt3R" (steamid=76561198016672415) gave unlimited ammo to (steamid=76561198968762750)
+12:11:56 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<613.680298, 2.068578, 2899.326904>)
+12:11:58 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<615.623779, 2.068578, 2898.615967>)
+12:13:59 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<621.668518, 2.083400, 2894.282715>)
+12:15:37 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<755.721497, 20.443762, 2788.567139>)
+12:15:53 | "MADness": (steamid=76561198968762750) teleported to (pos=Sweet Home)
+12:16:14 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+12:16:14 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+12:16:16 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+12:16:21 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<839.002869, 23.728018, 2799.780029>)
+12:16:47 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<783.821716, 29.862467, 2822.936035>)
+12:18:11 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<838.188416, 20.676903, 2793.400635>)
+12:19:18 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=4501.52,0,3109.46)
+12:21:34 | Player "MADness" (steamId=76561198968762750) connected to server!
+12:21:50 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (TWP_Covid19Head_yellow)
+12:21:50 | Player "MADness" (steamId=76561198968762750) connected to server!
+12:23:2 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=3176.07,0,5304.28)
+12:33:32 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=2659.37,0,6023.32)
+12:34:3 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Msp_Barrel_Donation)
+12:34:47 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Msp_Barrel_Donation)
+12:34:51 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Msp_Barrel_Donation)
+12:34:55 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Msp_Barrel_Donation)
+12:35:8 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Msp_MilitaryLocker_Kit)
+12:35:20 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Msp_Locker_Kit)
+12:37:30 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (AlarmClock_Green)
+12:38:37 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (SodaCan_Kvass)
+12:38:37 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (SodaCan_Kvass)
+12:38:37 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (SodaCan_Kvass)
+12:38:37 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (SodaCan_Kvass)
+12:38:37 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (SodaCan_Kvass)
+12:38:38 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (SodaCan_Kvass)
+12:40:0 | "MADness" (steamid=76561198968762750) Spawned Item: (Msp_StoneFireplace_Kit)
+12:40:34 | "MADness" (steamid=76561198968762750) Spawned Item: (FBF_Fireplace)
+12:42:21 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Msp_Static_Barrel_Donation)
+12:42:45 | "D3xt3R" (steamid=76561198016672415) deleted object "Msp_Static_Barrel_Donation" (pos=<2653.051025, 17.569717, 6027.890625>)
+12:43:7 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Msp_Static_Barrel_Donation)
+12:43:50 | Player "Majky" (steamId=76561198275611052) connected to server!
+12:44:15 | Player "Majky" (steamId=76561198275611052) connected to server!
+12:45:23 | Player "P@lko2265" (steamId=76561198039629108) connected to server!
+12:45:50 | Player "P@lko2265" (steamId=76561198039629108) connected to server!
+12:52:58 | Player "Belthazar" (steamId=76561198038755126) disconnected from server.
+12:52:58 | Player "Belthazar" (steamId=76561198038755126) disconnected from server.
+12:53:22 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=8962.2,0,4997.85)
+12:53:25 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<8914.208008, 15.692914, 4997.894531>)
+12:53:39 | Player "Belthazar" (steamId=76561198038755126) connected to server!
+12:53:57 | Player "Belthazar" (steamId=76561198038755126) connected to server!
+12:57:14 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=4387.55,0,5983.37)
+12:58:31 | "D3xt3R" (steamid=76561198016672415) deleted objects using ESP
+12:58:50 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (Barrel_Red)
+12:59:40 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4505.987305, 4.027533, 3106.814697>)
+12:59:44 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4505.182129, 7.033183, 3112.703613>)
+13:0:53 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionStairKit)
+13:1:32 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4341.869629, 0.362084, 5963.605957>)
+13:1:33 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4342.965332, 0.580229, 5964.375000>)
+13:1:33 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4343.930176, 2.619238, 5983.365723>)
+13:1:35 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4346.424316, 1.367730, 5968.960938>)
+13:2:32 | "MADness" (steamid=76561198968762750) Spawned Item: (Msp_FourDoor_MilitaryLocker_Green_Kit)
+13:2:35 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4343.439941, 1.138470, 5966.800781>)
+13:2:58 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4342.692383, 0.603822, 5961.649902>
+13:2:58 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_support at position: <4342.692383, 0.603822, 5961.649902>
+13:2:59 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_tread at position: <4342.692383, 0.603822, 5961.649902>
+13:3:0 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_handrailing at position: <4342.692383, 0.603822, 5961.649902>
+13:3:13 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionStairS1_5x3x3" (pos=<4342.692383, 0.603822, 5961.649902>)
+13:3:31 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionRampKit)
+13:3:45 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4516.939453, 32.863846, 5866.838379>)
+13:3:52 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=4377.23,0,5945.51)
+13:3:58 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4357.311035, 1.367730, 5971.298828>)
+13:4:29 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4348.067871, 0.654700, 5972.085449>)
+13:5:26 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4334.901855, 0.962532, 5960.029785>)
+13:6:27 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4337.417480, 1.507795, 5961.129395>)
+13:6:31 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4345.048340, 1.368202, 5965.104492>)
+13:6:35 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4361.657715, 1.274795, 5984.747070>)
+13:6:39 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4359.900391, 0.607848, 5984.825195>)
+13:6:39 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4397.826660, 5.309794, 5921.558594>)
+13:6:43 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=4363.46,0,5938.62)
+13:6:51 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=4439.18,0,5986.81)
+13:6:55 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=4377.23,0,5956.11)
+13:6:58 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=4404.76,0,5959.55)
+13:7:5 | Player "D3xt3R" (steamId=76561198016672415) disconnected from server.
+13:7:5 | Player "D3xt3R" (steamId=76561198016672415) disconnected from server.
+13:7:6 | Player "D3xt3R" (steamId=76561198016672415) disconnected from server.
+13:7:35 | Player "D3xt3R" (steamId=76561198016672415) connected to server!
+13:7:46 | Player "D3xt3R" (steamId=76561198016672415) connected to server!
+13:7:54 | "D3xt3R" (steamid=76561198016672415) toggled godmode
+13:7:59 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=4394.57,0,5921.2)
+13:8:58 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4358.824707, -0.381977, 5967.109863>
+13:8:59 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_frame at position: <4358.824707, -0.381977, 5967.109863>
+13:9:2 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4360.169434, 0.506475, 5965.410645>)
+13:9:5 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_finished at position: <4358.824707, -0.381977, 5967.109863>
+13:9:12 | Player "D3xt3R" (steamId=76561198016672415) disconnected from server.
+13:9:12 | Player "D3xt3R" (steamId=76561198016672415) disconnected from server.
+13:9:13 | Player "D3xt3R" (steamId=76561198016672415) disconnected from server.
+13:10:8 | Player "D3xt3R" (steamId=76561198016672415) connected to server!
+13:10:28 | Player "D3xt3R" (steamId=76561198016672415) connected to server!
+13:10:31 | "D3xt3R" (steamid=76561198016672415) toggled godmode
+13:12:18 | "MADness": (steamid=76561198968762750) teleported to (pos=Airport)
+13:12:24 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4339.021973, 1.075747, 5979.666504>)
+13:15:30 | "MADness" (steamid=76561198968762750) Spawned Item: (TerritoryFlagKit)
+13:17:21 | Admin "MADness" (steamId=76561198968762750) built part base at position: <7808.455566, 3.955124, 815.192200>
+13:17:24 | Admin "MADness" (steamId=76561198968762750) built part support at position: <7808.455566, 3.955124, 815.192200>
+13:17:25 | Admin "MADness" (steamId=76561198968762750) built part pole at position: <7808.455566, 3.955124, 815.192200>
+13:17:25 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4353.004395, -0.381977, 5965.653320>
+13:17:26 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_frame at position: <4353.004395, -0.381977, 5965.653320>
+13:17:27 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_finished at position: <4353.004395, -0.381977, 5965.653320>
+13:17:38 | "MADness" (steamid=76561198968762750) Spawned Item: (Expansion_Flag_Expansion)
+13:17:43 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionFloor6x6" (pos=<4347.184082, 1.118023, 5964.196777>)
+13:18:15 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionRampKit)
+13:18:35 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4347.184082, -0.381977, 5964.196777>
+13:18:36 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_frame at position: <4347.184082, -0.381977, 5964.196777>
+13:18:37 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_finished at position: <4347.184082, -0.381977, 5964.196777>
+13:18:52 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionRampKit)
+13:19:18 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7794.177246, 3.955124, 815.151611>)
+13:19:19 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7787.225586, 3.955124, 814.380554>)
+13:19:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7779.928223, 3.815901, 817.927673>)
+13:19:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7779.207031, 3.746055, 823.182129>)
+13:19:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7779.093750, 3.614350, 834.919678>)
+13:19:25 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7796.098145, 3.475637, 837.316467>)
+13:19:25 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7808.062500, 3.313071, 840.525208>)
+13:19:27 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7824.385254, 3.011372, 825.394470>)
+13:19:31 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7807.953125, 3.662200, 793.025146>)
+13:19:39 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4351.116699, 0.536570, 5964.845215>)
+13:19:45 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4345.647949, 1.367730, 5968.168457>)
+13:19:45 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4346.368164, 1.367730, 5972.639160>)
+13:19:45 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4346.367676, 1.367730, 5972.639648>)
+13:19:45 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4346.367676, 1.367730, 5972.639648>)
+13:19:45 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4346.368164, 1.367730, 5972.639648>)
+13:19:45 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4346.358887, 1.367730, 5972.621094>)
+13:19:45 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4346.350098, 1.367730, 5972.601074>)
+13:19:45 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4346.588379, 1.368202, 5974.646484>)
+13:19:45 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4346.868164, 1.168023, 5977.315430>)
+13:19:45 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4346.520996, 1.368202, 5976.757813>)
+13:19:46 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4346.227539, 1.368202, 5976.642578>)
+13:19:46 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4346.055176, 1.368202, 5976.588379>)
+13:19:46 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4345.850098, 1.368202, 5976.570801>)
+13:19:46 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4345.632324, 1.368202, 5977.384277>)
+13:19:46 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4345.425781, 1.368202, 5978.231445>)
+13:19:46 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4345.300293, 1.368023, 5979.168457>)
+13:19:46 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4344.229004, 0.356762, 5982.041504>)
+13:19:46 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4344.227051, 0.354859, 5982.044922>)
+13:19:46 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4344.225586, 0.352961, 5982.048340>)
+13:19:46 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4344.287109, 1.047263, 5981.901855>)
+13:19:46 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4344.086914, 1.499866, 5982.281250>)
+13:20:18 | "MADness" (steamid=76561198968762750) Spawned Item: (Msp_FourDoor_MilitaryLocker_Kit)
+13:20:50 | "MADness" (steamid=76561198968762750) Spawned Item: (CodeLock)
+13:20:54 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+13:20:59 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+13:20:59 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+13:20:59 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+13:20:59 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+13:20:59 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+13:21:0 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+13:21:0 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionFloorKit)
+13:21:25 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionRamp6x1_5x6" (pos=<4347.184082, -0.381977, 5964.196777>)
+13:21:34 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionRamp6x1_5x6" (pos=<4353.004395, -0.381977, 5965.653320>)
+13:21:35 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionRamp6x1_5x6" (pos=<4358.824707, -0.381977, 5967.109863>)
+13:21:37 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionFloor6x6" (pos=<4345.727539, 1.117551, 5970.017578>)
+13:21:38 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionFloor6x6" (pos=<4351.547852, 1.117551, 5971.474121>)
+13:21:40 | "MADness" (steamid=76561198968762750) Spawned Item: (CodeLock)
+13:21:40 | "MADness" (steamid=76561198968762750) Spawned Item: (CodeLock)
+13:21:42 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionCodeLock)
+13:21:42 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionCodeLock)
+13:21:45 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4356.062500, 0.647250, 5977.656250>)
+13:21:48 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionFloor6x6" (pos=<4357.368164, 1.117551, 5972.930664>)
+13:21:49 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionFloor6x6" (pos=<4363.188965, 1.117551, 5974.387207>)
+13:21:53 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionWallKit)
+13:22:20 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4362.433594, 0.883010, 5972.182129>
+13:22:22 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4362.433594, 0.883010, 5972.182129>
+13:22:27 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4362.433594, 0.883010, 5972.182129>
+13:22:35 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4357.023438, 0.883010, 5969.587402>
+13:22:42 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4357.023438, 0.883010, 5969.587402>
+13:22:43 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4357.023438, 0.883010, 5969.587402>
+13:22:53 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4351.613281, 0.883010, 5966.992676>
+13:22:54 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4351.613281, 0.883010, 5966.992676>
+13:22:55 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4351.613281, 0.883010, 5966.992676>
+13:23:7 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4346.203125, 0.883010, 5964.397949>
+13:23:8 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4346.203125, 0.883010, 5964.397949>
+13:23:9 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4346.203125, 0.883010, 5964.397949>
+13:23:17 | "D3xt3R" (steamid=76561198016672415) deleted object "ExpansionFloor6x6" (pos=<4344.270996, 1.118023, 5975.838379>)
+13:23:23 | Admin "MADness" (steamId=76561198968762750) built part wood_base at position: <7783.752441, 4.475718, 788.465576>
+13:23:25 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4343.608398, 0.883482, 5969.808105>
+13:23:26 | Admin "MADness" (steamId=76561198968762750) built part wood_doorframe at position: <7783.752441, 4.475718, 788.465576>
+13:23:26 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4343.608398, 0.883482, 5969.808105>
+13:23:26 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4343.608398, 0.883482, 5969.808105>
+13:23:27 | Admin "MADness" (steamId=76561198968762750) built part wood_doorfinished at position: <7783.752441, 4.475718, 788.465576>
+13:23:37 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4348.797852, 0.883482, 5958.987793>
+13:23:38 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4348.797852, 0.883482, 5958.987793>
+13:23:39 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4348.797852, 0.883482, 5958.987793>
+13:25:32 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4343.387695, 0.883954, 5956.393066>
+13:25:33 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4343.387695, 0.883954, 5956.393066>
+13:25:34 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4343.387695, 0.883954, 5956.393066>
+13:25:44 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4335.696777, 0.701811, 5976.787598>)
+13:25:50 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<4341.033691, 1.133661, 5970.123535>)
+13:25:58 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<3779.329346, 25.203810, 5030.321777>)
+13:26:6 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=4387.75,0,5985.48)
+13:26:32 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <4337.977539, 0.883954, 5953.798340>
+13:26:32 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorframe at position: <4337.977539, 0.883954, 5953.798340>
+13:26:33 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_floorfinished at position: <4337.977539, 0.883954, 5953.798340>
+13:26:52 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+13:26:52 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+13:26:52 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+13:26:52 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+13:26:52 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+13:26:53 | "D3xt3R" (steamid=76561198016672415) Spawned Item: (ExpansionWallKit)
+13:27:8 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_half at position: <4343.498047, 0.883010, 5963.100586>
+13:27:9 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_half at position: <4343.498047, 0.883010, 5963.100586>
+13:27:39 | Admin "MADness" (steamId=76561198968762750) built part wood_base at position: <7782.807129, 3.933757, 815.113770>
+13:27:41 | Admin "MADness" (steamId=76561198968762750) built part wood_gateframe at position: <7782.807129, 3.933757, 815.113770>
+13:27:43 | Admin "MADness" (steamId=76561198968762750) built part wood_gatefinished at position: <7782.807129, 3.933757, 815.113770>
+13:28:35 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_half at position: <4343.751465, 0.717144, 5975.664551>
+13:28:36 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_half at position: <4343.751465, 0.717144, 5975.664551>
+13:28:57 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_half at position: <4346.313477, 0.883954, 5971.105469>
+13:28:58 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_half at position: <4346.313477, 0.883954, 5971.105469>
+13:29:14 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base_half at position: <4351.502930, 0.883954, 5960.285156>
+13:29:15 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_wallframe_half at position: <4351.502930, 0.883954, 5960.285156>
+13:29:34 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=3463.79,0,5393.23)
+13:29:52 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<3463.958984, 7.259185, 5408.745117>)
+13:31:20 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<3454.675293, 4.019697, 5407.412109>)
+13:31:36 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=7828.7,0,828.238)
+13:31:44 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<7803.085938, 4.466856, 800.533569>)
+13:32:21 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionCodeLock)
+13:32:21 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionCodeLock)
+13:32:21 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionCodeLock)
+13:32:21 | "MADness" (steamid=76561198968762750) Spawned Item: (ExpansionCodeLock)
+13:32:27 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <7785.495605, 4.426017, 800.632019>
+13:32:30 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_doorframe at position: <7785.495605, 4.426017, 800.632019>
+13:32:31 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_doorfinished at position: <7785.495605, 4.426017, 800.632019>
+13:33:2 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <7781.467773, 4.444910, 800.389954>
+13:33:15 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_windowframe at position: <7781.467773, 4.444910, 800.389954>
+13:33:16 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_windowfinished at position: <7781.467773, 4.444910, 800.389954>
+13:34:12 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_base at position: <7787.493652, 4.571400, 790.946716>
+13:34:16 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_windowframe at position: <7787.493652, 4.571400, 790.946716>
+13:34:17 | Admin "D3xt3R" (steamId=76561198016672415) built part wood_windowfinished at position: <7787.493652, 4.571400, 790.946716>
+13:34:28 | "D3xt3R" (steamid=76561198016672415) deleted object "Land_Airfield_Small_Control" (pos=<7777.801270, 14.254559, 784.181580>)
+13:36:1 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<7785.509766, 5.260376, 800.432068>)
+13:36:2 | "D3xt3R" (steamid=76561198016672415) teleported to crosshair (pos=<7785.538574, 6.076251, 800.432251>)
+13:36:20 | "D3xt3R" (steamid=76561198016672415) deleted objects using ESP
+13:37:55 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+13:37:55 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+13:37:56 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+13:41:13 | Player "Hemi" (steamId=76561198065958810) disconnected from server.
+13:41:13 | Player "Hemi" (steamId=76561198065958810) disconnected from server.
+13:41:15 | Player "Hemi" (steamId=76561198065958810) disconnected from server.
+13:45:14 | Player "Majky" (steamId=76561198275611052) disconnected from server.
+13:45:14 | Player "Majky" (steamId=76561198275611052) disconnected from server.
+13:45:16 | Player "Majky" (steamId=76561198275611052) disconnected from server.
+13:50:53 | Player "P@lko2265" (steamId=76561198039629108) disconnected from server.
+13:50:53 | Player "P@lko2265" (steamId=76561198039629108) disconnected from server.
+13:50:55 | Player "P@lko2265" (steamId=76561198039629108) disconnected from server.
+13:57:45 | "D3xt3R": (steamid=76561198016672415) teleported to (pos=4249,0,4172.87)
+13:58:4 | Player "D3xt3R" (steamId=76561198016672415) disconnected from server.
+13:58:44 | Player "Belthazar" (steamId=76561198038755126) disconnected from server.
+13:58:44 | Player "Belthazar" (steamId=76561198038755126) disconnected from server.
+13:59:13 | Player "Maltrix CZE" (steamId=76561198188251693) disconnected from server.
+13:59:13 | Player "Maltrix CZE" (steamId=76561198188251693) disconnected from server.
+13:59:15 | Player "Maltrix CZE" (steamId=76561198188251693) disconnected from server.
+13:59:23 | Player "MADness" (steamId=76561198968762750) connected to server!
+13:59:35 | Player "MADness" (steamId=76561198968762750) connected to server!
+14:2:3 | "MADness" (steamid=76561198968762750) deleted objects using ESP
+14:3:59 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7816.380371, 3.234983, 841.217590>)
+14:4:18 | "MADness": (steamid=76561198968762750) teleported to (pos=Lunapark)
+14:4:29 | "MADness": (steamid=76561198968762750) teleported to (pos=Sweet Home)
+14:7:18 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4496.068848, 1.037786, 3131.687012>)
+14:7:19 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4499.233887, 0.894248, 3121.596924>)
+14:7:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4503.063477, 1.277216, 3111.092285>)
+14:9:10 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4496.330078, 0.996972, 3125.044678>)
+14:9:10 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4489.794922, 1.358225, 3136.476318>)
+14:9:11 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4482.991211, 1.871068, 3147.817627>)
+14:10:21 | Player "MADness" (steamId=76561198968762750) disconnected from server.

@@ -45,12 +45,12 @@
     <input name="UAGetOver">
         <btn name="kSpace" />
         <btn name="x1A">
-            <event name="click" />
+            <event name="clickorhold" />
         </btn>
     </input>
     <input name="UAGetOverControllerHelper">
         <btn name="x1A">
-            <event name="click" />
+            <event name="clickorhold" />
         </btn>
     </input>
     <input name="UAStance">
@@ -96,8 +96,8 @@
     <input name="UAPersonView">
         <btn name="kV" />
         <btn name="kNumpadEnter" />
-        <btn name="x1ShoulderLeft">
-            <event name="doubleclick" />
+        <btn name="x1ThumbRight">
+            <event name="click" />
         </btn>
     </input>
     <input name="UALookAround">
@@ -115,8 +115,8 @@
         <btn name="mBMiddle" />
     </input>
     <input name="UAZoomInToggle">
-        <btn name="x1ThumbRight">
-            <event name="click" />
+        <btn name="x1ShoulderLeft">
+            <event name="doubleclick" />
         </btn>
     </input>
     <input name="UAToggleNVG">
@@ -130,33 +130,27 @@
     </input>
     <input name="UAADSToggle">
         <btn name="kLShift" />
-        <btn name="x1ThumbRight">
-            <event name="click" />
-        </btn>
+        <btn name="x1ThumbRight" />
     </input>
     <input name="UAZoomInOptics">
         <btn name="mWheelUp" />
-        <btn name="x1A">
-            <btn name="x1TriggerLeft" />
+        <btn name="x1PadRight">
             <event name="click" />
         </btn>
     </input>
     <input name="UAZoomOutOptics">
         <btn name="mWheelDown" />
-        <btn name="x1A">
-            <btn name="x1TriggerLeft" />
+        <btn name="x1PadRight">
             <event name="hold" />
         </btn>
     </input>
     <input name="UAZoomInOpticsControllerHelper">
-        <btn name="x1A">
-            <btn name="x1TriggerLeft" />
+        <btn name="x1PadRight">
             <event name="click" />
         </btn>
     </input>
     <input name="UAZoomOutOpticsControllerHelper">
-        <btn name="x1A">
-            <btn name="x1TriggerLeft" />
+        <btn name="x1PadRight">
             <event name="hold" />
         </btn>
     </input>
@@ -164,8 +158,8 @@
         <btn name="kG">
             <event name="click" />
         </btn>
-        <btn name="x1ShoulderLeft">
-            <btn name="x1X" />
+        <btn name="x1X">
+            <event name="doubleclick" />
         </btn>
     </input>
     <input name="UADropitem">
@@ -174,11 +168,6 @@
         </btn>
         <btn name="x1X">
             <event name="hold" />
-        </btn>
-    </input>
-    <input name="UAMoveItemFromHandsToInventory">
-        <btn name="x1ShoulderRight">
-            <event name="doubleclick" />
         </btn>
     </input>
     <input name="UAGear">
@@ -190,7 +179,7 @@
         <btn name="x1TriggerRight" />
     </input>
     <input name="UAHeavyMeleeAttack">
-        <btn name="x1X" />
+        <btn name="x1Y" />
     </input>
     <input name="UAWeaponMeleeAttack">
         <btn name="kF" />
@@ -231,21 +220,17 @@
     <input name="UAZeroingUp">
         <btn name="kEquals" />
         <btn name="kPrior" />
-        <btn name="x1TriggerLeft">
-            <btn name="x1PadUp" />
-        </btn>
+        <btn name="x1PadUp" />
     </input>
     <input name="UAZeroingDown">
         <btn name="kMinus" />
         <btn name="kNext" />
-        <btn name="x1TriggerLeft">
-            <btn name="x1PadDown" />
-        </btn>
+        <btn name="x1PadDown" />
     </input>
     <input name="UAToggleWeapons">
         <btn name="kX" />
-        <btn name="x1PadRight">
-            <event name="click" />
+        <btn name="x1A">
+            <btn name="x1TriggerLeft" />
         </btn>
     </input>
     <input name="UAUIQuickbarToggle">
@@ -354,6 +339,67 @@
     <input name="UAGestureSlot11">
         <btn name="kF11" />
     </input>
+    <input name="EmoteGreeting">
+        <btn name="kF1" />
+    </input>
+    <input name="EmoteSOS">
+        <btn name="kF2" />
+    </input>
+    <input name="EmoteHeart">
+        <btn name="kF3" />
+    </input>
+    <input name="EmoteTaunt">
+        <btn name="kF4" />
+    </input>
+    <input name="EmoteLyingDown" />
+    <input name="EmoteTauntKiss">
+        <btn name="kF6" />
+    </input>
+    <input name="EmotePoint">
+        <btn name="kF7" />
+    </input>
+    <input name="EmoteTauntElbow">
+        <btn name="kF8" />
+    </input>
+    <input name="EmoteThumb">
+        <btn name="kF9" />
+    </input>
+    <input name="EmoteThumbDown" />
+    <input name="EmoteThroat">
+        <btn name="kF10" />
+    </input>
+    <input name="EmoteDance" />
+    <input name="EmoteSalute" />
+    <input name="EmoteTimeout" />
+    <input name="EmoteFacepalm" />
+    <input name="EmoteClap" />
+    <input name="EmoteSilent" />
+    <input name="EmoteWatching" />
+    <input name="EmoteHold" />
+    <input name="EmoteListening" />
+    <input name="EmotePointSelf" />
+    <input name="EmoteLookAtMe" />
+    <input name="EmoteTauntThink" />
+    <input name="EmoteMove" />
+    <input name="EmoteGetDown" />
+    <input name="EmoteCome" />
+    <input name="EmoteSurrender">
+        <btn name="kF5" />
+    </input>
+    <input name="EmoteCampfireSit" />
+    <input name="EmoteSitA" />
+    <input name="EmoteSitB" />
+    <input name="EmoteRPSRandom" />
+    <input name="EmoteRPSRock" />
+    <input name="EmoteRPSPaper" />
+    <input name="EmoteRPSScisors" />
+    <input name="EmoteNod" />
+    <input name="EmoteShake" />
+    <input name="EmoteShrug" />
+    <input name="EmoteSuicide">
+        <btn name="kF11" />
+    </input>
+    <input name="EmoteVomit" />
     <input name="UACarLeft">
         <btn name="kA" />
         <btn name="x1LeftThumbLeft" />
@@ -396,6 +442,7 @@
         <btn name="kRight" />
         <btn name="x1PadRight" />
         <btn name="x1LeftThumbRight" />
+        <btn name="x1RightThumbRight" />
     </input>
     <input name="UAUIUp">
         <btn name="kUp" />
@@ -438,6 +485,9 @@
         <btn name="kRBracket" />
         <btn name="x1ShoulderRight" />
     </input>
+    <input name="UAUICredits">
+        <btn name="x1View" />
+    </input>
     <input name="UAUIRightStickHorizontal">
         <btn name="x1RightThumbHorizontal" />
     </input>
@@ -452,28 +502,26 @@
         <btn name="x1ShoulderRight" />
     </input>
     <input name="UAUIQuickbarRadialInventoryOpen">
-        <btn name="x1ShoulderRight">
-            <event name="hold" />
-        </btn>
+        <btn name="x1ThumbLeft" />
     </input>
     <input name="UAUIRadialMenuStickHelper">
         <btn name="x1ThumbRight" />
     </input>
     <input name="UAUILeftInventory">
-        <btn name="x1RightThumbLeft" />
         <btn name="x1PadLeft" />
+        <btn name="x1RightThumbLeft" />
     </input>
     <input name="UAUIRightInventory">
-        <btn name="x1RightThumbRight" />
         <btn name="x1PadRight" />
+        <btn name="x1RightThumbRight" />
     </input>
     <input name="UAUIUpInventory">
-        <btn name="x1RightThumbUp" />
         <btn name="x1PadUp" />
+        <btn name="x1RightThumbUp" />
     </input>
     <input name="UAUIDownInventory">
-        <btn name="x1RightThumbDown" />
         <btn name="x1PadDown" />
+        <btn name="x1RightThumbDown" />
     </input>
     <input name="UAUINextUp">
         <btn name="x1TriggerLeft" />
@@ -482,67 +530,51 @@
         <btn name="x1TriggerRight" />
     </input>
     <input name="UAUIInventoryContainerUp">
-        <btn name="x1RightThumbUp">
-            <btn name="x1ShoulderLeft" />
-        </btn>
+        <btn name="x1TriggerLeft" />
     </input>
     <input name="UAUIInventoryContainerDown">
-        <btn name="x1RightThumbDown">
-            <btn name="x1ShoulderLeft" />
-        </btn>
+        <btn name="x1TriggerRight" />
     </input>
     <input name="UAUIInventoryTabLeft">
-        <btn name="x1ShoulderLeft">
-            <event name="click" />
-        </btn>
-        <btn name="x1RightThumbLeft">
-            <btn name="x1TriggerLeft" />
-        </btn>
-        <btn name="x1PadLeft">
-            <btn name="x1TriggerLeft" />
-        </btn>
+        <btn name="kLBracket" />
+        <btn name="x1ShoulderLeft" />
     </input>
     <input name="UAUIInventoryTabRight">
-        <btn name="x1ShoulderRight">
-            <event name="click" />
-        </btn>
-        <btn name="x1RightThumbRight">
-            <btn name="x1TriggerLeft" />
-        </btn>
-        <btn name="x1PadRight">
-            <btn name="x1TriggerLeft" />
-        </btn>
+        <btn name="kRBracket" />
+        <btn name="x1ShoulderRight" />
     </input>
     <input name="UAUIRotateInventory">
         <btn name="kSpace" />
-    </input>
-    <input name="UAUIPutInHandsFromVicinity">
-        <btn name="x1X">
-            <event name="hold" />
-        </btn>
-    </input>
-    <input name="UAUIPutInHandsFromInventory">
-        <btn name="x1X">
-            <event name="click" />
-        </btn>
     </input>
     <input name="UAUIFastEquip">
         <btn name="x1Y">
             <event name="click" />
         </btn>
     </input>
-    <input name="UAUISplit">
-        <btn name="x1A">
-            <event name="hold" />
-        </btn>
-    </input>
-    <input name="UAUICombine">
+    <input name="UAUIPutInHandsFromVicinity">
         <btn name="x1A">
             <event name="click" />
         </btn>
     </input>
+    <input name="UAUIPutInHandsFromInventory">
+        <btn name="x1A">
+            <event name="click" />
+        </btn>
+    </input>
+    <input name="UAUISplit">
+        <btn name="x1Y">
+            <event name="hold" />
+        </btn>
+    </input>
+    <input name="UAUICombine">
+        <btn name="x1B">
+            <event name="click" />
+        </btn>
+    </input>
     <input name="UAUIDragNDrop">
-        <btn name="x1TriggerRight" />
+        <btn name="kReturn" />
+        <btn name="kNumpadEnter" />
+        <btn name="x1A" />
     </input>
     <input name="UAUIFastTransferToVicinity">
         <btn name="x1X">
@@ -554,7 +586,9 @@
             <event name="click" />
         </btn>
     </input>
-    <input name="UAUISelectItem" />
+    <input name="UAUISelectItem">
+        <btn name="x1A" />
+    </input>
     <input name="UAUIFastTransferItem">
         <btn name="x1X">
             <event name="click" />
@@ -815,12 +849,6 @@
         <btn name="kApostrophe" />
     </input>
     <input name="UAPVEZOpenAdminMenu" />
-    <input name="UAToggleBipod">
-        <btn name="kT" />
-    </input>
-    <input name="UAToggleMagni">
-        <btn name="kI" />
-    </input>
     <input name="UAHealTargets">
         <btn name="kJ" />
     </input>
@@ -959,6 +987,12 @@
     </input>
     <input name="UAExpansionPlayerListToggle">
         <btn name="kPause" />
+    </input>
+    <input name="UAExpansionEarplugsToggle">
+        <btn name="kP" />
+    </input>
+    <input name="UAExpansionAutoRunToggle">
+        <btn name="kZ" />
     </input>
     <input name="UAExpansionHeliRocket">
         <btn name="kSpace" />
@@ -1104,11 +1138,41 @@
     <input name="UAExpansionHideChatToggle">
         <btn name="kDivide" />
     </input>
-    <input name="UAExpansionEarplugsToggle">
-        <btn name="kP" />
+    <input name="UAToggleInvis">
+        <btn name="kI" />
     </input>
-    <input name="UAExpansionAutoRunToggle">
-        <btn name="kZ" />
+    <input name="UADayzDogWhistle">
+        <btn name="kAdd" />
+    </input>
+    <input name="UADayzDogFollow">
+        <btn name="kDivide" />
+    </input>
+    <input name="UADayzDogPatrol">
+        <btn name="kMultiply" />
+    </input>
+    <input name="UADayzDogStayHere">
+        <btn name="kSubstract" />
+    </input>
+    <input name="UAExpansionQuestToggle">
+        <btn name="kSlash" />
+    </input>
+    <input name="eAICommandMenu">
+        <btn name="kT" />
+    </input>
+    <input name="eAITestInput">
+        <btn name="kY" />
+    </input>
+    <input name="eAITestLRIncrease">
+        <btn name="kRight" />
+    </input>
+    <input name="eAITestLRDecrease">
+        <btn name="kLeft" />
+    </input>
+    <input name="eAITestUDIncrease">
+        <btn name="kUp" />
+    </input>
+    <input name="eAITestUDDecrease">
+        <btn name="kDown" />
     </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />
@@ -1116,10 +1180,13 @@
         <limit name="deadzone" value="0.000000" />
         <sensitivity name="vert" value="1.000000" />
         <sensitivity name="horz" value="1.000000" />
+        <sensitivity name="curv" value="1.000000" />
         <sensitivity name="lvert" value="1.000000" />
         <sensitivity name="lhorz" value="1.000000" />
+        <sensitivity name="lcurv" value="1.000000" />
         <sensitivity name="rvert" value="1.000000" />
         <sensitivity name="rhorz" value="1.000000" />
+        <sensitivity name="rcurv" value="1.000000" />
     </controller>
     <controller name="PCMouse">
         <limit name="doubleclick" value="0.500000" />
@@ -1127,10 +1194,13 @@
         <limit name="deadzone" value="0.000000" />
         <sensitivity name="vert" value="1.000000" />
         <sensitivity name="horz" value="1.000000" />
+        <sensitivity name="curv" value="1.000000" />
         <sensitivity name="lvert" value="1.000000" />
         <sensitivity name="lhorz" value="1.000000" />
+        <sensitivity name="lcurv" value="1.000000" />
         <sensitivity name="rvert" value="1.000000" />
         <sensitivity name="rhorz" value="1.000000" />
+        <sensitivity name="rcurv" value="1.000000" />
     </controller>
     <controller name="X1Controller">
         <limit name="doubleclick" value="0.500000" />
@@ -1138,10 +1208,13 @@
         <limit name="deadzone" value="0.030000" />
         <sensitivity name="vert" value="1.000000" />
         <sensitivity name="horz" value="1.000000" />
-        <sensitivity name="lvert" value="0.500000" />
-        <sensitivity name="lhorz" value="0.500000" />
-        <sensitivity name="rvert" value="0.750000" />
-        <sensitivity name="rhorz" value="0.750000" />
+        <sensitivity name="curv" value="1.000000" />
+        <sensitivity name="lvert" value="1.250000" />
+        <sensitivity name="lhorz" value="1.250000" />
+        <sensitivity name="lcurv" value="1.000000" />
+        <sensitivity name="rvert" value="1.250000" />
+        <sensitivity name="rhorz" value="1.250000" />
+        <sensitivity name="rcurv" value="0.500000" />
     </controller>
     <controller name="PS4Controller">
         <limit name="doubleclick" value="0.500000" />
@@ -1149,10 +1222,13 @@
         <limit name="deadzone" value="0.030000" />
         <sensitivity name="vert" value="1.000000" />
         <sensitivity name="horz" value="1.000000" />
-        <sensitivity name="lvert" value="0.500000" />
-        <sensitivity name="lhorz" value="0.500000" />
-        <sensitivity name="rvert" value="0.750000" />
-        <sensitivity name="rhorz" value="0.750000" />
+        <sensitivity name="curv" value="1.000000" />
+        <sensitivity name="lvert" value="1.250000" />
+        <sensitivity name="lhorz" value="1.250000" />
+        <sensitivity name="lcurv" value="1.000000" />
+        <sensitivity name="rvert" value="1.250000" />
+        <sensitivity name="rhorz" value="1.250000" />
+        <sensitivity name="rcurv" value="0.500000" />
     </controller>
     <controller name="IRTracker">
         <limit name="doubleclick" value="0.500000" />
@@ -1160,16 +1236,20 @@
         <limit name="deadzone" value="0.000000" />
         <sensitivity name="vert" value="1.000000" />
         <sensitivity name="horz" value="1.000000" />
+        <sensitivity name="curv" value="1.000000" />
         <sensitivity name="lvert" value="1.000000" />
         <sensitivity name="lhorz" value="1.000000" />
+        <sensitivity name="lcurv" value="1.000000" />
         <sensitivity name="rvert" value="1.000000" />
         <sensitivity name="rhorz" value="1.000000" />
+        <sensitivity name="rcurv" value="1.000000" />
     </controller>
     <modificator name="aiming">
         <sensitivity name="vert" value="1.000000" />
         <sensitivity name="horz" value="1.000000" />
-        <sensitivity name="rvert" value="0.750000" />
-        <sensitivity name="rhorz" value="0.750000" />
+        <sensitivity name="rvert" value="1.250000" />
+        <sensitivity name="rhorz" value="1.250000" />
+        <sensitivity name="rcurv" value="0.500000" />
     </modificator>
     <modificator name="vehicle">
         <sensitivity name="lhorz" value="1.000000" />
