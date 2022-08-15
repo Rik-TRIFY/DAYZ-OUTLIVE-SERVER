@@ -1,0 +1,211 @@
+{
+    "m_Version": 9,
+    "DisplayName": "NBC Clothing",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "gasmask",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "gp5gasmask",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MAD_GP5_Gas_Mask_Black",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 6500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_GP5_Gas_Mask_GreenCamo",
+                "MAD_GP5_Gas_Mask_Unicorn",
+                "MAD_GP5_Gas_Mask_GreenDigitalCamo",
+                "MAD_GP5_Gas_Mask_GreyDigitalCamo",
+                "MAD_GP5_Gas_Mask_PinkLeopard",
+                "MAD_GP5_Gas_Mask_PinkCamo",
+                "MAD_GP5_Gas_Mask_GreyCamo"
+
+            ]
+        },
+        {
+            "ClassName": "nbcbootsyellow",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "nbcbootsgray"
+            ]
+        },
+        {
+            "ClassName": "MAD_NBC_Boots_Black",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 6500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_NBC_Boots_GreenCamo",
+                "MAD_NBC_Boots_Unicorn",
+                "MAD_NBC_Boots_GreenDigitalCamo",
+                "MAD_NBC_Boots_GreyDigitalCamo",
+                "MAD_NBC_Boots_PinkLeopard",
+                "MAD_NBC_Boots_PinkCamo",
+                "MAD_NBC_Boots_GreyCamo"
+            ]
+        },
+        {
+            "ClassName": "nbcjacketyellow",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 7,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "nbcjacketgray"
+            ]
+        },
+        {
+            "ClassName": "MAD_NBC_Jacket_Black",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 6500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_NBC_Jacket_GreenCamo",
+                "MAD_NBC_Jacket_Unicorn",
+                "MAD_NBC_Jacket_GreenDigitalCamo",
+                "MAD_NBC_Jacket_GreyDigitalCamo",
+                "MAD_NBC_Jacket_PinkLeopard",
+                "MAD_NBC_Jacket_PinkCamo",
+                "MAD_NBC_Jacket_GreyCamo"
+            ]
+        },
+        {
+            "ClassName": "nbchoodyellow",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "nbchoodgray"
+            ]
+        },
+        {
+            "ClassName": "MAD_NBC_Hood_Black",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 6500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_NBC_Hood_GreenCamo",
+                "MAD_NBC_Hood_Unicorn",
+                "MAD_NBC_Hood_GreenDigitalCamo",
+                "MAD_NBC_Hood_GreyDigitalCamo",
+                "MAD_NBC_Hood_PinkLeopard",
+                "MAD_NBC_Hood_PinkCamo",
+                "MAD_NBC_Hood_GreyCamo"
+            ]
+        },
+        {
+            "ClassName": "nbcpantsyellow",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "nbcpantsgray"
+            ]
+        },
+        {
+            "ClassName": "MAD_NBC_Pants_Black",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 6500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_NBC_Pants_GreenCamo",
+                "MAD_NBC_Pants_Unicorn",
+                "MAD_NBC_Pants_GreenDigitalCamo",
+                "MAD_NBC_Pants_GreyDigitalCamo",
+                "MAD_NBC_Pants_PinkLeopard",
+                "MAD_NBC_Pants_PinkCamo",
+                "MAD_NBC_Pants_GreyCamo"
+            ]
+        },
+        {
+            "ClassName": "nbcglovesyellow",
+            "MaxPriceThreshold": 2600,
+            "MinPriceThreshold": 2600,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "nbcglovesgray"
+            ]
+        },
+        {
+            "ClassName": "MAD_NBC_Gloves_Black",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 6500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_NBC_Gloves_GreenCamo",
+                "MAD_NBC_Gloves_Unicorn",
+                "MAD_NBC_Gloves_GreenDigitalCamo",
+                "MAD_NBC_Gloves_GreyDigitalCamo",
+                "MAD_NBC_Gloves_PinkLeopard",
+                "MAD_NBC_Gloves_PinkCamo",
+                "MAD_NBC_Gloves_GreyCamo"
+            ]
+        }
+    ]
+}
