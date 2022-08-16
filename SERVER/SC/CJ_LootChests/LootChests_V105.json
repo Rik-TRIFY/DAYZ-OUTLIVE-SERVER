@@ -139,7 +139,8 @@
                 "LC_Table_Collectable",
                 "LC_Table_Collectable",
                 "LC_Table_Collectable",
-                "LC_Table_Supressors"
+                "LC_Table_Supressors",
+                "LC_Table_food"
             ]
         },
         {
@@ -256,7 +257,8 @@
                 "LC_Table_Ammo",   
                 "LC_Table_Weapons_BetterGuns",
                 "LC_Table_Collectable",
-                "LC_Table_Collectable"             
+                "LC_Table_Collectable",
+                "LC_Table_food"             
             ]
         },
         {
@@ -414,7 +416,10 @@
                 "LC_Table_Bild_MIX",
                 "LC_Table_Bild_MIX",
                 "LC_Table_Bild_MIX",
-                "LC_Table_Collectable"
+                "LC_Table_Collectable",
+                "LC_Table_food",
+                "LC_Table_food",
+                "LC_Table_Barrels"
             ]
         },
         {
@@ -473,9 +478,9 @@
                 "LC_Table_NBC",
                 "LC_Table_NBC",
                 "LC_Table_NBC",
-                "LC_Table_NBC",
                 "nioshfacemask",
-                "LC_Table_Collectable"
+                "LC_Table_Collectable",
+                "LC_Table_food"
             ]
         },
         {
@@ -532,7 +537,8 @@
                 "LC_Table_Ammo",   
                 "LC_Table_Weapons_TOP_GUNs",
                 "LC_Table_Collectable",
-                "LC_Table_Collectable"          
+                "LC_Table_Collectable",
+                "LC_Table_food"          
             ]
         }
     ],
@@ -791,7 +797,55 @@
                 "nbcglovesgray",
                 "nbcglovesyellow",
                 "gasmask",
-                "gp5gasmask"
+                "gp5gasmask",
+                "MAD_NBC_Gloves_GreenCamo",
+                "MAD_NBC_Pants_GreenCamo",
+                "MAD_NBC_Boots_GreenCamo",
+                "MAD_GP5_Gas_Mask_GreenCamo",
+                "MAD_NBC_Hood_GreenCamo",
+                "MAD_NBC_Jacket_GreenCamo",
+                "MAD_NBC_Gloves_Unicorn",
+                "MAD_NBC_Pants_Unicorn",
+                "MAD_NBC_Boots_Unicorn",
+                "MAD_GP5_Gas_Mask_Unicorn",
+                "MAD_NBC_Hood_Unicorn",
+                "MAD_NBC_Jacket_Unicorn",
+                "MAD_NBC_Gloves_GreenDigitalCamo",
+                "MAD_NBC_Pants_GreenDigitalCamo",
+                "MAD_NBC_Boots_GreenDigitalCamo",
+                "MAD_GP5_Gas_Mask_GreenDigitalCamo",
+                "MAD_NBC_Hood_GreenDigitalCamo",
+                "MAD_NBC_Jacket_GreenDigitalCamo",
+                "MAD_NBC_Gloves_GreyDigitalCamo",
+                "MAD_NBC_Pants_GreyDigitalCamo",
+                "MAD_NBC_Boots_GreyDigitalCamo",
+                "MAD_GP5_Gas_Mask_GreyDigitalCamo",
+                "MAD_NBC_Hood_GreyDigitalCamo",
+                "MAD_NBC_Jacket_GreyDigitalCamo",
+                "MAD_NBC_Gloves_PinkLeopard",
+                "MAD_NBC_Pants_PinkLeopard",
+                "MAD_NBC_Boots_PinkLeopard",
+                "MAD_GP5_Gas_Mask_PinkLeopard",
+                "MAD_NBC_Hood_PinkLeopard",
+                "MAD_NBC_Jacket_PinkLeopard",
+                "MAD_NBC_Gloves_GreyCamo",
+                "MAD_NBC_Pants_GreyCamo",
+                "MAD_NBC_Boots_GreyCamo",
+                "MAD_GP5_Gas_Mask_GreyCamo",
+                "MAD_NBC_Hood_GreyCamo",
+                "MAD_NBC_Jacket_GreyCamo",
+                "MAD_NBC_Gloves_PinkCamo",
+                "MAD_NBC_Pants_PinkCamo",
+                "MAD_NBC_Boots_PinkCamo",
+                "MAD_GP5_Gas_Mask_PinkCamo",
+                "MAD_NBC_Hood_PinkCamo",
+                "MAD_NBC_Jacket_PinkCamo",
+                "MAD_NBC_Gloves_Black",
+                "MAD_NBC_Pants_Black",
+                "MAD_NBC_Boots_Black",
+                "MAD_GP5_Gas_Mask_Black",
+                "MAD_NBC_Hood_Black",
+                "MAD_NBC_Jacket_Black"
             ]
         },
         {
@@ -805,6 +859,25 @@
                 "morphine",
                 "iodinetincture",
                 "anticheminjector"
+            ]
+        },
+        {
+            "name": "LC_Table_food",
+            "Loot": [
+                "MAD_EnergyDrink_Unicorn",
+                "MAD_EnergyDrink_Rainbow",
+                "MAD_EnergyDrink_Blue",
+                "MAD_EnergyDrink_Carlos",
+                "MAD_EnergyDrink_Carlos2",
+                "MAD_EnergyDrink_Carlos3",
+                "MAD_Jar_Unicorn",
+                "MAD_Meat_Unicorn",
+                "MAD_Meat_Beef",
+                "MAD_Meat_Cookies",
+                "MAD_Meat_Donuts",
+                "MAD_Meat_Risotto",
+                "MAD_Meat_Salmon",
+                "MAD_Meat_Shrimps"
             ]
         },
         {
@@ -944,6 +1017,23 @@
                 "TWP_RPK16_mag_100Rnd",
                 "TWP_MK18_mag_100Rnd",
                 "Mag_CMAG_100Rnd"
+            ]
+        },
+        {
+            "name": "LC_Table_Barrels",
+            "Loot": [
+                "MAD_Pink_Barrel",
+                "MAD_Black_Barrel",
+                "MAD_Ammo2_Barrel",
+                "MAD_Ammo_Barrel",
+                "MAD_Atachment_Barrel",
+                "MAD_Food_Barrel",
+                "MAD_Medic_Barrel",
+                "MAD_Tools_Barrel",
+                "MAD_Clothes_Barrel",
+                "MAD_BarrelHoles",
+                "OUTLIVE_Black_Barrel",
+                "OUTLIVE_White_Barrel"
             ]
         },
         {
