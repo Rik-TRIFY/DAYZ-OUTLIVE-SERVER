@@ -1,18 +1,18 @@
 {
     "ConfigVersion": 3,
-    "ID": 15,
-    "Type": 3,
-    "Title": "15 - Zkontoluj most - Check the bridge",
+    "ID": 83,
+    "Type": 9,
+    "Title": "83 - VIPink Escort",
     "Descriptions": [
-        "Běž se podívat v jakém stavu je most při vchodu do PVP zony - Go and see the condition of the bridge at the entrance to the PVP zone",
-        "Slyšel jsem, že do něj zas někdo naboural. - I heard that someone broke into it again.",
-        "Hlášení podej Borisovi. -  Report to Boris."
+        "Ahoj kamaráde. Měl bych pro tebe prácičku. - Hi, friend. I have a job for you.",
+        "Doprovoď tuto VIP osobu k Lindě. - Escort this VIP to Linda.",
+        "Linda ti dá odměnu. - Linda will give you a reward."
     ],
-    "ObjectiveText": "Zkontoluj most - Check the bridge",
-    "PreQuest": -1,
+    "ObjectiveText": "Doprovoď VIP - Escort VIP",
+    "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 2,
-    "QuestTurnInID": 6,
+    "QuestGiverID": 5,
+    "QuestTurnInID": 3,
     "IsAchivement": 0,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -27,8 +27,8 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 306,
-            "ObjectiveType": 3,
+            "ID": 902,
+            "ObjectiveType": 9,
             "ObjectiveText": "",
             "TimeLimit": -1
         }
@@ -36,7 +36,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "CP_CannabisBrickNomad",
+            "ClassName": "MAD_CarTent_NightSky",
             "Amount": 1
         }
     ],

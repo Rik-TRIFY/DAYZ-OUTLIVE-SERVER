@@ -1,0 +1,21 @@
+{
+    "ConfigVersion": 1,
+    "ID": 903,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Odveď vězeně - Escort Prisoner",
+    "TimeLimit": -1,
+    "Position": [
+        5109.11,
+        9.96076,
+        8434.06
+    ],
+    "MaxDistance": 10.0,
+    "AIVIP": {
+        "NPCClassName": "",
+        "NPCSpeed": "RUN",
+        "NPCMode": "HALT",
+        "NPCFaction": "Passive",
+        "NPCLoadoutFile": "PrisonerLoadout.json"
+    },
+    "MarkerName": "Q84"
+}
