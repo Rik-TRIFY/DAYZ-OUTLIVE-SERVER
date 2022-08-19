@@ -77,6 +77,26 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "MAD_CarTent_GreyGeo",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 45000,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_CarTent_Flamingo",
+                "MAD_CarTent_WhiteGeo",
+                "MAD_CarTent_Wood",
+                "MAD_CarTent_Monstera",
+                "MAD_CarTent_GreenGeo",
+                "MAD_CarTent_NightSky",
+                "MAD_CarTent_BlueGeo",
+                "MAD_CarTent_Unicorn"
+            ]
         }
     ]
 }
