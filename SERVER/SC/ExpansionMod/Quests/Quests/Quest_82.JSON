@@ -1,0 +1,81 @@
+{
+    "ConfigVersion": 3,
+    "ID": 82,
+    "Type": 11,
+    "Title": "82 - Mumie se vrací - Mummy",
+    "Descriptions": [
+        "Ha ha ha, bude halloween, víš o tom? - Ha ha ha, it's going to be halloween, you know that?",
+        "Show me how to make a mummy costume. - Make for me a mummy costume",
+        "Odměním se ti! - I'll reward you"
+    ],
+    "ObjectiveText": "Mumie - Mummy",
+    "PreQuest": -1,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 8,
+    "QuestTurnInID": 8,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 5,
+            "ID": 111,
+            "ObjectiveType": 11,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 5,
+            "ID": 112,
+            "ObjectiveType": 11,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 5,
+            "ID": 113,
+            "ObjectiveType": 11,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 5,
+            "ID": 114,
+            "ObjectiveType": 11,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 5,
+            "ID": 115,
+            "ObjectiveType": 11,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 5,
+            "ID": 116,
+            "ObjectiveType": 11,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionGoldNugget",
+            "Amount": 50
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}

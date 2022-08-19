@@ -1,17 +1,17 @@
 {
     "ConfigVersion": 3,
-    "ID": 2,
-    "Type": 5,
-    "Title": "2 - Úleva od bolesti - Without pain",
+    "ID": 84,
+    "Type": 9,
+    "Title": "84 - Vězeňský Escort - Prisoner Escort",
     "Descriptions": [
-        "Šmarja chlape, jsi to ty? Tvoje jméno je %1 , že ano? - Hi, is that you? Your name is %1, right?", 
-        "Mám pro Tebe prácičku. Musíš neprodleně doručit tenhle balzám Sethovi. - I have a job for you. You must deliver this balm to Seth immediately.",
-        "Odměnu si nezapomeň vyzvednout u Setha - Don't forget to collect your reward from Seth"
+        "Ahoj kamaráde. Měl bych pro tebe prácičku. - Hi, friend. I have a job for you.",
+        "Konečně jsme chytili uprchlého zločince. Odveď ho Sethovi, ať zřídí spravedlnost. - We finally caught the escaped criminal. Take him to Seth for justice.",
+        "Seth ti dá odměnu. - Seth will give you a reward."
     ],
-    "ObjectiveText": "Doruč léky pro Setha. - Deliver balm for Seth.",
-    "PreQuest": -1,
+    "ObjectiveText": "Doprovoď vězně - Escort prisoner",
+    "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 3,
+    "QuestGiverID": 2,
     "QuestTurnInID": 5,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -27,8 +27,8 @@
     "Objectives": [
         {
             "ConfigVersion": 4,
-            "ID": 502,
-            "ObjectiveType": 5,
+            "ID": 903,
+            "ObjectiveType": 9,
             "ObjectiveText": "",
             "TimeLimit": -1
         }
@@ -36,7 +36,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "CP_CannabisSeedsPackKush",
+            "ClassName": "MAD_CarTent_Wood",
             "Amount": 1
         }
     ],
