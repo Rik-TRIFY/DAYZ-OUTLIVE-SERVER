@@ -1,0 +1,1127 @@
+---------------------------------------------
+Log D:\TCAFiles\Users\erikf\6821903\SC\crash_2022-08-21_08-02-17.log started at 21.08. 08:02:35
+
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+Item headtorch_black has already been added to category Eyewear (ID 27)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+[ExpansionMarketItem] The minimum price must be lower than or equal to the maximum price for 'mag_vss_10rnd'
+Class:      'ExpansionMarketItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketitem.c:141
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:140
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+Item jeans_green has already been added to category Hunting_Leather (ID 42)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:266
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:243
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:145
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+Item expansionspraycangreen has already been added to category Cannabis (ID 14)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+Item gardenlime has already been added to category Gardening (ID 34)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+Item twp_cosmetic_heart has already been added to category ID 80
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+Item twp_toiletroll has already been added to category Medical (ID 52)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+Item twp_coffin has already been added to category Furnishings (ID 33)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+Item twp_m60_mag_200rnd has already been added to category ID 85
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+Item twp_bloodymachete has already been added to category Teddys_Halloween (ID 83)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+Item twp_ak47 has already been added to category ID 89
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+Item twp_mk14 has already been added to category Teddys_Rifles (ID 89)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:35
+
+Item twp_mac10 has already been added to category ID 92
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:55
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:56
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:56
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:57
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:02:57
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:03:01
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:03:04
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:03:04
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:03:07
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:03:07
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:03:08
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:03:08
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:03:10
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:03:10
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:27
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:27
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:27
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:27
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:28
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:28
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:28
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:28
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:35
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:35
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:35
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:35
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:36
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:36
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:36
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:36
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:54
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:54
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:54
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:41:54
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:42:05
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:156
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:42:05
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:156
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\manbase\playerbase.c:74
+Dayz_Dog/Scripts/4_World/overrides\playerbase.c:32
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c:104
+DayZExpansion/Weapons/Scripts/4_World/dayzexpansion_weapons\entities\manbase\playerbase.c:20
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:42:06
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:156
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:42:06
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:156
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\manbase\playerbase.c:74
+Dayz_Dog/Scripts/4_World/overrides\playerbase.c:32
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c:104
+DayZExpansion/Weapons/Scripts/4_World/dayzexpansion_weapons\entities\manbase\playerbase.c:20
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:42:07
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:156
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:42:07
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:156
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\manbase\playerbase.c:74
+Dayz_Dog/Scripts/4_World/overrides\playerbase.c:32
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c:104
+DayZExpansion/Weapons/Scripts/4_World/dayzexpansion_weapons\entities\manbase\playerbase.c:20
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:42:09
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:156
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\manbase\playerbase.c:74
+Dayz_Dog/Scripts/4_World/overrides\playerbase.c:32
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c:104
+DayZExpansion/Weapons/Scripts/4_World/dayzexpansion_weapons\entities\manbase\playerbase.c:20
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:42:12
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:156
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:42:12
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:156
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:42:12
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:156
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:42:12
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:156
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 08:42:12
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:156
+PVEZ/4_World/pvez_damageredistributor.c:102
+PVEZ/4_World/entities\manbase\playerbase.c:104
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\playerbase.c:655
+DayZExpansion/Hardline/Scripts/4_World/dayzexpansion_hardline\entities\manbase\playerbase.c:63
+DayZExpansion/Navigation/Scripts/4_World/dayzexpansion_navigation\entities\manbase\playerbase.c:168
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\entities\manbase\playerbase.c:30
+DayZExpansion/Scripts/4_World/dayzexpansion\entities\manbase\playerbase.c:79
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 10:18:44
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 10:18:44
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 10:18:44
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 10:18:44
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 

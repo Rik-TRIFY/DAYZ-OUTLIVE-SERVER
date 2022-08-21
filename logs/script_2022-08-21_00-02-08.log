@@ -1,0 +1,1610 @@
+---------------------------------------------
+Log D:\TCAFiles\Users\erikf\6821903\SC\script_2022-08-21_00-02-08.log started at 21.08. 00:02:09
+
+SCRIPT       : Registered 385 temporary action enum(s), UAN==385
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"CannabisPlus/scripts/4_world/cannabisplus.c,395": Missing ';' at the end of line
+SCRIPT    (W): @"LeatherCrafting\scripts\4_World/dryingrack.c,279": Missing ';' at the end of line
+SCRIPT    (E): @"scripts/4_World/entities\firearms\weapon_base.c,581": Variable 'weaponType' is private
+SCRIPT    (W): @"GameLabs/Scripts/4_World/4_Hooking/э*фЮ.rtm,242": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"MuchStuffPack/MSP_Scripts/4_World/codelock\actions\actioninteractlockonmsp.c,85": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"MuchStuffPack/MSP_Scripts/4_World/codelock\actions\actioninteractlockonmsp.c,90": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"PVEZ/4_World/entities\manbase\playerbase.c,182": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/lootchest.c,168": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/lootchest.c,221": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/actionunlockcjchest.c,82": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/actionunlockcjchest.c,102": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/actionunlockcjchest.c,112": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,82": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,280": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,301": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,311": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,321": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,331": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,341": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,592": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/overrides\itembase.c,32": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/overrides\itembase.c,33": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/actions\actionstopcontrol.c,56": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/actions\actionstopcontrol.c,64": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dogserverrpc.c,46": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dogserverrpc.c,49": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_shed_small\dog_shed_small.c,40": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_shed_small\dog_shed_small.c,109": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/actions\actionfeeddog.c,92": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/actions\actioncontrol.c,80": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/overrides\playerbase.c,488": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"cabin_mod/scripts/4_World/actions\actiondeployobject.c,11": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"cabin_mod_codelock/scripts/4_World/actioninteractlockoncabinfence.c,92": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"cabin_mod_codelock/scripts/4_World/actioninteractlockoncabinfence.c,97": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"GameLabs/Scripts/5_Mission/џ?мсЫыїзќяћ.wsi,91": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"Dayz_Dog/scripts/5_Mission/gui\dogmapmenu.c,43": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"Dayz_Dog/scripts/5_Mission/gui\dogmapmenu.c,59": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"Dayz_Dog/scripts/5_Mission/gui\dogselectmenu.c,39": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"Dayz_Dog/scripts/5_Mission/gui\dogselectmenu.c,60": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:mpmissions\Outlive.Chiemsee\init.c,50": Missing ';' at the end of line
+SCRIPT       : Expansion version: 1.7.8
+SCRIPT       : 00:02:24.186 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 00:02:24.186 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 00:02:24.186 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 00:02:24.188 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 00:02:24.188 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 00:02:24.188 [EXPANSION DEBUG]: [ExpansionHardlineSettings] Load existing setting file:$mission:expansion\settings\HardlineSettings.json
+SCRIPT       : 00:02:24.195 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : 00:02:24.197 [EXPANSION DEBUG]: ~ExpansionMarketSettings
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 1 (Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 2 (Ammo_Boxes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 3 (Armbands)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 4 (Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 5 (Backpacks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 6 (Bandanas)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 7 (Batteries)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 8 (Bayonets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 9 (Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 10 (Blouses_And_Suits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 11 (Boats)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 12 (Boots_And_Shoes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 13 (Buttstocks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 14 (Cannabis)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 15 (Caps)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 16 (Cars)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 17 (Clothing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 18 (Coats_And_Jackets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 19 (Containers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 20 (Crossbows)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 21 (Dogs_Attachments)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 22 (Drinks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 23 (Electronics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 24 (Event)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 25 (Exchange)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 26 (Explosives_And_Grenades)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 27 (Eyewear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 28 (Fish)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 29 (Fishing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 30 (Flags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 31 (Food)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 32 (Fruit_And_Vegetables)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 33 (Furnishings)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 34 (Gardening)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 35 (Ghillies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 36 (Gloves)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 37 (Handguards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 38 (Hats_And_Hoods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 39 (Helicopters)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 40 (Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 41 (Holsters_And_Pouches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 42 (Hunting_Leather)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 43 (Kits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 44 (Knifes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 45 (Launchers)
+SCRIPT    (E): 
+Item headtorch_black has already been added to category Eyewear (ID 27)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 46 (Lights)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 47 (Liquids)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 48 (Locks)
+SCRIPT    (E): 
+[ExpansionMarketItem] The minimum price must be lower than or equal to the maximum price for 'mag_vss_10rnd'
+Class:      'ExpansionMarketItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketitem.c:141
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:140
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 49 (Magazines)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 50 (Masks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 51 (Meat)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 52 (Medical)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 53 (Melee_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 54 (MMG_Gear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 55 (MMG_Gear_Patches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 56 (Muzzles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 57 (MVS_Bags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 58 (MVS_Clothing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 59 (MVS_Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 60 (MVS_Pouches_Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 61 (MVS_Rigs)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 62 (Navigation)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 63 (NBC)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 64 (Optics)
+SCRIPT    (E): 
+Item jeans_green has already been added to category Hunting_Leather (ID 42)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:266
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:243
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:145
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 65 (Pants_And_Shorts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 66 (Pelts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 67 (Pistols)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 68 (Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 69 (Shirts_And_TShirts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 70 (Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 71 (Skirts_And_Dresses)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 72 (Sniper_Rifles)
+SCRIPT    (E): 
+Item expansionspraycangreen has already been added to category Cannabis (ID 14)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 73 (Spraycans)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 74 (Submachine_Guns)
+SCRIPT    (E): 
+Item gardenlime has already been added to category Gardening (ID 34)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 75 (Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 76 (Sweaters_And_Hoodies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 77 (Teddys_Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 78 (Teddys_AmmoBoxs)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 79 (Teddys_Bayonets)
+SCRIPT    (E): 
+Item twp_cosmetic_heart has already been added to category ID 80
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 80 (Teddys_Cosmetics)
+SCRIPT    (E): 
+Item twp_toiletroll has already been added to category Medical (ID 52)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 81 (Teddys_Covid)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 82 (Teddys_Gernades)
+SCRIPT    (E): 
+Item twp_coffin has already been added to category Furnishings (ID 33)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 83 (Teddys_Halloween)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 84 (Teddys_Lights)
+SCRIPT    (E): 
+Item twp_m60_mag_200rnd has already been added to category ID 85
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 85 (Teddys_Magazines)
+SCRIPT    (E): 
+Item twp_bloodymachete has already been added to category Teddys_Halloween (ID 83)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 86 (Teddys_Melee)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 87 (Teddys_Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 88 (Teddys_Pistols)
+SCRIPT    (E): 
+Item twp_ak47 has already been added to category ID 89
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 89 (Teddys_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 90 (Teddys_Shotguns)
+SCRIPT    (E): 
+Item twp_mk14 has already been added to category Teddys_Rifles (ID 89)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 91 (Teddys_Snipers)
+SCRIPT    (E): 
+Item twp_mac10 has already been added to category ID 92
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 92 (Teddys_SubMachineGuns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 93 (Teddys_Suppressors)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 94 (Tents)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 95 (Tools)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 96 (Vehicle_Parts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 97 (Vests)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 98 (WindstridesClothing)
+SCRIPT       : 00:02:24.473 [EXPANSION DEBUG]: [ExpansionMarketTrader] Error: Category Teddys_Light does not exist!
+SCRIPT       : 00:02:24.873 [EXPANSION DEBUG]: [ExpansionAirdropSettings] Load existing setting file:$profile:ExpansionMod\Settings\AirdropSettings.json
+SCRIPT       : 00:02:24.910 [EXPANSION DEBUG]: [ExpansionMissionSettings] Load existing setting file:$profile:ExpansionMod\Settings\MissionSettings.json
+SCRIPT       : 00:02:24.912 [EXPANSION DEBUG]: [ExpansionNameTagsSettings] Load existing setting file:$profile:ExpansionMod\Settings\NameTagsSettings.json
+SCRIPT       : 00:02:24.912 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MapSettings.json
+SCRIPT       : 00:02:24.914 [EXPANSION DEBUG]: [ExpansionGeneralSettings] Load existing setting file:$profile:ExpansionMod\Settings\GeneralSettings.json
+SCRIPT       : 00:02:24.915 [EXPANSION DEBUG]: [ExpansionPlayerListSettings] Load existing setting file:$profile:ExpansionMod\Settings\PlayerListSettings.json
+SCRIPT       : 00:02:24.915 [EXPANSION DEBUG]: [ExpansionSocialMediaSettings] Load existing setting file:$profile:ExpansionMod\Settings\SocialMediaSettings.json
+SCRIPT       : 00:02:24.915 [EXPANSION DEBUG]: [ExpansionSpawnSettings] Load existing setting file:$mission:expansion\settings\SpawnSettings.json
+SCRIPT       : 00:02:24.917 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : 00:02:24.917 [EXPANSION DEBUG]: [ExpansionAISettings] Load existing setting file:$profile:ExpansionMod\Settings\AISettings.json
+SCRIPT       : 00:02:24.917 [EXPANSION DEBUG]: [ExpansionAIPatrolSettings] Load existing setting file:$mission:expansion\settings\AIPatrolSettings.json
+SCRIPT       : 00:02:24.923 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 00:02:24.923 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 00:02:24.923 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : 00:02:24.928 [EXPANSION DEBUG]: [ExpansionChatSettings] Load existing setting file:$profile:ExpansionMod\Settings\ChatSettings.json
+SCRIPT       : 00:02:24.929 [EXPANSION DEBUG]: [ExpansionPartySettings] Load existing setting file:$profile:ExpansionMod\Settings\PartySettings.json
+SCRIPT       : [DefineTest] EXPANSIONMOD is defined
+SCRIPT       : [DefineTest] EXPANSIONMODAI is defined
+SCRIPT       : [DefineTest] EXPANSIONMODANIMATIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBOOK is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCHAT is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGROUPS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMISSIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAMETAGS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAVIGATION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODWEAPONS is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : DZ_Expansion_AI_Preload
+SCRIPT       : DZ_Expansion_Animations_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Book_Preload
+SCRIPT       : DZ_Expansion_Chat_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Groups_Preload
+SCRIPT       : DZ_Expansion_Hardline_Preload
+SCRIPT       : DZ_Expansion_KillFeed_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_Missions_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_NameTags_Preload
+SCRIPT       : DZ_Expansion_Navigation_Preload
+SCRIPT       : DZ_Expansion_Preload
+SCRIPT       : DZ_Expansion_Quests_Preload
+SCRIPT       : DZ_Expansion_SpawnSelection_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : DZ_Expansion_Weapons_Preload
+SCRIPT       : CodeLock
+SCRIPT       : AX_Collectables
+SCRIPT       : Covid
+SCRIPT       : CPtoken
+SCRIPT       : DZ_DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : bliss
+SCRIPT       : ludwig_FKN_Items_Static
+SCRIPT       : GameLabsDefine
+SCRIPT       : GameLabs
+SCRIPT       : Light
+SCRIPT       : Halloween
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : JM_CommunityOnlineTools
+SCRIPT       : MAD_Tents
+SCRIPT       : InventoryFixSolo
+SCRIPT       : MSP_Clothing_Data
+SCRIPT       : MSP_Retextures_Data
+SCRIPT       : MuchStuffPack
+SCRIPT       : MSP_Seasonal_Summer
+SCRIPT       : MSP_Signs_Data
+SCRIPT       : MSP_Sports_Data
+SCRIPT       : MSP_Storage_fridges
+SCRIPT       : MSP_Storage_boxes
+SCRIPT       : MSP_Storage_chests
+SCRIPT       : MSP_Storage_crates
+SCRIPT       : MSP_Storage_lockers
+SCRIPT       : MSP_Storage_otherstorage
+SCRIPT       : MSP_Storage_racks
+SCRIPT       : MSP_Storage_waterbarrels
+SCRIPT       : MSP_Toys_Data
+SCRIPT       : OPSuppressors
+SCRIPT       : PristineRepair
+SCRIPT       : PVEZ
+SCRIPT       : PVEZExpansionPlugin
+SCRIPT       : R_Coffeepot
+SCRIPT       : R_Coffeecup
+SCRIPT       : R_Coffeebag
+SCRIPT       : RFSolarPanel
+SCRIPT       : Ludwig_OBJCET_sewer_assets
+SCRIPT       : Skyline_Hybrid_Suppressor
+SCRIPT       : SnowVegetation
+SCRIPT       : ChiemseeDefines
+SCRIPT       : ludwig_data
+SCRIPT       : Ludwig_OBJCET
+SCRIPT       : lxFoodScripts
+SCRIPT       : Leuchtturm
+SCRIPT       : Ind_Oil_Pump_EP1
+SCRIPT       : ludwig_Navmesh
+SCRIPT       : NIO_OBJECT
+SCRIPT       : Sawcisson_OBJECT
+SCRIPT       : ChiemseeScripts
+SCRIPT       : Simon_Object
+SCRIPT       : chiemsee_world
+SCRIPT       : WindstrideClothing
+SCRIPT       : FlipTransport
+SCRIPT       : zisb_modular_metro
+SCRIPT       : CannabisPlus
+SCRIPT       : CJ_LootChests
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : deerisle_ludwig_data
+SCRIPT       : MAD_EnergyDrinks
+SCRIPT       : MAD_Pikachu
+SCRIPT       : MSP_BaseBuilding
+SCRIPT       : MSP_Buildings_Data
+SCRIPT       : MSP_Deco
+SCRIPT       : MSP_Garden_Data
+SCRIPT       : MSP_Halloween
+SCRIPT       : MSP_Weapons_Data
+SCRIPT       : ModularVestSystem_Base
+SCRIPT       : OUTLIVE_mod
+SCRIPT       : PolarBear
+SCRIPT       : Animal_chiemsee_scorpion
+SCRIPT       : Be_MAD_Ghillies
+SCRIPT       : Buggy_Mod
+SCRIPT       : BulletStacksPlusPlusEnhanced
+SCRIPT       : CrSk_Hummer_H2_6x6
+SCRIPT       : Dayz_Dog
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Hardline
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_Missions
+SCRIPT       : DZ_Expansion_NameTags
+SCRIPT       : DZ_Expansion_Navigation
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_PlayerList
+SCRIPT       : DZ_Expansion_Quests
+SCRIPT       : DZ_Expansion
+SCRIPT       : DZ_Expansion_SpawnSelection
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : DZ_Expansion_Weapons
+SCRIPT       : Forever_Burning_Campfire
+SCRIPT       : jpc_vest
+SCRIPT       : LeatherCrafting
+SCRIPT       : cabin_mod
+SCRIPT       : cabin_mod_codelock
+SCRIPT       : CabinZ
+SCRIPT       : DZ_Expansion_AI
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_Book
+SCRIPT       : DZ_Expansion_Chat
+SCRIPT       : DZ_Expansion_Groups
+SCRIPT       : PVEZ :: Will use config files in D:\TCAFiles\Users\erikf\6821903\SC
+SCRIPT       : PVEZ :: Expansion defined.
+SCRIPT       : [MSP_Codelock_Config] '$profile:\CodeLock\MSP_CodeLockConfig.json' found, loading existing config!
+SCRIPT       : [CP] Config Sucessfully loaded!
+SCRIPT       : 00:02:25.455 [EXPANSION DEBUG]: ModStorage v5
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : 00:02:29.820 [EXPANSION DEBUG]: ExpansionTraderPeter<71f58020>::SetTraderObject ExpansionTraderObjectBase<b44a1120> <7173.500000, 72.561798, 8110.560059>
+SCRIPT       : 00:02:29.820 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderPeter<71f58020> fileName Hunting
+SCRIPT       : 00:02:29.847 [EXPANSION DEBUG]: ExpansionTraderBoris<e5c9aa60>::SetTraderObject ExpansionTraderObjectBase<b46c9940> <4226.529785, 10.934600, 4159.430176>
+SCRIPT       : 00:02:29.847 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderBoris<e5c9aa60> fileName BuildingSupplies
+SCRIPT       : 00:02:29.873 [EXPANSION DEBUG]: ExpansionTraderEva<7fc06f30>::SetTraderObject ExpansionTraderObjectBase<b4859030> <4200.959961, 14.413500, 4124.879883>
+SCRIPT       : 00:02:29.875 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderEva<7fc06f30> fileName Medicals
+SCRIPT       : 00:02:29.899 [EXPANSION DEBUG]: ExpansionTraderOliver<7fc0a740>::SetTraderObject ExpansionTraderObjectBase<b49844c0> <4207.939941, 11.525500, 4156.709961>
+SCRIPT       : 00:02:29.899 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderOliver<7fc0a740> fileName Attachments
+SCRIPT       : 00:02:29.934 [EXPANSION DEBUG]: ExpansionTraderLinda<b4a3b010>::SetTraderObject ExpansionTraderObjectBase<b4a4dcc0> <4185.950195, 15.677600, 4132.939941>
+SCRIPT       : 00:02:29.934 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLinda<b4a3b010> fileName Clothing
+SCRIPT       : 00:02:29.975 [EXPANSION DEBUG]: ExpansionTraderDenis<b4d60010>::SetTraderObject ExpansionTraderObjectBase<b4d58090> <4212.490234, 10.890500, 4160.359863>
+SCRIPT       : 00:02:29.975 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderDenis<b4d60010> fileName Weapons
+SCRIPT       : 00:02:29.985 [EXPANSION DEBUG]: ExpansionTraderPeter<b4d0c010>::SetTraderObject ExpansionTraderObjectBase<b4d45760> <4256.890137, 9.539930, 4118.299805>
+SCRIPT       : 00:02:29.985 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderPeter<b4d0c010> fileName Vehicles
+SCRIPT       : 00:02:30.005 [EXPANSION DEBUG]: ExpansionTraderNaomi<be2bd020>::SetTraderObject ExpansionTraderObjectBase<b516e870> <4209.750000, 13.122700, 4130.080078>
+SCRIPT       : 00:02:30.005 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNaomi<be2bd020> fileName Consumables
+SCRIPT       : 00:02:30.031 [EXPANSION DEBUG]: ExpansionTraderRolf<be3aa010>::SetTraderObject ExpansionTraderObjectBase<be321ff0> <4406.970215, 1.551740, 4188.319824>
+SCRIPT       : 00:02:30.031 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderRolf<be3aa010> fileName Boats
+SCRIPT       : 00:02:30.059 [EXPANSION DEBUG]: ExpansionTraderElias<be428010>::SetTraderObject ExpansionTraderObjectBase<be3e04f0> <9944.089844, 10.767800, 5359.959961>
+SCRIPT       : 00:02:30.059 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderElias<be428010> fileName Blacktrader
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT       : 00:03:00.247 [EXPANSION DEBUG]: ExpansionCarKey<be16810>::GetKeyObject - found ExpansionUtilityBoat<19a83740>
+SCRIPT       : 00:03:00.248 [EXPANSION DEBUG]: ExpansionCarKey<ff7872f0>::GetKeyObject - found Expansion_Landrover<3a64e90>
+SCRIPT       : 00:03:00.249 [EXPANSION DEBUG]: ExpansionCarKey<12148db0>::GetKeyObject - found CrSk_Hummer_H2_6x6<3a684d0>
+SCRIPT       : 00:03:00.250 [EXPANSION DEBUG]: ExpansionCarKey<1214de30>::GetKeyObject - found ExpansionMh6<f8c39b40>
+SCRIPT       : 00:03:00.251 [EXPANSION DEBUG]: ExpansionCarKey<4c62f20>::GetKeyObject - found Expansion_Landrover<3a6bb10>
+SCRIPT       : 00:03:00.251 [EXPANSION DEBUG]: ExpansionCarKey<ff782270>::GetKeyObject - found Expansion_Landrover<3a64e90>
+SCRIPT       : 00:03:00.253 [EXPANSION DEBUG]: ExpansionCarKey<1214e840>::GetKeyObject - found ExpansionMh6<f8c39b40>
+SCRIPT       : 00:03:00.253 [EXPANSION DEBUG]: ExpansionCarKey<4c8d150>::GetKeyObject - found Expansion_Landrover<3a6bb10>
+SCRIPT       : 00:03:00.255 [EXPANSION DEBUG]: ExpansionCarKey<be1a470>::GetKeyObject - found ExpansionUtilityBoat<19a83740>
+SCRIPT       : 00:03:00.255 [EXPANSION DEBUG]: ExpansionCarKey<134acbe0>::GetKeyObject - found ExpansionUtilityBoat<478af9c0>
+SCRIPT       : 00:03:00.255 [EXPANSION DEBUG]: ExpansionCarKey<ffe30e00>::GetKeyObject - found ExpansionUtilityBoat<19a84550>
+SCRIPT       : 00:03:00.256 [EXPANSION DEBUG]: ExpansionCarKey<4b13930>::GetKeyObject - found ExpansionGyrocopter<f8c3e410>
+SCRIPT       : 00:03:00.259 [EXPANSION DEBUG]: ExpansionCarKey<be11790>::GetKeyObject - found ExpansionUtilityBoat<19a83740>
+SCRIPT       : 00:03:00.260 [EXPANSION DEBUG]: ExpansionCarKey<1b753dd0>::GetKeyObject - found ExpansionUtilityBoat<19a7aaa0>
+SCRIPT       : 00:03:00.261 [EXPANSION DEBUG]: ExpansionCarKey<f115eb40>::GetKeyObject - found ExpansionMerlin<f8c33550>
+SCRIPT       : 00:03:00.261 [EXPANSION DEBUG]: ExpansionCarKey<f78992c0>::GetKeyObject - found OffroadHatchback<19a7f0f0>
+SCRIPT       : 00:03:00.263 [EXPANSION DEBUG]: ExpansionCarKey<be1eae0>::GetKeyObject - found Hatchback_02<19a81b20>
+SCRIPT       : 00:03:00.264 [EXPANSION DEBUG]: ExpansionCarKey<1b7547e0>::GetKeyObject - found ExpansionUtilityBoat<19a7aaa0>
+SCRIPT       : 00:03:00.266 [EXPANSION DEBUG]: ExpansionCarKey<ef924910>::GetKeyObject - found Truck_01_Covered_Blue<19a88ba0>
+SCRIPT       : 00:03:00.266 [EXPANSION DEBUG]: ExpansionCarKey<1001b080>::GetKeyObject - found CrSk_Hummer_H2_6x6<3a67740>
+SCRIPT       : 00:03:00.268 [EXPANSION DEBUG]: ExpansionCarKey<ff62d590>::GetKeyObject - found ExpansionUAZ<3a742b0>
+SCRIPT       : 00:03:00.268 [EXPANSION DEBUG]: ExpansionCarKey<e4bbdc0>::GetKeyObject - found ExpansionMh6<f8c2cf60>
+SCRIPT       : 00:03:00.268 [EXPANSION DEBUG]: ExpansionCarKey<e4b1cc0>::GetKeyObject - found ExpansionGyrocopter<f8c2fb10>
+SCRIPT       : 00:03:00.268 [EXPANSION DEBUG]: ExpansionCarKey<1213f6c0>::GetKeyObject - found CrSk_Hummer_H2_6x6<3a684d0>
+SCRIPT       : 00:03:00.270 [EXPANSION DEBUG]: ExpansionCarKey<f3f10160>::GetKeyObject - found OffroadHatchback<478b23f0>
+SCRIPT       : 00:03:00.272 [EXPANSION DEBUG]: ExpansionCarKey<fb8e0460>::GetKeyObject - found ExpansionMh6<f8c40fc0>
+SCRIPT       : 00:03:00.273 [EXPANSION DEBUG]: ExpansionCarKey<f1161d90>::GetKeyObject - found CrSk_Hummer_H2_6x6<3a6ad80>
+SCRIPT       : 00:03:00.273 [EXPANSION DEBUG]: ExpansionCarKey<1214d420>::GetKeyObject - found ExpansionUtilityBoat<478b15e0>
+SCRIPT       : 00:03:00.274 [EXPANSION DEBUG]: ExpansionCarKey<3ab3e10>::GetKeyObject - found ExpansionUtilityBoat<478b8660>
+SCRIPT       : 00:03:00.274 [EXPANSION DEBUG]: ExpansionCarKey<ebe9f9a0>::GetKeyObject - found ExpansionUtilityBoat<19a7d4d0>
+SCRIPT       : 00:03:00.274 [EXPANSION DEBUG]: ExpansionCarKey<1214fc60>::GetKeyObject - found CrSk_Hummer_H2_6x6<3a684d0>
+SCRIPT       : 00:03:00.276 [EXPANSION DEBUG]: ExpansionCarKey<fdd19fd0>::GetKeyObject - found ExpansionVodnik<19a7ff00>
+SCRIPT       : 00:03:00.276 [EXPANSION DEBUG]: ExpansionCarKey<19c38370>::GetKeyObject - found ExpansionUtilityBoat<19a7d4d0>
+SCRIPT       : 00:03:00.277 [EXPANSION DEBUG]: ExpansionCarKey<c59de40>::GetKeyObject - found ExpansionGyrocopter<f8c36f90>
+SCRIPT       : 00:03:00.277 [EXPANSION DEBUG]: ExpansionCarKey<e67e0450>::GetKeyObject - found ExpansionUtilityBoat<19a899b0>
+SCRIPT       : 00:03:00.279 [EXPANSION DEBUG]: ExpansionCarKey<f1157c90>::GetKeyObject - found CrSk_Hummer_H2_6x6<3a6ad80>
+SCRIPT       : 00:03:00.281 [EXPANSION DEBUG]: ExpansionCarKey<4b0d490>::GetKeyObject - found ExpansionUAZ<3a78680>
+SCRIPT       : 00:03:00.281 [EXPANSION DEBUG]: ExpansionCarKey<f97140b0>::GetKeyObject - found Sedan_02<19a8b5d0>
+SCRIPT       : 00:03:00.283 [EXPANSION DEBUG]: ExpansionCarKey<fbb83000>::GetKeyObject - found Expansion_Landrover<3a6c8a0>
+SCRIPT       : 00:03:00.283 [EXPANSION DEBUG]: ExpansionCarKey<ebd03a30>::GetKeyObject - found Truck_01_Covered<19a7e2e0>
+SCRIPT       : 00:03:00.285 [EXPANSION DEBUG]: ExpansionCarKey<1001ba90>::GetKeyObject - found CrSk_Hummer_H2_6x6<3a67740>
+SCRIPT       : 00:03:00.285 [EXPANSION DEBUG]: ExpansionCarKey<1214ca10>::GetKeyObject - found ExpansionVodnik<478b3200>
+SCRIPT       : 00:03:00.287 [EXPANSION DEBUG]: ExpansionCarKey<4c99a90>::GetKeyObject - found Expansion_Landrover<3a6bb10>
+SCRIPT       : 00:03:00.287 [EXPANSION DEBUG]: ExpansionCarKey<4c917c0>::GetKeyObject - found ExpansionUtilityBoat<19a78e80>
+SCRIPT       : 00:03:00.287 [EXPANSION DEBUG]: ExpansionCarKey<fdd15960>::GetKeyObject - found ExpansionUtilityBoat<19a78e80>
+SCRIPT       : 00:03:00.287 [EXPANSION DEBUG]: ExpansionCarKey<12145b60>::GetKeyObject - found ExpansionGyrocopter<f8c36100>
+SCRIPT       : 00:03:00.287 [EXPANSION DEBUG]: ExpansionCarKey<19c287e0>::GetKeyObject - found Truck_01_Covered<19a7e2e0>
+SCRIPT       : 00:03:00.289 [EXPANSION DEBUG]: ExpansionCarKey<121414f0>::GetKeyObject - found ExpansionGyrocopter<f8c36100>
+SCRIPT       : 00:03:00.289 [EXPANSION DEBUG]: ExpansionCarKey<12146570>::GetKeyObject - found ExpansionVodnik<478b3200>
+SCRIPT       : 00:03:00.290 [EXPANSION DEBUG]: ExpansionCarKey<4b11b00>::GetKeyObject - found ExpansionGyrocopter<f8c3e410>
+SCRIPT       : 00:03:00.291 [EXPANSION DEBUG]: ExpansionCarKey<f8a95500>::GetKeyObject - found Expansion_Landrover<3a6c8a0>
+SCRIPT       : 00:03:00.292 [EXPANSION DEBUG]: ExpansionCarKey<f115b8f0>::GetKeyObject - found CrSk_Hummer_H2_6x6<3a6ad80>
+SCRIPT       : 00:03:00.292 [EXPANSION DEBUG]: ExpansionCarKey<be13fd0>::GetKeyObject - found Hatchback_02<19a81b20>
+SCRIPT       : 00:03:00.292 [EXPANSION DEBUG]: ExpansionCarKey<ff633a30>::GetKeyObject - found ExpansionUAZ<3a742b0>
+SCRIPT       : 00:03:00.294 [EXPANSION DEBUG]: ExpansionCarKey<3ab7060>::GetKeyObject - found ExpansionUAZ<3a78680>
+SCRIPT       : 00:03:00.294 [EXPANSION DEBUG]: ExpansionCarKey<f115a4d0>::GetKeyObject - found CrSk_Hummer_H2_6x6<3a6fee0>
+SCRIPT       : 00:03:00.294 [EXPANSION DEBUG]: ExpansionCarKey<f115aee0>::GetKeyObject - found ExpansionMerlin<f8c33550>
+SCRIPT       : 00:03:00.294 [EXPANSION DEBUG]: ExpansionCarKey<e6df7180>::GetKeyObject - found ExpansionUtilityBoat<19a78e80>
+SCRIPT       : 00:03:00.296 [EXPANSION DEBUG]: ExpansionCarKey<e4b12b0>::GetKeyObject - found ExpansionMerlin<f8c309a0>
+SCRIPT       : 00:03:00.299 [EXPANSION DEBUG]: ExpansionCarKey<1b7551f0>::GetKeyObject - found Truck_01_Covered_Blue<19a88ba0>
+SCRIPT       : 00:03:00.300 [EXPANSION DEBUG]: ExpansionCarKey<51568b0>::GetKeyObject - found ExpansionUtilityBoat<19a84550>
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<36bbb520>
+SCRIPT       : int worth =   10000
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<36bbb840>
+SCRIPT       : int worth =   100
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<36bbd280>
+SCRIPT       : int worth =   10
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<36bbbca0>
+SCRIPT       : int worth =   1
+SCRIPT       : ExpansionZoneCircle<ebcca370> position=<9945.549805, 0.000000, 5359.779785> radius=50
+SCRIPT       : ExpansionZoneCircle<ebcc9950> position=<4291.589844, 0.000000, 4162.500000> radius=130
+SCRIPT       : Found 2 zones!
+SCRIPT       : 00:03:05.484 [EXPANSION DEBUG]: Sedan_02<19a7b8b0>::OnEnterZone <4278.912109, 9.570349, 4190.229980>
+SCRIPT       : 00:03:05.484 [EXPANSION DEBUG]: ExpansionMh6<f8c37e20>::OnEnterZone <4295.515137, 5.862790, 4128.104980>
+SCRIPT       : 00:03:05.484 [EXPANSION DEBUG]: Truck_01_Covered<19a7e2e0>::OnEnterZone <4286.993164, 8.144365, 4179.731445>
+SCRIPT       : 00:03:05.484 [EXPANSION DEBUG]: ExpansionGyrocopter<f8c36100>::OnEnterZone <4317.589844, 4.294119, 4164.459473>
+SCRIPT       : [CP] -> Sucessfully sent: Banderas CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 00:03:31.438 [EXPANSION DEBUG]: ExpansionPartyData<63cd0b50>::OnJoin party BIBO player Banderas (ID 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=)
+SCRIPT       : 00:03:31.438 [EXPANSION DEBUG]: ExpansionPartyData<63cd0b50>::OnJoin - No player quest data!
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: MP5K:036383 - MagazineRepair - RBF_CLO_BU0_MA0<86f62ec0> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: M16A2:036399 - MagazineRepair - RBL_CLO_BU0_MA0<86c6f1b0> - state: 0 != weapon: 1
+SCRIPT       : [CP] -> Sucessfully sent: Casper CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 00:03:59.352 [EXPANSION DEBUG]: ExpansionPartyData<63cce3f0>::OnJoin party pytlak player Casper (ID S9XeA0hkzh0BuQ40IZp9f43dJV0cx5VEKx2whZkh39A=)
+SCRIPT       : 00:03:59.352 [EXPANSION DEBUG]: ExpansionPartyData<63cce3f0>::OnJoin - No player quest data!
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Expansion_AmmoBox_8mm_15rnd:036412 parent=SurvivorM_Denis:025 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammunition_Base<88e70d60> count=15
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Expansion_AmmoBox_8mm_15rnd:036414 parent=SurvivorM_Denis:025 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammunition_Base<88e6a8c0> count=15
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Expansion_AmmoBox_8mm_15rnd:036413 parent=SurvivorM_Denis:025 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammunition_Base<88e77200> count=15
+SCRIPT       : [action] SurvivorM_Denis:025 started ActionGetInTransport<788da910> item=ExpansionCarKey:036461
+SCRIPT       : 00:05:47.165 [EXPANSION DEBUG]: ExpansionUtilityBoat<19a79c90>::ExpansionSetLastDriverUID - S9XeA0hkzh0BuQ40IZp9f43dJV0cx5VEKx2whZkh39A=
+SCRIPT       : 00:05:48.166 [EXPANSION DEBUG]: ExpansionUtilityBoat<19a79c90>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [CP] -> Sucessfully sent: HrabefonVorezprut CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 00:07:25.211 [EXPANSION DEBUG]: ExpansionPartyData<63ccd310>::OnJoin party SRo player HrabefonVorezprut (ID J56CBd6WRzt5c58nX9b986Cp2niBSm4n26sMa8FuFaU=)
+SCRIPT       : 00:07:25.211 [EXPANSION DEBUG]: ExpansionPartyData<63ccd310>::OnJoin - No player quest data!
+SCRIPT       : ExpansionQuestObjectiveTargetEvent<8f820d30>::OnEntityKilled - Killer is out of legit kill range!
+SCRIPT       : 00:08:34.181 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 00:08:34.181 [EXPANSION DEBUG]: ExpansionAirdropContainer 166
+SCRIPT       : 00:08:34.181 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 171
+SCRIPT       : 00:08:34.181 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 176
+SCRIPT       : 00:08:34.181 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military 181
+SCRIPT       : 00:08:34.181 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - map is Chiemsee - size 10240
+SCRIPT       : 00:08:34.181 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <7256.784180, 915.342590, 0.000000>
+SCRIPT       : 00:08:34.184 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 00:08:34.184 [EXPANSION DEBUG]: ExpansionAirdropContainer 246
+SCRIPT       : 00:08:34.184 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 251
+SCRIPT       : 00:08:34.184 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 256
+SCRIPT       : 00:08:34.184 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military 261
+SCRIPT       : 00:08:34.184 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - map is Chiemsee - size 10240
+SCRIPT       : 00:08:34.184 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <10240.000000, 481.105438, 3666.986816>
+SCRIPT       : [action] SurvivorM_Denis:025 started ActionGetOutTransport<788db360> item=ExpansionCarKey:036461
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: M4A1:025599 - MagazineRepair - RBL_CLO_BU0_MA0<92da2170> - state: 0 != weapon: 1
+SCRIPT       : [emote] eAI_SurvivorF_Baty:027 play emote id=10 IH=M4A1:025599
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: PP19:07373 - MagazineRepair - RBF_CLO_BU0_MA0<896ed440> - state: 0 != weapon: 1
+SCRIPT       : [emote] eAI_SurvivorF_Baty:027 play emote id=32 IH=M4A1:025599
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : [emote] eAI_SurvivorF_Baty:027 play emote id=39 IH=M4A1:025599
+SCRIPT       : [emote] eAI_SurvivorF_Baty:027 play emote id=12 IH=M4A1:025599
+SCRIPT       : [emote] eAI_SurvivorF_Baty:027 play emote id=12 IH=M4A1:025599
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=SardinesCan:036209 parent=SurvivorF_Irena:026 }
+SCRIPT       : [emote] eAI_SurvivorF_Baty:027 play emote id=12 IH=M4A1:025599
+SCRIPT       : [emote] eAI_SurvivorF_Baty:027 play emote id=12 IH=M4A1:025599
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : [emote] eAI_SurvivorF_Baty:027 play emote id=39 IH=M4A1:025599
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<993688b0>::CanCountItem - End and return true!
+SCRIPT       : [action] SurvivorM_Denis:025 started ActionGetInTransport<788da910> item=ExpansionCarKey:036461
+SCRIPT       : 00:17:22.997 [EXPANSION DEBUG]: ExpansionUtilityBoat<19a79c90>::ExpansionSetLastDriverUID - S9XeA0hkzh0BuQ40IZp9f43dJV0cx5VEKx2whZkh39A=
+SCRIPT       : 00:17:23.995 [EXPANSION DEBUG]: ExpansionUtilityBoat<19a79c90>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AK74:011644 - MagazineRepair - RBF_CLO_BU0_MA0<8f225e30> - state: 0 != weapon: 1
+SCRIPT       : [CP] -> Sucessfully sent: MaxKulera CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=NailBox:016938 parent=SurvivorM_Cyril:027 }
+SCRIPT       : UnboxLambda::SetupNewItem new_item=Nail<88b7d9c0> count=70
+SCRIPT       : [action] SurvivorM_Denis:025 started ActionGetOutTransport<788db360> item=ExpansionCarKey:036461
+SCRIPT       : [action] SurvivorM_Cyril:027 started ActionGetInTransport<788da910> item=ExpansionCarKey:028011
+SCRIPT       : 00:23:53.199 [EXPANSION DEBUG]: Sedan_02<19a82930>::ExpansionSetLastDriverUID - 5HGJM4GfzznjUOY_lcVWS3zeQvKgWVOcukrVzOvxsYc=
+SCRIPT       : 00:23:54.198 [EXPANSION DEBUG]: Sedan_02<19a82930>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [action] SurvivorM_Cyril:027 started ActionGetOutTransport<788db360> item=ExpansionCarKey:028011
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=NailBox:018437 parent=SurvivorM_Denis:025 }
+SCRIPT       : UnboxLambda::SetupNewItem new_item=Nail<97a3f070> count=70
+SCRIPT       : 00:28:49.097 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeMini<f97154d0> (parent=NULL)
+SCRIPT       : 00:29:34.030 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<1a06e2c0> (parent=CarTent<8b40a660>)
+SCRIPT       : 00:29:44.713 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeLarge<fbb5e860> (parent=NULL)
+SCRIPT       : 00:29:44.951 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<1a06d8b0> (parent=LargeTent<8b406700>)
+SCRIPT       : 00:29:57.800 [EXPANSION DEBUG]: ItemBase::SetUser ExpansionCodeLock<1a06d8b0> (parent=LargeTent<8b406700>)
+SCRIPT       : 00:29:57.800 [EXPANSION DEBUG]: ItemBase::AddUser ExpansionCodeLock<1a06d8b0> (parent=LargeTent<8b406700>) S9XeA0hkzh0BuQ40IZp9f43dJV0cx5VEKx2whZkh39A=
+SCRIPT       : 00:29:57.800 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<1a06d8b0> (parent=LargeTent<8b406700>)
+SCRIPT       : 00:30:25.085 [EXPANSION DEBUG]: ItemBase::SetUser ExpansionCodeLock<1a06e2c0> (parent=CarTent<8b40a660>)
+SCRIPT       : 00:30:25.085 [EXPANSION DEBUG]: ItemBase::AddUser ExpansionCodeLock<1a06e2c0> (parent=CarTent<8b40a660>) S9XeA0hkzh0BuQ40IZp9f43dJV0cx5VEKx2whZkh39A=
+SCRIPT       : 00:30:25.085 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<1a06e2c0> (parent=CarTent<8b40a660>)
+SCRIPT       : [ExpansionAirdropContainerManager] Container at <8188.238281, 19.382376, 4341.822266> was deleted
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ~ExpansionAirdropContainerManager
+SCRIPT       : ExpansionQuestObjectiveTargetEvent<8f820d30>::OnEntityKilled - Killer is out of legit kill range!
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetInTransport<788da910> item=null
+SCRIPT       : 00:33:09.009 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionSetLastDriverUID - 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=
+SCRIPT       : 00:33:10.010 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetOutTransport<788db360> item=null
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetInTransport<788da910> item=null
+SCRIPT       : 00:34:11.252 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionSetLastDriverUID - 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=
+SCRIPT       : 00:34:12.252 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : 00:35:27.750 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<f8eefa70> (parent=LargeTent<f8eb6380>)
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: MakarovIJ70:032695 - MagazineRepair - Pistol_CLO_DIS_BU0_MA0<165ae6e0> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: MakarovIJ70:08353 - MagazineRepair - Pistol_CLO_DIS_BU0_MA0<9cb3cf10> - state: 0 != weapon: 1
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetOutTransport<788db360> item=null
+SCRIPT       : [emote] eAI_SurvivorM_Oliver:024 play emote id=10 IH=M16A2:036399
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AKM:024464 - MagazineRepair - RBF_CLO_BU0_MA0<9cb334f0> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: FAL:028445 - MagazineRepair - RBL_CLO_BU0_MA0<9c9a8470> - state: 0 != weapon: 1
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT       : 00:37:53.777 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created M16A2:025130 at location { type=GROUND item=null pos=(4799.31, 3.94154, 6221.47) dir=(0, 0, 0, 1) }
+SCRIPT       : 00:37:53.779 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_STANAG_30Rnd:027448 at location { type=ATTACHMENT item=Mag_STANAG_30Rnd:036400 parent=M16A2:025130 slot=magazine }
+SCRIPT       : 00:38:07.013 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created M16A2:031692 at location { type=HANDS item=M16A2:025130 parent=eAI_SurvivorM_Oliver:024 }
+SCRIPT       : 00:38:07.015 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_STANAG_30Rnd:07899 at location { type=ATTACHMENT item=Mag_STANAG_30Rnd:027448 parent=M16A2:031692 slot=magazine }
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : [CP] -> Sucessfully sent: HotSHOTTzz CP Plus Config!
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetInTransport<788da910> item=null
+SCRIPT       : 00:42:24.237 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionSetLastDriverUID - 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=
+SCRIPT       : 00:42:25.238 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : ExpansionQuestObjectiveTargetEvent<8f820d30>::OnEntityKilled - Killer is out of legit kill range!
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetOutTransport<788db360> item=null
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetInTransport<788da910> item=null
+SCRIPT       : 00:46:26.479 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionSetLastDriverUID - 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=
+SCRIPT       : 00:46:27.478 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: MakarovIJ70:031544 - MagazineRepair - Pistol_CLO_DIS_BU0_MA0<985b90b0> - state: 0 != weapon: 1
+SCRIPT       : ExpansionQuestObjectiveTargetEvent<8f820d30>::OnEntityKilled - Killer is out of legit kill range!
+SCRIPT       : ExpansionQuestObjectiveTargetEvent<8f820d30>::OnEntityKilled - Killer is out of legit kill range!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=NailBox:036792 parent=SurvivorM_Cyril:027 }
+SCRIPT       : UnboxLambda::SetupNewItem new_item=Nail<9ef660b0> count=70
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetOutTransport<788db360> item=null
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetInTransport<788da910> item=null
+SCRIPT       : 00:51:13.343 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionSetLastDriverUID - 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_556x45_20Rnd:036687 parent=SurvivorM_Denis:025 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_556x45<a961f810> count=20
+SCRIPT       : 00:51:14.352 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: CZ61:029331 - MagazineRepair - RBL_CLO_BU0_MA0<8f1880e0> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: MP5K:032572 - MagazineRepair - RBF_CLO_BU0_MA0<a9afbf40> - state: 0 != weapon: 1
+SCRIPT       : [Logout]: New player ttijgGaAwhUXLPRRjcA2kxgrKM526-hl8GMd6rFIprE= with logout time 15
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: FAMAS:026176 - MagazineRepair - RBF_CLO_BU0_MA0<9d5c6650> - state: 0 != weapon: 1
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : 00:56:36.472 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Aug:031974 at location { type=ATTACHMENT item=Aug:011786 parent=eAI_SurvivorM_Niki:029 slot=Shoulder }
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : [Logout]: Player ttijgGaAwhUXLPRRjcA2kxgrKM526-hl8GMd6rFIprE= finished
+SCRIPT       : [CP] -> Sucessfully sent: HotSHOTTzz CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=TWP_AmmoBox_500SW_15Rnd:036533 parent=SurvivorF_Irena:026 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=TWP_Ammo_500SW_Mag<a9dd7620> count=15
+SCRIPT       : [Logout]: New player ttijgGaAwhUXLPRRjcA2kxgrKM526-hl8GMd6rFIprE= with logout time 15
+SCRIPT       : [Logout]: Player ttijgGaAwhUXLPRRjcA2kxgrKM526-hl8GMd6rFIprE= finished
+SCRIPT       : [action] SurvivorM_Denis:025 started ActionGetInTransport<788da910> item=ExpansionCarKey:036461
+SCRIPT       : 00:59:08.119 [EXPANSION DEBUG]: ExpansionUtilityBoat<19a79c90>::ExpansionSetLastDriverUID - S9XeA0hkzh0BuQ40IZp9f43dJV0cx5VEKx2whZkh39A=
+SCRIPT       : 00:59:09.119 [EXPANSION DEBUG]: ExpansionUtilityBoat<19a79c90>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [CP] -> Sucessfully sent: HotSHOTTzz CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetOutTransport<788db360> item=null
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: MakarovIJ70:025827 - MagazineRepair - Pistol_CLO_DIS_BU0_MA0<9ec016c0> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: MP5K:030789 - MagazineRepair - RBF_CLO_BU0_MA0<12c2da0> - state: 0 != weapon: 1
+SCRIPT       : [emote] SurvivorF_Irena:026 play emote id=14 IH=null
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetInTransport<788da910> item=null
+SCRIPT       : 01:00:13.827 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionSetLastDriverUID - 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=
+SCRIPT       : 01:00:14.827 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetOutTransport<788db360> item=null
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: MakarovIJ70:028410 - MagazineRepair - Pistol_CLO_DIS_BU0_MA0<90d88210> - state: 0 != weapon: 1
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetInTransport<788da910> item=null
+SCRIPT       : 01:01:04.534 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionSetLastDriverUID - 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=
+SCRIPT       : 01:01:05.534 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetOutTransport<788db360> item=null
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetInTransport<788da910> item=null
+SCRIPT       : 01:01:21.183 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionSetLastDriverUID - 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=
+SCRIPT       : 01:01:22.187 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [action] SurvivorM_Denis:025 started ActionGetOutTransport<788db360> item=ExpansionCarKey:036461
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetOutTransport<788db360> item=null
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:028746 parent=SurvivorM_Cyril:027 }
+SCRIPT       : 01:02:25.546 [~EXTRACE] 0.1395ms SurvivorBase<8184e6e0> ZmbF_HikerSkinny_Base<9c720250> ExpansionKillFeedModule<a6cf99a0>::OnPlayerKilled() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\killfeed\expansionkillfeedmodule.c : 244
+SCRIPT       : [Logout]: New player 5HGJM4GfzznjUOY_lcVWS3zeQvKgWVOcukrVzOvxsYc= with logout time 15
+SCRIPT       : [emote] SurvivorM_Cyril:027 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player 5HGJM4GfzznjUOY_lcVWS3zeQvKgWVOcukrVzOvxsYc= cancelled
+SCRIPT       :   COTModule::OnClientLogoutCancelled - 5HGJM4GfzznjUOY_lcVWS3zeQvKgWVOcukrVzOvxsYc=
+SCRIPT       : [Logout]: New player 5HGJM4GfzznjUOY_lcVWS3zeQvKgWVOcukrVzOvxsYc= with logout time 15
+SCRIPT       : [emote] SurvivorM_Cyril:027 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player 5HGJM4GfzznjUOY_lcVWS3zeQvKgWVOcukrVzOvxsYc= finished
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : [CP] -> Sucessfully sent: Karver Snow CP Plus Config!
+SCRIPT       : [emote] SurvivorM_Denis:022 play emote id=1 IH=null
+SCRIPT       : [emote] SurvivorM_Elias:023 play emote id=1 IH=null
+SCRIPT       : [action] SurvivorM_Denis:025 started ActionGetInTransport<788da910> item=ExpansionCarKey:036461
+SCRIPT       : 01:04:34.286 [EXPANSION DEBUG]: ExpansionUtilityBoat<19a79c90>::ExpansionSetLastDriverUID - S9XeA0hkzh0BuQ40IZp9f43dJV0cx5VEKx2whZkh39A=
+SCRIPT       : 01:04:35.288 [EXPANSION DEBUG]: ExpansionUtilityBoat<19a79c90>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 01:05:49.135 [EXPANSION DEBUG]: ExpansionCarKey<8583e3c0>::GetKeyObject - found ExpansionUtilityBoat<478b4e20>
+SCRIPT       : 01:05:49.135 [EXPANSION DEBUG]: ExpansionCarKey<85839d50>::GetKeyObject - found Sedan_02<19a8b5d0>
+SCRIPT       : [action] SurvivorM_Denis:025 started ActionGetOutTransport<788db360> item=ExpansionCarKey:036461
+SCRIPT       : 01:07:31.520 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<1a06d8b0> (parent=LargeTent<8b406700>)
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : [CP] -> Sucessfully sent: Kocur69 CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 01:08:08.209 [EXPANSION DEBUG]: SurvivorBase<8d894110>::OnEnterSafeZone
+SCRIPT       : bool m_Expansion_LeavingSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZoneSynchRemote = 0
+SCRIPT       : 01:08:08.210 [EXPANSION DEBUG]: ExpansionPartyData<63cce170>::OnJoin party Kocurovci player Kocur69 (ID iTnQj5Zddd6ul6ie1MZ58a6IghppA2N8HvFffg9SNWw=)
+SCRIPT       : 01:08:08.210 [EXPANSION DEBUG]: ExpansionPartyData<63cce170>::OnJoin - No player quest data!
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: Scout:09463 - MagazineRepair - BAREM_CLO_BU0_MA0<ad0d5460> - state: 0 != weapon: 1
+SCRIPT       : 01:08:09.539 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Aug:036662 at location { type=ATTACHMENT item=Aug:08672 parent=eAI_SurvivorF_Irena:031 slot=Shoulder }
+SCRIPT       : 01:08:14.636 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Expansion_Kar98_Bayonet:036659 at location { type=HANDS item=Expansion_Kar98_Bayonet:024529 parent=eAI_SurvivorF_Irena:031 }
+SCRIPT       : [emote] eAI_SurvivorF_Irena:031 play emote id=12 IH=Expansion_Kar98_Bayonet:036659
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetInTransport<788da910> item=null
+SCRIPT       : 01:08:41.928 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionSetLastDriverUID - 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=
+SCRIPT       : 01:08:42.928 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AKS74U:035989 - MagazineRepair - RBF_CLO_BU0_MA0<ac8f6860> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AK101:022592 - MagazineRepair - RBF_CLO_BU0_MA0<ac903460> - state: 0 != weapon: 1
+SCRIPT       : 01:09:36.763 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<1a06e2c0> (parent=CarTent<8b40a660>)
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetOutTransport<788db360> item=null
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=TunaCan:036435 parent=SurvivorM_Denis:025 }
+SCRIPT       : [Logout]: New player KUjW4FaZxya-1F_d_UMpuwdLGstATDT8XB53veCKG4M= with logout time 15
+SCRIPT       : [emote] SurvivorF_Irena:027 play emote id=14 IH=null
+SCRIPT       : 01:11:18.735 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeMedium<6a0e1e0> (parent=NULL)
+SCRIPT       : [Logout]: Player KUjW4FaZxya-1F_d_UMpuwdLGstATDT8XB53veCKG4M= finished
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : [Logout]: New player ttijgGaAwhUXLPRRjcA2kxgrKM526-hl8GMd6rFIprE= with logout time 15
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetInTransport<788da910> item=null
+SCRIPT       : 01:13:15.411 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionSetLastDriverUID - 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=
+SCRIPT       : 01:13:16.410 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [Logout]: Player ttijgGaAwhUXLPRRjcA2kxgrKM526-hl8GMd6rFIprE= finished
+SCRIPT       : [emote] SurvivorM_Denis:025 play emote id=14 IH=null
+SCRIPT       : [emote] SurvivorF_Irena:026 play emote id=14 IH=null
+SCRIPT       : [emote] SurvivorF_Irena:026 play emote id=14 IH=null
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: CZ61:029695 - MagazineRepair - RBL_CLO_BU0_MA0<978c50e0> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: SVD:032833 - MagazineRepair - RBL_CLO_BU0_MA0<ac9ffc40> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AK74:033170 - MagazineRepair - RBF_CLO_BU0_MA0<f7d8bb70> - state: 0 != weapon: 1
+SCRIPT       : [Logout]: New player J56CBd6WRzt5c58nX9b986Cp2niBSm4n26sMa8FuFaU= with logout time 15
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : [Logout]: Player J56CBd6WRzt5c58nX9b986Cp2niBSm4n26sMa8FuFaU= finished
+SCRIPT       : [CP] -> Sucessfully sent: HrabefonVorezprut CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 01:18:50.229 [EXPANSION DEBUG]: ExpansionPartyData<63ccd310>::OnJoin party SRo player HrabefonVorezprut (ID J56CBd6WRzt5c58nX9b986Cp2niBSm4n26sMa8FuFaU=)
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetOutTransport<788db360> item=null
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetInTransport<788da910> item=null
+SCRIPT       : 01:19:29.692 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionSetLastDriverUID - 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=
+SCRIPT       : 01:19:30.691 [EXPANSION DEBUG]: Sedan_02<19a8b5d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : [action] SurvivorM_Denis:022 started ActionGetOutTransport<788db360> item=null
+SCRIPT       : [Logout]: New player J56CBd6WRzt5c58nX9b986Cp2niBSm4n26sMa8FuFaU= with logout time 15
+SCRIPT       : [emote] SurvivorF_Irena:034 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player J56CBd6WRzt5c58nX9b986Cp2niBSm4n26sMa8FuFaU= finished
+SCRIPT       : [Logout]: New player S9XeA0hkzh0BuQ40IZp9f43dJV0cx5VEKx2whZkh39A= with logout time 15
+SCRIPT       : [emote] SurvivorM_Denis:025 play emote id=14 IH=null
+SCRIPT       : 01:20:58.793 [EXPANSION DEBUG]: ExpansionPartyData<63cce3f0>::OnLeave party pytlak player Casper (ID S9XeA0hkzh0BuQ40IZp9f43dJV0cx5VEKx2whZkh39A=)
+SCRIPT       : [Logout]: Player S9XeA0hkzh0BuQ40IZp9f43dJV0cx5VEKx2whZkh39A= finished
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 01:20:59.835 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'expansion_ammo_taser' does not exist!
+SCRIPT       : [ExpansionAirdropContainerManager] Container at <4165.181641, 33.719044, 2618.717529> was deleted
+SCRIPT       : ~ExpansionAirdropContainerManager
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 01:22:13.592 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'expansion_ammo_taser' does not exist!
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 01:24:30.328 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.329 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.329 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.329 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.330 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.330 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.330 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.330 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.331 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.331 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.331 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.332 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.332 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.332 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.333 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.333 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.334 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.334 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.334 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.334 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.335 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.335 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.335 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : 01:24:30.335 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'f35c_patch_f35_fabric' does not exist!
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=BakedBeansCan:035867 parent=SurvivorM_Denis:022 }
+SCRIPT       : RemoveMoney - Start
+SCRIPT       : RemoveMoney - Removed 14 from ExpansionGoldNugget<9c6821a0>
+SCRIPT       : RemoveMoney - Removed 34 from ExpansionSilverBar<9c689a60>
+SCRIPT       : RemoveMoney - Removed 33 from ExpansionSilverNugget<9c682bb0>
+SCRIPT       : RemoveMoney - Removed 7 from ExpansionSilverNugget<9c6835c0>
+SCRIPT       : RemoveMoney - Removed 5 from ExpansionSilverBar<9c689050>
+SCRIPT       : RemoveMoney - End
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : 01:26:42.405 [EXPANSION DEBUG]: SurvivorBase<8d894110>::OnEnterSafeZone
+SCRIPT       : bool m_Expansion_LeavingSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZoneSynchRemote = 0
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : RemoveMoney - Start
+SCRIPT       : RemoveMoney - Removed 28 from ExpansionGoldNugget<8844bab0>
+SCRIPT       : RemoveMoney - Removed 30 from ExpansionGoldNugget<88444c00>
+SCRIPT       : RemoveMoney - Removed 5 from ExpansionSilverBar<88449c80>
+SCRIPT       : RemoveMoney - Removed 1 from ExpansionSilverNugget<88446020>
+SCRIPT       : RemoveMoney - End
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: FAMAS:017685 - MagazineRepair - RBF_CLO_BU0_MA0<8f4830f0> - state: 0 != weapon: 1
+SCRIPT       : [action] SurvivorF_Linda:024 started ActionGetInTransport<788da910> item=ExpansionCarKey:036343
+SCRIPT       : 01:28:57.050 [EXPANSION DEBUG]: ExpansionUtilityBoat<19a7d4d0>::ExpansionSetLastDriverUID - iTnQj5Zddd6ul6ie1MZ58a6IghppA2N8HvFffg9SNWw=
+SCRIPT       : 01:28:58.052 [EXPANSION DEBUG]: ExpansionUtilityBoat<19a7d4d0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : 01:30:01.962 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 01:30:01.962 [EXPANSION DEBUG]: ExpansionAirdropContainer 146
+SCRIPT       : 01:30:01.962 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 151
+SCRIPT       : 01:30:01.962 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 156
+SCRIPT       : 01:30:01.962 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military 161
+SCRIPT       : 01:30:01.962 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - map is Chiemsee - size 10240
+SCRIPT       : 01:30:01.962 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <8701.828125, 524.869995, 10240.000000>
+SCRIPT       : 01:30:01.964 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - map is Chiemsee - size 10240
+SCRIPT       : 01:30:01.965 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <6647.390137, 856.281250, 0.000000>
+SCRIPT       : [emote] eAI_SurvivorM_Denis:026 play emote id=10 IH=FAMAS:017685
+SCRIPT       : [emote] eAI_SurvivorM_Denis:026 play emote id=8 IH=FAMAS:017685
+SCRIPT       : [emote] eAI_SurvivorM_Denis:026 play emote id=12 IH=FAMAS:017685
+SCRIPT       : [action] SurvivorF_Linda:024 started ActionGetOutTransport<788db360> item=ExpansionCarKey:036343
+SCRIPT       : [emote] eAI_SurvivorM_Denis:026 play emote id=10 IH=FAMAS:017685
+SCRIPT       : 01:31:08.681 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<89bb6f0> (parent=ExpansionWallBase<7209220>)
+SCRIPT       : 01:31:47.336 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeMini<858aae0> (parent=NULL)
+SCRIPT       : [emote] eAI_SurvivorM_Denis:026 play emote id=12 IH=FAMAS:017685
+SCRIPT       : 01:32:56.664 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeMini<8574ab0> (parent=NULL)
+SCRIPT       : [emote] eAI_SurvivorM_Denis:026 play emote id=8 IH=FAMAS:017685
+SCRIPT       : 01:33:58.277 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeMini<89dea70> (parent=NULL)
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT       : 01:34:40.197 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created FAMAS:08053 at location { type=GROUND item=null pos=(10055.7, 6.33852, 7423.2) dir=(0, 0, 0, 1) }
+SCRIPT       : 01:34:40.198 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_FAMAS_25Rnd:022363 at location { type=ATTACHMENT item=Mag_FAMAS_25Rnd:026083 parent=FAMAS:08053 slot=magazine }
+SCRIPT       : 01:34:57.163 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created FAMAS:022476 at location { type=HANDS item=FAMAS:08053 parent=eAI_SurvivorM_Denis:026 }
+SCRIPT       : 01:34:57.165 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_FAMAS_25Rnd:08946 at location { type=ATTACHMENT item=Mag_FAMAS_25Rnd:022363 parent=FAMAS:022476 slot=magazine }
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : 01:35:44.280 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeLarge<8318be0> (parent=NULL)
+SCRIPT       : 01:35:44.363 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeLarge<72600e0> (parent=NULL)
+SCRIPT       : [CP] -> Sucessfully sent: Agapito CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [wpnfsm] TWP_OTSGrosa:00 { jammed bullet nomag
+SCRIPT       : 01:36:23.418 [EXPANSION DEBUG]: ExpansionPartyData<63cce490>::OnJoin party TBW player Agapito (ID Kp552-DUmpXjFmzRHkPAo19gGBC4gSvKLPksgSQ_nac=)
+SCRIPT       : 01:36:23.419 [EXPANSION DEBUG]: ExpansionPartyData<63cce490>::OnJoin - No player quest data!
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: SVD:014923 - MagazineRepair - RBL_CLO_BU0_MA0<b231c890> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: PP19:025280 - MagazineRepair - RBF_CLO_BU0_MA0<b1ea3320> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: SVD:019714 - MagazineRepair - RBL_CLO_BU0_MA0<b1eb0400> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: SVD:029488 - MagazineRepair - RBL_CLO_BU0_MA0<b1ebdb10> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AK101:036499 - MagazineRepair - RBF_CLO_BU0_MA0<b1b2f8a0> - state: 0 != weapon: 1
+SCRIPT       : 01:36:24.468 [EXTRACE] eAI_SurvivorM_Boris<8e69bef0> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: FAL:036481 - MagazineRepair - RBL_CLO_BU0_MA0<b1b7fe30> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AK74:036455 - MagazineRepair - RBF_CLO_BU0_MA0<b1b6ee50> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AKS74U:036442 - MagazineRepair - RBF_CLO_BU0_MA0<b178f3b0> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AK74:036420 - MagazineRepair - RBF_CLO_BU0_MA0<b177b910> - state: 0 != weapon: 1
+SCRIPT       : 01:36:24.623 [EXTRACE] eAI_SurvivorM_Quinn<939f60b0> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : 01:36:24.625 [EXTRACE] eAI_SurvivorF_Keiko<95554d40> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : 01:36:24.626 [EXTRACE] eAI_SurvivorM_Rolf<92d11e70> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : 01:36:24.733 [EXTRACE] eAI_SurvivorM_Oliver<d04aaa60> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : 01:36:24.741 [EXTRACE] eAI_SurvivorM_Elias<b17bf020> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : [Logout]: New player Kp552-DUmpXjFmzRHkPAo19gGBC4gSvKLPksgSQ_nac= with logout time 15
+SCRIPT       : [emote] SurvivorM_Jose:029 play emote id=14 IH=null
+SCRIPT       : 01:37:56.576 [EXPANSION DEBUG]: ExpansionPartyData<63cce490>::OnLeave party TBW player Agapito (ID Kp552-DUmpXjFmzRHkPAo19gGBC4gSvKLPksgSQ_nac=)
+SCRIPT       : [Logout]: Player Kp552-DUmpXjFmzRHkPAo19gGBC4gSvKLPksgSQ_nac= finished
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : 01:40:35.727 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeMini<865e6e0> (parent=NULL)
+SCRIPT       : 01:40:38.115 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<87eaa60> (parent=ExpansionWallBase<72067e0>)
+SCRIPT       : [CP] -> Sucessfully sent: Agapito CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [wpnfsm] TWP_OTSGrosa:00 { jammed bullet nomag
+SCRIPT       : 01:44:09.455 [EXPANSION DEBUG]: ExpansionPartyData<63cce490>::OnJoin party TBW player Agapito (ID Kp552-DUmpXjFmzRHkPAo19gGBC4gSvKLPksgSQ_nac=)
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AKS74U:014630 - MagazineRepair - RBF_CLO_BU0_MA0<1287f7d0> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: FAL:034931 - MagazineRepair - RBL_CLO_BU0_MA0<b1e53170> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: PP19:034914 - MagazineRepair - RBF_CLO_BU0_MA0<e17a1ae0> - state: 0 != weapon: 1
+SCRIPT       : 01:44:09.830 [EXTRACE] eAI_SurvivorM_Elias<9f813010> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : 01:44:10.224 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AKM:017900 at location { type=GROUND item=null pos=(7923.69, 1.98251, 3641.92) dir=(0, 0, 0, 1) }
+SCRIPT       : 01:44:10.225 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AK_FoldingBttstck:021827 at location { type=ATTACHMENT item=AK_FoldingBttstck:026177 parent=AKM:017900 slot=weaponButtstockAK }
+SCRIPT       : 01:44:10.227 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AK_PlasticHndgrd:013337 at location { type=ATTACHMENT item=AK_PlasticHndgrd:07284 parent=AKM:017900 slot=weaponHandguardAK }
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: PP19:036451 - MagazineRepair - RBF_CLO_BU0_MA0<db2dab50> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AK74:025739 - MagazineRepair - RBF_CLO_BU0_MA0<b41f2eb0> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AK74:017483 - MagazineRepair - RBF_CLO_BU0_MA0<b4208630> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AK101:036488 - MagazineRepair - RBF_CLO_BU0_MA0<b428d2e0> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AKS74U:036477 - MagazineRepair - RBF_CLO_BU0_MA0<b427b940> - state: 0 != weapon: 1
+SCRIPT       : 01:44:14.508 [EXTRACE] eAI_SurvivorM_Seth<b4221020> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : 01:44:14.624 [EXTRACE] eAI_SurvivorF_Eva<b3f8f020> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : 01:44:14.716 [EXTRACE] eAI_SurvivorF_Frida<b3a3f080> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : [Logout]: New player iTnQj5Zddd6ul6ie1MZ58a6IghppA2N8HvFffg9SNWw= with logout time 15
+SCRIPT       : [emote] SurvivorF_Linda:024 play emote id=14 IH=ExpansionCarKey:036343
+SCRIPT       : [wpnfsm] TWP_OTSGrosa:036671 { jammed bullet nomag
+SCRIPT       : 01:45:06.378 [EXPANSION DEBUG]: ExpansionPartyData<63cce170>::OnLeave party Kocurovci player Kocur69 (ID iTnQj5Zddd6ul6ie1MZ58a6IghppA2N8HvFffg9SNWw=)
+SCRIPT       : [Logout]: Player iTnQj5Zddd6ul6ie1MZ58a6IghppA2N8HvFffg9SNWw= finished
+SCRIPT       : [wpnfsm] TWP_OTSGrosa:036671 { jammed bullet nomag
+SCRIPT       : [wpnfsm] TWP_OTSGrosa:036671 { jammed bullet nomag
+SCRIPT       : [wpnfsm] TWP_OTSGrosa:036671 { jammed bullet nomag
+SCRIPT       : [ExpansionAirdropContainerManager] Container at <5679.586914, 3.223804, 8977.291016> was deleted
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ~ExpansionAirdropContainerManager
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : 01:59:07.723 [EXPANSION DEBUG]: SurvivorBase<8183e6a0>::OnEnterSafeZone
+SCRIPT       : bool m_Expansion_LeavingSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZoneSynchRemote = 0
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 02:01:07.411 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugShort:020134 at location { type=ATTACHMENT item=AugShort:013387 parent=eAI_SurvivorM_Niki:024 slot=Shoulder }
+SCRIPT       : 02:01:07.413 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugOptic:019583 at location { type=ATTACHMENT item=AugOptic:016738 parent=AugShort:020134 slot=weaponOpticsAug }
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 02:04:51.276 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeMini<c59f260> (parent=NULL)
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 02:09:10.034 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionSafeLarge<aaf9860> (parent=NULL)
+SCRIPT       : RemoveMoney - Start
+SCRIPT       : RemoveMoney - Removed 92 from ExpansionGoldNugget<a935bba0>
+SCRIPT       : RemoveMoney - Removed 6 from ExpansionGoldBar<b1618760>
+SCRIPT       : RemoveMoney - End
+SCRIPT       : [wpnfsm] TWP_OTSGrosa:036671 { jammed bullet nomag
+SCRIPT       : [wpnfsm] TWP_OTSGrosa:036671 { jammed bullet nomag
+SCRIPT       : [wpnfsm] TWP_OTSGrosa:036671 { jammed bullet nomag
+SCRIPT       : [wpnfsm] TWP_OTSGrosa:036671 { jammed bullet nomag
+SCRIPT       : [wpnfsm] TWP_OTSGrosa:036671 { jammed bullet nomag
+SCRIPT       : [Logout]: New player 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ= with logout time 15
+SCRIPT       : 02:22:46.485 [EXPANSION DEBUG]: ExpansionPartyData<63cd0b50>::OnLeave party BIBO player Banderas (ID 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=)
+SCRIPT       : [Logout]: Player 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ= finished
+SCRIPT       : [CP] -> Sucessfully sent: Banderas CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 02:23:17.580 [EXPANSION DEBUG]: ExpansionPartyData<63cd0b50>::OnJoin party BIBO player Banderas (ID 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=)
+SCRIPT       : [Logout]: New player 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ= with logout time 15
+SCRIPT       : 02:27:31.115 [EXPANSION DEBUG]: ExpansionPartyData<63cd0b50>::OnLeave party BIBO player Banderas (ID 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=)
+SCRIPT       : [Logout]: Player 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ= finished
+SCRIPT       : [CP] -> Sucessfully sent: Banderas CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 02:29:45.839 [EXPANSION DEBUG]: ExpansionPartyData<63cd0b50>::OnJoin party BIBO player Banderas (ID 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ=)
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AKM:016965 - MagazineRepair - RBF_CLO_BU0_MA0<bb38aad0> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AKS74U:036276 - MagazineRepair - RBF_CLO_BU0_MA0<bb398750> - state: 0 != weapon: 1
+SCRIPT       : 02:29:59.619 [EXTRACE] eAI_SurvivorM_Denis<adb57f30> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : [Logout]: New player 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ= with logout time 15
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : [Logout]: Player 4J1ZKcwA-26L3HgU5BJNo7WcyuiqX0LXnszrWFv9hmQ= finished
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: SVD:025043 - MagazineRepair - RBL_CLO_BU0_MA0<90e6c90> - state: 0 != weapon: 1
+SCRIPT       : [emote] eAI_SurvivorM_Francis:033 play emote id=32 IH=SVD:025043
+SCRIPT       : [emote] eAI_SurvivorM_Francis:033 play emote id=39 IH=SVD:025043
+SCRIPT       : [emote] eAI_SurvivorM_Francis:033 play emote id=39 IH=SVD:025043
+SCRIPT       : 02:42:55.492 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created SVD:028763 at location { type=ATTACHMENT item=SVD:025043 parent=eAI_SurvivorM_Francis:033 slot=Shoulder }
+SCRIPT       : 02:42:55.493 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_SVD_10Rnd:07318 at location { type=ATTACHMENT item=Mag_SVD_10Rnd:030848 parent=SVD:028763 slot=magazine }
+SCRIPT       : 02:42:55.530 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created SVD:010165 at location { type=HANDS item=SVD:028763 parent=eAI_SurvivorM_Francis:033 }
+SCRIPT       : 02:42:55.531 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_SVD_10Rnd:025043 at location { type=ATTACHMENT item=Mag_SVD_10Rnd:07318 parent=SVD:010165 slot=magazine }
+SCRIPT       : [emote] eAI_SurvivorM_Francis:033 play emote id=39 IH=SVD:010165
+SCRIPT       : [emote] eAI_SurvivorM_Francis:033 play emote id=12 IH=SVD:010165
+SCRIPT       : [emote] eAI_SurvivorM_Francis:033 play emote id=8 IH=SVD:010165
+SCRIPT       : 02:46:01.863 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 02:46:01.863 [EXPANSION DEBUG]: ExpansionAirdropContainer 66
+SCRIPT       : 02:46:01.863 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 71
+SCRIPT       : 02:46:01.863 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 76
+SCRIPT       : 02:46:01.863 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military 81
+SCRIPT       : 02:46:01.864 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - map is Chiemsee - size 10240
+SCRIPT       : 02:46:01.864 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <10240.000000, 467.822998, 2704.145020>
+SCRIPT       : [emote] eAI_SurvivorM_Francis:033 play emote id=8 IH=SVD:010165
+SCRIPT       : 02:51:16.858 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<e49f8f0> (parent=ExpansionWallBase<e392f80>)
+SCRIPT       : 02:53:37.761 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<f7b1cd0> (parent=ExpansionWallBase<e3a4220>)
+SCRIPT       : 02:53:51.148 [EXPANSION DEBUG]: ItemBase::SendKnownUIDs ExpansionCodeLock<fab5bf0> (parent=ExpansionWallBase<e3b1560>)
+SCRIPT       : [emote] eAI_SurvivorM_Francis:033 play emote id=8 IH=SVD:010165
+SCRIPT       : [emote] eAI_SurvivorM_Francis:033 play emote id=10 IH=SVD:010165
+SCRIPT    (E): NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+SCRIPT       : 02:55:45.292 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created SVD:023325 at location { type=GROUND item=null pos=(8175.21, 11.5517, 714.954) dir=(0, 0, 0, 1) }
+SCRIPT       : 02:55:45.294 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_SVD_10Rnd:06791 at location { type=ATTACHMENT item=Mag_SVD_10Rnd:025043 parent=SVD:023325 slot=magazine }
+SCRIPT       : 02:56:02.261 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created SVD:026898 at location { type=HANDS item=SVD:023325 parent=eAI_SurvivorM_Francis:033 }
+SCRIPT       : 02:56:02.262 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_SVD_10Rnd:029296 at location { type=ATTACHMENT item=Mag_SVD_10Rnd:06791 parent=SVD:026898 slot=magazine }
+SCRIPT       : 02:56:42.892 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created SVD:016696 at location { type=GROUND item=null pos=(8100.62, 15.5429, 718.233) dir=(0, 0, 0, 1) }
+SCRIPT       : 02:56:42.894 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_SVD_10Rnd:07030 at location { type=ATTACHMENT item=Mag_SVD_10Rnd:029296 parent=SVD:016696 slot=magazine }
+SCRIPT       : 02:57:38.262 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created SVD:017473 at location { type=HANDS item=SVD:016696 parent=eAI_SurvivorM_Francis:033 }
+SCRIPT       : 02:57:38.263 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_SVD_10Rnd:018178 at location { type=ATTACHMENT item=Mag_SVD_10Rnd:07030 parent=SVD:017473 slot=magazine }
+SCRIPT       : 02:57:52.761 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created SVD:025248 at location { type=GROUND item=null pos=(8100.38, 15.4444, 720.226) dir=(0, 0, 0, 1) }
+SCRIPT       : 02:57:52.762 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_SVD_10Rnd:033547 at location { type=ATTACHMENT item=Mag_SVD_10Rnd:018178 parent=SVD:025248 slot=magazine }
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : [ExpansionAirdropContainerManager] Container at <6206.185059, 32.438026, 8539.931641> was deleted
+SCRIPT       : ~ExpansionAirdropContainerManager
+SCRIPT       : [ExpansionAirdropContainerManager] Container at <9045.532227, 45.042809, 9308.108398> was deleted
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ~ExpansionAirdropContainerManager
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=TWP_AmmoBox_30Carbine_30Rnd:029213 parent=SurvivorM_Jose:029 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=TWP_Ammo_30Carbine<1653a670> count=30
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x39_20Rnd:028547 parent=SurvivorM_Jose:029 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_762x39<c897960> count=20
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=TWP_AmmoBox_30Carbine_30Rnd:028927 parent=SurvivorM_Jose:029 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=TWP_Ammo_30Carbine<ab03960> count=30
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_556x45Tracer_20Rnd:028624 parent=SurvivorM_Jose:029 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_556x45Tracer<ab102a0> count=20
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=TWP_AmmoBox_46x30_30Rnd:028354 parent=SurvivorM_Jose:029 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=TWP_Ammo_46x30<84afd00> count=30
+SCRIPT       : [Logout]: New player Kp552-DUmpXjFmzRHkPAo19gGBC4gSvKLPksgSQ_nac= with logout time 15
+SCRIPT       : [emote] SurvivorM_Jose:029 play emote id=14 IH=AK101:030787
+SCRIPT       : 03:29:15.084 [EXPANSION DEBUG]: ExpansionPartyData<63cce490>::OnLeave party TBW player Agapito (ID Kp552-DUmpXjFmzRHkPAo19gGBC4gSvKLPksgSQ_nac=)
+SCRIPT       : [Logout]: Player Kp552-DUmpXjFmzRHkPAo19gGBC4gSvKLPksgSQ_nac= finished

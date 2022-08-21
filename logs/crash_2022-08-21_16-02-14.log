@@ -1,0 +1,1958 @@
+---------------------------------------------
+Log D:\TCAFiles\Users\erikf\6821903\SC\crash_2022-08-21_16-02-14.log started at 21.08. 16:02:30
+
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+Item headtorch_black has already been added to category Eyewear (ID 27)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+[ExpansionMarketItem] The minimum price must be lower than or equal to the maximum price for 'mag_vss_10rnd'
+Class:      'ExpansionMarketItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketitem.c:141
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:140
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+Item jeans_green has already been added to category Hunting_Leather (ID 42)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:266
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:243
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:145
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+Item expansionspraycangreen has already been added to category Cannabis (ID 14)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+Item gardenlime has already been added to category Gardening (ID 34)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+Item twp_cosmetic_heart has already been added to category ID 80
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+Item twp_toiletroll has already been added to category Medical (ID 52)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+Item twp_coffin has already been added to category Furnishings (ID 33)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+Item twp_m60_mag_200rnd has already been added to category ID 85
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+Item twp_bloodymachete has already been added to category Teddys_Halloween (ID 83)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+Item twp_ak47 has already been added to category ID 89
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+Item twp_mk14 has already been added to category Teddys_Rifles (ID 89)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:30
+
+Item twp_mac10 has already been added to category ID 92
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:47
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:48
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:48
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:49
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:50
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:52
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:52
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:53
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:56
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:57
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:57
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:57
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:59
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:02:59
+NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:04:23
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1161968
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:785
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:08:00
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1161968
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:08:02
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1161968
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:660
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:20:11
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow12'
+Entity id:1200709
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:785
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:26:55
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:26:55
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:26:55
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:26:55
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:27:06
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:27:06
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:27:06
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:27:06
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:27:12
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:27:12
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:27:12
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:27:12
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:27:16
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:30:51
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1161968
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:30:53
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1161968
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:660
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:33:05
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1161968
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:33:07
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1161968
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:660
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:37:20
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1161968
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:37:28
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1161968
+
+Function: 'StartCommand_DogEating'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:321
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:655
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:40:39
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1211298
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:40:40
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1211298
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:41:01
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1211298
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:41:04
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1211298
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:660
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:41:26
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1211298
+
+Function: 'StartCommand_DogEating'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:321
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:713
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:41:46
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1211298
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:688
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:53:18
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1211298
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 16:53:21
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1211298
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:660
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:19:30
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:785
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:19:32
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:19:34
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:19:34
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:19:35
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:19:37
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow4'
+Entity id:1230174
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:785
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:19:45
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:19:45
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow4'
+Entity id:1230174
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:20:04
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:20:06
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow4'
+Entity id:1230174
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:20:07
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:785
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:20:31
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow4'
+Entity id:1230174
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:20:48
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:20:59
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:21:01
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogEating'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:321
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:655
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:21:05
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:21:05
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:21:05
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:21:05
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:21:09
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:21:09
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:21:10
+NULL pointer to instance
+Class:      'PVEZ_DamageRedistributor'
+Function: 'RegisterHit'
+Stack trace:
+PVEZ/4_World/pvez_damageredistributor.c:91
+PVEZ/4_World/entities\itembase.c:43
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:600
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:53
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:21:10
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow4'
+Entity id:1230174
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:21:20
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:21:21
+NULL pointer to instance
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'DeleteEntity'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:185
+scripts/3_Game/dayzgame.c:2515
+GameLabs/Scripts/3_Game/3_Hooking/Тгю?оъіж.p3d:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:218
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:21:57
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow4'
+Entity id:1230174
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:22:24
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:22:40
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:23:00
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:23:49
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:23:49
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:23:54
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:23:58
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:23:58
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:24:08
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:24:10
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:785
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:25:05
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow4'
+Entity id:1230174
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:25:05
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow4'
+Entity id:1230174
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:25:34
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow4'
+Entity id:1230174
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:25:54
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow12'
+Entity id:1233609
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:785
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:26:32
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow4'
+Entity id:1230174
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:26:59
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:27:07
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:27:08
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:27:10
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1230129
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:27:14
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow4'
+Entity id:1230174
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:29:04
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow12'
+Entity id:1233609
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:29:08
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow10'
+Entity id:1235142
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:29:14
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow12'
+Entity id:1233609
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:30:02
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow12'
+Entity id:1233609
+
+Function: 'StartCommand_DogStay'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:290
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:660
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:30:06
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:30:15
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:30:51
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:31:26
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow12'
+Entity id:1233609
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:31:36
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:32:11
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 
+
+
+------------------------------------
+NS3150589, 21.08 2022 17:32:38
+[DayZAnimalCommandScriptClass::Initialize] :: [ERROR] :: DayZAnimalCommandScript first constructor parameter must be inherited from DayZAnimal.
+Class:      'Doggo_Follow2'
+Entity id:1232360
+
+Function: 'StartCommand_DogSit'
+Stack trace:
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:301
+Dayz_Dog/Scripts/4_World/dog_types\doggos.c:775
+scripts/3_Game/entities\dayzanimal.c:507
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\erikf\6821903\Config.cfg ip 145.239.139.224 port 2302 mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Chiemsee;@PristineRepair;@FlipTransport;@GameLabs;@PVEZ;@PVEZExpansionPlugin;@Modular Vest System DGFix;@BulletStacksPlusPlusEnhanced;@CannabisPlus;@MuchStuffPack;@CabinZ;@Tanning Leather Working;@Code Lock;@Cabin_Mod_RaGed;@Cabin_Mod_CodeLock_RaGed;@Forever_Lights_and_Campfires;@CJ187-LootChest;@Collectable Items;@WindstridesClothingPack;@OP_Suppressors_v2;@Supressor Hybrid;@Hummer_H2;@TeddysWeaponPack;@DayZ-Dog;@MMG - Mightys Military Gear;@DayZ-Expansion-AI;@Outlive server mod;@Community-Online-Tools servermod  profiles D:\TCAFiles\Users\erikf\6821903\SC name SC BEpath D:\TCAFiles\Users\erikf\6821903\SC\Battleye dologs  adminlog  netlog  noFilePatching  scrAllowFileWrite  limitFPS 0 

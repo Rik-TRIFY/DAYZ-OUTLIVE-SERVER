@@ -1,0 +1,2049 @@
+---------------------------------------------
+Log D:\TCAFiles\Users\erikf\6821903\SC\script_2022-08-21_04-02-15.log started at 21.08. 04:02:16
+
+SCRIPT       : Registered 385 temporary action enum(s), UAN==385
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"CannabisPlus/scripts/4_world/cannabisplus.c,395": Missing ';' at the end of line
+SCRIPT    (W): @"LeatherCrafting\scripts\4_World/dryingrack.c,279": Missing ';' at the end of line
+SCRIPT    (E): @"scripts/4_World/entities\firearms\weapon_base.c,581": Variable 'weaponType' is private
+SCRIPT    (W): @"GameLabs/Scripts/4_World/4_Hooking/э*фЮ.rtm,242": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"MuchStuffPack/MSP_Scripts/4_World/codelock\actions\actioninteractlockonmsp.c,85": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"MuchStuffPack/MSP_Scripts/4_World/codelock\actions\actioninteractlockonmsp.c,90": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"PVEZ/4_World/entities\manbase\playerbase.c,182": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/lootchest.c,168": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/lootchest.c,221": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/actionunlockcjchest.c,82": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/actionunlockcjchest.c,102": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"CJ_LootChests/scripts/4_World/actionunlockcjchest.c,112": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,82": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,280": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,301": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,311": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,321": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,331": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,341": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_types\doggos.c,592": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/overrides\itembase.c,32": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/overrides\itembase.c,33": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/actions\actionstopcontrol.c,56": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/actions\actionstopcontrol.c,64": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dogserverrpc.c,46": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dogserverrpc.c,49": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_shed_small\dog_shed_small.c,40": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/dog_shed_small\dog_shed_small.c,109": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/actions\actionfeeddog.c,92": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/actions\actioncontrol.c,80": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"Dayz_Dog/Scripts/4_World/overrides\playerbase.c,488": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"cabin_mod/scripts/4_World/actions\actiondeployobject.c,11": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"cabin_mod_codelock/scripts/4_World/actioninteractlockoncabinfence.c,92": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"cabin_mod_codelock/scripts/4_World/actioninteractlockoncabinfence.c,97": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"GameLabs/Scripts/5_Mission/џ?мсЫыїзќяћ.wsi,91": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"Dayz_Dog/scripts/5_Mission/gui\dogmapmenu.c,43": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"Dayz_Dog/scripts/5_Mission/gui\dogmapmenu.c,59": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"Dayz_Dog/scripts/5_Mission/gui\dogselectmenu.c,39": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"Dayz_Dog/scripts/5_Mission/gui\dogselectmenu.c,60": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"$CurrentDir:mpmissions\Outlive.Chiemsee\init.c,50": Missing ';' at the end of line
+SCRIPT       : Expansion version: 1.7.8
+SCRIPT       : 04:02:31.036 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 04:02:31.036 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 04:02:31.037 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 04:02:31.039 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 04:02:31.040 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 04:02:31.040 [EXPANSION DEBUG]: [ExpansionHardlineSettings] Load existing setting file:$mission:expansion\settings\HardlineSettings.json
+SCRIPT       : 04:02:31.048 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : 04:02:31.050 [EXPANSION DEBUG]: ~ExpansionMarketSettings
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 1 (Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 2 (Ammo_Boxes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 3 (Armbands)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 4 (Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 5 (Backpacks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 6 (Bandanas)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 7 (Batteries)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 8 (Bayonets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 9 (Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 10 (Blouses_And_Suits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 11 (Boats)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 12 (Boots_And_Shoes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 13 (Buttstocks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 14 (Cannabis)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 15 (Caps)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 16 (Cars)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 17 (Clothing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 18 (Coats_And_Jackets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 19 (Containers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 20 (Crossbows)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 21 (Dogs_Attachments)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 22 (Drinks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 23 (Electronics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 24 (Event)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 25 (Exchange)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 26 (Explosives_And_Grenades)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 27 (Eyewear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 28 (Fish)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 29 (Fishing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 30 (Flags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 31 (Food)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 32 (Fruit_And_Vegetables)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 33 (Furnishings)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 34 (Gardening)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 35 (Ghillies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 36 (Gloves)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 37 (Handguards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 38 (Hats_And_Hoods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 39 (Helicopters)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 40 (Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 41 (Holsters_And_Pouches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 42 (Hunting_Leather)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 43 (Kits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 44 (Knifes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 45 (Launchers)
+SCRIPT    (E): 
+Item headtorch_black has already been added to category Eyewear (ID 27)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 46 (Lights)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 47 (Liquids)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 48 (Locks)
+SCRIPT    (E): 
+[ExpansionMarketItem] The minimum price must be lower than or equal to the maximum price for 'mag_vss_10rnd'
+Class:      'ExpansionMarketItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketitem.c:141
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:140
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 49 (Magazines)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 50 (Masks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 51 (Meat)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 52 (Medical)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 53 (Melee_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 54 (MMG_Gear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 55 (MMG_Gear_Patches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 56 (Muzzles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 57 (MVS_Bags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 58 (MVS_Clothing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 59 (MVS_Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 60 (MVS_Pouches_Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 61 (MVS_Rigs)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 62 (Navigation)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 63 (NBC)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 64 (Optics)
+SCRIPT    (E): 
+Item jeans_green has already been added to category Hunting_Leather (ID 42)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:266
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:243
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:145
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 65 (Pants_And_Shorts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 66 (Pelts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 67 (Pistols)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 68 (Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 69 (Shirts_And_TShirts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 70 (Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 71 (Skirts_And_Dresses)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 72 (Sniper_Rifles)
+SCRIPT    (E): 
+Item expansionspraycangreen has already been added to category Cannabis (ID 14)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 73 (Spraycans)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 74 (Submachine_Guns)
+SCRIPT    (E): 
+Item gardenlime has already been added to category Gardening (ID 34)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 75 (Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 76 (Sweaters_And_Hoodies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 77 (Teddys_Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 78 (Teddys_AmmoBoxs)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 79 (Teddys_Bayonets)
+SCRIPT    (E): 
+Item twp_cosmetic_heart has already been added to category ID 80
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 80 (Teddys_Cosmetics)
+SCRIPT    (E): 
+Item twp_toiletroll has already been added to category Medical (ID 52)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 81 (Teddys_Covid)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 82 (Teddys_Gernades)
+SCRIPT    (E): 
+Item twp_coffin has already been added to category Furnishings (ID 33)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 83 (Teddys_Halloween)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 84 (Teddys_Lights)
+SCRIPT    (E): 
+Item twp_m60_mag_200rnd has already been added to category ID 85
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 85 (Teddys_Magazines)
+SCRIPT    (E): 
+Item twp_bloodymachete has already been added to category Teddys_Halloween (ID 83)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 86 (Teddys_Melee)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 87 (Teddys_Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 88 (Teddys_Pistols)
+SCRIPT    (E): 
+Item twp_ak47 has already been added to category ID 89
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 89 (Teddys_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 90 (Teddys_Shotguns)
+SCRIPT    (E): 
+Item twp_mk14 has already been added to category Teddys_Rifles (ID 89)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 91 (Teddys_Snipers)
+SCRIPT    (E): 
+Item twp_mac10 has already been added to category ID 92
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:214
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:113
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:187
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1096
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:45
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:55
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:35
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:260
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:120
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:5
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:108
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 92 (Teddys_SubMachineGuns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 93 (Teddys_Suppressors)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 94 (Tents)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 95 (Tools)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 96 (Vehicle_Parts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 97 (Vests)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 98 (WindstridesClothing)
+SCRIPT       : 04:02:31.317 [EXPANSION DEBUG]: [ExpansionMarketTrader] Error: Category Teddys_Light does not exist!
+SCRIPT       : 04:02:31.719 [EXPANSION DEBUG]: [ExpansionAirdropSettings] Load existing setting file:$profile:ExpansionMod\Settings\AirdropSettings.json
+SCRIPT       : 04:02:31.758 [EXPANSION DEBUG]: [ExpansionMissionSettings] Load existing setting file:$profile:ExpansionMod\Settings\MissionSettings.json
+SCRIPT       : 04:02:31.758 [EXPANSION DEBUG]: [ExpansionNameTagsSettings] Load existing setting file:$profile:ExpansionMod\Settings\NameTagsSettings.json
+SCRIPT       : 04:02:31.759 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MapSettings.json
+SCRIPT       : 04:02:31.760 [EXPANSION DEBUG]: [ExpansionGeneralSettings] Load existing setting file:$profile:ExpansionMod\Settings\GeneralSettings.json
+SCRIPT       : 04:02:31.762 [EXPANSION DEBUG]: [ExpansionPlayerListSettings] Load existing setting file:$profile:ExpansionMod\Settings\PlayerListSettings.json
+SCRIPT       : 04:02:31.762 [EXPANSION DEBUG]: [ExpansionSocialMediaSettings] Load existing setting file:$profile:ExpansionMod\Settings\SocialMediaSettings.json
+SCRIPT       : 04:02:31.762 [EXPANSION DEBUG]: [ExpansionSpawnSettings] Load existing setting file:$mission:expansion\settings\SpawnSettings.json
+SCRIPT       : 04:02:31.764 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : 04:02:31.765 [EXPANSION DEBUG]: [ExpansionAISettings] Load existing setting file:$profile:ExpansionMod\Settings\AISettings.json
+SCRIPT       : 04:02:31.765 [EXPANSION DEBUG]: [ExpansionAIPatrolSettings] Load existing setting file:$mission:expansion\settings\AIPatrolSettings.json
+SCRIPT       : 04:02:31.769 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 04:02:31.771 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 04:02:31.772 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : 04:02:31.775 [EXPANSION DEBUG]: [ExpansionChatSettings] Load existing setting file:$profile:ExpansionMod\Settings\ChatSettings.json
+SCRIPT       : 04:02:31.775 [EXPANSION DEBUG]: [ExpansionPartySettings] Load existing setting file:$profile:ExpansionMod\Settings\PartySettings.json
+SCRIPT       : [DefineTest] EXPANSIONMOD is defined
+SCRIPT       : [DefineTest] EXPANSIONMODAI is defined
+SCRIPT       : [DefineTest] EXPANSIONMODANIMATIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBOOK is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCHAT is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGROUPS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMISSIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAMETAGS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAVIGATION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODWEAPONS is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : DZ_Expansion_AI_Preload
+SCRIPT       : DZ_Expansion_Animations_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Book_Preload
+SCRIPT       : DZ_Expansion_Chat_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Groups_Preload
+SCRIPT       : DZ_Expansion_Hardline_Preload
+SCRIPT       : DZ_Expansion_KillFeed_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_Missions_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_NameTags_Preload
+SCRIPT       : DZ_Expansion_Navigation_Preload
+SCRIPT       : DZ_Expansion_Preload
+SCRIPT       : DZ_Expansion_Quests_Preload
+SCRIPT       : DZ_Expansion_SpawnSelection_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : DZ_Expansion_Weapons_Preload
+SCRIPT       : CodeLock
+SCRIPT       : AX_Collectables
+SCRIPT       : Covid
+SCRIPT       : CPtoken
+SCRIPT       : DZ_DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : bliss
+SCRIPT       : ludwig_FKN_Items_Static
+SCRIPT       : GameLabsDefine
+SCRIPT       : GameLabs
+SCRIPT       : Light
+SCRIPT       : Halloween
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : JM_CommunityOnlineTools
+SCRIPT       : MAD_Tents
+SCRIPT       : InventoryFixSolo
+SCRIPT       : MSP_Clothing_Data
+SCRIPT       : MSP_Retextures_Data
+SCRIPT       : MuchStuffPack
+SCRIPT       : MSP_Seasonal_Summer
+SCRIPT       : MSP_Signs_Data
+SCRIPT       : MSP_Sports_Data
+SCRIPT       : MSP_Storage_fridges
+SCRIPT       : MSP_Storage_boxes
+SCRIPT       : MSP_Storage_chests
+SCRIPT       : MSP_Storage_crates
+SCRIPT       : MSP_Storage_lockers
+SCRIPT       : MSP_Storage_otherstorage
+SCRIPT       : MSP_Storage_racks
+SCRIPT       : MSP_Storage_waterbarrels
+SCRIPT       : MSP_Toys_Data
+SCRIPT       : OPSuppressors
+SCRIPT       : PristineRepair
+SCRIPT       : PVEZ
+SCRIPT       : PVEZExpansionPlugin
+SCRIPT       : R_Coffeepot
+SCRIPT       : R_Coffeecup
+SCRIPT       : R_Coffeebag
+SCRIPT       : RFSolarPanel
+SCRIPT       : Ludwig_OBJCET_sewer_assets
+SCRIPT       : Skyline_Hybrid_Suppressor
+SCRIPT       : SnowVegetation
+SCRIPT       : ChiemseeDefines
+SCRIPT       : ludwig_data
+SCRIPT       : Ludwig_OBJCET
+SCRIPT       : lxFoodScripts
+SCRIPT       : Leuchtturm
+SCRIPT       : Ind_Oil_Pump_EP1
+SCRIPT       : ludwig_Navmesh
+SCRIPT       : NIO_OBJECT
+SCRIPT       : Sawcisson_OBJECT
+SCRIPT       : ChiemseeScripts
+SCRIPT       : Simon_Object
+SCRIPT       : chiemsee_world
+SCRIPT       : WindstrideClothing
+SCRIPT       : FlipTransport
+SCRIPT       : zisb_modular_metro
+SCRIPT       : CannabisPlus
+SCRIPT       : CJ_LootChests
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : deerisle_ludwig_data
+SCRIPT       : MAD_EnergyDrinks
+SCRIPT       : MAD_Pikachu
+SCRIPT       : MSP_BaseBuilding
+SCRIPT       : MSP_Buildings_Data
+SCRIPT       : MSP_Deco
+SCRIPT       : MSP_Garden_Data
+SCRIPT       : MSP_Halloween
+SCRIPT       : MSP_Weapons_Data
+SCRIPT       : ModularVestSystem_Base
+SCRIPT       : OUTLIVE_mod
+SCRIPT       : PolarBear
+SCRIPT       : Animal_chiemsee_scorpion
+SCRIPT       : Be_MAD_Ghillies
+SCRIPT       : Buggy_Mod
+SCRIPT       : BulletStacksPlusPlusEnhanced
+SCRIPT       : CrSk_Hummer_H2_6x6
+SCRIPT       : Dayz_Dog
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Hardline
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_Missions
+SCRIPT       : DZ_Expansion_NameTags
+SCRIPT       : DZ_Expansion_Navigation
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_PlayerList
+SCRIPT       : DZ_Expansion_Quests
+SCRIPT       : DZ_Expansion
+SCRIPT       : DZ_Expansion_SpawnSelection
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : DZ_Expansion_Weapons
+SCRIPT       : Forever_Burning_Campfire
+SCRIPT       : jpc_vest
+SCRIPT       : LeatherCrafting
+SCRIPT       : cabin_mod
+SCRIPT       : cabin_mod_codelock
+SCRIPT       : CabinZ
+SCRIPT       : DZ_Expansion_AI
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_Book
+SCRIPT       : DZ_Expansion_Chat
+SCRIPT       : DZ_Expansion_Groups
+SCRIPT       : PVEZ :: Will use config files in D:\TCAFiles\Users\erikf\6821903\SC
+SCRIPT       : PVEZ :: Expansion defined.
+SCRIPT       : [MSP_Codelock_Config] '$profile:\CodeLock\MSP_CodeLockConfig.json' found, loading existing config!
+SCRIPT       : [CP] Config Sucessfully loaded!
+SCRIPT       : 04:02:32.248 [EXPANSION DEBUG]: ModStorage v5
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAirEmpty_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir5perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_gaspingForAir10perIdle_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : 04:02:36.666 [EXPANSION DEBUG]: ExpansionTraderPeter<2934b010>::SetTraderObject ExpansionTraderObjectBase<34e31650> <7173.500000, 72.561798, 8110.560059>
+SCRIPT       : 04:02:36.666 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderPeter<2934b010> fileName Hunting
+SCRIPT       : 04:02:36.690 [EXPANSION DEBUG]: ExpansionTraderBoris<f24d8030>::SetTraderObject ExpansionTraderObjectBase<34edb940> <4226.529785, 10.934600, 4159.430176>
+SCRIPT       : 04:02:36.690 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderBoris<f24d8030> fileName BuildingSupplies
+SCRIPT       : 04:02:36.716 [EXPANSION DEBUG]: ExpansionTraderEva<9fc1dd00>::SetTraderObject ExpansionTraderObjectBase<34f71320> <4200.959961, 14.413500, 4124.879883>
+SCRIPT       : 04:02:36.716 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderEva<9fc1dd00> fileName Medicals
+SCRIPT       : 04:02:36.742 [EXPANSION DEBUG]: ExpansionTraderOliver<3508b020>::SetTraderObject ExpansionTraderObjectBase<35071160> <4207.939941, 11.525500, 4156.709961>
+SCRIPT       : 04:02:36.742 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderOliver<3508b020> fileName Attachments
+SCRIPT       : 04:02:36.776 [EXPANSION DEBUG]: ExpansionTraderLinda<35045800>::SetTraderObject ExpansionTraderObjectBase<35189b60> <4185.950195, 15.677600, 4132.939941>
+SCRIPT       : 04:02:36.776 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLinda<35045800> fileName Clothing
+SCRIPT       : 04:02:36.819 [EXPANSION DEBUG]: ExpansionTraderDenis<35509010>::SetTraderObject ExpansionTraderObjectBase<354a5110> <4212.490234, 10.890500, 4160.359863>
+SCRIPT       : 04:02:36.819 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderDenis<35509010> fileName Weapons
+SCRIPT       : 04:02:36.827 [EXPANSION DEBUG]: ExpansionTraderPeter<354a7020>::SetTraderObject ExpansionTraderObjectBase<35491fc0> <4256.890137, 9.539930, 4118.299805>
+SCRIPT       : 04:02:36.827 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderPeter<354a7020> fileName Vehicles
+SCRIPT       : 04:02:36.846 [EXPANSION DEBUG]: ExpansionTraderNaomi<357d0010>::SetTraderObject ExpansionTraderObjectBase<35887360> <4209.750000, 13.122700, 4130.080078>
+SCRIPT       : 04:02:36.846 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNaomi<357d0010> fileName Consumables
+SCRIPT       : 04:02:36.869 [EXPANSION DEBUG]: ExpansionTraderRolf<3597e010>::SetTraderObject ExpansionTraderObjectBase<359ba320> <4406.970215, 1.551740, 4188.319824>
+SCRIPT       : 04:02:36.869 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderRolf<3597e010> fileName Boats
+SCRIPT       : 04:02:36.898 [EXPANSION DEBUG]: ExpansionTraderElias<3e8ba020>::SetTraderObject ExpansionTraderObjectBase<3e8c1af0> <9944.089844, 10.767800, 5359.959961>
+SCRIPT       : 04:02:36.898 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderElias<3e8ba020> fileName Blacktrader
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT    (E): NULL pointer to instance
+Class:      'DryingFrame'
+Entity id:0
+
+Function: 'GetAttachmentByType'
+Stack trace:
+scripts/3_Game/entities\entityai.c:1728
+LeatherCrafting\scripts\4_World/dryingrack.c:350
+LeatherCrafting\scripts\4_World/dryingrack.c:119
+$CurrentDir:mpmissions\Outlive.Chiemsee\init.c:15
+SCRIPT       : 04:03:05.952 [EXPANSION DEBUG]: ExpansionCarKey<8a8252d0>::GetKeyObject - found ExpansionUtilityBoat<d52f7b70>
+SCRIPT       : 04:03:05.953 [EXPANSION DEBUG]: ExpansionCarKey<84f71340>::GetKeyObject - found Expansion_Landrover<7f4bc460>
+SCRIPT       : 04:03:05.954 [EXPANSION DEBUG]: ExpansionCarKey<912a66e0>::GetKeyObject - found ExpansionMh6<78873270>
+SCRIPT       : 04:03:05.955 [EXPANSION DEBUG]: ExpansionCarKey<9707a000>::GetKeyObject - found ExpansionUtilityBoat<d52f5f50>
+SCRIPT       : 04:03:05.956 [EXPANSION DEBUG]: ExpansionCarKey<7d972440>::GetKeyObject - found Expansion_Landrover<7f4bdf80>
+SCRIPT       : 04:03:05.956 [EXPANSION DEBUG]: ExpansionCarKey<84f777e0>::GetKeyObject - found Expansion_Landrover<7f4bc460>
+SCRIPT       : 04:03:05.958 [EXPANSION DEBUG]: ExpansionCarKey<912a7b00>::GetKeyObject - found ExpansionMh6<78873270>
+SCRIPT       : 04:03:05.958 [EXPANSION DEBUG]: ExpansionCarKey<7d968340>::GetKeyObject - found Expansion_Landrover<7f4bdf80>
+SCRIPT       : 04:03:05.958 [EXPANSION DEBUG]: ExpansionCarKey<715d58e0>::GetKeyObject - found Truck_01_Covered_Blue<d52df1b0>
+SCRIPT       : 04:03:05.958 [EXPANSION DEBUG]: ExpansionCarKey<8a8e4cd0>::GetKeyObject - found ExpansionUtilityBoat<d52f7b70>
+SCRIPT       : 04:03:05.958 [EXPANSION DEBUG]: ExpansionCarKey<84730bf0>::GetKeyObject - found ExpansionUtilityBoat<d52efce0>
+SCRIPT       : 04:03:05.960 [EXPANSION DEBUG]: ExpansionCarKey<84716f60>::GetKeyObject - found ExpansionGyrocopter<7886cc80>
+SCRIPT       : 04:03:05.962 [EXPANSION DEBUG]: ExpansionCarKey<8a816b60>::GetKeyObject - found ExpansionUtilityBoat<d52f7b70>
+SCRIPT       : 04:03:05.963 [EXPANSION DEBUG]: ExpansionCarKey<912d6db0>::GetKeyObject - found ExpansionGyrocopter<7886af60>
+SCRIPT       : 04:03:05.964 [EXPANSION DEBUG]: ExpansionCarKey<912a52c0>::GetKeyObject - found ExpansionVodnik<d52eeed0>
+SCRIPT       : 04:03:05.964 [EXPANSION DEBUG]: ExpansionCarKey<71c50690>::GetKeyObject - found ExpansionMerlin<7886e9a0>
+SCRIPT       : 04:03:05.965 [EXPANSION DEBUG]: ExpansionCarKey<756168a0>::GetKeyObject - found OffroadHatchback<d52e9a70>
+SCRIPT       : 04:03:05.967 [EXPANSION DEBUG]: ExpansionCarKey<8d854160>::GetKeyObject - found ExpansionMerlin<78879860>
+SCRIPT       : 04:03:05.967 [EXPANSION DEBUG]: ExpansionCarKey<97078be0>::GetKeyObject - found ExpansionUtilityBoat<d52f5f50>
+SCRIPT       : 04:03:05.969 [EXPANSION DEBUG]: ExpansionCarKey<912a8510>::GetKeyObject - found CrSk_Hummer_H2_6x6<9b695060>
+SCRIPT       : 04:03:05.971 [EXPANSION DEBUG]: ExpansionCarKey<91882540>::GetKeyObject - found CrSk_Hummer_H2_6x6<9b69a1c0>
+SCRIPT       : 04:03:05.971 [EXPANSION DEBUG]: ExpansionCarKey<7f6c6180>::GetKeyObject - found ExpansionUAZ<7f4bfaa0>
+SCRIPT       : 04:03:05.973 [EXPANSION DEBUG]: ExpansionCarKey<8d850500>::GetKeyObject - found ExpansionGyrocopter<788789d0>
+SCRIPT       : 04:03:05.973 [EXPANSION DEBUG]: ExpansionCarKey<912dc840>::GetKeyObject - found CrSk_Hummer_H2_6x6<9b695060>
+SCRIPT       : 04:03:05.974 [EXPANSION DEBUG]: ExpansionCarKey<936da3b0>::GetKeyObject - found ExpansionUtilityBoat<9b46eef0>
+SCRIPT       : 04:03:05.975 [EXPANSION DEBUG]: ExpansionCarKey<912e0eb0>::GetKeyObject - found ExpansionUtilityBoat<9b46e0e0>
+SCRIPT       : 04:03:05.978 [EXPANSION DEBUG]: ExpansionCarKey<73236270>::GetKeyObject - found OffroadHatchback<d52ec4a0>
+SCRIPT       : 04:03:05.978 [EXPANSION DEBUG]: ExpansionCarKey<7a946c50>::GetKeyObject - found ExpansionMh6<788706c0>
+SCRIPT       : 04:03:05.978 [EXPANSION DEBUG]: ExpansionCarKey<71c4d440>::GetKeyObject - found CrSk_Hummer_H2_6x6<7f4bed10>
+SCRIPT       : 04:03:05.980 [EXPANSION DEBUG]: ExpansionCarKey<8d8591e0>::GetKeyObject - found ExpansionMh6<7887a6f0>
+SCRIPT       : 04:03:05.980 [EXPANSION DEBUG]: ExpansionCarKey<8470d870>::GetKeyObject - found ExpansionUtilityBoat<d52f5140>
+SCRIPT       : 04:03:05.980 [EXPANSION DEBUG]: ExpansionCarKey<6fb52910>::GetKeyObject - found ExpansionUtilityBoat<d52f9790>
+SCRIPT       : 04:03:05.981 [EXPANSION DEBUG]: ExpansionCarKey<912acb80>::GetKeyObject - found CrSk_Hummer_H2_6x6<9b695060>
+SCRIPT       : 04:03:05.982 [EXPANSION DEBUG]: ExpansionCarKey<834e28b0>::GetKeyObject - found ExpansionVodnik<d52f0af0>
+SCRIPT       : 04:03:05.984 [EXPANSION DEBUG]: ExpansionCarKey<6721eb60>::GetKeyObject - found ExpansionUtilityBoat<d52e1be0>
+SCRIPT       : 04:03:05.985 [EXPANSION DEBUG]: ExpansionCarKey<71c3d8b0>::GetKeyObject - found CrSk_Hummer_H2_6x6<7f4bed10>
+SCRIPT       : 04:03:05.987 [EXPANSION DEBUG]: ExpansionCarKey<8470e280>::GetKeyObject - found ExpansionUAZ<7f4c15c0>
+SCRIPT       : 04:03:05.988 [EXPANSION DEBUG]: ExpansionCarKey<8b5016c0>::GetKeyObject - found ExpansionGyrocopter<78874100>
+SCRIPT       : 04:03:05.988 [EXPANSION DEBUG]: ExpansionCarKey<7aa430f0>::GetKeyObject - found Expansion_Landrover<7f4ac2b0>
+SCRIPT       : 04:03:05.989 [EXPANSION DEBUG]: ExpansionCarKey<6fb2b930>::GetKeyObject - found Truck_01_Covered<d52f4330>
+SCRIPT       : 04:03:05.990 [EXPANSION DEBUG]: ExpansionCarKey<9187f2f0>::GetKeyObject - found CrSk_Hummer_H2_6x6<9b69a1c0>
+SCRIPT       : 04:03:05.990 [EXPANSION DEBUG]: ExpansionCarKey<912a48b0>::GetKeyObject - found ExpansionVodnik<d52eeed0>
+SCRIPT       : 04:03:05.990 [EXPANSION DEBUG]: ExpansionCarKey<869ee5f0>::GetKeyObject - found ExpansionUtilityBoat<d52f3520>
+SCRIPT       : 04:03:05.992 [EXPANSION DEBUG]: ExpansionCarKey<7d96ddd0>::GetKeyObject - found Expansion_Landrover<7f4bdf80>
+SCRIPT       : 04:03:05.992 [EXPANSION DEBUG]: ExpansionCarKey<7d99eeb0>::GetKeyObject - found ExpansionUtilityBoat<d52f2710>
+SCRIPT       : 04:03:05.992 [EXPANSION DEBUG]: ExpansionCarKey<834e1490>::GetKeyObject - found ExpansionUtilityBoat<d52f2710>
+SCRIPT       : 04:03:05.992 [EXPANSION DEBUG]: ExpansionCarKey<912df080>::GetKeyObject - found ExpansionGyrocopter<7886af60>
+SCRIPT       : 04:03:05.994 [EXPANSION DEBUG]: ExpansionCarKey<84717970>::GetKeyObject - found ExpansionGyrocopter<7886cc80>
+SCRIPT       : 04:03:05.995 [EXPANSION DEBUG]: ExpansionCarKey<78d003a0>::GetKeyObject - found Expansion_Landrover<7f4ac2b0>
+SCRIPT       : 04:03:05.995 [EXPANSION DEBUG]: ExpansionCarKey<71c4fc80>::GetKeyObject - found CrSk_Hummer_H2_6x6<7f4bed10>
+SCRIPT       : 04:03:05.997 [EXPANSION DEBUG]: ExpansionCarKey<7f6c3940>::GetKeyObject - found ExpansionUAZ<7f4bfaa0>
+SCRIPT       : 04:03:05.998 [EXPANSION DEBUG]: ExpansionCarKey<847114d0>::GetKeyObject - found ExpansionUAZ<7f4c15c0>
+SCRIPT       : 04:03:05.998 [EXPANSION DEBUG]: ExpansionCarKey<71c4b610>::GetKeyObject - found CrSk_Hummer_H2_6x6<7f4b3cc0>
+SCRIPT       : 04:03:05.999 [EXPANSION DEBUG]: ExpansionCarKey<71c4f270>::GetKeyObject - found ExpansionMerlin<7886e9a0>
+SCRIPT       : 04:03:05.999 [EXPANSION DEBUG]: ExpansionCarKey<791183a0>::GetKeyObject - found Sedan_02<d52ee0c0>
+SCRIPT       : 04:03:05.999 [EXPANSION DEBUG]: ExpansionCarKey<59c2b2c0>::GetKeyObject - found ExpansionUtilityBoat<d52f2710>
+SCRIPT       : 04:03:05.999 [EXPANSION DEBUG]: ExpansionCarKey<8a8e56e0>::GetKeyObject - found Hatchback_02<d52f6d60>
+SCRIPT       : 04:03:06.001 [EXPANSION DEBUG]: ExpansionCarKey<970795f0>::GetKeyObject - found Truck_01_Covered_Blue<d52df1b0>
+SCRIPT       : 04:03:06.002 [EXPANSION DEBUG]: ExpansionCarKey<8a815740>::GetKeyObject - found Hatchback_02<d52f6d60>
+SCRIPT       : 04:03:06.002 [EXPANSION DEBUG]: ExpansionCarKey<99e2fd30>::GetKeyObject - found ExpansionUtilityBoat<d52f9790>
+SCRIPT       : 04:03:06.002 [EXPANSION DEBUG]: ExpansionCarKey<815c24b0>::GetKeyObject - found ExpansionUtilityBoat<d52efce0>
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<b859c3f0>
+SCRIPT       : int worth =   10000
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<b859d6b0>
+SCRIPT       : int worth =   100
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<b859d750>
+SCRIPT       : int worth =   10
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<b859c490>
+SCRIPT       : int worth =   1
+SCRIPT       : ExpansionZoneCircle<e3498fe0> position=<9945.549805, 0.000000, 5359.779785> radius=50
+SCRIPT       : ExpansionZoneCircle<e34990a0> position=<4291.589844, 0.000000, 4162.500000> radius=130
+SCRIPT       : Found 2 zones!
+SCRIPT       : 04:03:11.124 [EXPANSION DEBUG]: ExpansionGyrocopter<7886af60>::OnEnterZone <4317.589844, 4.294119, 4164.459473>
+SCRIPT       : 04:03:11.124 [EXPANSION DEBUG]: ExpansionMh6<7886db10>::OnEnterZone <4295.515137, 5.862790, 4128.104980>
+SCRIPT       : 04:03:11.124 [EXPANSION DEBUG]: Truck_01_Covered<d52f4330>::OnEnterZone <4286.990723, 8.151714, 4179.736328>
+SCRIPT       : 04:03:11.124 [EXPANSION DEBUG]: Sedan_02<d52fa5a0>::OnEnterZone <4278.900391, 9.576264, 4190.229492>
+SCRIPT       : [CP] -> Sucessfully sent: Krucken CP Plus Config!
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 06:59:50.080 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 06:59:50.080 [EXPANSION DEBUG]: ExpansionAirdropContainer 246
+SCRIPT       : 06:59:50.080 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 251
+SCRIPT       : 06:59:50.080 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 256
+SCRIPT       : 06:59:50.080 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military 261
+SCRIPT       : 06:59:50.080 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - map is Chiemsee - size 10240
+SCRIPT       : 06:59:50.080 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <10240.000000, 450.813477, 6955.837402>
+SCRIPT       : 06:59:50.085 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 06:59:50.085 [EXPANSION DEBUG]: ExpansionAirdropContainer 146
+SCRIPT       : 06:59:50.085 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 151
+SCRIPT       : 06:59:50.085 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 156
+SCRIPT       : 06:59:50.085 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military 161
+SCRIPT       : 06:59:50.085 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - map is Chiemsee - size 10240
+SCRIPT       : 06:59:50.085 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <826.587708, 912.154297, 0.000000>
+SCRIPT       : [CP] -> Sucessfully sent: Majky CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 07:10:21.789 [EXPANSION DEBUG]: ExpansionPartyData<e2c8aae0>::OnJoin party SRo player Majky (ID wvz1jGdA27Eb3vtZqqzBgGv9Su_0oOujtdP3UqN1c-g=)
+SCRIPT       : 07:10:21.789 [EXPANSION DEBUG]: ExpansionPartyData<e2c8aae0>::OnJoin - No player quest data!
+SCRIPT       : =================== Expansion Quest AI Patrol ===================
+SCRIPT       : [QUESTS] Spawning 1 West bots at <118.320389, 377.951569, 8105.527832> and will patrol at 0x0000000009de6df0 {<118.32,377.952,8105.53>}
+SCRIPT       : =================== Expansion Quest AI Patrol ===================
+SCRIPT       : =================== Expansion Quest AI Patrol ===================
+SCRIPT       : [QUESTS] Spawning 1 West bots at <125.191147, 375.488556, 8125.747559> and will patrol at 0x0000000009de6e30 {<125.191,375.489,8125.75>}
+SCRIPT       : =================== Expansion Quest AI Patrol ===================
+SCRIPT       : =================== Expansion Quest AI Patrol ===================
+SCRIPT       : [QUESTS] Spawning 1 West bots at <82.124916, 387.607971, 8157.881836> and will patrol at 0x0000000009de6170 {<82.1249,387.608,8157.88>}
+SCRIPT       : =================== Expansion Quest AI Patrol ===================
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveTargetEvent<33681c0>::OnEntityKilled - Killer is out of legit kill range!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveTargetEvent<33681c0>::OnEntityKilled - Killer is out of legit kill range!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveTargetEvent<33681c0>::OnEntityKilled - Killer is out of legit kill range!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveTargetEvent<33681c0>::OnEntityKilled - Killer is out of legit kill range!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveTargetEvent<33681c0>::OnEntityKilled - Killer is out of legit kill range!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveTargetEvent<33681c0>::OnEntityKilled - Killer is out of legit kill range!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveTargetEvent<33681c0>::OnEntityKilled - Killer is out of legit kill range!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x39_20Rnd:09660 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_762x39<10ff0f0> count=20
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x39Tracer_20Rnd:017862 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_762x39Tracer<110f690> count=20
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Shemagh_Brown:024728 parent=SurvivorF_Baty:022 }
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Shemagh_Scarf_Brown:024663 parent=SurvivorF_Baty:022 }
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Shemagh_Facemask_Brown:024728 parent=SurvivorF_Baty:022 }
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=PorkCan:021032 parent=SurvivorF_Baty:022 }
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : [Logout]: New player wvz1jGdA27Eb3vtZqqzBgGv9Su_0oOujtdP3UqN1c-g= with logout time 15
+SCRIPT       : [emote] SurvivorF_Helga:023 play emote id=14 IH=ExpansionCarKey:09337
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - Start
+SCRIPT       : ExpansionQuestObjectiveCollectionEvent<e5c86e0>::CanCountItem - End and return true!
+SCRIPT       : [Logout]: Player wvz1jGdA27Eb3vtZqqzBgGv9Su_0oOujtdP3UqN1c-g= finished
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x39_20Rnd:028773 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_762x39<112b150> count=20
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x39_20Rnd:018809 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_762x39<1130be0> count=20
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_9x19_25rnd:028618 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_9x19<fd95f90> count=25
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_9x19_25rnd:028005 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_9x19<fd9b010> count=25
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_9x19_25rnd:025632 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_9x19<fda14b0> count=25
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_45ACP_25rnd:024871 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_45ACP<fda5110> count=25
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_45ACP_25rnd:024896 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_45ACP<fda7950> count=25
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_45ACP_25rnd:012666 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_45ACP<fdad3e0> count=25
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_9x19_25rnd:09581 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_9x19<fdb56b0> count=25
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_45ACP_25rnd:09575 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_45ACP<6779a470> count=25
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_45ACP_25rnd:030899 parent=SurvivorF_Baty:022 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_45ACP<6779d6c0> count=25
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [ExpansionAirdropContainerManager] Container at <7771.102539, 23.917719, 1772.895874> was deleted
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ~ExpansionAirdropContainerManager
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: Glock19:013807 - MagazineRepair - Pistol_CLO_DIS_BU0_MA0<6f15fa10> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: MP5K:023855 - MagazineRepair - RBF_CLO_BU0_MA0<f896370> - state: 0 != weapon: 1
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: Glock19:028299 - MagazineRepair - Pistol_CLO_DIS_BU0_MA0<19bdf80> - state: 0 != weapon: 1
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: CZ61:034739 - MagazineRepair - RBL_CLO_BU0_MA0<599fbd90> - state: 0 != weapon: 1
+SCRIPT       : 07:27:23.210 [EXTRACE] eAI_SurvivorF_Naomi<1f84a010> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : 07:27:23.242 [EXTRACE] eAI_SurvivorF_Maria<1ef29e70> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [ExpansionAirdropContainerManager] Container at <6528.707520, 37.177948, 8433.770508> was deleted
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ExpansionAirdropContainerManager::RemoveSingleInfected
+SCRIPT       : ~ExpansionAirdropContainerManager
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: MakarovIJ70:021272 - MagazineRepair - Pistol_CLO_DIS_BU0_MA0<19ceba0> - state: 0 != weapon: 1
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : 07:44:20.927 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugShort:029219 at location { type=ATTACHMENT item=AugShort:031879 parent=eAI_SurvivorM_Peter:025 slot=Shoulder }
+SCRIPT       : 07:44:20.929 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugOptic:032361 at location { type=ATTACHMENT item=AugOptic:07569 parent=AugShort:029219 slot=weaponOpticsAug }
+SCRIPT       : 07:44:21.046 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Aug:031605 at location { type=ATTACHMENT item=Aug:025882 parent=eAI_SurvivorF_Baty:026 slot=Shoulder }
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : 07:44:42.179 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Colt1911:031214 at location { type=HANDS item=Colt1911:012202 parent=eAI_SurvivorF_Baty:026 }
+SCRIPT       : 07:44:42.183 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_1911_7Rnd:08051 at location { type=ATTACHMENT item=Mag_1911_7Rnd:012203 parent=Colt1911:031214 slot=magazine }
+SCRIPT       : 07:44:43.378 [EXTRACE] eAI_SurvivorF_Baty<1f06a7f0> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : [emote] eAI_SurvivorM_Peter:025 play emote id=12 IH=null
+SCRIPT       : [emote] eAI_SurvivorF_Baty:026 play emote id=32 IH=Colt1911:031214
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=BakedBeansCan:012875 parent=SurvivorF_Baty:022 }
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : PVEZ ERROR :: No PlayerStatus on death!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [CP] -> Sucessfully sent: P@lko2265 CP Plus Config!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 07:56:18.294 [EXPANSION DEBUG]: SurvivorBase<e0c5060>::OnEnterSafeZone
+SCRIPT       : bool m_Expansion_LeavingSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZoneSynchRemote = 0
+SCRIPT       : 07:56:18.296 [EXPANSION DEBUG]: ExpansionPartyData<e2c89960>::OnJoin party Palko2265 player P@lko2265 (ID iyN6JbNqEvHMp_A5zeXvCmCy1_EaihIFwZocZ4y6-LM=)
+SCRIPT       : 07:56:18.296 [EXPANSION DEBUG]: ExpansionPartyData<e2c89960>::OnJoin - No player quest data!
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [Logout]: New player iyN6JbNqEvHMp_A5zeXvCmCy1_EaihIFwZocZ4y6-LM= with logout time 15
+SCRIPT       : [Logout]: New player 3_GPYuzW_E0bbcG2arikdNfouXcmH4hARmNG7KRNXoM= with logout time 15
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : [Logout]: Player iyN6JbNqEvHMp_A5zeXvCmCy1_EaihIFwZocZ4y6-LM= finished
+SCRIPT       : [Logout]: Player 3_GPYuzW_E0bbcG2arikdNfouXcmH4hARmNG7KRNXoM= finished
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - Start
+SCRIPT       : ExpansionQuestObjectiveAICampEvent<3369260>::CleanupZeds - End
