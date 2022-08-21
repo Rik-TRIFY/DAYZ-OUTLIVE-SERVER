@@ -171,6 +171,30 @@
             "Variants": []
         },
         {
+            "ClassName": "MAD_FirstAidKit_Outlive",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 8000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_FirstAidKit_Pink",
+                "MAD_FirstAidKit_BlackPink",
+                "MAD_FirstAidKit_GreenGeo",
+                "MAD_FirstAidKit_GreyGeo",
+                "MAD_FirstAidKit_NightSky",
+                "MAD_FirstAidKit_Unicorn",
+                "MAD_FirstAidKit_Explicited",
+                "MAD_FirstAidKit_Explicited2",
+                "MAD_FirstAidKit_BlueGeo",
+                "MAD_FirstAidKit_GreenCamo",
+                "MAD_FirstAidKit_Bones",
+                "MAD_FirstAidKit_White"
+            ]
+        },
+        {
             "ClassName": "epinephrine",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
@@ -208,7 +232,7 @@
             "MaxPriceThreshold": 8000,
             "MinPriceThreshold": 8000,
             "SellPricePercent": 10,
-            "MaxStockThreshold": 50,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],

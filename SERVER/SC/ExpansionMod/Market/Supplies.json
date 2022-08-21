@@ -371,6 +371,25 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "MAD_Canister_Outlive",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Canister_Pink",
+                "MAD_Canister_BlackCamo",
+                "MAD_Canister_GreenGeo",
+                "MAD_Canister_GreyGeo",
+                "MAD_Canister_Unicorn",
+                "MAD_Canister_PenisCorn",
+                "MAD_Canister_Base"
+            ]
         }
     ]
 }
