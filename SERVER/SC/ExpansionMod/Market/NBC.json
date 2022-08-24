@@ -49,7 +49,6 @@
                 "MAD_GP5_Gas_Mask_PurpleHexa",
                 "MAD_GP5_Gas_Mask_GreyGeo",
                 "MAD_GP5_Gas_Mask_GreenGeo"
-
             ]
         },
         {
@@ -236,6 +235,17 @@
                 "MAD_NBC_Gloves_GreyGeo",
                 "MAD_NBC_Gloves_GreenGeo"
             ]
+        },
+        {
+            "ClassName": "MAD_Teddy_NBC",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 2,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

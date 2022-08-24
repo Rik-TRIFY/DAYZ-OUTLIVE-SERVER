@@ -1,0 +1,46 @@
+{
+    "ConfigVersion": 3,
+    "ID": 86,
+    "Type": 4,
+    "Title": "86 -  Lebky, lebečky - Skulls",
+    "Descriptions": [
+        "Už se ti stalo, že by se ti podařilo získat lidskou lebku? - Have you ever gotten a human skull?",
+        "Přines mi 3 lebky - Bring me 3 Human Skulls",
+        "Dám ti odměnu. - I will give you a reward."
+    ],
+    "ObjectiveText": "Lebky - Skulls",
+    "PreQuest": 21,
+    "FollowUpQuest": -1,
+    "QuestGiverID": 6,
+    "QuestTurnInID": 6,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 4,
+            "ID": 468,
+            "ObjectiveType": 4,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "MMG_mmps_bag_alpine",
+            "Amount": 1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0
+}

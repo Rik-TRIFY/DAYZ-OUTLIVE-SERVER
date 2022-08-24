@@ -316,8 +316,8 @@
         },
 		{
 			"ClassName": "MMG_supplybag_black",
-			"MaxPriceThreshold": 10000,
-			"MinPriceThreshold": 10000,
+			"MaxPriceThreshold": 15000,
+			"MinPriceThreshold": 15000,
 			"SellPricePercent": 10,
 			"MaxStockThreshold": 1,
 			"MinStockThreshold": 1,
@@ -838,6 +838,57 @@
 				"mmg_gp_nvg_green",
 				"mmg_gp_nvg_grey"
             ]
+        },
+		{
+			"ClassName": "MMG_ballistic_earcover_tan",
+			"MaxPriceThreshold": 5500,
+			"MinPriceThreshold": 5500,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MMG_ballistic_earcover_green",
+				"MMG_ballistic_earcover_black"
+            ]
+        },
+		{
+			"ClassName": "MMG_tactical_visor_tan",
+			"MaxPriceThreshold": 4500,
+			"MinPriceThreshold": 4500,
+			"SellPricePercent": 10,
+			"MaxStockThreshold": 5,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MMG_tactical_visor_green",
+				"MMG_tactical_visor_black"
+            ]
+        },
+		{
+			"ClassName": "MMG_mmps_bag_dark_woodland",
+			"MaxPriceThreshold": 15000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": 20,
+			"MaxStockThreshold": 2,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MMG_mmps_bag_alpine",
+				"MMG_mmps_bag_multicam_tropic",
+				"MMG_mmps_bag_multicamblack",
+				"MMG_mmps_bag_atacs",
+				"MMG_mmps_bag_erdl",
+				"MMG_mmps_bag_multicam",
+				"MMG_mmps_bag_ucp",
+				"MMG_mmps_bag_tan",
+				"MMG_mmps_bag_green",
+				"MMG_mmps_bag_black"
+            ]
         }
+
     ]
 }
