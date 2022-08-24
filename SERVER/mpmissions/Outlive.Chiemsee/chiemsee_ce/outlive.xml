@@ -184,6 +184,20 @@
 		<usage name="Farm" />
 		<value name="" />
 	</type>
+	<type name="MAD_PenisCorn_Barrel">
+		<nominal>0</nominal>
+		<restock>86400</restock>
+		<lifetime>3888000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<value name="" />
+	</type>
     <type name="rf_helipad_kit">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
