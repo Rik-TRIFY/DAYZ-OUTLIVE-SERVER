@@ -1,30 +1,5 @@
 {
-    "m_Version": 3,
-    "StartingClothing": {
-        "EnableCustomClothing": 1,
-        "SetRandomHealth": 1,
-        "Headgear": [],
-        "Glasses": [],
-        "Masks": [],
-        "Tops": [
-            "OUTLIVE_Hoodie"
-        ],
-        "Vests": [],
-        "Gloves": [],
-        "Pants": [
-            "Outlive_Black_CargoPants"
-        ],
-        "Belts": [],
-        "Shoes": [
-            "OUTLIVE_AthleticShoes"
-        ],
-        "Armbands": [],
-        "Backpacks": [
-            "OUTLIVE_DRYBAG"
-        ]
-    },
-    "EnableSpawnSelection": 0,
-    "SpawnOnTerritory": 0,
+    "m_Version": 7,
     "SpawnLocations": [
         {
             "Name": "Woods",
@@ -119,17 +94,37 @@
                     60.72209548950195,
                     8174.6572265625
                 ]
-            ]
+            ],
+            "UseCooldown": 1
         }
     ],
+    "StartingClothing": {
+        "EnableCustomClothing": 1,
+        "SetRandomHealth": 1,
+        "Headgear": [],
+        "Glasses": [],
+        "Masks": [],
+        "Tops": [
+            "OUTLIVE_Hoodie"
+        ],
+        "Vests": [],
+        "Gloves": [],
+        "Pants": [
+            "Outlive_Black_CargoPants"
+        ],
+        "Belts": [],
+        "Shoes": [
+            "OUTLIVE_AthleticShoes"
+        ],
+        "Armbands": [],
+        "Backpacks": [
+            "OUTLIVE_DRYBAG"
+        ]
+    },
+    "EnableSpawnSelection": 0,
+    "SpawnOnTerritory": 0,
     "StartingGear": {
         "EnableStartingGear": 1,
-        "UseUpperGear": 1,
-        "UsePantsGear": 0,
-        "UseBackpackGear": 1,
-        "UseVestGear": 0,
-        "UsePrimaryWeapon": 0,
-        "UseSecondaryWeapon": 0,
         "ApplyEnergySources": 1,
         "SetRandomHealth": 1,
         "UpperGear": [
@@ -139,7 +134,7 @@
                 "Attachments": []
             },
             {
-                "ClassName": "OUTLIVE_EnergyDrink",
+                "ClassName": "Apple",
                 "Quantity": -1,
                 "Attachments": []
             },
@@ -155,7 +150,28 @@
         "PrimaryWeapon": {},
         "SecondaryWeapon": {}
     },
+    "UseLoadouts": 0,
+    "MaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "FemaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
     "SpawnHealthValue": 100.0,
     "SpawnEnergyValue": 2000.0,
-    "SpawnWaterValue": 2000.0
+    "SpawnWaterValue": 2000.0,
+    "EnableRespawnCooldowns": 1,
+    "RespawnCooldown": 120,
+    "TerritoryRespawnCooldown": 240,
+    "PunishMultispawn": 1,
+    "PunishCooldown": 120,
+    "PunishTimeframe": 300,
+    "CreateDeathMarker": 1,
+    "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
 }

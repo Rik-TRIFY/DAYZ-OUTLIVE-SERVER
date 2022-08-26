@@ -1,7 +1,8 @@
 {
-    "m_Version": 7,
-    "TraderName": "Boats",
+    "m_Version": 9,
     "DisplayName": "#STR_EXPANSION_MARKET_TRADER_BOATS",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
     "TraderIcon": "Boat",
     "Currencies": [
         "expansiongoldbar",
@@ -16,25 +17,24 @@
         "Batteries:3"
     ],
     "Items": {
-        "truckbattery": 1,
-        "expansionutilityboat": 1,
-        "ExpansionVodnik": 3,
-        "expansionzodiacboat": 1,
-        "expansionlhd": 3,
-        "headlighth7": 3,
-        "glowplug": 1,
-        "expansioncarkey": 1,
-        "headlighth7_box": 1,
-        "canistergasoline": 1,
-        "OffroadHatchback": 3,
         "ExpansionTractor": 3,
+        "expansionlhd": 3,
+        "OffroadHatchback": 3,
+        "Sedan_02": 3,
+        "Truck_01_Covered": 3,
+        "expansionutilityboat": 1,
+        "ExpansionUAZ": 3,
+        "canistergasoline": 1,
+        "truckbattery": 1,
+        "ExpansionVodnik": 3,
         "hatchback_02": 3,
         "CivilianSedan": 3,
-        "Sedan_02": 3,
+        "expansionzodiacboat": 1,
+        "glowplug": 1,
+        "headlighth7": 3,
+        "expansioncarkey": 1,
+        "headlighth7_box": 1,
         "ExpansionBus": 3,
-        "ExpansionUAZ": 3,
-        "Truck_01_Covered": 3,
         "Expansion_Landrover": 3
-        
-}
+    }
 }

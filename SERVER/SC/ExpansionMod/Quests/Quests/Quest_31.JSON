@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 31,
     "Type": 2,
     "Title": "31 - Medvídek sem, medvídek tam...",
@@ -40,7 +40,8 @@
     "Rewards": [
         {
             "ClassName": "Msp_Gunwall_Kit",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

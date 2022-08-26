@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 78,
     "Type": 8,
     "Title": "78 - Kemp banditů",
@@ -35,19 +35,23 @@
     "Rewards": [
         {
             "ClassName": "MMG_MK_III_Armor_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_triple_magpouch_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_combatshirt_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_combatpants_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

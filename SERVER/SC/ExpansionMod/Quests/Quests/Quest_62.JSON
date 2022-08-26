@@ -1,9 +1,9 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 62,
     "Type": 4,
     "Title": "62 - Jen růžová to může být!",
-    "Descriptions": [ 
+    "Descriptions": [
         "Dones mi tedy těhle pár věcí a já se ti odměním!"
     ],
     "ObjectiveText": "Růžové není nikdy dost",
@@ -44,13 +44,13 @@
             "ObjectiveText": "",
             "TimeLimit": -1
         }
-
     ],
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "mmg_gp_nvg_grey",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

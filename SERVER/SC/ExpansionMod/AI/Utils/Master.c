@@ -467,7 +467,7 @@ shouldBeMeleeing = true;
 }	
 if (shouldBeMeleeing)	
 {	
-if (distanceSq <= 4.0)	
+if (distanceSq <= 3.24)	
 {	
 wantsRaise = true;	
 }	
@@ -682,13 +682,11 @@ dst.target = unit.GetTarget();
 if (!dst.target) return FAIL;	
 if (unit.IsInMelee()) return FAIL;	
 // we are holding a weapon	
-Weapon weapon;	
+Weapon_Base weapon;	
 if (!Class.CastTo(weapon, unit.GetItemInHands())) return FAIL;	
 // CanRaiseWeapon will return false if there is no line of sight	
 if (!unit.CanRaiseWeapon()) return FAIL;	
-int mi = weapon.GetCurrentMuzzle();	
-if (weapon.IsChamberEmpty(mi)) return FAIL;	
-if (weapon.IsChamberFiredOut(mi)) return FAIL;	
+if (!weapon.Expansion_IsChambered()) return FAIL;	
 if (unit.GetWeaponManager().CanUnjam(weapon)) return FAIL;	
 return SUCCESS;	
 }
@@ -767,11 +765,11 @@ override void OnExit(string Event, bool Aborted, ExpansionState To) {
 unit.OverrideMovementDirection(false, 0);	
 }
 override int OnUpdate(float DeltaTime, int SimulationPrecision) {
-if (!unit.GetWeaponManager()) return EXIT;	
+if (!unit.GetWeaponManager() || unit.IsUnconscious()) return EXIT;	
 if (unit.GetWeaponManager().IsRunning())	
 {	
 time += DeltaTime;	
-if (time > 10)  //! Looks like something went terribly wrong	
+if (time > 12)  //! Looks like something went terribly wrong	
 {	
 EXTrace.Print(true, unit, "Weapon_Reloading - Reloading - timeout");	
 unit.eAI_Unbug("reload");	
@@ -1227,7 +1225,7 @@ unit.RaiseWeapon(false);
 unit.OverrideMovementDirection(false, 0);	
 }
 override int OnUpdate(float DeltaTime, int SimulationPrecision) {
-if (!unit.GetWeaponManager()) return EXIT;	
+if (!unit.GetWeaponManager() || unit.IsUnconscious()) return EXIT;	
 if (unit.GetWeaponManager().IsRunning())	
 {	
 time += DeltaTime;	
@@ -1326,6 +1324,7 @@ unit.eAI_DropItem(bandage);
 }	
 }
 override int OnUpdate(float DeltaTime, int SimulationPrecision) {
+if (unit.IsUnconscious()) return EXIT;	
 if (unit.GetActionManager().GetRunningAction())	
 {	
 time += DeltaTime;	
@@ -1580,15 +1579,12 @@ Class.CastTo(src, _fsm.GetState("ExpansionState"));
 Class.CastTo(dst, _fsm.GetState("Expansion_Master_Weapon_Reloading_State_0"));
 }
 override int Guard() {
-if (GetGame().GetTime() - dst.sub_fsm.last_attempt_time < 5000) return FAIL;	
+if (GetGame().GetTime() - dst.sub_fsm.last_attempt_time < 1000) return FAIL;	
 if (unit.IsInMelee()) return FAIL;	
 if (!Class.CastTo(dst.sub_fsm.weapon, unit.GetItemInHands())) return FAIL;	
 //! Allow sub-FSM to handle destroyed weapon so it gets dropped	
 if (dst.sub_fsm.weapon.IsDamageDestroyed()) return SUCCESS;	
-int mi = dst.sub_fsm.weapon.GetCurrentMuzzle();	
-bool isChamberEmpty = dst.sub_fsm.weapon.IsChamberEmpty(mi);	
-bool isChamberFiredOut = dst.sub_fsm.weapon.IsChamberFiredOut(mi);	
-if (!(isChamberFiredOut || isChamberEmpty)) return FAIL;	
+if (dst.sub_fsm.weapon.Expansion_IsChambered()) return FAIL;	
 if (unit.GetWeaponManager().CanUnjam(dst.sub_fsm.weapon)) return FAIL;	
 // don't move to the state if the action manager is operating	
 if (!unit.GetActionManager() || unit.GetActionManager().GetRunningAction()) return FAIL;	

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 13,
     "Type": 4,
     "Title": "13 - Půl prasete - Half a pig",
@@ -37,7 +37,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldNugget",
-            "Amount": 60
+            "Amount": 60,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

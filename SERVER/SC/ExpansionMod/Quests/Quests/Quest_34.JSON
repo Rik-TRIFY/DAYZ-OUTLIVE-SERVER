@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 34,
     "Type": 4,
     "Title": "34 - RAM",
@@ -35,7 +35,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldNugget",
-            "Amount": 80
+            "Amount": 80,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

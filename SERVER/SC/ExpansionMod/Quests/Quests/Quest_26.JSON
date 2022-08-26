@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 26,
     "Type": 3,
     "Title": "26 - Ztracený obchodník",
@@ -35,11 +35,13 @@
     "Rewards": [
         {
             "ClassName": "TWP_Glock18Honor",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "TWP_Glock18Honor_mag_17Rnd",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

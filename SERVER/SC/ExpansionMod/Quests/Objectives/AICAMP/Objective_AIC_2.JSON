@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 7,
     "ID": 802,
     "ObjectiveType": 8,
     "ObjectiveText": "Bandité se usadili blízko Smugglera a ohrožují ho na životě. Běž mu pomoct a zabij všech 6 banditů.",
@@ -7,40 +7,42 @@
     "AICamp": {
         "Positions": [
             [
-                10092.164063,
-                7.365527,
-                6591.141602
+                10092.1640625,
+                7.365527153015137,
+                6591.1416015625
             ],
             [
-                10127.331055,
-                11.048323,
-                6583.706543
+                10127.3310546875,
+                11.048322677612305,
+                6583.70654296875
             ],
             [
-                10138.425781,
-                10.897593,
-                6580.022949
+                10138.42578125,
+                10.897592544555664,
+                6580.02294921875
             ],
             [
-                10146.550781,
-                9.207243,
-                6583.784180
+                10146.55078125,
+                9.207242965698243,
+                6583.7841796875
             ],
             [
-                10127.331055,
-                11.048323,
-                6583.706543
+                10127.3310546875,
+                11.048322677612305,
+                6583.70654296875
             ],
             [
-                10129.985352,
-                8.921966,
-                6623.607422
+                10129.9853515625,
+                8.921965599060059,
+                6623.607421875
             ]
         ],
         "NPCSpeed": "RUN",
         "NPCMode": "HALT",
         "NPCFaction": "West",
         "NPCLoadoutFile": "BanditLoadout.json",
+        "NPCAccuracyMin": -1.0,
+        "NPCAccuracyMax": -1.0,
         "ClassNames": [
             "eAI_SurvivorM_Mirek",
             "eAI_SurvivorM_Denis",
@@ -78,5 +80,7 @@
         "AllowedWeapons": []
     },
     "MinDistRadius": 50.0,
-    "MaxDistRadius": 150.0
+    "MaxDistRadius": 150.0,
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1
 }

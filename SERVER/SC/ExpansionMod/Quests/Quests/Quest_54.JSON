@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 54,
     "Type": 4,
     "Title": "54 - Pokémon 1+2",
@@ -42,11 +42,13 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldNugget",
-            "Amount": 50
+            "Amount": 50,
+            "Attachments": []
         },
         {
             "ClassName": "ExpansionGoldBar",
-            "Amount": 2
+            "Amount": 2,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

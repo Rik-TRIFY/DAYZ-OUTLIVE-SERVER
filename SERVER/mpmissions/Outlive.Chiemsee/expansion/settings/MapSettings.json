@@ -1,5 +1,5 @@
 {
-    "m_Version": 2,
+    "m_Version": 4,
     "EnableMap": 1,
     "UseMapOnMapItem": 1,
     "ShowPlayerPosition": 1,
@@ -18,17 +18,19 @@
     "ShowDistanceOnServerMarkers": 1,
     "ServerMarkers": [
         {
-          "m_UID": "OUTLIVE_Trader",
-          "m_Visibility": 6,
-          "m_Is3D": 1,
-          "m_Text": "OUTLIVE Trader",
-          "m_IconName": "Trader",
-          "m_Color": -8060815,
-          "m_Position": [
-            4291.59,
-            25.2478,
-            4162.5
-        ]
+            "m_UID": "OUTLIVE_Trader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "OUTLIVE Trader",
+            "m_IconName": "Trader",
+            "m_Color": -8060815,
+            "m_Position": [
+                4291.58984375,
+                25.247800827026368,
+                4162.5
+            ],
+            "m_Locked": 0,
+            "m_Persist": 0
         },
         {
             "m_UID": "OUTLIVE_blacktrader",
@@ -38,40 +40,48 @@
             "m_IconName": "Trader",
             "m_Color": -16777208,
             "m_Position": [
-              9945.55,
-              36.5329,
-              5359.78
-          ]
-          },
-          {
-              "m_UID": "OUTLIVE_huntertrader",
-              "m_Visibility": 6,
-              "m_Is3D": 1,
-              "m_Text": "OUTLIVE Hunter & Fish Trader",
-              "m_IconName": "Trader",
-              "m_Color": -12157176,
-              "m_Position": [
-                7170.67,
+                9945.5498046875,
+                36.532901763916019,
+                5359.77978515625
+            ],
+            "m_Locked": 0,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "OUTLIVE_huntertrader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "OUTLIVE Hunter & Fish Trader",
+            "m_IconName": "Trader",
+            "m_Color": -12157176,
+            "m_Position": [
+                7170.669921875,
                 99.0,
-                8119.34
-            ]
-            },
-            {
-                "m_UID": "OUTLIVE_leteckaskolicka",
-                "m_Visibility": 6,
-                "m_Is3D": 1,
-                "m_Text": "OUTLIVE Airport",
-                "m_IconName": "Helicopter",
-                "m_Color": -1810745,
-                "m_Position": [
-                  7803.18,
-                  99.0,
-                  784.265
-              ]
-              }
-      ],
+                8119.33984375
+            ],
+            "m_Locked": 0,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "OUTLIVE_leteckaskolicka",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "OUTLIVE Airport",
+            "m_IconName": "Helicopter",
+            "m_Color": -1810745,
+            "m_Position": [
+                7803.18017578125,
+                99.0,
+                784.2650146484375
+            ],
+            "m_Locked": 0,
+            "m_Persist": 0
+        }
+    ],
     "EnableHUDCompass": 1,
     "NeedCompassItemForHUDCompass": 1,
     "NeedGPSItemForHUDCompass": 1,
-    "CompassColor": -1
+    "CompassColor": -1,
+    "CreateDeathMarker": 1,
+    "PlayerLocationNotifier": 1
 }

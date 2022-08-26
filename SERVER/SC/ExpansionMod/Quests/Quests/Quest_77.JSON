@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 77,
     "Type": 4,
     "Title": "77 - Pivo",
@@ -35,11 +35,13 @@
     "Rewards": [
         {
             "ClassName": "MMG_tactical_pouch_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_camelback_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

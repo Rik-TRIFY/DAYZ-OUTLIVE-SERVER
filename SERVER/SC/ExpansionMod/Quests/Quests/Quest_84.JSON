@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 84,
     "Type": 9,
     "Title": "84 - Vězeňský Escort - Prisoner Escort",
@@ -37,19 +37,23 @@
     "Rewards": [
         {
             "ClassName": "MAD_CarTent_Wood",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MAD_CarTent_WhiteGeo",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MAD_CarTent_GreyGeo",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MAD_CarTent_BlueGeo",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 1,

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 47,
     "Type": 4,
     "Title": "47 -  Yoshi",
@@ -35,7 +35,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldNugget",
-            "Amount": 60
+            "Amount": 60,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

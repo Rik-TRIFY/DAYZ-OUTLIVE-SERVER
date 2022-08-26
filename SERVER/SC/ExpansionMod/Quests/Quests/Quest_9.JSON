@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 9,
     "Type": 4,
     "Title": "9 - Kdo si hraje nezlobí - Play a game",
@@ -37,7 +37,8 @@
     "Rewards": [
         {
             "ClassName": "Collectable_Bitcoin",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 8,
     "Type": 4,
     "Title": "8 - Mezi trním se rodí růže - Roses grow among thorns",
@@ -37,11 +37,13 @@
     "Rewards": [
         {
             "ClassName": "MMG_falcon_b1_belt_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_bottle_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

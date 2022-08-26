@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 28,
     "Type": 4,
     "Title": "28 - GPU",
@@ -35,7 +35,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldBar",
-            "Amount": 3
+            "Amount": 3,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

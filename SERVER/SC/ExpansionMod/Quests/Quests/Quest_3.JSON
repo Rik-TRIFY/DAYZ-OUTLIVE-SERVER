@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 3,
     "Type": 3,
     "Title": "3 - Objev nepoznané - Discovery of the unknown",
@@ -37,11 +37,13 @@
     "Rewards": [
         {
             "ClassName": "TWP_P2000BlueGirl",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "TWP_P2000BlueGirl_mag_16Rnd",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

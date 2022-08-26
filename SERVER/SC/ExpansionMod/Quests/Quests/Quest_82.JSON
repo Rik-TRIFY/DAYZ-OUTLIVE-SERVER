@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 82,
     "Type": 4,
     "Title": "82 - Mumie se vrací - Mummy",
@@ -72,7 +72,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldNugget",
-            "Amount": 50
+            "Amount": 50,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

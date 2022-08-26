@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 25,
     "Type": 2,
     "Title": "25 - Neviditelné nebezpečí",
@@ -40,15 +40,18 @@
     "Rewards": [
         {
             "ClassName": "TWP_Cosmetic_Scorpion",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "ExpansionGoldBar",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MAD_Backpack_Black",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

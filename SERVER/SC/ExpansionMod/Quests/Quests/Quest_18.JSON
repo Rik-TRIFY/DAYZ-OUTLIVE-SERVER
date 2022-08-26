@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 18,
     "Type": 4,
     "Title": "18 - Oslava bez alkoholu - Party without alcohol",
@@ -44,7 +44,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldBar",
-            "Amount": 2
+            "Amount": 2,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

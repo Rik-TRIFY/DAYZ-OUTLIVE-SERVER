@@ -1,13 +1,17 @@
 {
-    "m_Version": 6,
+    "m_Version": 8,
     "Enabled": 1,
-    "RespawnTime": 300,
+    "DespawnTime": 600.0,
+    "RespawnTime": 300.0,
     "MinDistRadius": 400.0,
     "MaxDistRadius": 1000.0,
     "DespawnRadius": 1100.0,
+    "AccuracyMin": -1.0,
+    "AccuracyMax": -1.0,
     "ObjectPatrols": [
         {
             "Faction": "West",
+            "Formation": "RANDOM",
             "LoadoutFile": "WestLoadout",
             "NumberOfAI": -3,
             "Behaviour": "ALTERNATE",
@@ -15,16 +19,21 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 20.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "ClassName": "Wreck_UH1Y"
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "EastLoadout",
             "NumberOfAI": -3,
             "Behaviour": "ALTERNATE",
@@ -32,16 +41,21 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 20.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "ClassName": "Wreck_Mi8_Crashed"
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "PoliceLoadout",
             "NumberOfAI": -3,
             "Behaviour": "HALT",
@@ -49,16 +63,21 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 10.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "ClassName": "Land_Wreck_sed01_aban1_police"
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "PoliceLoadout",
             "NumberOfAI": -3,
             "Behaviour": "HALT",
@@ -66,16 +85,21 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 10.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "ClassName": "Land_Wreck_sed01_aban2_police"
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "PoliceLoadout",
             "NumberOfAI": -3,
             "Behaviour": "HALT",
@@ -83,16 +107,21 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 10.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "ClassName": "Land_Wreck_hb01_aban1_police"
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "PoliceLoadout",
             "NumberOfAI": -3,
             "Behaviour": "HALT",
@@ -100,18 +129,23 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 10.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "ClassName": "Land_Wreck_hb01_aban2_police"
         }
     ],
     "Patrols": [
         {
             "Faction": "West",
+            "Formation": "RANDOM",
             "LoadoutFile": "WestLoadout",
             "NumberOfAI": -3,
             "Behaviour": "ALTERNATE",
@@ -119,33 +153,38 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    2408.889893,
-                    29.400200,
-                    7279.649902
+                    2408.889892578125,
+                    29.40019989013672,
+                    7279.64990234375
                 ],
                 [
-                    2426.030762,
-                    29.400177,
-                    7251.519043
+                    2426.03076171875,
+                    29.400177001953126,
+                    7251.51904296875
                 ],
                 [
-                    2430.185791,
-                    29.400177,
-                    7174.684570
+                    2430.185791015625,
+                    29.400177001953126,
+                    7174.6845703125
                 ]
             ]
         },
         {
             "Faction": "West",
+            "Formation": "RANDOM",
             "LoadoutFile": "WestLoadout",
             "NumberOfAI": 1,
             "Behaviour": "HALT",
@@ -153,23 +192,28 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    233.748993,
-                    363.946991,
-                    4819.459961
+                    233.74899291992188,
+                    363.9469909667969,
+                    4819.4599609375
                 ]
             ]
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "EastLoadout",
             "NumberOfAI": -2,
             "Behaviour": "HALT",
@@ -177,23 +221,28 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    89.572998,
-                    395.148010,
-                    5312.270020
+                    89.572998046875,
+                    395.14801025390627,
+                    5312.27001953125
                 ]
             ]
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "EastLoadout",
             "NumberOfAI": -2,
             "Behaviour": "HALT",
@@ -201,23 +250,28 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    312.761993,
-                    408.042999,
-                    5835.919922
+                    312.7619934082031,
+                    408.0429992675781,
+                    5835.919921875
                 ]
             ]
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "EastLoadout",
             "NumberOfAI": -2,
             "Behaviour": "HALT",
@@ -225,23 +279,28 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    553.017029,
-                    458.067993,
-                    7648.720215
+                    553.0170288085938,
+                    458.0679931640625,
+                    7648.72021484375
                 ]
             ]
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "EastLoadout",
             "NumberOfAI": -2,
             "Behaviour": "HALT",
@@ -249,23 +308,28 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    553.017029,
-                    458.067993,
-                    7648.720215
+                    553.0170288085938,
+                    458.0679931640625,
+                    7648.72021484375
                 ]
             ]
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "EastLoadout",
             "NumberOfAI": 1,
             "Behaviour": "HALT",
@@ -273,23 +337,28 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    1356.64,
-                    12.6302,
-                    9912.20215
+                    1356.6400146484376,
+                    12.630200386047364,
+                    9912.2021484375
                 ]
             ]
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "EastLoadout",
             "NumberOfAI": 1,
             "Behaviour": "HALT",
@@ -297,23 +366,28 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    8278.8,
-                    8.208,
-                    784.528
+                    8278.7998046875,
+                    8.208000183105469,
+                    784.5280151367188
                 ]
             ]
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "EastLoadout",
             "NumberOfAI": -5,
             "Behaviour": "HALT",
@@ -321,23 +395,28 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    8155.017029,
-                    1.787993,
-                    3667.720215
+                    8155.01708984375,
+                    1.7879929542541505,
+                    3667.72021484375
                 ]
             ]
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "EastLoadout",
             "NumberOfAI": -3,
             "Behaviour": "HALT",
@@ -345,23 +424,28 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    7924.017029,
-                    2.587993,
-                    3641.720215
+                    7924.01708984375,
+                    2.5879929065704347,
+                    3641.72021484375
                 ]
             ]
         },
         {
             "Faction": "East",
+            "Formation": "RANDOM",
             "LoadoutFile": "EastLoadout",
             "NumberOfAI": -6,
             "Behaviour": "HALT",
@@ -369,18 +453,22 @@
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
             "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    8072.017029,
-                    19.357993,
-                    3859.660215
+                    8072.01708984375,
+                    19.35799217224121,
+                    3859.66015625
                 ]
             ]
         }

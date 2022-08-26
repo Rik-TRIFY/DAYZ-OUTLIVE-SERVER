@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 56,
     "Type": 5,
     "Title": "56 - Zas ta Frída",
@@ -35,7 +35,8 @@
     "Rewards": [
         {
             "ClassName": "Msp_MilitaryCrate_Grey",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

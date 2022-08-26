@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 75,
     "Type": 2,
     "Title": "75 - Polární plyšáci",
@@ -23,7 +23,7 @@
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
-       {
+        {
             "ConfigVersion": 4,
             "ID": 216,
             "ObjectiveType": 2,
@@ -31,18 +31,22 @@
             "TimeLimit": -1
         }
     ],
+    "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "MMG_tactical_shirt_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_striker_helmet_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_double_magpouch_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

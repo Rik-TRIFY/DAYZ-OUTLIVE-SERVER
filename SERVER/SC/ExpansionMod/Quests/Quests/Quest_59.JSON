@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 59,
     "Type": 3,
     "Title": "29 - Hornické nebezpečí",
@@ -35,11 +35,13 @@
     "Rewards": [
         {
             "ClassName": "BookTheArtOfWar",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "Msp_WoodenGunRack_Kit",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

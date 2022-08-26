@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 73,
     "Type": 2,
     "Title": "73 - Zkontoluj laboratoře",
@@ -23,7 +23,7 @@
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
-       {
+        {
             "ConfigVersion": 4,
             "ID": 215,
             "ObjectiveType": 2,
@@ -40,15 +40,18 @@
     "Rewards": [
         {
             "ClassName": "mmg_tactical_gloves_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_tactical_helmet_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_mk5_grenade_pouch_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 68,
     "Type": 4,
     "Title": "68 -  Sbírka telefonů",
@@ -58,13 +58,13 @@
             "ObjectiveText": "",
             "TimeLimit": -1
         }
-
     ],
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "ExpansionGoldBar",
-            "Amount": 3
+            "Amount": 3,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

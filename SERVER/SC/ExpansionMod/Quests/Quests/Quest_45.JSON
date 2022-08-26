@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 45,
     "Type": 4,
     "Title": "45 -  Disketa April",
@@ -35,11 +35,13 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldNugget",
-            "Amount": 50
+            "Amount": 50,
+            "Attachments": []
         },
         {
             "ClassName": "ExpansionGoldBar",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

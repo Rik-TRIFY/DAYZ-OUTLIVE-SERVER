@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 83,
     "Type": 9,
     "Title": "83 - VIPink Escort",
@@ -37,15 +37,18 @@
     "Rewards": [
         {
             "ClassName": "MAD_CarTent_NightSky",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MAD_CarTent_Flamingo",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MAD_CarTent_Unicorn",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 1,

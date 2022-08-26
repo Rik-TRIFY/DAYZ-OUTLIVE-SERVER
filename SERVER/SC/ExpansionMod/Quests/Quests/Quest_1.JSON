@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 1,
     "Type": 5,
     "Title": "1 - Tajná pošta - Secret mail",
@@ -37,11 +37,13 @@
     "Rewards": [
         {
             "ClassName": "TWP_RPK16Tan",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "TWP_RPK16tan_mag_100Rnd",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

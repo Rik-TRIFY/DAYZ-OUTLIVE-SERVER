@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 69,
     "Type": 2,
     "Title": "69 - Samá kráva",
@@ -35,7 +35,8 @@
     "Rewards": [
         {
             "ClassName": "TWP_MiniReaper",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

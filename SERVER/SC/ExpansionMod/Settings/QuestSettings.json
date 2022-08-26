@@ -1,5 +1,5 @@
 {
-    "m_Version": 2,
+    "m_Version": 3,
     "EnableQuests": 1,
     "EnableQuestLogTab": 1,
     "CreateQuestNPCMarkers": 1,
@@ -22,5 +22,11 @@
     "WeeklyQuestResteMinute": 59,
     "DailyQuestResetHour": 8,
     "DailyQuestResetMinute": 0,
-    "UseUTCTime": 1
+    "UseUTCTime": 1,
+    "QuestCooldownTitle": "Quest Cooldown",
+    "QuestCooldownText": "This quest is still on cooldown! Come back in %1",
+    "QuestNotInGroupTitle": "Group Quest",
+    "QuestNotInGroupText": "Group quests can only accepted while in a group!",
+    "QuestNotGroupOwnerTitle": "Group Quest",
+    "QuestNotGroupOwnerText": "Only a group owner can accept and turn-in group quest!"
 }
