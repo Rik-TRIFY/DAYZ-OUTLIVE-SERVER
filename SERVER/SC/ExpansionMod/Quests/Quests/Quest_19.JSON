@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 19,
     "Type": 2,
     "Title": "19 - Zabij 10 infikovaných. - Kill 10 Zmbs.",
@@ -33,7 +33,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldNugget",
-            "Amount": 10
+            "Amount": 10,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

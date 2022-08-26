@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 43,
     "Type": 2,
     "Title": "43 - S tím kempem jsou pořád potíže",
@@ -23,7 +23,7 @@
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
-       {
+        {
             "ConfigVersion": 4,
             "ID": 209,
             "ObjectiveType": 2,
@@ -35,11 +35,13 @@
     "Rewards": [
         {
             "ClassName": "TWP_FRF2BlackDragon",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "TWP_FRF2BlackDragon_mag_10Rnd",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 72,
     "Type": 4,
     "Title": "72 -  Intimní problém",
@@ -30,21 +30,23 @@
             "ObjectiveText": "",
             "TimeLimit": -1
         }
-
     ],
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "MMG_boots_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_facemask_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_sheath_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

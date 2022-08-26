@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 16,
     "Type": 4,
     "Title": "16 - Spánek jako v peřinkách - Sleep like in duvets",
@@ -37,11 +37,13 @@
     "Rewards": [
         {
             "ClassName": "MMG_MK_V_Armor_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_mk5_utility_pouch_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

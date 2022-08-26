@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 53,
     "Type": 4,
     "Title": "53 -  Tetris",
@@ -35,7 +35,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldBar",
-            "Amount": 4
+            "Amount": 4,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

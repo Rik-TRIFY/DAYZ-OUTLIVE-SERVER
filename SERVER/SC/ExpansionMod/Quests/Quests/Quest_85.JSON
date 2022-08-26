@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 85,
     "Type": 4,
     "Title": "85 -  Kožené šití - Leather Sewing",
@@ -53,13 +53,13 @@
             "ObjectiveText": "",
             "TimeLimit": -1
         }
-
     ],
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "OUTLIVE_Backpack_Black",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

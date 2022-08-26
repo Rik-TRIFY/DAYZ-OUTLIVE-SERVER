@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 29,
     "Type": 3,
     "Title": "29 - Prozkoumej letiště",
@@ -35,7 +35,8 @@
     "Rewards": [
         {
             "ClassName": "Mag_CMAG_100Rnd",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

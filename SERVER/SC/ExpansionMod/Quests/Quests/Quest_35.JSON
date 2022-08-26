@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 35,
     "Type": 4,
     "Title": "35 -  Kapesní hodinky",
@@ -35,7 +35,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldNugget",
-            "Amount": 70
+            "Amount": 70,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

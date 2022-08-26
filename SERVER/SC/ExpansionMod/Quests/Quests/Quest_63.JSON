@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 63,
     "Type": 2,
     "Title": "63 - Kaprem po hlavě",
@@ -40,19 +40,23 @@
     "Rewards": [
         {
             "ClassName": "mmg_gp_nvg_green",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "Msp_FishingRodsRack_Kit",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "TWP_Holymackerel",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "ExpansionGoldBar",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

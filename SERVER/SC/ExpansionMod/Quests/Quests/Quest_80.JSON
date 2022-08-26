@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 80,
     "Type": 8,
     "Title": "80 - Kemp banditů",
@@ -35,11 +35,13 @@
     "Rewards": [
         {
             "ClassName": "TWP_M107",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "TWP_M107_mag_15Rnd",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

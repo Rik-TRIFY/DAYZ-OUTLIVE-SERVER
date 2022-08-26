@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 51,
     "Type": 4,
     "Title": "51 -  SSDv2",
@@ -35,11 +35,13 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldNugget",
-            "Amount": 80
+            "Amount": 80,
+            "Attachments": []
         },
         {
             "ClassName": "ExpansionGoldBar",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 74,
     "Type": 3,
     "Title": "74 - Spadlé letadlo",
@@ -23,7 +23,7 @@
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
-       {
+        {
             "ConfigVersion": 4,
             "ID": 311,
             "ObjectiveType": 3,
@@ -35,15 +35,18 @@
     "Rewards": [
         {
             "ClassName": "mmg_tactical_pants_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "mmg_boonie_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_ammo_pouch_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

@@ -1,9 +1,9 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 21,
     "Type": 4,
     "Title": "21 - Růžová není jenom barva, je to styl!",
-    "Descriptions": [ 
+    "Descriptions": [
         "Věřím v růžovou. Dones mi tedy těhle pár věcí a já se ti odměním!"
     ],
     "ObjectiveText": "Zahrň mě růžovou",
@@ -44,13 +44,13 @@
             "ObjectiveText": "",
             "TimeLimit": -1
         }
-
     ],
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "dog_shed_small_kit",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

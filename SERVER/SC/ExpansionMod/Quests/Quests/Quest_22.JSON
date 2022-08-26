@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 22,
     "Type": 5,
     "Title": "22 - Pozdní Santa",
@@ -35,7 +35,8 @@
     "Rewards": [
         {
             "ClassName": "Msp_Floatie_Unicorn_Rainbow",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

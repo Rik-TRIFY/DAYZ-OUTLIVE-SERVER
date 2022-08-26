@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 20,
     "Type": 2,
     "Title": "20 - Zabij 100 civilních zombíků - Kill 100 civilian Zmbs.",
@@ -33,7 +33,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldNugget",
-            "Amount": 50
+            "Amount": 50,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

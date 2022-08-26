@@ -1,12 +1,12 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 7,
     "Type": 5,
     "Title": "7 - Pomoz Mirkovi - Help Mirek",
     "Descriptions": [
         "Mirek je v nebezpečí. Je v Atom KraftWerk a rozbila se mu maska. -Mirek is in danger. He's in the Atom KraftWerk and his mask is broken.",
         "Dones mu novou. Jistě bude na nějakém vyvýšeném místě, aby měl přístup alespoň k troše čerstvého vzduchu - Here you have a new one! Bring it to him. Surely he will be in some high place to have access to at least some fresh air.",
-        "Mirek ti dá tvou odměnu - Mirek gives you reward."   
+        "Mirek ti dá tvou odměnu - Mirek gives you reward."
     ],
     "ObjectiveText": "Pomoz Mirkovi - Help Mirek",
     "PreQuest": -1,
@@ -37,7 +37,8 @@
     "Rewards": [
         {
             "ClassName": "MMG_nbc_pouch",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

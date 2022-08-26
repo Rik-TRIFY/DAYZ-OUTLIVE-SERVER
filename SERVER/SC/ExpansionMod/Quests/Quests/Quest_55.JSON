@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 55,
     "Type": 2,
     "Title": "55 - Multifunkční vidle",
@@ -40,7 +40,8 @@
     "Rewards": [
         {
             "ClassName": "Lockpick",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

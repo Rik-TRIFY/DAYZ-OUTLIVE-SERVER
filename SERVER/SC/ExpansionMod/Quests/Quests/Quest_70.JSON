@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 70,
     "Type": 4,
     "Title": "70 -  Jednorožčí maso",
@@ -30,13 +30,13 @@
             "ObjectiveText": "",
             "TimeLimit": -1
         }
-
     ],
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "MMG_carrier_backpack_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

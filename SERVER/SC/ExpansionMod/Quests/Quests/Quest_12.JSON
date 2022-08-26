@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 12,
     "Type": 4,
     "Title": "12 - Pozor na trní - CaninaBerry",
@@ -37,7 +37,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldNugget",
-            "Amount": 40
+            "Amount": 40,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

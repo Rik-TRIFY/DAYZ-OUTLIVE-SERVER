@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 15,
     "Type": 3,
     "Title": "15 - Zkontoluj most - Check the bridge",
@@ -37,7 +37,8 @@
     "Rewards": [
         {
             "ClassName": "CP_CannabisBrickNomad",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

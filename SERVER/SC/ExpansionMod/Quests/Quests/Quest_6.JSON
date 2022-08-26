@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 6,
     "Type": 3,
     "Title": "6 - Navštiv Smugglera - Visit Smuggler Trader",
@@ -37,7 +37,8 @@
     "Rewards": [
         {
             "ClassName": "CP_CannabisSeedsPackBlue",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

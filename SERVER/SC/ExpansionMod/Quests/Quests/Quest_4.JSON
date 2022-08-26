@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 4,
     "Type": 3,
     "Title": "4 - Zkontoluj přehradu - Check the dam",
@@ -42,11 +42,13 @@
     "Rewards": [
         {
             "ClassName": "TWP_AR15Aztec_mag_30Rnd",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "TWP_AR15_Aztec",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

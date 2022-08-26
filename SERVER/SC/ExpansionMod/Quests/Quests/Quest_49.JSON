@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 49,
     "Type": 4,
     "Title": "49 -  RetroToy",
@@ -35,7 +35,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldNugget",
-            "Amount": 40
+            "Amount": 40,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

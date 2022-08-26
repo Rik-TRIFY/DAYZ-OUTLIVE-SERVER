@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 79,
     "Type": 9,
     "Title": "79 - VIP Escort",
@@ -35,19 +35,23 @@
     "Rewards": [
         {
             "ClassName": "MMG_operatorshirt_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_JPC_Vest_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_Med_Pouch_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "MMG_supplybag_alpine",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

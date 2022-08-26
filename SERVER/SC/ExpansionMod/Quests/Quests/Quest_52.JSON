@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 52,
     "Type": 4,
     "Title": "52 -  MemoryCard",
@@ -35,7 +35,8 @@
     "Rewards": [
         {
             "ClassName": "ExpansionGoldBar",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

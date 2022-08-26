@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 60,
     "Type": 2,
     "Title": "60 - Řezník",
@@ -40,17 +40,19 @@
     "Rewards": [
         {
             "ClassName": "TWP_AA12Dragon",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "TWP_AA12Dragon_mag_32Rnd",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "Msp_Egg_Pink",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
-
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,

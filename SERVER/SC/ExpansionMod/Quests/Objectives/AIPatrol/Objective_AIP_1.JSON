@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 1,
     "ObjectiveType": 7,
     "ObjectiveText": "Kill all 4 units of the bandit patrol at the marked location",
@@ -12,6 +12,8 @@
         "NPCFaction": "West",
         "NPCFormation": "RANDOM",
         "NPCLoadoutFile": "BanditLoadout.json",
+        "NPCAccuracyMin": -1.0,
+        "NPCAccuracyMax": -1.0,
         "ClassNames": [
             "eAI_SurvivorM_Mirek",
             "eAI_SurvivorM_Denis",
@@ -50,5 +52,6 @@
     },
     "MinDistRadius": 50.0,
     "MaxDistRadius": 150.0,
-    "DespawnRadius": 880.0
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1
 }

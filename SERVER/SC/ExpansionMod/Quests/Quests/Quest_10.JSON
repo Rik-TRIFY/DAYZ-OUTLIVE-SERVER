@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 10,
     "Type": 2,
     "Title": "10 - Řešení je kladivo - The solution is a hammer",
@@ -42,7 +42,8 @@
     "Rewards": [
         {
             "ClassName": "TWP_Mjolnir",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

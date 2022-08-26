@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 42,
     "Type": 3,
     "Title": "42 - Prozkoumej Ted Valley",
@@ -42,7 +42,8 @@
     "Rewards": [
         {
             "ClassName": "TWP_DoomShotgun",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,

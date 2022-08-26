@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3,
+    "ConfigVersion": 4,
     "ID": 41,
     "Type": 5,
     "Title": "41 - Veselo za mřížemi",
@@ -35,11 +35,13 @@
     "Rewards": [
         {
             "ClassName": "NailBox",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         },
         {
             "ClassName": "NailBox",
-            "Amount": 1
+            "Amount": 1,
+            "Attachments": []
         }
     ],
     "NeedToSelectReward": 0,
