@@ -3,7 +3,7 @@
     "DisplayName": "Toxic Trader",
     "MinRequiredHumanity": -9999,
     "MaxRequiredHumanity": 9999,
-    "TraderIcon": "Grenade",
+    "TraderIcon": "Heart",
     "Currencies": [
         "expansiongoldbar",
         "expansiongoldnugget",
@@ -14,7 +14,8 @@
         "Outlive",
         "Teddys_Cosmetics",
         "Teddys_Halloween",
-        "Furnishings"
+        "Furnishings",
+        "Collectible Items"
     ],
     "Items": {
         "GasMask_Filter": 1,
@@ -319,6 +320,22 @@
         "Msp_WaterBarrel_Plastic_Green": 3,
         "Msp_WaterBarrel_Plastic_Red": 3,
         "Msp_WaterBarrel_Plastic_White": 3,
-        "Msp_WaterBarrel_Plastic_Yellow": 3
+        "Msp_WaterBarrel_Plastic_Yellow": 3,
+        "TWP_Coffin": 2,
+        "TWP_GhostBackpack_Angry": 2,
+        "TWP_GhostBackpack_Vampire": 2,
+        "TWP_GhostBackpack_Scared": 2,
+        "MAD_Pink_Barrel": 3,
+        "MAD_Black_Barrel": 3,
+        "OUTLIVE_Barrel": 3,
+        "OUTLIVE_Black_Barrel": 3,
+        "OUTLIVE_White_Barrel": 3,
+        "MAD_Ammo_Barrel": 3,
+        "MAD_Atachment_Barrel": 3,
+        "MAD_Food_Barrel": 3,
+        "MAD_Medic_Barrel": 3,
+        "MAD_Tools_Barrel": 3,
+        "MAD_Clothes_Barrel": 3,
+        "MAD_BarrelHoles": 3
     }
 }
