@@ -161,6 +161,55 @@
                 "MAD_Gloves_Green",
                 "MAD_Gloves_White"
             ]
+        },
+        {
+            "ClassName": "MAD_SmershVest",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 12000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_SmershVest_Pink",
+                "MAD_SmershVest_Blue",
+                "MAD_SmershVest_Grey",
+                "MAD_SmershVest_Purple",
+                "MAD_SmershVest_White",
+                "MAD_SmershVest_WhiteGeo",
+                "MAD_SmershVest_PenisCorn"
+            ]
+        },
+        {
+            "ClassName": "MAD_SmershBag",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_SmershBag_Pink",
+                "MAD_SmershBag_Blue",
+                "MAD_SmershBag_Grey",
+                "MAD_SmershBag_Purple",
+                "MAD_SmershBag_White",
+                "MAD_SmershBag_WhiteGeo",
+                "MAD_SmershBag_PenisCorn"
+            ]
+        },
+        {
+            "ClassName": "MAD_Battery9V",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
