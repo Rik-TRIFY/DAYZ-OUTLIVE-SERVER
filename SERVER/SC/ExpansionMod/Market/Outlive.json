@@ -73,7 +73,9 @@
             "Variants": [
                 "MAD_PlateCarrier",
                 "MAD_Pink_Plate",
-                "MAD_Green_Plate"
+                "MAD_White_Plate",
+                "MAD_Green_Plate",
+                "MAD_Plate_Kryptek"
             ]
         },
         {
@@ -89,7 +91,8 @@
                 "MAD_CarrierPouches_Base",
                 "MAD_CarrierPouches_Pink",
                 "MAD_CarrierPouches_White",
-                "MAD_CarrierPouches_Green"
+                "MAD_CarrierPouches_Green",
+                "MAD_CarrierPouches_Kryptek"
             ]
         },
         {
@@ -105,7 +108,8 @@
                 "MAD_PlateCarrierHolster_Base",
                 "MAD_Holster_Pink",
                 "MAD_Holster_Green",
-                "MAD_Holster_White"
+                "MAD_Holster_White",
+                "MAD_Holster_Kryptek"
             ]
         },
         {
@@ -178,7 +182,8 @@
                 "MAD_SmershVest_Purple",
                 "MAD_SmershVest_White",
                 "MAD_SmershVest_WhiteGeo",
-                "MAD_SmershVest_PenisCorn"
+                "MAD_SmershVest_PenisCorn",
+                "MAD_SmershVest_vz95"
             ]
         },
         {
@@ -197,7 +202,8 @@
                 "MAD_SmershBag_Purple",
                 "MAD_SmershBag_White",
                 "MAD_SmershBag_WhiteGeo",
-                "MAD_SmershBag_PenisCorn"
+                "MAD_SmershBag_PenisCorn",
+                "MAD_SmershBag_vz95"
             ]
         },
         {
@@ -210,6 +216,45 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "MAD_TacticalShirt_vz95",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_TacticalShirt_kryptek"
+            ]
+        },
+        {
+            "ClassName": "MAD_BDUPants_vz95",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_BDUPants_kryptek"
+            ]
+        },
+        {
+            "ClassName": "MAD_BDUJacket_vz95",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_BDUJacket_kryptek"
+            ]
         }
     ]
 }
