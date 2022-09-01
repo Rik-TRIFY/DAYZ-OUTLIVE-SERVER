@@ -128,7 +128,8 @@
             "Variants": [
                 "Shemagh_Green",
                 "Shemagh_Red",
-                "Shemagh_White"
+                "Shemagh_White",
+                "Shemagh_Black"
             ]
         },
         {
@@ -347,6 +348,80 @@
             "SpawnAttachments": [],
             "Variants": [
                 "Skinny_Jeans_Blue"
+            ]
+        },
+        {
+            "ClassName": "Fleece_Grey_Leggings",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Wool_GreatCoat_Navy",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Wool_GreatCoat_Olive",
+                "Wool_GreatCoat_Grey"
+            ]
+        },
+        {
+            "ClassName": "Plague_Mask",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Kirza_Boots",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Defender_Vest_Classic",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Defender_Vest_Black",
+                "Defender_Vest_Green"
+            ]
+        },
+        {
+            "ClassName": "Galife_Pants_Olive",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Galife_Pants_Navy"
             ]
         }
     ]
