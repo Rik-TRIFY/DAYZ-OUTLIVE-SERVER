@@ -2,15 +2,15 @@
     "m_Version": 2,
     "ServerMarkerOnDropLocation": 1,
     "Server3DMarkerOnDropLocation": 1,
-    "ShowAirdropTypeOnMarker": 1,
+    "ShowAirdropTypeOnMarker": 0,
     "HeightIsRelativeToGroundLevel": 1,
     "Height": 450.0,
     "FollowTerrainFraction": 0.5,
     "Speed": 1500.0,
-    "Radius": 1.0,
-    "InfectedSpawnRadius": 50.0,
-    "InfectedSpawnInterval": 250,
-    "ItemCount": 50,
+    "Radius": 50.0,
+    "InfectedSpawnRadius": 100.0,
+    "InfectedSpawnInterval": 60,
+    "ItemCount": 30,
     "Containers": [
         {
             "Container": "ExpansionAirdropContainer",
@@ -1385,7 +1385,7 @@
                 "Animal_CanisLupus_White",
                 "Animal_CanisLupus_White"
             ],
-            "ItemCount": 50,
+            "ItemCount": 30,
             "InfectedCount": 30,
             "SpawnInfectedForPlayerCalledDrops": 0
         },
@@ -2445,7 +2445,7 @@
                 "ZmbM_PatrolNormal_Flat",
                 "ZmbM_PatrolNormal_Summer"
             ],
-            "ItemCount": 50,
+            "ItemCount": 30,
             "InfectedCount": 50,
             "SpawnInfectedForPlayerCalledDrops": 0
         }
