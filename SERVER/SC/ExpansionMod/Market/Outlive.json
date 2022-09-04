@@ -243,7 +243,16 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "MAD_BDUPants_kryptek"
+                "MAD_BDUPants_kryptek",
+                "MAD_BDUPants_SkullRoses",
+                "MAD_BDUPants_SkullRosesII",
+                "MAD_BDUPants_SkullGrey",
+                "MAD_BDUPants_SkullGreen",
+                "MAD_BDUPants_Unicorn",
+                "MAD_BDUPants_BlackHexa",
+                "MAD_BDUPants_SkullBlack",
+                "MAD_BDUPants_Cannabis",
+                "MAD_BDUPants_SkullPink"
             ]
         },
         {
@@ -256,8 +265,64 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "MAD_BDUJacket_kryptek"
+                "MAD_BDUJacket_kryptek",
+                "MAD_BDUJacket_SkullRoses",
+                "MAD_BDUJacket_SkullRosesII",
+                "MAD_BDUJacket_SkullGrey",
+                "MAD_BDUJacket_SkullGreen",
+                "MAD_BDUJacket_Unicorn",
+                "MAD_BDUJacket_BlackHexa",
+                "MAD_BDUJacket_SkullBlack",
+                "MAD_BDUJacket_Cannabis",
+                "MAD_BDUJacket_SkullPink"
             ]
+        },
+        {
+            "ClassName": "MAD_Beard_Pink",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Beard_Black",
+                "MAD_Beard_Purple"
+            ]
+        },
+        {
+            "ClassName": "MAD_Balaclava_Pink",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MAD_SurgicalGloves_Pink",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MAD_SuperBandage_Pink",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
