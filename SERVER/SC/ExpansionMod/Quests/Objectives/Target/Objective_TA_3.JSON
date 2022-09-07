@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 8,
     "ID": 203,
     "ObjectiveType": 2,
     "ObjectiveText": "Zabij 20 infikovaných obyvatel Kraut Inselu.",
@@ -9,7 +9,7 @@
         42.0,
         4378.0
     ],
-    "MaxDistance": 150,
+    "MaxDistance": 150.0,
     "Target": {
         "Amount": 20,
         "ClassNames": [
@@ -91,7 +91,9 @@
             "ZmbM_usSoldier_Heavy_Woodland",
             "ZmbM_usSoldier_Officer_Desert"
         ],
+        "CountSelfKill": 0,
         "SpecialWeapon": 0,
-        "AllowedWeapons": []
+        "AllowedWeapons": [],
+        "ExcludedClassNames": []
     }
 }

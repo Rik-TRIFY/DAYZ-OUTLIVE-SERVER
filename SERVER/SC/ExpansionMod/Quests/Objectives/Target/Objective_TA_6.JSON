@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 8,
     "ID": 206,
     "ObjectiveType": 2,
     "ObjectiveText": "Zabij 100 civilních zombíků",
@@ -79,7 +79,9 @@
             "ZmbF_VillagerOld_Base",
             "ZmbF_VillagerOld_LT_Base"
         ],
+        "CountSelfKill": 0,
         "SpecialWeapon": 0,
-        "AllowedWeapons": []
+        "AllowedWeapons": [],
+        "ExcludedClassNames": []
     }
 }

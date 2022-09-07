@@ -1,0 +1,755 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2022-8-29_18-54-55
+====================================================================================
+18:54:55 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:54:55 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:54:55 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:54:55 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:54:55 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:54:55 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:54:55 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:54:55 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:54:55 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:54:55 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:54:55 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:54:55 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:54:55 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:54:55 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:54:55 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:54:55 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:54:55 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:54:55 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:54:55 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:54:55 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:54:55 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:54:55 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:54:55 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:54:55 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:54:55 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:54:55 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:54:55 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:54:55 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:54:55 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:54:55 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:54:55 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:54:55 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+18:54:55 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:54:55 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:54:55 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:54:55 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:54:55 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:54:55 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:54:55 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:54:55 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:54:55 | Building Sets Loaded: 0
+18:54:55 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+18:54:55 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+18:54:55 | [PermissionManager] Adding Super Admin (76561198016672415)
+18:54:55 | [PermissionManager] Loaded UserGroups.json
+18:54:55 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:54:55 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:54:55 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:54:55 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:58:21 | Player "MADness" (steamId=76561198968762750) connected to server!
+18:58:51 | Player "MADness" (steamId=76561198968762750) connected to server!
+18:59:13 | "MADness" (steamid=76561198968762750) toggled godmode
+18:59:14 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4318.627441, 3.766349, 4173.468750>)
+18:59:16 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4333.336914, 1.756537, 4173.850586>)
+18:59:17 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4343.692871, 1.461475, 4175.411133>)
+18:59:18 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4354.430664, 1.461475, 4178.592285>)
+18:59:29 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4379.579102, 1.440034, 4187.107422>)
+18:59:30 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4372.871094, 1.461475, 4184.924316>)
+18:59:30 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4366.943359, 1.461475, 4182.980469>)
+18:59:30 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4360.507813, 1.461475, 4180.819824>)
+18:59:30 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4354.163086, 1.461475, 4178.781250>)
+18:59:30 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4347.871582, 1.461475, 4176.721680>)
+18:59:31 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4338.627441, 1.488426, 4174.795410>)
+18:59:31 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4330.895508, 2.000258, 4173.715332>)
+19:0:1 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4339.461426, 1.465072, 4173.838379>)
+19:0:2 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4349.914551, 1.461475, 4177.165039>)
+19:0:3 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4360.440430, 1.461475, 4180.728516>)
+19:0:3 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4369.855469, 1.461475, 4183.401855>)
+19:0:3 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4379.164063, 1.440034, 4186.413086>)
+19:0:4 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4388.088379, 1.440034, 4189.770020>)
+19:0:18 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4382.441406, 1.440034, 4187.882324>)
+19:0:18 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4374.000977, 1.461475, 4185.283203>)
+19:0:18 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4368.912109, 1.461475, 4183.718262>)
+19:0:19 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4361.475098, 1.461475, 4181.509277>)
+19:0:19 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4352.566406, 1.461475, 4178.844238>)
+19:0:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4343.408691, 1.461475, 4175.795410>)
+19:0:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4332.979492, 1.793112, 4173.476563>)
+19:0:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4326.562012, 2.907335, 4172.281738>)
+19:0:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4326.480469, 2.927963, 4172.262207>)
+19:0:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4326.395508, 2.949420, 4172.242188>)
+19:0:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4326.319336, 2.968884, 4172.223145>)
+19:0:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4326.240234, 2.988994, 4172.203613>)
+19:0:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4326.169922, 3.006859, 4172.186523>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4326.084961, 3.028407, 4172.167480>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4325.999512, 3.049790, 4172.150391>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4325.233887, 3.240989, 4172.017090>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4322.149902, 3.575204, 4171.483398>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4320.072266, 3.767175, 4171.134766>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4319.766602, 3.793427, 4171.104004>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4319.520508, 3.813967, 4171.086914>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4319.339844, 3.828211, 4171.091309>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4319.139160, 3.843664, 4171.103516>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4318.904785, 3.861396, 4171.123535>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4317.815918, 3.947824, 4170.995605>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4315.017578, 4.173214, 4170.578613>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4313.360840, 4.354889, 4170.346680>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4313.159668, 4.374455, 4170.368164>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4313.003906, 4.389424, 4170.392090>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4312.943848, 4.394546, 4170.424316>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4312.903809, 4.397913, 4170.449219>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4312.902344, 4.397782, 4170.458984>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4312.033691, 4.487082, 4170.367676>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4309.394531, 4.796303, 4170.068848>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4307.886719, 5.054144, 4169.891602>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4307.767090, 5.074871, 4169.875977>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4307.695801, 5.086031, 4169.884277>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4307.735840, 5.075309, 4169.943848>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4307.639160, 5.089039, 4169.973145>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4307.250977, 5.154286, 4169.949219>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4306.963379, 5.202950, 4169.928711>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4306.865723, 5.220062, 4169.913086>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4306.115234, 5.349384, 4169.825195>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4303.891602, 5.709496, 4169.574219>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4302.709961, 5.899971, 4169.465332>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4302.738281, 5.893614, 4169.520996>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4302.618164, 5.911789, 4169.545410>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4302.227051, 5.974573, 4169.515625>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4301.520996, 6.088593, 4169.443359>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4300.020508, 6.327335, 4169.270996>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4299.085449, 6.457588, 4169.168945>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4298.844727, 6.490834, 4169.151855>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4298.519531, 6.535249, 4169.145020>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4297.939453, 6.614061, 4169.148926>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4297.349121, 6.694765, 4169.131836>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4296.744141, 6.778463, 4169.083008>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4295.896484, 6.893574, 4169.002930>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4294.539063, 7.046168, 4168.863281>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4293.584473, 7.153437, 4168.767578>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4293.522461, 7.160413, 4168.769531>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4293.264648, 7.189240, 4168.770996>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4292.795410, 7.241805, 4168.772461>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4292.101074, 7.319678, 4168.744141>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4290.888184, 7.419586, 4168.657715>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4289.497070, 7.473452, 4168.542480>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4288.106934, 7.557276, 4168.401367>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4287.414551, 7.599107, 4168.332520>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4287.187500, 7.612916, 4168.311523>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4287.012695, 7.623461, 4168.293457>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4286.863281, 7.632273, 4168.275879>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4286.727051, 7.640087, 4168.260254>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4286.581055, 7.645758, 4168.242676>)
+19:0:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4286.426758, 7.651769, 4168.225098>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4286.281738, 7.657503, 4168.208496>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4286.141602, 7.663087, 4168.193359>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4285.994141, 7.668890, 4168.176758>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4284.672852, 7.737419, 4168.077637>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4282.034668, 7.944533, 4167.884277>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4280.213379, 8.049075, 4167.747070>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4280.243164, 8.046137, 4167.738770>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4280.247559, 8.045403, 4167.734863>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4280.207520, 8.048376, 4167.737305>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4280.160645, 8.051322, 4167.735840>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4280.107910, 8.053746, 4167.727051>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4279.038086, 8.161982, 4167.635254>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4276.491699, 8.405585, 4167.426758>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4274.736328, 8.558330, 4167.272461>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4274.624512, 8.571848, 4167.247559>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4274.503906, 8.587962, 4167.232422>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4274.415039, 8.598723, 4167.212402>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4274.320801, 8.609878, 4167.189453>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4273.809570, 8.680107, 4167.136719>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4272.332031, 8.875051, 4167.009766>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4271.306152, 8.998112, 4166.918457>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4271.172852, 9.011975, 4166.892578>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4270.537109, 9.084971, 4166.815430>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4269.494141, 9.177077, 4166.693848>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4269.001953, 9.206278, 4166.635742>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4268.776855, 9.219333, 4166.606934>)
+19:0:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4267.319824, 9.325180, 4166.448242>)
+19:0:26 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4240.133789, 9.585202, 4157.124512>)
+19:0:26 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4231.520508, 9.840707, 4152.538574>)
+19:0:27 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4223.947266, 10.352221, 4147.817871>)
+19:0:27 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4217.947266, 11.042933, 4143.816406>)
+19:0:27 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4212.777344, 11.842337, 4140.411621>)
+19:0:28 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4207.237793, 12.801610, 4136.704590>)
+19:0:28 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4199.736816, 14.128164, 4131.943848>)
+19:0:29 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4190.460449, 14.622816, 4127.375000>)
+19:0:50 | "MADness": (steamid=76561198968762750) teleported to (pos=Toxic_Trader)
+19:2:6 | "MADness": (steamid=76561198968762750) teleported to (pos=Lunapark)
+19:2:11 | "MADness": (steamid=76561198968762750) teleported to (pos=NPC_2_Naomi)
+19:3:23 | "MADness": (steamid=76561198968762750) teleported to (pos=Smuggler)
+19:3:40 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<9957.929688, 10.645103, 5356.251465>)
+19:3:40 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<9962.453125, 10.362340, 5359.535156>)
+19:3:42 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<9958.630859, 10.612235, 5357.878906>)
+19:3:43 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<9951.345703, 10.779005, 5354.999023>)
+19:3:43 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<9943.104492, 10.802625, 5353.511719>)
+19:3:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<9924.199219, 8.962601, 5374.957520>)
+19:3:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<9922.386719, 8.561101, 5384.869629>)
+19:3:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<9920.963867, 8.597669, 5393.118164>)
+19:3:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<9918.557617, 8.606216, 5402.385254>)
+19:4:45 | "MADness": (steamid=76561198968762750) teleported to (pos=Flea Trader)
+19:5:17 | [WeatherManager] Send Data Count is 1
+19:5:22 | [Time Manager] Setting Date to 2019/10/19 0:19
+19:5:50 | "MADness": (steamid=76561198968762750) teleported to (pos=Toxic_Trader)
+19:8:40 | [WeatherManager] Send Data Count is 1
+19:8:43 | [Time Manager] Setting Date to 2019/10/19 11:11
+19:9:38 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<661.310974, 3.031823, 2963.132324>)
+19:9:50 | "MADness" (steamid=76561198968762750) Spawned Item: (Chemlight_White)
+19:10:26 | "MADness" (steamid=76561198968762750) Spawned Item: (FBF_FireplaceIgnited)
+19:10:40 | "MADness" (steamid=76561198968762750) deleted object "FBF_FireplaceIgnited" (pos=<659.180908, 3.944980, 2963.131836>)
+19:11:53 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<615.615356, 3.103434, 2943.763916>)
+19:12:49 | "MADness": (steamid=76561198968762750) teleported to (pos=Toxic_Trader)
+19:16:29 | "MADness": (steamid=76561198968762750) teleported to (pos=Lunapark)
+19:16:34 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+19:16:34 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+19:16:35 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+19:20:15 | Player "Agapito" (steamId=76561198885302716) connected to server!
+19:20:33 | Player "Agapito" (steamId=76561198885302716) connected to server!
+19:57:13 | Player "MADness" (steamId=76561198968762750) connected to server!
+19:57:29 | Player "TBW///Miguel" (steamId=76561199014246998) connected to server!
+19:57:35 | Player "MADness" (steamId=76561198968762750) connected to server!
+19:57:38 | "MADness" (steamid=76561198968762750) toggled godmode
+19:57:57 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4281.391113, 8.759599, 4178.181641>)
+19:57:57 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4274.709961, 9.924117, 4183.916504>)
+19:57:58 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<4267.034180, 11.062420, 4190.474609>)
+19:58:8 | "MADness": (steamid=76561198968762750) teleported to (pos=Home 2)
+19:58:29 | Player "TBW///Miguel" (steamId=76561199014246998) connected to server!
+19:59:30 | "MADness" (steamid=76561198968762750) Spawned Item: (MAD_BarrelHoles)
+19:59:40 | "MADness" (steamid=76561198968762750) Spawned Item: (MAD_Static_BarrelHoles)
+20:0:22 | "MADness" (steamid=76561198968762750) Spawned Item: (MAD_Tools_Barrel)
+20:0:23 | "MADness" (steamid=76561198968762750) Spawned Item: (MAD_Medic_Barrel)
+20:0:24 | "MADness" (steamid=76561198968762750) Spawned Item: (MAD_Food_Barrel)
+20:0:26 | "MADness" (steamid=76561198968762750) Spawned Item: (MAD_Atachment_Barrel)
+20:0:27 | "MADness" (steamid=76561198968762750) Spawned Item: (MAD_Ammo_Barrel)
+20:0:28 | "MADness" (steamid=76561198968762750) Spawned Item: (MAD_Ammo2_Barrel)
+20:0:30 | "MADness" (steamid=76561198968762750) Spawned Item: (MAD_Clothes_Barrel)
+20:2:25 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<761.229248, 28.632500, 9756.344727>)
+20:3:4 | "76561198968762750" (steamid=76561198968762750) teleported to (pos=<8201.129883, 19.435560, 4405.069824>)
+20:3:4 | "MADness": (steamid=76561198968762750) teleported to (pos=8201.13,0,4405.07)
+20:3:11 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8216.327148, 22.976116, 4407.421387>)
+20:3:19 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8270.837891, 20.806644, 4417.646973>)
+20:3:29 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8315.436523, 7.953870, 4414.884277>)
+20:3:30 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8315.879883, 8.631170, 4414.054688>)
+20:3:38 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8321.578125, 8.241933, 4415.062500>)
+20:3:40 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8318.163086, 8.652809, 4427.893066>)
+20:3:40 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8316.744141, 9.827005, 4430.614746>)
+20:3:41 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8310.347656, 7.529490, 4442.645508>)
+20:3:45 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8290.816406, 12.616464, 4440.283691>)
+20:4:11 | "MADness" (steamid=76561198968762750) Spawned Item: (Sardines)
+20:4:11 | "MADness" (steamid=76561198968762750) Spawned Item: (Sardines)
+20:4:11 | "MADness" (steamid=76561198968762750) Spawned Item: (Sardines)
+20:4:11 | "MADness" (steamid=76561198968762750) Spawned Item: (Sardines)
+20:4:11 | "MADness" (steamid=76561198968762750) Spawned Item: (Sardines)
+20:4:11 | "MADness" (steamid=76561198968762750) Spawned Item: (Sardines)
+20:6:15 | "MADness" (steamid=76561198968762750) toggled godmode
+20:6:16 | "MADness" (steamid=76561198968762750) toggled godmode
+20:6:21 | "76561198968762750" (steamid=76561198968762750) teleported to (pos=<847.780029, 52.388142, 2843.409912>)
+20:6:21 | "MADness": (steamid=76561198968762750) teleported to (pos=847.78,0,2843.41)
+20:8:24 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<847.984863, 69.404182, 2943.559570>)
+20:8:24 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<847.518372, 69.132835, 2955.717529>)
+20:8:30 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<794.499695, 69.954597, 2991.974609>)
+20:8:31 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<762.071472, 72.371658, 3009.912598>)
+20:8:33 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<744.676025, 78.844620, 3015.973877>)
+20:9:30 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<713.772034, 13.733249, 2970.545898>)
+20:9:31 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<708.851563, 10.736943, 2957.542969>)
+20:9:31 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<706.221741, 8.828281, 2949.131104>)
+20:9:31 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<704.204041, 7.325861, 2942.490479>)
+20:9:31 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<702.147278, 5.777694, 2935.639648>)
+20:9:32 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<700.181946, 4.302603, 2929.114014>)
+20:9:32 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<697.565552, 2.780900, 2920.897949>)
+20:10:8 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+20:10:48 | Player "MADness" (steamId=76561198968762750) connected to server!
+20:11:5 | Player "MADness" (steamId=76561198968762750) connected to server!
+20:11:12 | "MADness" (steamid=76561198968762750) toggled godmode
+20:11:52 | "76561198968762750" (steamid=76561198968762750) teleported to (pos=<830.973999, 63.002506, 2885.879883>)
+20:11:52 | "MADness": (steamid=76561198968762750) teleported to (pos=830.974,0,2885.88)
+20:12:0 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<837.240845, 56.638351, 2860.686279>)
+20:12:1 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<842.121094, 54.694427, 2850.904297>)
+20:12:52 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<844.401062, 53.067787, 2844.753174>)
+20:12:52 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<839.642090, 55.402939, 2853.344482>)
+20:12:52 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<832.535095, 57.619904, 2866.262939>)
+20:12:54 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<835.443115, 61.776649, 2880.914063>)
+20:12:56 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<846.825073, 64.155624, 2901.496826>)
+20:12:57 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<855.889526, 66.018333, 2918.279785>)
+20:13:7 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<744.676025, 78.857872, 3015.164063>)
+20:13:8 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<739.258789, 78.892410, 3017.222900>)
+20:13:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<732.922363, 18.251850, 3012.566650>)
+20:13:35 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<701.483582, 6.034825, 2937.143066>)
+20:13:36 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<693.640503, 3.000691, 2919.427490>)
+20:14:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<654.636169, 2.175607, 2890.953369>)
+20:14:51 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<654.797852, 2.175607, 2882.711182>)
+20:18:42 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<665.342468, 3.031823, 2972.241699>)
+20:18:57 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<664.922485, 4.016962, 2965.052002>)
+20:18:59 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<664.234192, 3.031823, 2961.682617>)
+20:19:4 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+20:19:4 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+20:19:6 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+20:19:53 | Player "MADness" (steamId=76561198968762750) connected to server!
+20:20:10 | Player "MADness" (steamId=76561198968762750) connected to server!
+20:20:15 | "MADness" (steamid=76561198968762750) toggled godmode
+20:20:23 | "MADness": (steamid=76561198968762750) teleported to (pos=Toxic_Trader)
+20:20:30 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<660.669128, 3.935418, 2962.363525>)
+20:20:44 | "MADness" (steamid=76561198968762750) toggled godmode
+20:20:47 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+20:20:47 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+20:20:49 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+20:21:19 | Player "MADness" (steamId=76561198968762750) connected to server!
+20:21:35 | Player "MADness" (steamId=76561198968762750) connected to server!
+20:22:1 | "MADness" (steamid=76561198968762750) toggled godmode
+20:22:15 | "MADness" (steamid=76561198968762750) toggled godmode
+20:22:16 | "MADness" (steamid=76561198968762750) toggled godmode
+20:22:28 | "MADness": (steamid=76561198968762750) teleported to (pos=Kraut Insel)
+20:23:5 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8187.847656, 20.271423, 4362.456055>)
+20:23:5 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8190.402832, 20.959526, 4367.480469>)
+20:23:7 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8195.097656, 20.767088, 4377.542480>)
+20:23:7 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8195.854492, 20.849726, 4379.120605>)
+20:23:10 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8209.680664, 21.248545, 4403.557129>)
+20:23:14 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8228.682617, 18.043179, 4423.521973>)
+20:23:14 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8238.621094, 18.400040, 4427.683105>)
+20:23:19 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<8262.915039, 15.237383, 4437.820801>)
+20:24:24 | "MADness" (steamid=76561198968762750) toggled godmode
+20:24:24 | "MADness" (steamid=76561198968762750) toggled godmode
+20:24:27 | "MADness": (steamid=76561198968762750) teleported to (pos=Toxic_Trader)
+20:24:37 | "MADness": (steamid=76561198968762750) teleported to (pos=Kraut Insel)
+20:25:24 | "76561198968762750" (steamid=76561198968762750) teleported to (pos=<829.158997, 68.767426, 3018.459961>)
+20:25:24 | "MADness": (steamid=76561198968762750) teleported to (pos=829.159,0,3018.46)
+20:25:29 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<822.475403, 68.599586, 3030.710205>)
+20:25:41 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<806.525452, 66.673950, 3048.949463>)
+20:25:41 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<798.227356, 65.311768, 3055.683105>)
+20:25:42 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<791.507385, 64.729210, 3060.749512>)
+20:25:42 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<783.603333, 64.033043, 3065.886475>)
+20:25:43 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<775.509277, 62.834408, 3070.748291>)
+20:25:43 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<773.491882, 62.469494, 3071.808594>)
+20:25:45 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<777.317810, 63.273720, 3068.085449>)
+20:25:45 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<782.718445, 64.059975, 3064.609619>)
+20:25:45 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<789.306335, 64.706352, 3059.789063>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<795.260254, 65.075531, 3054.929443>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<800.430298, 65.695259, 3050.585449>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<800.496704, 65.706596, 3050.531006>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<800.565125, 65.718208, 3050.476563>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<800.637024, 65.730408, 3050.419922>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<800.708984, 65.742584, 3050.364502>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<800.790894, 65.756409, 3050.302002>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<800.864685, 65.768845, 3050.246826>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<801.611633, 65.883789, 3049.622070>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<803.341797, 66.130562, 3048.166016>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<804.550354, 66.302986, 3047.154297>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<804.669006, 66.319946, 3047.067139>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<804.776978, 66.335411, 3046.986816>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<804.878479, 66.349915, 3046.909668>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<804.965637, 66.362381, 3046.843018>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<805.046326, 66.377136, 3046.780762>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<806.058777, 66.592430, 3045.936768>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<807.472229, 66.890068, 3044.754395>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<808.270813, 67.051956, 3044.091309>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<808.335266, 67.065170, 3044.046875>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<808.435852, 67.085701, 3043.970703>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<808.567444, 67.112434, 3043.866455>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<808.682678, 67.135803, 3043.770996>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<808.778625, 67.155121, 3043.684570>)
+20:25:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<809.390930, 67.279091, 3043.167236>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<811.471802, 67.585876, 3041.423096>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<812.342651, 67.694183, 3040.680420>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<812.481506, 67.711006, 3040.535889>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<812.590210, 67.724213, 3040.421875>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<812.661804, 67.732880, 3040.346924>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<812.801819, 67.749916, 3040.204102>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<813.134155, 67.781410, 3039.870850>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<814.219971, 67.847519, 3038.897217>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<815.955139, 67.963554, 3037.373535>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<816.739441, 68.018318, 3036.678711>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<816.761780, 68.018929, 3036.647461>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<816.783264, 68.018333, 3036.604492>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<816.808655, 68.016121, 3036.535400>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<817.359314, 68.046341, 3035.952148>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<817.960815, 68.080391, 3035.326904>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<818.737244, 68.146111, 3034.593262>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<819.671509, 68.241631, 3033.741211>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<820.207458, 68.302391, 3033.212891>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<820.182861, 68.294662, 3033.146240>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<820.170349, 68.289566, 3033.088135>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<820.170715, 68.286873, 3033.030518>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<820.535278, 68.333420, 3032.602783>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<821.237488, 68.425858, 3031.836670>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<821.958008, 68.523262, 3031.104004>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<822.605530, 68.613434, 3030.500000>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<822.971191, 68.661057, 3030.090820>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<822.944458, 68.650238, 3029.973145>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<822.950684, 68.645111, 3029.865234>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<822.993042, 68.648865, 3029.795410>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<823.385559, 68.694763, 3029.341797>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<824.281433, 68.801254, 3028.335205>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<824.809875, 68.863037, 3027.724121>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<824.890137, 68.870346, 3027.596436>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<825.118469, 68.888649, 3027.289551>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<825.538818, 68.913574, 3026.748047>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<825.853760, 68.929482, 3026.294678>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<825.973022, 68.930359, 3026.033936>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<826.386108, 68.952576, 3025.462891>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<827.557251, 69.012100, 3024.046631>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<827.603455, 69.012917, 3023.974121>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<827.767456, 69.018066, 3023.746338>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<828.078491, 69.028305, 3023.321289>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<828.349915, 69.036621, 3022.942871>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<828.655273, 69.041588, 3022.457031>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<828.938721, 69.046242, 3022.006592>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<829.082703, 69.049652, 3021.791992>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<829.154785, 69.052711, 3021.703125>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<829.451843, 69.065216, 3021.333984>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<830.052490, 69.087952, 3020.587158>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<830.689026, 69.075401, 3019.739746>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<831.128113, 69.053558, 3019.088867>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<831.550476, 69.027672, 3018.410645>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<831.804199, 69.003014, 3017.909424>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<831.940857, 68.982689, 3017.564941>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<831.946411, 68.965408, 3017.375977>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<832.137695, 68.944572, 3016.974365>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<832.532654, 68.920929, 3016.351074>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<833.079590, 68.884598, 3015.450439>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<833.673889, 68.871132, 3014.452393>)
+20:25:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<833.988464, 68.870857, 3013.802002>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<834.108887, 68.858688, 3013.274902>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<834.280823, 68.852440, 3012.778320>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<834.522095, 68.851006, 3012.251465>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<834.678955, 68.848801, 3011.879639>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<834.704712, 68.845802, 3011.757324>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<835.015991, 68.844223, 3011.111328>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<835.733337, 68.797356, 3009.689941>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<836.049011, 68.781754, 3009.040527>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<836.102966, 68.777603, 3008.887207>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<836.320251, 68.753937, 3008.247070>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<836.657532, 68.716957, 3007.248291>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<836.890076, 68.691719, 3006.564941>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<836.917480, 68.689774, 3006.506104>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<837.323669, 68.662315, 3005.661621>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<837.770508, 68.625221, 3004.730469>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<838.248047, 68.543182, 3003.398193>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<838.912231, 68.430649, 3001.566162>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<838.959351, 68.424896, 3001.467041>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<839.013184, 68.418175, 3001.351318>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<839.110168, 68.406357, 3001.147217>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<839.361023, 68.375565, 3000.623779>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<839.602905, 68.333618, 3000.087402>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<839.959839, 68.305214, 2999.214600>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<840.352539, 68.260521, 2998.250244>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<840.670166, 68.218414, 2997.392090>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<841.030151, 68.170692, 2996.419189>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<841.102478, 68.163536, 2996.268311>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<841.319702, 68.140518, 2995.787109>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<841.861694, 68.111649, 2994.556152>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<842.335876, 68.135338, 2993.324707>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<842.812622, 68.149391, 2992.059082>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<842.894775, 68.142357, 2991.833984>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<842.922058, 68.139687, 2991.753906>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<843.007813, 68.135078, 2991.560547>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<843.101685, 68.130203, 2991.351563>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<843.484192, 68.104836, 2990.415527>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<843.883545, 68.150887, 2989.433594>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<844.117676, 68.209572, 2988.851807>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<844.144287, 68.217033, 2988.773438>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<844.173035, 68.225037, 2988.689209>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<844.328857, 68.267784, 2988.243408>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<844.495911, 68.313614, 2987.765625>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<844.637939, 68.349701, 2987.405273>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<844.796997, 68.388390, 2987.029053>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<844.997681, 68.437477, 2986.549316>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<845.280762, 68.497246, 2985.847412>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<845.604431, 68.565430, 2985.045654>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<845.678162, 68.584564, 2984.871582>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<845.742310, 68.602180, 2984.723145>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<845.883789, 68.647682, 2984.327148>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<846.069702, 68.706223, 2983.806641>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<846.258484, 68.757027, 2983.354492>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<846.494934, 68.819832, 2982.797852>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<846.729919, 68.883217, 2982.233154>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<846.999146, 68.956131, 2981.583008>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<847.250671, 69.026169, 2980.953125>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<847.463501, 69.087753, 2980.393066>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<847.612244, 69.130081, 2980.009521>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<847.663330, 69.137299, 2979.894775>)
+20:25:48 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<847.709656, 69.143356, 2979.788818>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<847.755676, 69.149452, 2979.680664>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<848.108154, 69.197205, 2978.819580>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<848.791626, 69.289948, 2977.144775>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<849.224915, 69.348846, 2976.079346>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<849.263428, 69.354271, 2975.978027>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<849.302124, 69.359856, 2975.871826>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<849.343323, 69.365990, 2975.752197>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<849.383057, 69.371910, 2975.636475>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<849.420044, 69.376106, 2975.530029>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<849.669922, 69.397797, 2974.903076>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<850.247314, 69.392616, 2973.476563>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<850.692017, 69.369270, 2972.370850>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<850.995789, 69.352974, 2971.602783>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<851.185791, 69.342743, 2971.121094>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<851.240295, 69.339714, 2970.979736>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<851.288086, 69.336830, 2970.847168>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<851.345093, 69.333145, 2970.679688>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<851.968506, 69.308479, 2969.120117>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<852.543457, 69.291885, 2967.694580>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<852.783203, 69.284843, 2967.095703>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<852.978088, 69.279060, 2966.608643>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<853.056824, 69.276848, 2966.419922>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<853.095825, 69.275925, 2966.335449>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<853.150574, 69.274300, 2966.198730>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<853.232361, 69.271698, 2965.984863>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<853.593445, 69.261017, 2965.084717>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<854.291321, 69.238243, 2963.357910>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<854.716736, 69.224457, 2962.313721>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<854.877625, 69.219543, 2961.935547>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<854.981750, 69.216454, 2961.692383>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<855.028076, 69.214996, 2961.587891>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<855.159546, 69.210236, 2961.264893>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<855.355347, 69.202957, 2960.774902>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<855.478088, 69.198387, 2960.467285>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<855.514465, 69.197037, 2960.376221>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<855.824890, 69.182495, 2959.615967>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<856.523193, 69.149986, 2957.907227>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<856.922852, 69.134636, 2956.923828>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<856.963135, 69.132896, 2956.812500>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<857.067078, 69.128654, 2956.539551>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<857.251770, 69.121223, 2956.062744>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<857.410950, 69.114853, 2955.653564>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<857.584839, 69.107925, 2955.209961>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<857.935852, 69.076012, 2954.330566>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<858.557312, 69.009949, 2952.787354>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<858.928650, 68.970345, 2951.861816>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<858.969666, 68.965683, 2951.752930>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<859.055176, 68.955269, 2951.509033>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<859.210510, 68.935913, 2951.055664>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<859.398254, 68.915367, 2950.532227>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<859.625122, 68.894135, 2949.924072>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<860.030151, 68.794083, 2948.868652>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<860.543152, 68.667213, 2947.541748>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<860.893555, 68.579330, 2946.620605>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<861.027344, 68.543884, 2946.246582>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<861.190796, 68.500412, 2945.787354>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<861.407471, 68.442673, 2945.177490>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<861.547363, 68.393402, 2944.795898>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<861.591003, 68.377808, 2944.699463>)
+20:25:49 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<861.891785, 68.253197, 2943.918701>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<862.558289, 67.977699, 2942.166260>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<863.077148, 67.767738, 2940.770020>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<863.358154, 67.648033, 2939.975098>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<863.550293, 67.547714, 2939.434814>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<863.530823, 67.558380, 2939.492432>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<863.606689, 67.521545, 2939.295410>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<863.834229, 67.409050, 2938.692627>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<864.327942, 67.161148, 2937.362061>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<865.182983, 66.735489, 2935.047363>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<865.519287, 66.646561, 2934.130615>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<865.512512, 66.646927, 2934.133789>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<865.535095, 66.639473, 2934.053711>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<865.602356, 66.619904, 2933.843506>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<865.975891, 66.523544, 2932.814453>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<866.766663, 66.321793, 2930.660645>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<866.949951, 66.272018, 2930.128174>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<866.948059, 66.267929, 2930.082275>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<867.052002, 66.230789, 2929.768555>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<867.174072, 66.184715, 2929.406982>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<867.364319, 66.105598, 2928.784180>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<867.544067, 66.030067, 2928.189697>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<867.946289, 65.855003, 2926.831787>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<868.319580, 65.685715, 2925.581299>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<868.149353, 65.694862, 2925.651367>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<868.092102, 65.681984, 2925.557373>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<868.334351, 65.534821, 2924.563232>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<868.446350, 65.419449, 2923.861084>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<868.360657, 65.396912, 2923.725342>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<868.441895, 65.261795, 2922.903564>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<868.660583, 65.025482, 2921.465332>)
+20:25:50 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<868.597656, 64.900795, 2920.728760>)
+20:25:51 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<863.894958, 64.329460, 2913.749512>)
+20:25:51 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<859.060181, 64.080315, 2908.963379>)
+20:25:51 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<853.985779, 63.740940, 2903.882080>)
+20:25:52 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<849.382874, 63.537296, 2898.087646>)
+20:25:52 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<846.156372, 63.211823, 2893.306885>)
+20:25:53 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<842.418945, 62.823967, 2885.246826>)
+20:27:4 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+20:27:23 | Player "MADness" (steamId=76561198968762750) connected to server!
+20:27:37 | Player "MADness" (steamId=76561198968762750) connected to server!
+20:27:40 | "MADness" (steamid=76561198968762750) toggled godmode
+20:28:44 | "MADness" (steamid=76561198968762750) Spawned Item: (MAD_Static_Barrel)
+20:32:23 | "MADness" (steamid=76561198968762750) deleted object "HumanSteakMeat" (pos=<852.217651, 49.438084, 2830.483398>)
+20:32:26 | "MADness" (steamid=76561198968762750) deleted object "Bone" (pos=<852.205688, 49.411934, 2830.417480>)
+20:32:30 | "MADness" (steamid=76561198968762750) deleted object "HumanSteakMeat" (pos=<852.150818, 49.449291, 2830.387939>)
+20:32:33 | "MADness" (steamid=76561198968762750) deleted object "HumanSteakMeat" (pos=<851.888550, 49.563847, 2830.542480>)
+20:32:35 | "MADness" (steamid=76561198968762750) deleted object "HumanSteakMeat" (pos=<852.012756, 49.512108, 2830.492920>)
+20:32:39 | "MADness" (steamid=76561198968762750) deleted object "HumanSteakMeat" (pos=<852.131714, 49.547523, 2830.763916>)
+20:32:53 | "MADness" (steamid=76561198968762750) deleted object "Guts" (pos=<852.564941, 49.515244, 2830.992188>)
+20:32:54 | "MADness" (steamid=76561198968762750) deleted object "HumanSteakMeat" (pos=<852.505615, 49.466469, 2830.873047>)
+20:32:55 | "MADness" (steamid=76561198968762750) deleted object "HumanSteakMeat" (pos=<852.451782, 49.483204, 2831.102783>)
+20:32:58 | "MADness" (steamid=76561198968762750) deleted object "Bone" (pos=<852.559448, 49.501366, 2831.123779>)
+20:33:1 | "MADness" (steamid=76561198968762750) deleted object "HumanSteakMeat" (pos=<852.212585, 49.578373, 2831.044189>)
+20:33:4 | "MADness" (steamid=76561198968762750) deleted object "Lard" (pos=<852.316772, 49.544018, 2831.077393>)
+20:33:8 | "MADness" (steamid=76561198968762750) deleted object "HumanSteakMeat" (pos=<852.538513, 49.471035, 2831.011230>)
+20:33:11 | "MADness" (steamid=76561198968762750) deleted object "HumanSteakMeat" (pos=<852.140076, 49.512241, 2830.899414>)
+20:33:44 | "76561198968762750" (steamid=76561198968762750) teleported to (pos=<7228.089844, 35.714119, 7407.680176>)
+20:33:44 | "MADness": (steamid=76561198968762750) teleported to (pos=7228.09,0,7407.68)
+20:33:51 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7230.005371, 35.929352, 7425.347168>)
+20:33:51 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7230.531250, 35.894764, 7432.456543>)
+20:33:52 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7231.051758, 35.738499, 7439.567871>)
+20:33:52 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7231.521484, 35.720005, 7446.479004>)
+20:33:52 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7231.963867, 35.768402, 7452.769531>)
+20:33:52 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.462402, 35.839310, 7459.452637>)
+20:33:53 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.957031, 35.897499, 7466.730957>)
+20:33:53 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.500977, 35.922005, 7474.559570>)
+20:34:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.208008, 35.897114, 7466.430664>)
+20:34:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.430176, 35.814606, 7457.097168>)
+20:34:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7231.737793, 35.735104, 7447.771973>)
+20:34:20 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7231.039551, 35.761410, 7438.450195>)
+20:34:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7231.448242, 35.925316, 7430.522949>)
+20:34:21 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.071289, 35.963634, 7423.934570>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.938965, 35.884087, 7414.409668>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.948242, 35.884563, 7414.251465>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.953613, 35.884781, 7414.188965>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.959473, 35.885025, 7414.122070>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.964844, 35.885235, 7414.062012>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.973145, 35.885540, 7413.988281>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.979980, 35.885788, 7413.924316>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.989746, 35.886101, 7413.849609>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.002930, 35.886551, 7413.745605>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.016113, 35.886990, 7413.651367>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.030762, 35.887451, 7413.549805>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.045898, 35.887920, 7413.447754>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.062012, 35.888443, 7413.333984>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.078125, 35.888958, 7413.224121>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.093750, 35.889458, 7413.112793>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.109375, 35.889965, 7412.999512>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.124023, 35.890438, 7412.889648>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.137695, 35.890903, 7412.789063>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.149902, 35.891293, 7412.698730>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.161133, 35.891689, 7412.607910>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.170410, 35.891998, 7412.527344>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.178223, 35.892323, 7412.439453>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.186035, 35.892639, 7412.354492>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.192871, 35.892960, 7412.254883>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.199219, 35.893269, 7412.153320>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.205078, 35.893612, 7412.040039>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.208984, 35.893929, 7411.921387>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.213379, 35.894230, 7411.804688>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.218750, 35.895473, 7411.671875>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.224609, 35.896736, 7411.551758>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.235352, 35.898876, 7411.348145>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.241211, 35.899963, 7411.245605>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.246094, 35.900970, 7411.150391>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.252930, 35.901932, 7411.061035>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.324707, 35.911167, 7410.208984>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.623047, 35.922653, 7406.788574>)
+20:34:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7234.247070, 35.973381, 7400.016113>)
+20:34:23 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7234.506348, 35.980614, 7387.146484>)
+20:34:24 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7234.500000, 35.810989, 7377.908203>)
+20:34:24 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7234.478027, 35.495838, 7368.406738>)
+20:34:24 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7234.420410, 34.876953, 7357.406250>)
+20:34:24 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7234.407715, 33.891682, 7345.063965>)
+20:34:24 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7234.302246, 33.294842, 7334.293457>)
+20:34:25 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7234.229004, 33.022984, 7324.842773>)
+20:34:25 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7234.166016, 33.020756, 7316.186523>)
+20:34:25 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7234.070801, 33.370338, 7309.450684>)
+20:34:25 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7233.119629, 33.851604, 7300.895996>)
+20:34:26 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7231.806152, 34.256638, 7292.770996>)
+20:34:26 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7231.253418, 34.669556, 7284.932617>)
+20:34:26 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7231.254883, 35.028973, 7279.152344>)
+20:34:26 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7231.251953, 35.319145, 7273.221191>)
+20:34:27 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7231.271973, 35.753338, 7264.423340>)
+20:34:46 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7226.798340, 36.137558, 7250.649902>)
+20:34:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7224.087402, 36.268967, 7245.471680>)
+20:34:47 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7221.509766, 36.277996, 7240.493164>)
+20:35:8 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7216.078125, 36.256977, 7236.163086>)
+20:35:9 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7216.597168, 36.306793, 7243.349121>)
+20:35:9 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7216.699707, 36.277103, 7250.506836>)
+20:38:33 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7217.878418, 34.329033, 7297.596191>)
+20:38:34 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7219.029297, 33.408295, 7312.727539>)
+20:38:35 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7221.746094, 33.016174, 7323.902344>)
+20:38:37 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7234.251953, 33.959431, 7346.092285>)
+20:38:38 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7238.523438, 34.604931, 7353.784180>)
+20:38:38 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7242.740234, 35.163219, 7361.423340>)
+20:38:38 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7246.784668, 35.679604, 7368.830078>)
+20:38:38 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7249.937988, 36.600231, 7374.491211>)
+20:38:39 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7252.065430, 38.596321, 7378.376953>)
+20:38:40 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7260.155273, 43.040287, 7389.573242>)
+20:38:41 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7264.737793, 44.680950, 7395.661133>)
+20:38:41 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7265.420410, 44.950184, 7396.718262>)
+20:38:41 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7266.416016, 45.307297, 7398.039063>)
+20:38:41 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7270.634277, 46.787434, 7403.604492>)
+20:38:42 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7275.104980, 48.161938, 7409.385742>)
+20:38:43 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7281.007813, 48.994495, 7419.056152>)
+20:38:43 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7283.688965, 49.104176, 7425.103027>)
+20:38:43 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7286.433594, 49.130245, 7431.419922>)
+20:38:44 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7288.929199, 49.254417, 7438.846680>)
+20:39:14 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7280.306641, 48.934811, 7419.284668>)
+20:39:14 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7277.549805, 48.613071, 7411.699707>)
+20:39:15 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7273.812500, 47.371479, 7403.486328>)
+20:39:15 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7269.435059, 45.775558, 7395.508301>)
+20:39:15 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7265.296387, 44.239758, 7388.620605>)
+20:39:16 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7260.785645, 42.535099, 7381.321289>)
+20:39:17 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7245.647461, 34.917324, 7356.771484>)
+20:39:18 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7241.105469, 34.178875, 7348.835938>)
+20:39:18 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7237.968262, 33.788506, 7343.041016>)
+20:39:18 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7234.923340, 33.443062, 7337.494141>)
+20:39:19 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7232.167969, 33.027233, 7327.436523>)
+20:39:19 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7230.288086, 32.922394, 7319.023438>)
+20:39:26 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7209.118164, 35.760704, 7275.845703>)
+20:39:26 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7203.668457, 36.046902, 7268.940430>)
+20:39:28 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7191.920898, 36.057175, 7255.998047>)
+20:42:22 | "MADness" (steamid=76561198968762750) teleported to crosshair (pos=<7122.824219, 31.796772, 7186.670410>)
+20:43:29 | "MADness": (steamid=76561198968762750) teleported to (pos=Lunapark)
+20:43:55 | Player "MADness" (steamId=76561198968762750) disconnected from server.
+21:58:53 | Player "Agapito" (steamId=76561198885302716) disconnected from server.
+21:58:53 | Player "Agapito" (steamId=76561198885302716) disconnected from server.
+21:58:56 | Player "TBW///Miguel" (steamId=76561199014246998) disconnected from server.
+21:58:56 | Player "TBW///Miguel" (steamId=76561199014246998) disconnected from server.

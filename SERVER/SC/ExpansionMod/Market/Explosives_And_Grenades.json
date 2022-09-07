@@ -1,15 +1,16 @@
 {
-    "m_Version": 9,
+    "m_Version": 11,
     "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EXPLOSIVES & #STR_EXPANSION_MARKET_CATEGORY_GRENADES",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
+    "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
         {
             "ClassName": "rgd5grenade",
             "MaxPriceThreshold": 700,
             "MinPriceThreshold": 700,
-            "SellPricePercent": 50,
+            "SellPricePercent": 50.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -20,7 +21,7 @@
             "ClassName": "m67grenade",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 600,
-            "SellPricePercent": 50,
+            "SellPricePercent": 50.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -31,7 +32,7 @@
             "ClassName": "flashgrenade",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 800,
-            "SellPricePercent": 50,
+            "SellPricePercent": 50.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -42,7 +43,7 @@
             "ClassName": "m18smokegrenade_red",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
-            "SellPricePercent": 100,
+            "SellPricePercent": 100.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -58,7 +59,7 @@
             "ClassName": "expansion_m18smokegrenade_teargas",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 600,
-            "SellPricePercent": 100,
+            "SellPricePercent": 100.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -69,7 +70,7 @@
             "ClassName": "rdg2smokegrenade_black",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,
-            "SellPricePercent": 50,
+            "SellPricePercent": 50.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -82,7 +83,7 @@
             "ClassName": "expansionsatchel",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
-            "SellPricePercent": 50,
+            "SellPricePercent": 50.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -93,7 +94,7 @@
             "ClassName": "BearTrap",
             "MaxPriceThreshold": 4000,
             "MinPriceThreshold": 4000,
-            "SellPricePercent": 50,
+            "SellPricePercent": 50.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -104,7 +105,7 @@
             "ClassName": "LandMineTrap",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,
-            "SellPricePercent": 30,
+            "SellPricePercent": 30.0,
             "MaxStockThreshold": 8,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -115,7 +116,7 @@
             "ClassName": "ammo_Expansion_M203_Smoke_White",
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1500,
-            "SellPricePercent": 30,
+            "SellPricePercent": 30.0,
             "MaxStockThreshold": 8,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -131,7 +132,7 @@
             "ClassName": "ammo_Expansion_M203_Sticky_Smoke_White",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 2000,
-            "SellPricePercent": 30,
+            "SellPricePercent": 30.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -147,67 +148,62 @@
             "ClassName": "ammo_Expansion_M203_Smoke_Teargas",
             "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 2500,
-            "SellPricePercent": 30,
+            "SellPricePercent": 30.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-            ]
+            "Variants": []
         },
         {
             "ClassName": "ammo_Expansion_M203_Sticky_Smoke_Teargas",
             "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 2500,
-            "SellPricePercent": 30,
+            "SellPricePercent": 30.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-            ]
+            "Variants": []
         },
         {
             "ClassName": "ammo_expansion_m203_he",
             "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 3500,
-            "SellPricePercent": 30,
+            "SellPricePercent": 30.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-            ]
+            "Variants": []
         },
         {
             "ClassName": "Ammo_40mm_Explosive",
             "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 3500,
-            "SellPricePercent": 30,
+            "SellPricePercent": 30.0,
             "MaxStockThreshold": 8,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-            ]
+            "Variants": []
         },
         {
             "ClassName": "Ammo_40mm_ChemGas",
             "MaxPriceThreshold": 8000,
             "MinPriceThreshold": 8000,
-            "SellPricePercent": 30,
+            "SellPricePercent": 30.0,
             "MaxStockThreshold": 8,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-            ]
+            "Variants": []
         },
         {
             "ClassName": "Ammo_40mm_Smoke_Red",
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1500,
-            "SellPricePercent": 30,
+            "SellPricePercent": 30.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -222,49 +218,45 @@
             "ClassName": "Grenade_ChemGas",
             "MaxPriceThreshold": 8000,
             "MinPriceThreshold": 8000,
-            "SellPricePercent": 30,
+            "SellPricePercent": 30.0,
             "MaxStockThreshold": 8,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-            ]
+            "Variants": []
         },
         {
             "ClassName": "Plastic_Explosive",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
-            "SellPricePercent": 40,
+            "SellPricePercent": 40.0,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-            ]
+            "Variants": []
         },
         {
             "ClassName": "Claymoremine",
             "MaxPriceThreshold": 15000,
             "MinPriceThreshold": 15000,
-            "SellPricePercent": 30,
+            "SellPricePercent": 30.0,
             "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-            ]
+            "Variants": []
         },
         {
             "ClassName": "RemoteDetonator",
             "MaxPriceThreshold": 15000,
             "MinPriceThreshold": 15000,
-            "SellPricePercent": 30,
+            "SellPricePercent": 30.0,
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-            ]
+            "Variants": []
         }
     ]
 }

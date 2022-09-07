@@ -1,15 +1,15 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 8,
     "ID": 215,
     "ObjectiveType": 2,
     "ObjectiveText": "Zabij 10 infikovaných",
     "TimeLimit": -1,
     "Position": [
-        1782.005737,
-        467.466309,
-        419.672119
+        1782.0057373046876,
+        467.46630859375,
+        419.672119140625
     ],
-    "MaxDistance": 500,
+    "MaxDistance": 500.0,
     "Target": {
         "Amount": 10,
         "ClassNames": [
@@ -88,9 +88,11 @@
             "ZmbM_usSoldier_Heavy_Woodland",
             "ZmbM_usSoldier_Officer_Desert"
         ],
+        "CountSelfKill": 0,
         "SpecialWeapon": 1,
         "AllowedWeapons": [
             "MeatTenderizer"
-        ]
+        ],
+        "ExcludedClassNames": []
     }
 }

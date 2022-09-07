@@ -1,15 +1,16 @@
 {
-    "m_Version": 9,
+    "m_Version": 11,
     "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_CROSSBOWS",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
+    "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
         {
             "ClassName": "expansion_crossbow",
             "MaxPriceThreshold": 16000,
             "MinPriceThreshold": 16000,
-            "SellPricePercent": 10,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 50,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

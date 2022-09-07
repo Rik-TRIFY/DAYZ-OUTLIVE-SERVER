@@ -1,211 +1,211 @@
 {
-  "m_Version": 9,
-  "DisplayName": "Teddys_Optics",
-  "Icon": "Deliver",
-  "Color": "FBFCFEFF",
-  "InitStockPercent": 75,
-  "Items": [
-  
-	{
-      "ClassName": "TWP_M16A4_handle",
-      "MaxPriceThreshold": 1750,
-      "MinPriceThreshold": 1750,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1, 
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_Optic_Vlife",
-      "MaxPriceThreshold": 1750,
-      "MinPriceThreshold": 1750,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_Optic_NCSTAR",
-      "MaxPriceThreshold": 1750,
-      "MinPriceThreshold": 1750,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_Optic_Steyr",
-      "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1500,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_Optic_Camouflage",
-      "MaxPriceThreshold": 2250,
-      "MinPriceThreshold": 2250,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_Optic_Snowy",
-      "MaxPriceThreshold": 2250,
-      "MinPriceThreshold": 2250,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_Optic_FG42",
-      "MaxPriceThreshold": 750,
-      "MinPriceThreshold": 750,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_TrijiconACOG",
-      "MaxPriceThreshold": 2750,
-      "MinPriceThreshold": 2750,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_Optic_reddot",
-      "MaxPriceThreshold": 1250,
-      "MinPriceThreshold": 1250,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_Optic_Acog",
-      "MaxPriceThreshold": 2250,
-      "MinPriceThreshold": 2250,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_LongRangeOptic_Tan",
-      "MaxPriceThreshold": 1750,
-      "MinPriceThreshold": 1750,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "TWP_LongRangeOptic_Green",
-        "TWP_LongRangeOptic_Black"
-      ]
-    },
-    {
-      "ClassName": "TWP_Optic_Redcross",
-      "MaxPriceThreshold": 1250,
-      "MinPriceThreshold": 1250,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_Optic_G3A3",
-      "MaxPriceThreshold": 1750,
-      "MinPriceThreshold": 1750,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_OldRifle_Optic",
-      "MaxPriceThreshold": 2250,
-      "MinPriceThreshold": 2250,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_Optic_BlackDragon",
-      "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3500,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_Optic_Aimdot",
-      "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3500,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_Optic_AX50",
-      "MaxPriceThreshold": 1750,
-      "MinPriceThreshold": 1750,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TWP_OldRifle_Optic2",
-      "MaxPriceThreshold": 1750,
-      "MinPriceThreshold": 1750,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    }
-  ]
+    "m_Version": 11,
+    "DisplayName": "Teddys_Optics",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TWP_M16A4_handle",
+            "MaxPriceThreshold": 1750,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Optic_Vlife",
+            "MaxPriceThreshold": 1750,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Optic_NCSTAR",
+            "MaxPriceThreshold": 1750,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Optic_Steyr",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Optic_Camouflage",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Optic_Snowy",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Optic_FG42",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_TrijiconACOG",
+            "MaxPriceThreshold": 2750,
+            "MinPriceThreshold": 2750,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Optic_reddot",
+            "MaxPriceThreshold": 1250,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Optic_Acog",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_LongRangeOptic_Tan",
+            "MaxPriceThreshold": 1750,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TWP_LongRangeOptic_Green",
+                "TWP_LongRangeOptic_Black"
+            ]
+        },
+        {
+            "ClassName": "TWP_Optic_Redcross",
+            "MaxPriceThreshold": 1250,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Optic_G3A3",
+            "MaxPriceThreshold": 1750,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_OldRifle_Optic",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Optic_BlackDragon",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Optic_Aimdot",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Optic_AX50",
+            "MaxPriceThreshold": 1750,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_OldRifle_Optic2",
+            "MaxPriceThreshold": 1750,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
 }

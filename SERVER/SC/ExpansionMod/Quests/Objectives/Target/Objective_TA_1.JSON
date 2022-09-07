@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 8,
     "ID": 201,
     "ObjectiveType": 2,
     "ObjectiveText": "Zabij 20 infikovaných perlíkem",
@@ -91,9 +91,11 @@
             "ZmbM_usSoldier_Heavy_Woodland",
             "ZmbM_usSoldier_Officer_Desert"
         ],
+        "CountSelfKill": 0,
         "SpecialWeapon": 1,
         "AllowedWeapons": [
             "SledgeHammer"
-        ]
+        ],
+        "ExcludedClassNames": []
     }
 }

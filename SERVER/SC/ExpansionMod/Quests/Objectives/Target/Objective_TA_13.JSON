@@ -1,13 +1,13 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 8,
     "ID": 213,
     "ObjectiveType": 2,
     "ObjectiveText": "Zabij 250 infikovaných na Herren Insel.",
     "TimeLimit": -1,
     "Position": [
-        6907.85,
-        10.4944,
-        3556.39
+        6907.85009765625,
+        10.494400024414063,
+        3556.389892578125
     ],
     "MaxDistance": 1400.0,
     "Target": {
@@ -91,7 +91,9 @@
             "ZmbM_usSoldier_Heavy_Woodland",
             "ZmbM_usSoldier_Officer_Desert"
         ],
+        "CountSelfKill": 0,
         "SpecialWeapon": 0,
-        "AllowedWeapons": []
+        "AllowedWeapons": [],
+        "ExcludedClassNames": []
     }
 }
