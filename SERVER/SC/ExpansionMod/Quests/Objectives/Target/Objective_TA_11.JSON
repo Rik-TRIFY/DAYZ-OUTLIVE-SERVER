@@ -1,13 +1,13 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 8,
     "ID": 211,
     "ObjectiveType": 2,
     "ObjectiveText": "Zabij 30 infikovaných sekáčkem",
     "TimeLimit": -1,
     "Position": [
-        4383.7,
-        3.97,
-        2400.59
+        4383.7001953125,
+        3.9700000286102297,
+        2400.590087890625
     ],
     "MaxDistance": 150.0,
     "Target": {
@@ -91,9 +91,11 @@
             "ZmbM_usSoldier_Heavy_Woodland",
             "ZmbM_usSoldier_Officer_Desert"
         ],
+        "CountSelfKill": 0,
         "SpecialWeapon": 1,
         "AllowedWeapons": [
             "Cleaver"
-        ]
+        ],
+        "ExcludedClassNames": []
     }
 }

@@ -1,388 +1,408 @@
 {
-  "m_Version": 9,
-  "DisplayName": "MVS Clothing",
-  "Icon": "Deliver",
-  "Color": "FBFCFEFF",
-  "InitStockPercent": 75.0,
-  "Items": [
-    {
-      "ClassName": "mvs_balaclava_od",
-      "MaxPriceThreshold": 2250,
-      "MinPriceThreshold": 2250,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_balaclava_tan",
-        "mvs_balaclava_black",
-        "mvs_balaclava_snow"
-      ]
-    },
-    {
-      "ClassName": "mvs_balaclava_wraith",
-      "MaxPriceThreshold": 2550,
-      "MinPriceThreshold": 2550,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "mvs_combatpants_od",
-      "MaxPriceThreshold": 3000,
-      "MinPriceThreshold": 3000,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_combatpants_tan",
-        "mvs_combatpants_black",
-        "mvs_combatpants_snow",
-        "mvs_combatpants_erdl",
-        "mvs_combatpants_multicam",
-        "mvs_combatpants_multicam_tropic",
-        "mvs_combatpants_multicam_black",
-        "mvs_combatpants_snow"
-      ]
-    },
-    {
-      "ClassName": "mvs_combatshirt_od",
-      "MaxPriceThreshold": 2800,
-      "MinPriceThreshold": 2800,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_combatshirt_tan",
-        "mvs_combatshirt_black",
-        "mvs_combatshirt_snow",
-        "mvs_combatshirt_erdl",
-        "mvs_combatshirt_multicam",
-        "mvs_combatshirt_multicam_black",
-        "mvs_combatshirt_multicam_tropic",
-        "mvs_combatshirt_snow"
-      ]
-    },
-    {
-      "ClassName": "mvs_comtacs_od",
-      "MaxPriceThreshold": 2250,
-      "MinPriceThreshold": 2250,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_comtacs_tan",
-        "mvs_comtacs_black"
-      ]
-    },
-    {
-      "ClassName": "mvs_facemask_od",
-      "MaxPriceThreshold": 1950,
-      "MinPriceThreshold": 1950,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_facemask_tan",
-        "mvs_facemask_black",
-        "mvs_facemask_snow"
-      ]
-    },
-    {
-      "ClassName": "mvs_gorkajacket",
-      "MaxPriceThreshold": 3550,
-      "MinPriceThreshold": 3550,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_gorkajacket_snow",
-        "mvs_gorkajacket_multicam",
-        "mvs_gorkajacket_multicam_tropic",
-        "mvs_gorkajacket_multicam_black"
-      ]
-    },
-    {
-      "ClassName": "mvs_gorkapants",
-      "MaxPriceThreshold": 3750,
-      "MinPriceThreshold": 3750,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_gorkapants_snow",
-        "mvs_gorkapants_multicam",
-        "mvs_gorkapants_multicam_tropic",
-        "mvs_gorkapants_multicam_black"
-      ]
-    },
-    {
-      "ClassName": "mvs_m50respirator_od",
-      "MaxPriceThreshold": 10000,
-      "MinPriceThreshold": 10000,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_m50respirator_tan",
-        "mvs_m50respirator_black",
-        "mvs_m50respirator_snow"
-      ]
-    },
-    {
-      "ClassName": "mvs_pants_bdu",
-      "MaxPriceThreshold": 3250,
-      "MinPriceThreshold": 3250,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_pants_bdu_snow"
-      ]
-    },
-    {
-      "ClassName": "mvs_pmk2respirator_black",
-      "MaxPriceThreshold": 10000,
-      "MinPriceThreshold": 10000,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_pmk2respirator_tan",
-        "mvs_pmk2respirator_od",
-        "mvs_pmk2respirator_snow"
-      ]
-    },
-    {
-      "ClassName": "mvs_s10respirator_black",
-      "MaxPriceThreshold": 10000,
-      "MinPriceThreshold": 10000,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "mvs_s10respirator_od",
-      "MaxPriceThreshold": 10000,
-      "MinPriceThreshold": 10000,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_s10respirator_tan",
-        "mvs_s10respirator_black",
-        "mvs_s10respirator_fs",
-        "mvs_s10respirator_snow"
-      ]
-    },
-    {
-      "ClassName": "mvs_shirt_bdu",
-      "MaxPriceThreshold": 2750,
-      "MinPriceThreshold": 2750,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_shirt_bdu_snow",
-        "mvs_shirt_bdu_multicam",
-        "mvs_shirt_bdu_multicam_black",
-        "mvs_shirt_bdu_multicam_tropic"
-      ]
-    },
-    {
-      "ClassName": "mvs_shroud_od",
-      "MaxPriceThreshold": 1550,
-      "MinPriceThreshold": 1550,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_shroud_tan",
-        "mvs_shroud_black"
-      ]
-    },
- {
-      "ClassName": "mvs_FlatCap",
-      "MaxPriceThreshold": 1850,
-      "MinPriceThreshold": 1850,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_FlatCap_Snow",
-        "mvs_FlatCap_Multicam",
-	      "mvs_FlatCap_Multicam_Tropic",
-	      "mvs_FlatCap_Multicam_Black"
-      ]
-    },
-{
-      "ClassName": "mvs_Cap_OD",
-      "MaxPriceThreshold": 2250,
-      "MinPriceThreshold": 2250,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mvs_Cap_Tan",
-        "mvs_Cap_Black",
-	      "mvs_Cap_Multicam",
-	      "mvs_Cap_Multicam_Tropic",
-	      "mvs_Cap_Multicam_Black",
-	      "mvs_Cap_ERDL",
-	      "mvs_Cap_Snow"
-      ]
-    },
-    {
-       "ClassName": "MVS_BoonieHat",
-        "MaxPriceThreshold": 2250,
-        "MinPriceThreshold": 2250,
-        "SellPricePercent": 10,
-        "MaxStockThreshold": 1,
-        "MinStockThreshold": 1,
-        "SpawnAttachments": [],
-        "Variants": [
-        "MVS_BoonieHat_Multicam",
-        "MVS_BoonieHat_Multicam_Tropic",
-        "MVS_BoonieHat_Multicam_Black",
-        "MVS_BoonieHat_Snow"
-        ]
+    "m_Version": 11,
+    "DisplayName": "MVS Clothing",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "mvs_balaclava_od",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_balaclava_tan",
+                "mvs_balaclava_black",
+                "mvs_balaclava_snow"
+            ]
         },
         {
-          "ClassName": "mvs_CountryFlag_Czech",
-          "MaxPriceThreshold": 700,
-          "MinPriceThreshold": 700,
-          "SellPricePercent": 30,
-          "MaxStockThreshold": 1,
-          "MinStockThreshold": 1,
-          "SpawnAttachments": [],
-          "Variants": [
-            "mvs_CountryFlag_Australia",
-            "mvs_CountryFlag_Austria",
-            "mvs_CountryFlag_Belarus",
-            "mvs_CountryFlag_Belgium",
-            "mvs_CountryFlag_Bosnia",
-            "mvs_CountryFlag_Brazil",
-            "mvs_CountryFlag_Bulgaria",
-            "mvs_CountryFlag_Canada",
-            "mvs_CountryFlag_China",
-            "mvs_CountryFlag_Colombia",
-            "mvs_CountryFlag_Costarica",
-            "mvs_CountryFlag_Cuba",
-            "mvs_CountryFlag_Cyprus",
-            "mvs_CountryFlag_Denmark",
-            "mvs_CountryFlag_Egypt",
-            "mvs_CountryFlag_Estonia",
-            "mvs_CountryFlag_Finland",
-            "mvs_CountryFlag_France",
-            "mvs_CountryFlag_Germany",
-            "mvs_CountryFlag_Greece",
-            "mvs_CountryFlag_Greenland",
-            "mvs_CountryFlag_Honduras",
-            "mvs_CountryFlag_Hungary",
-            "mvs_CountryFlag_India",
-            "mvs_CountryFlag_Indonesia",
-            "mvs_CountryFlag_Iran",
-            "mvs_CountryFlag_Iraq",
-            "mvs_CountryFlag_Izrael",
-            "mvs_CountryFlag_Italy",
-            "mvs_CountryFlag_Jamaica",
-            "mvs_CountryFlag_Japan",
-            "mvs_CountryFlag_Kazachstan",
-            "mvs_CountryFlag_Libya",
-            "mvs_CountryFlag_Macedonia",
-            "mvs_CountryFlag_Malaysia",
-            "mvs_CountryFlag_Mexico",
-            "mvs_CountryFlag_Marocco",
-            "mvs_CountryFlag_Neatherlands",
-            "mvs_CountryFlag_NewZealand",
-            "mvs_CountryFlag_Norway",
-            "mvs_CountryFlag_Pakistan",
-            "mvs_CountryFlag_Palestina",
-            "mvs_CountryFlag_Poland",
-            "mvs_CountryFlag_Portugal",
-            "mvs_CountryFlag_Romania",
-            "mvs_CountryFlag_Russia",
-            "mvs_CountryFlag_Scotland",
-            "mvs_CountryFlag_Senegal",
-            "mvs_CountryFlag_Serbia",
-            "mvs_CountryFlag_Sicily",
-            "mvs_CountryFlag_Slovakia",
-            "mvs_CountryFlag_Slovenia",
-            "mvs_CountryFlag_Spain",
-            "mvs_CountryFlag_Sweden",
-            "mvs_CountryFlag_Switzerland",
-            "mvs_CountryFlag_Tunisia",
-            "mvs_CountryFlag_Turkey",
-            "mvs_CountryFlag_Ukraine",
-            "mvs_CountryFlag_UnitedKingdom",
-            "mvs_CountryFlag_UnitedStates",
-            "mvs_CountryFlag_USSR",
-            "mvs_CountryFlag_Yugoslavia"
-           ]
+            "ClassName": "mvs_balaclava_wraith",
+            "MaxPriceThreshold": 2550,
+            "MinPriceThreshold": 2550,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
-          "ClassName": "mvs_Patch_01",
-          "MaxPriceThreshold": 700,
-          "MinPriceThreshold": 700,
-          "SellPricePercent": 30,
-          "MaxStockThreshold": 1,
-          "MinStockThreshold": 1,
-          "SpawnAttachments": [],
-          "Variants": [
-            "mvs_Patch_02",
-            "mvs_Patch_03",
-            "mvs_Patch_04",
-            "mvs_Patch_05",
-            "mvs_Patch_06",
-            "mvs_Patch_07",
-            "mvs_Patch_08",
-            "mvs_Patch_09",
-            "mvs_Patch_10",
-            "mvs_Patch_11",
-            "mvs_Patch_12",
-            "mvs_Patch_13",
-            "mvs_Patch_14",
-            "mvs_Patch_15",
-            "mvs_Patch_16",
-            "mvs_Patch_17",
-            "mvs_Patch_18",
-            "mvs_Patch_19",
-            "mvs_Patch_20",
-            "mvs_Patch_21",
-            "mvs_Patch_22",
-            "mvs_Patch_23",
-            "mvs_Patch_24",
-            "mvs_Patch_25",
-            "mvs_Patch_26",
-            "mvs_Patch_27",
-            "mvs_Patch_28",
-            "mvs_Patch_29",
-            "mvs_Patch_30",
-            "mvs_Patch_31",
-            "mvs_Patch_32",
-            "mvs_Patch_33",
-            "mvs_Patch_34",
-            "mvs_Patch_35"
-        
-           ]
+            "ClassName": "mvs_combatpants_od",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_combatpants_tan",
+                "mvs_combatpants_black",
+                "mvs_combatpants_snow",
+                "mvs_combatpants_erdl",
+                "mvs_combatpants_multicam",
+                "mvs_combatpants_multicam_tropic",
+                "mvs_combatpants_multicam_black",
+                "mvs_combatpants_snow"
+            ]
+        },
+        {
+            "ClassName": "mvs_combatshirt_od",
+            "MaxPriceThreshold": 2800,
+            "MinPriceThreshold": 2800,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_combatshirt_tan",
+                "mvs_combatshirt_black",
+                "mvs_combatshirt_snow",
+                "mvs_combatshirt_erdl",
+                "mvs_combatshirt_multicam",
+                "mvs_combatshirt_multicam_black",
+                "mvs_combatshirt_multicam_tropic",
+                "mvs_combatshirt_snow"
+            ]
+        },
+        {
+            "ClassName": "mvs_comtacs_od",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_comtacs_tan",
+                "mvs_comtacs_black"
+            ]
+        },
+        {
+            "ClassName": "mvs_facemask_od",
+            "MaxPriceThreshold": 1950,
+            "MinPriceThreshold": 1950,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_facemask_tan",
+                "mvs_facemask_black",
+                "mvs_facemask_snow"
+            ]
+        },
+        {
+            "ClassName": "mvs_gorkajacket",
+            "MaxPriceThreshold": 3550,
+            "MinPriceThreshold": 3550,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_gorkajacket_snow",
+                "mvs_gorkajacket_multicam",
+                "mvs_gorkajacket_multicam_tropic",
+                "mvs_gorkajacket_multicam_black"
+            ]
+        },
+        {
+            "ClassName": "mvs_gorkapants",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 3750,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_gorkapants_snow",
+                "mvs_gorkapants_multicam",
+                "mvs_gorkapants_multicam_tropic",
+                "mvs_gorkapants_multicam_black"
+            ]
+        },
+        {
+            "ClassName": "mvs_m50respirator_od",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_m50respirator_tan",
+                "mvs_m50respirator_black",
+                "mvs_m50respirator_snow"
+            ]
+        },
+        {
+            "ClassName": "mvs_pants_bdu",
+            "MaxPriceThreshold": 3250,
+            "MinPriceThreshold": 3250,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_pants_bdu_snow"
+            ]
+        },
+        {
+            "ClassName": "mvs_pmk2respirator_black",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_pmk2respirator_tan",
+                "mvs_pmk2respirator_od",
+                "mvs_pmk2respirator_snow"
+            ]
+        },
+        {
+            "ClassName": "mvs_s10respirator_black",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "mvs_s10respirator_od",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_s10respirator_tan",
+                "mvs_s10respirator_black",
+                "mvs_s10respirator_fs",
+                "mvs_s10respirator_snow"
+            ]
+        },
+        {
+            "ClassName": "mvs_shirt_bdu",
+            "MaxPriceThreshold": 2750,
+            "MinPriceThreshold": 2750,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_shirt_bdu_snow",
+                "mvs_shirt_bdu_multicam",
+                "mvs_shirt_bdu_multicam_black",
+                "mvs_shirt_bdu_multicam_tropic"
+            ]
+        },
+        {
+            "ClassName": "mvs_shroud_od",
+            "MaxPriceThreshold": 1550,
+            "MinPriceThreshold": 1550,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_shroud_tan",
+                "mvs_shroud_black"
+            ]
+        },
+        {
+            "ClassName": "mvs_FlatCap",
+            "MaxPriceThreshold": 1850,
+            "MinPriceThreshold": 1850,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_FlatCap_Snow",
+                "mvs_FlatCap_Multicam",
+                "mvs_FlatCap_Multicam_Tropic",
+                "mvs_FlatCap_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "mvs_Cap_OD",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_Cap_Tan",
+                "mvs_Cap_Black",
+                "mvs_Cap_Multicam",
+                "mvs_Cap_Multicam_Tropic",
+                "mvs_Cap_Multicam_Black",
+                "mvs_Cap_ERDL",
+                "mvs_Cap_Snow"
+            ]
+        },
+        {
+            "ClassName": "MVS_BoonieHat",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_BoonieHat_Multicam",
+                "MVS_BoonieHat_Multicam_Tropic",
+                "MVS_BoonieHat_Multicam_Black",
+                "MVS_BoonieHat_Snow"
+            ]
+        },
+        {
+            "ClassName": "mvs_CountryFlag_Czech",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_CountryFlag_Australia",
+                "mvs_CountryFlag_Austria",
+                "mvs_CountryFlag_Belarus",
+                "mvs_CountryFlag_Belgium",
+                "mvs_CountryFlag_Bosnia",
+                "mvs_CountryFlag_Brazil",
+                "mvs_CountryFlag_Bulgaria",
+                "mvs_CountryFlag_Canada",
+                "mvs_CountryFlag_China",
+                "mvs_CountryFlag_Colombia",
+                "mvs_CountryFlag_Costarica",
+                "mvs_CountryFlag_Cuba",
+                "mvs_CountryFlag_Cyprus",
+                "mvs_CountryFlag_Denmark",
+                "mvs_CountryFlag_Egypt",
+                "mvs_CountryFlag_Estonia",
+                "mvs_CountryFlag_Finland",
+                "mvs_CountryFlag_France",
+                "mvs_CountryFlag_Germany",
+                "mvs_CountryFlag_Greece",
+                "mvs_CountryFlag_Greenland",
+                "mvs_CountryFlag_Honduras",
+                "mvs_CountryFlag_Hungary",
+                "mvs_CountryFlag_India",
+                "mvs_CountryFlag_Indonesia",
+                "mvs_CountryFlag_Iran",
+                "mvs_CountryFlag_Iraq",
+                "mvs_CountryFlag_Izrael",
+                "mvs_CountryFlag_Italy",
+                "mvs_CountryFlag_Jamaica",
+                "mvs_CountryFlag_Japan",
+                "mvs_CountryFlag_Kazachstan",
+                "mvs_CountryFlag_Libya",
+                "mvs_CountryFlag_Macedonia",
+                "mvs_CountryFlag_Malaysia",
+                "mvs_CountryFlag_Mexico",
+                "mvs_CountryFlag_Marocco",
+                "mvs_CountryFlag_Neatherlands",
+                "mvs_CountryFlag_NewZealand",
+                "mvs_CountryFlag_Norway",
+                "mvs_CountryFlag_Pakistan",
+                "mvs_CountryFlag_Palestina",
+                "mvs_CountryFlag_Poland",
+                "mvs_CountryFlag_Portugal",
+                "mvs_CountryFlag_Romania",
+                "mvs_CountryFlag_Russia",
+                "mvs_CountryFlag_Scotland",
+                "mvs_CountryFlag_Senegal",
+                "mvs_CountryFlag_Serbia",
+                "mvs_CountryFlag_Sicily",
+                "mvs_CountryFlag_Slovakia",
+                "mvs_CountryFlag_Slovenia",
+                "mvs_CountryFlag_Spain",
+                "mvs_CountryFlag_Sweden",
+                "mvs_CountryFlag_Switzerland",
+                "mvs_CountryFlag_Tunisia",
+                "mvs_CountryFlag_Turkey",
+                "mvs_CountryFlag_Ukraine",
+                "mvs_CountryFlag_UnitedKingdom",
+                "mvs_CountryFlag_UnitedStates",
+                "mvs_CountryFlag_USSR",
+                "mvs_CountryFlag_Yugoslavia"
+            ]
+        },
+        {
+            "ClassName": "mvs_Patch_01",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mvs_Patch_02",
+                "mvs_Patch_03",
+                "mvs_Patch_04",
+                "mvs_Patch_05",
+                "mvs_Patch_06",
+                "mvs_Patch_07",
+                "mvs_Patch_08",
+                "mvs_Patch_09",
+                "mvs_Patch_10",
+                "mvs_Patch_11",
+                "mvs_Patch_12",
+                "mvs_Patch_13",
+                "mvs_Patch_14",
+                "mvs_Patch_15",
+                "mvs_Patch_16",
+                "mvs_Patch_17",
+                "mvs_Patch_18",
+                "mvs_Patch_19",
+                "mvs_Patch_20",
+                "mvs_Patch_21",
+                "mvs_Patch_22",
+                "mvs_Patch_23",
+                "mvs_Patch_24",
+                "mvs_Patch_25",
+                "mvs_Patch_26",
+                "mvs_Patch_27",
+                "mvs_Patch_28",
+                "mvs_Patch_29",
+                "mvs_Patch_30",
+                "mvs_Patch_31",
+                "mvs_Patch_32",
+                "mvs_Patch_33",
+                "mvs_Patch_34",
+                "mvs_Patch_35"
+            ]
         }
-  ]
+    ]
 }

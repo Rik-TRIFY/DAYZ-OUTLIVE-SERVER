@@ -1,25 +1,26 @@
 {
-    "m_Version": 9,
+    "m_Version": 11,
     "DisplayName": "MVS Rigs",
     "Icon": "Shield",
     "Color": "FFFFFFFF",
+    "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
         {
-			"ClassName": "mvs_chestrig_od",
-			"MaxPriceThreshold": 5000,
-			"MinPriceThreshold": 5000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_chestrig_od",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_od",
                 "mvs_medical_pouch_od",
                 "mvs_magazine_pouch_od",
                 "mvs_admin_pouch_od",
                 "mvs_utility_pouch_od",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": [
                 "mvs_chestrig_tan",
@@ -32,146 +33,146 @@
             ]
         },
         {
-			"ClassName": "mvs_chestrig_tan",
-			"MaxPriceThreshold": 5000,
-			"MinPriceThreshold": 5000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_chestrig_tan",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_tan",
                 "mvs_medical_pouch_tan",
                 "mvs_magazine_pouch_tan",
                 "mvs_admin_pouch_tan",
                 "mvs_utility_pouch_tan",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_chestrig_black",
-			"MaxPriceThreshold": 5000,
-			"MinPriceThreshold": 5000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_chestrig_black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_black",
                 "mvs_medical_pouch_black",
                 "mvs_magazine_pouch_black",
                 "mvs_admin_pouch_black",
                 "mvs_utility_pouch_black",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_chestrig_snow",
-			"MaxPriceThreshold": 5000,
-			"MinPriceThreshold": 5000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_chestrig_snow",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_snow",
                 "mvs_medical_pouch_snow",
                 "mvs_magazine_pouch_snow",
                 "mvs_admin_pouch_snow",
                 "mvs_utility_pouch_snow",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_chestrig_erdl",
-			"MaxPriceThreshold": 5000,
-			"MinPriceThreshold": 5000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_chestrig_erdl",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_erdl",
                 "mvs_medical_pouch_erdl",
                 "mvs_magazine_pouch_erdl",
                 "mvs_admin_pouch_erdl",
                 "mvs_utility_pouch_erdl",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_chestrig_multicam",
-			"MaxPriceThreshold": 5000,
-			"MinPriceThreshold": 5000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_chestrig_multicam",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam",
                 "mvs_medical_pouch_multicam",
                 "mvs_magazine_pouch_multicam",
                 "mvs_admin_pouch_multicam",
                 "mvs_utility_pouch_multicam",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_chestrig_multicam_tropic",
-			"MaxPriceThreshold": 5000,
-			"MinPriceThreshold": 5000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_chestrig_multicam_tropic",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam_tropic",
                 "mvs_medical_pouch_multicam_tropic",
                 "mvs_magazine_pouch_multicam_tropic",
                 "mvs_admin_pouch_multicam_tropic",
                 "mvs_utility_pouch_multicam_tropic",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_chestrig_multicam_black",
-			"MaxPriceThreshold": 5000,
-			"MinPriceThreshold": 5000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_chestrig_multicam_black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam_black",
                 "mvs_medical_pouch_multicam_black",
                 "mvs_magazine_pouch_multicam_black",
                 "mvs_admin_pouch_multicam_black",
                 "mvs_utility_pouch_multicam_black",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_od",
-			"MaxPriceThreshold": 18000,
-			"MinPriceThreshold": 18000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_od",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_od",
                 "mvs_medical_pouch_od",
                 "mvs_magazine_pouch_od",
                 "mvs_admin_pouch_od",
                 "mvs_utility_pouch_od",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": [
                 "mvs_combat_vest_tan",
@@ -184,162 +185,162 @@
             ]
         },
         {
-			"ClassName": "mvs_combat_vest_tan",
-			"MaxPriceThreshold": 18000,
-			"MinPriceThreshold": 18000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_tan",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_tan",
                 "mvs_medical_pouch_tan",
                 "mvs_magazine_pouch_tan",
                 "mvs_admin_pouch_tan",
                 "mvs_utility_pouch_tan",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_black",
-			"MaxPriceThreshold": 18000,
-			"MinPriceThreshold": 18000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_black",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_black",
                 "mvs_medical_pouch_black",
                 "mvs_magazine_pouch_black",
                 "mvs_admin_pouch_black",
                 "mvs_utility_pouch_black",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_snow",
-			"MaxPriceThreshold": 18000,
-			"MinPriceThreshold": 18000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_snow",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_snow",
                 "mvs_medical_pouch_snow",
                 "mvs_magazine_pouch_snow",
                 "mvs_admin_pouch_snow",
                 "mvs_utility_pouch_snow",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_erdl",
-			"MaxPriceThreshold": 18000,
-			"MinPriceThreshold": 18000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_erdl",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_erdl",
                 "mvs_medical_pouch_erdl",
                 "mvs_magazine_pouch_erdl",
                 "mvs_admin_pouch_erdl",
                 "mvs_utility_pouch_erdl",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_multicam",
-			"MaxPriceThreshold": 18000,
-			"MinPriceThreshold": 18000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_multicam",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam",
                 "mvs_medical_pouch_multicam",
                 "mvs_magazine_pouch_multicam",
                 "mvs_admin_pouch_multicam",
                 "mvs_utility_pouch_multicam",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_multicam_tropic",
-			"MaxPriceThreshold": 18000,
-			"MinPriceThreshold": 18000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_multicam_tropic",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam_tropic",
                 "mvs_medical_pouch_multicam_tropic",
                 "mvs_magazine_pouch_multicam_tropic",
                 "mvs_admin_pouch_multicam_tropic",
                 "mvs_utility_pouch_multicam_tropic",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_multicam_black",
-			"MaxPriceThreshold": 18000,
-			"MinPriceThreshold": 18000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_multicam_black",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam_black",
                 "mvs_medical_pouch_multicam_black",
                 "mvs_magazine_pouch_multicam_black",
                 "mvs_admin_pouch_multicam_black",
                 "mvs_utility_pouch_multicam_black",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_heavy_multicam_tropic",
-			"MaxPriceThreshold": 35000,
-			"MinPriceThreshold": 35000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_heavy_multicam_tropic",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam_tropic",
                 "mvs_medical_pouch_multicam_tropic",
                 "mvs_heavy_pouch_multicam_tropic",
                 "mvs_holster_multicam_tropic",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_heavy_od",
-			"MaxPriceThreshold": 35000,
-			"MinPriceThreshold": 35000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_heavy_od",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_od",
                 "mvs_medical_pouch_od",
                 "mvs_heavy_pouch_od",
                 "mvs_holster_od",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": [
                 "mvs_combat_vest_heavy_tan",
@@ -352,104 +353,104 @@
             ]
         },
         {
-			"ClassName": "mvs_combat_vest_heavy_tan",
-			"MaxPriceThreshold": 35000,
-			"MinPriceThreshold": 35000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_heavy_tan",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_tan",
                 "mvs_medical_pouch_tan",
                 "mvs_heavy_pouch_tan",
                 "mvs_holster_tan",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_heavy_black",
-			"MaxPriceThreshold": 35000,
-			"MinPriceThreshold": 35000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_heavy_black",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_black",
                 "mvs_medical_pouch_black",
                 "mvs_heavy_pouch_black",
                 "mvs_holster_black",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_heavy_snow",
-			"MaxPriceThreshold": 35000,
-			"MinPriceThreshold": 35000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_heavy_snow",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_snow",
                 "mvs_medical_pouch_snow",
                 "mvs_heavy_pouch_snow",
                 "mvs_holster_snow",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_heavy_erdl",
-			"MaxPriceThreshold": 35000,
-			"MinPriceThreshold": 35000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_heavy_erdl",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_erdl",
                 "mvs_medical_pouch_erdl",
                 "mvs_heavy_pouch_erdl",
                 "mvs_holster_erdl",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_heavy_multicam",
-			"MaxPriceThreshold": 35000,
-			"MinPriceThreshold": 35000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_heavy_multicam",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam",
                 "mvs_medical_pouch_multicam",
                 "mvs_heavy_pouch_multicam",
                 "mvs_holster_multicam",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         },
         {
-			"ClassName": "mvs_combat_vest_heavy_multicam_black",
-			"MaxPriceThreshold": 35000,
-			"MinPriceThreshold": 35000,
-			"SellPricePercent": 10,
+            "ClassName": "mvs_combat_vest_heavy_multicam_black",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mvs_canteen_multicam_black",
                 "mvs_medical_pouch_multicam_black",
                 "mvs_heavy_pouch_multicam_black",
                 "mvs_holster_multicam_black",
-				"f35c_patch_f35_fabric"
+                "f35c_patch_f35_fabric"
             ],
             "Variants": []
         }

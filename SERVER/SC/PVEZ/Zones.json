@@ -46,7 +46,7 @@
         "Name": "PVP4",
         "X": 298.0,
         "Z": 4416.0,
-        "Radius": 500,
+        "Radius": 800,
         "ShowBorderOnMap": 1,
         "ShowNameOnMap": 0,
         "Activity_Schedule": {
@@ -60,7 +60,7 @@
         "Name": "PVP5",
         "X": 760.0,
         "Z": 4380.0,
-        "Radius": 400,
+        "Radius": 550,
         "ShowBorderOnMap": 1,
         "ShowNameOnMap": 0,
         "Activity_Schedule": {
@@ -74,7 +74,7 @@
         "Name": "PVP6",
         "X": 254.0,
         "Z": 5176.0,
-        "Radius": 500,
+        "Radius": 600,
         "ShowBorderOnMap": 1,
         "ShowNameOnMap": 0,
         "Activity_Schedule": {
@@ -102,6 +102,230 @@
         "Name": "PVP8",
         "X": 685.0,
         "Z": 7677.0,
+        "Radius": 300,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "ARENA",
+        "X": 9144.0,
+        "Z": 5855.0,
+        "Radius": 200,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "LOD",
+        "X": 8081.0,
+        "Z": 3866.0,
+        "Radius": 600,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Nkrauinsel",
+        "X": 8271.0,
+        "Z": 4443.0,
+        "Radius": 500,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "krausel",
+        "X": 8941.0,
+        "Z": 4850.0,
+        "Radius": 500,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "military camp",
+        "X": 2428.0,
+        "Z": 7228.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Military",
+        "X": 7105.0,
+        "Z": 3509.0,
+        "Radius": 500,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Piskovna",
+        "X": 3241.0,
+        "Z": 6823.0,
+        "Radius": 300,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Vezenie",
+        "X": 6413.0,
+        "Z": 9103.0,
+        "Radius": 100,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "mala military",
+        "X": 6336.0,
+        "Z": 9696.0,
+        "Radius": 50,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "egstat military",
+        "X": 5318.0,
+        "Z": 9789.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "atomovka",
+        "X": 3106.0,
+        "Z": 8411.0,
+        "Radius": 200,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "prehrada",
+        "X": 634.0,
+        "Z": 2950.0,
+        "Radius": 200,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "slachtfeld",
+        "X": 3263.0,
+        "Z": 1536.0,
+        "Radius": 350,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "New zone",
+        "X": 6425.0,
+        "Z": 5939.0,
+        "Radius": 200,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "vezenie",
+        "X": 1520.0,
+        "Z": 10032.0,
+        "Radius": 450,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "letisko",
+        "X": 8073.0,
+        "Z": 910.0,
         "Radius": 300,
         "ShowBorderOnMap": 1,
         "ShowNameOnMap": 0,

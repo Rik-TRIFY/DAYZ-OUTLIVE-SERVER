@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 8,
     "ID": 214,
     "ObjectiveType": 2,
     "ObjectiveText": "Ulov 15 krav",
@@ -20,7 +20,9 @@
             "Animal_BosTaurus_Spotted",
             "Animal_BosTaurus_White"
         ],
+        "CountSelfKill": 0,
         "SpecialWeapon": 0,
-        "AllowedWeapons": []
+        "AllowedWeapons": [],
+        "ExcludedClassNames": []
     }
 }

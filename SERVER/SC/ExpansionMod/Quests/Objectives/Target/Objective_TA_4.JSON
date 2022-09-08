@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 8,
     "ID": 204,
     "ObjectiveType": 2,
     "ObjectiveText": "Zabij 5 Škorpionů lopatou",
@@ -9,15 +9,17 @@
         0.0,
         0.0
     ],
-    "MaxDistance": -1,
+    "MaxDistance": -1.0,
     "Target": {
         "Amount": 5,
         "ClassNames": [
             "Animal_chiemsee_scorpion"
         ],
+        "CountSelfKill": 0,
         "SpecialWeapon": 1,
         "AllowedWeapons": [
             "Shovel"
-        ]
+        ],
+        "ExcludedClassNames": []
     }
 }

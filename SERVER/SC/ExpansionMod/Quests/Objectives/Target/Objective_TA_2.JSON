@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 8,
     "ID": 202,
     "ObjectiveType": 2,
     "ObjectiveText": "Zabij 30 infikovaných v okolí přehrady.",
@@ -9,7 +9,7 @@
         65.0,
         3086.0
     ],
-    "MaxDistance": 200,
+    "MaxDistance": 200.0,
     "Target": {
         "Amount": 30,
         "ClassNames": [
@@ -91,7 +91,9 @@
             "ZmbM_usSoldier_Heavy_Woodland",
             "ZmbM_usSoldier_Officer_Desert"
         ],
+        "CountSelfKill": 0,
         "SpecialWeapon": 0,
-        "AllowedWeapons": []
+        "AllowedWeapons": [],
+        "ExcludedClassNames": []
     }
 }

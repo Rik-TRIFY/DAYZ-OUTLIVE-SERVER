@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 8,
     "ID": 209,
     "ObjectiveType": 2,
     "ObjectiveText": "Zabij 35 infikovaných",
@@ -9,7 +9,7 @@
         21.0,
         5231.0
     ],
-    "MaxDistance": 250,
+    "MaxDistance": 250.0,
     "Target": {
         "Amount": 35,
         "ClassNames": [
@@ -88,7 +88,9 @@
             "ZmbM_usSoldier_Heavy_Woodland",
             "ZmbM_usSoldier_Officer_Desert"
         ],
+        "CountSelfKill": 0,
         "SpecialWeapon": 0,
-        "AllowedWeapons": []
+        "AllowedWeapons": [],
+        "ExcludedClassNames": []
     }
 }

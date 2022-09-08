@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 8,
     "ID": 216,
     "ObjectiveType": 2,
     "ObjectiveText": "Zabij 5 polárních medvědů",
@@ -15,7 +15,9 @@
         "ClassNames": [
             "Animal_Polar_Bear"
         ],
+        "CountSelfKill": 0,
         "SpecialWeapon": 0,
-        "AllowedWeapons": []
+        "AllowedWeapons": [],
+        "ExcludedClassNames": []
     }
 }

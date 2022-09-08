@@ -1,80 +1,87 @@
 {
-  "m_Version": 9,
-  "DisplayName": "Teddys_Bayonets",
-  "Icon": "Deliver",
-  "Color": "FBFCFEFF",
-  "InitStockPercent": 75,
-  "Items": [
-  
-	{
-      "ClassName": "TWP_BoarBayonet",
-      "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3500,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": []
-    }, 
-	{
-      "ClassName": "TWP_SpiderBayonet",
-      "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3500,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": []
-    }, 
-	{
-      "ClassName": "TWP_WolfBayonet",
-      "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3500,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": []
-    }, 
-	{
-      "ClassName": "TWP_WhiteWolfBayonet",
-      "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3500,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": []
-    }, 
-	{
-      "ClassName": "TWP_M16_Bayonet",
-      "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1500,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": []
-    }, 
-	{
-      "ClassName": "TWP_Kar98_Bayonet",
-      "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1500,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": []
-    }, 
-	{
-      "ClassName": "TWP_Arisaka_Bayonet",
-      "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1500,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 1,
-      "SpawnAttachments": [],
-      "Variants": []
-    }
-  ]
+    "m_Version": 11,
+    "DisplayName": "Teddys_Bayonets",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TWP_BoarBayonet",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_SpiderBayonet",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_WolfBayonet",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_WhiteWolfBayonet",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_M16_Bayonet",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Kar98_Bayonet",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_Arisaka_Bayonet",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
 }
