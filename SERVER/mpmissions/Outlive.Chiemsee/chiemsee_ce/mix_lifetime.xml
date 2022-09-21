@@ -1966,7 +1966,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MedievalGibbet_Kit">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -1984,7 +1984,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MedievalGibbetWithMount_Kit">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -2329,7 +2329,7 @@
         <usage name="Village" />
     </type>
     <type name="Msp_CoffinBox">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -2342,7 +2342,7 @@
         <usage name="Lunapark" />
     </type>
     <type name="Msp_WitchHat">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -2354,7 +2354,7 @@
         <usage name="Lunapark" />
     </type>
     <type name="MSP_WitchCauldron">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>1</min>
