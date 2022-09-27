@@ -695,9 +695,9 @@
     <event name="StaticBonfire">
         <nominal>5</nominal>
         <min>1</min>
-        <max>0</max>
+        <max>5</max>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <saferadius>100</saferadius>
         <distanceradius>5</distanceradius>
         <cleanupradius>2500</cleanupradius>
