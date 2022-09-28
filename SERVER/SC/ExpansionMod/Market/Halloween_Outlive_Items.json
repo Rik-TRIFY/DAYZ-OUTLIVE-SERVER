@@ -1,0 +1,96 @@
+{
+    "m_Version": 11,
+    "DisplayName": "OUTLIVE Halloween Items",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MAD_Halloween_Chest_Beetlejuice",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Halloween_Chest_Skliba",
+                "MAD_Halloween_Chest_Jack"
+            ]
+        },
+        {
+            "ClassName": "MAD_HalloweenBag_Beetlejuice",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_HalloweenBag_BluePumpkin",
+                "MAD_HalloweenBag_Pumpkin",
+                "MAD_HalloweenBag_Jack",
+                "MAD_HalloweenBag_SklibaII",
+                "MAD_HalloweenBag_Skliba",
+                "MAD_HalloweenBag_Black"
+            ]
+        },
+        {
+            "ClassName": "MAD_Halloween_CombatBoots_Beetlejuice",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Halloween_CombatBoots_BluePumpkin",
+                "MAD_Halloween_CombatBoots_Pumpkin",
+                "MAD_Halloween_CombatBoots_Jack",
+                "MAD_Halloween_CombatBoots_SklibaII",
+                "MAD_Halloween_CombatBoots_Skliba",
+                "MAD_Halloween_CombatBoots_Orange"
+            ]
+        },
+        {
+            "ClassName": "MAD_Halloween_Pants_Beetlejuice",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Halloween_Pants_BluePumpkin",
+                "MAD_Halloween_Pants_Pumpkin",
+                "MAD_Halloween_Pants_Jack",
+                "MAD_Halloween_Pants_SklibaII",
+                "MAD_Halloween_Pants_Skliba",
+                "MAD_Halloween_Pants_Black"
+            ]
+        },
+        {
+            "ClassName": "MAD_Halloween_Jacket_Beetlejuice",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Halloween_Jacket_BluePumpkin",
+                "MAD_Halloween_Jacket_Pumpkin",
+                "MAD_Halloween_Jacket_Jack",
+                "MAD_Halloween_Jacket_SklibaII",
+                "MAD_Halloween_Jacket_Skliba",
+                "MAD_Halloween_Jacket_Black"
+            ]
+        }
+    ]
+}
