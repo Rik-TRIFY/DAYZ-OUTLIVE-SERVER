@@ -683,6 +683,22 @@
             "Variants": []
         },
         {
+            "ClassName": "TWP_ScarLKBlue",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ScarLKBlueCamo",
+                "ScarLKGreen",
+                "ScarLKGreenCamo",
+                "ScarLKTan"
+            ]
+        },
+        {
             "ClassName": "TWP_SG550",
             "MaxPriceThreshold": 17000,
             "MinPriceThreshold": 17000,
