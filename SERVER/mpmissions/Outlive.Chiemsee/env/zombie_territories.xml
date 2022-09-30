@@ -359,4 +359,14 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="15" x="8243.89" z="4392.08" r="50"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="15" dmax="30" x="10081.00" z="7086.00" r="65"/>
     </territory>
+    <!- event heloween >
+<territory color="3120496640">
+        <zone name="InfectedSeasonal" smin="0" smax="0" dmin="10" dmax="10" x="6882.29" z="11454.6" r="50"/>
+        <zone name="InfectedSeasonal" smin="0" smax="0" dmin="10" dmax="10" x="10226.3" z="12026.3" r="50"/>
+        <zone name="InfectedSeasonal" smin="0" smax="0" dmin="10" dmax="10" x="13461" z="3319" r="50"/>
+        <zone name="InfectedSeasonal" smin="0" smax="0" dmin="10" dmax="10" x="6526.88" z="5595" r="50"/>
+        <zone name="InfectedSeasonal" smin="0" smax="0" dmin="10" dmax="10" x="1395" z="9270" r="50"/>
+        <zone name="InfectedSeasonal" smin="0" smax="0" dmin="10" dmax="10" x="11256" z="4290" r="50"/>
+    </territory>
+    <!- event end heloween >
 </territory-type>
