@@ -1,0 +1,95 @@
+{
+    "m_Version": 11,
+    "DisplayName": "OUTLIVE Halloween Items",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MAD_Christmas_Pants_Grinch",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Christmas_Pants_PenisCorn",
+                "MAD_Christmas_Pants_GingerBread"
+            ]
+        },
+        {
+            "ClassName": "MAD_Christmas_Sweater_Grinch",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Christmas_Sweater_Hate",
+                "MAD_Christmas_Sweater_NaughtyAsFuck",
+                "MAD_Christmas_Sweater_NaughtyGingerBreads",
+                "MAD_Christmas_Sweater_NaughtySeason",
+                "MAD_Christmas_Sweater_PenisCorn",
+                "MAD_Christmas_Sweater_SuckMyBalls",
+                "MAD_Christmas_Sweater_DefineNaughty",
+                "MAD_Christmas_Sweater_Dino",
+                "MAD_Christmas_Sweater_Weed",
+                "MAD_Christmas_Sweater_Feminist",
+                "MAD_Christmas_Sweater_Madafakas",
+                "MAD_Christmas_Sweater_Winederful"
+            ]
+        },
+        {
+            "ClassName": "Msp_SantaPants",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_SantaJacket",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MAD_Beard_Pink",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Beard_Black",
+                "MAD_Beard_Purple"
+            ]
+        },
+        {
+            "ClassName": "SantasHat",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
