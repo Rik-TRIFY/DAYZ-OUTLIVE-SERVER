@@ -32,7 +32,7 @@
     </type>
 	<type name="dog_shed_big">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <restock>28800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -43,7 +43,7 @@
     </type>
 	<type name="dog_shed_small">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <restock>28800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -76,7 +76,7 @@
     </type>
 	<type name="dog_shed_wooden_kit">
         <nominal>1</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>28800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -87,7 +87,7 @@
     </type>
 	<type name="dog_shed_wooden">
          <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <restock>28800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -98,7 +98,7 @@
     </type>
     <type name="dog_bowl">
          <nominal>1</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <restock>28800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -109,7 +109,7 @@
     </type>
     <type name="dog_bone_toy">
         <nominal>1</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <restock>28800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -121,7 +121,7 @@
     <type name="dog_vest_sheriff">
 		<nominal>1</nominal>
 		<restock>28800</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -137,7 +137,7 @@
 	<type name="dog_vest_black">
 		<nominal>1</nominal>
 		<restock>28800</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -153,7 +153,7 @@
 	<type name="dog_vest_black_k9">
 		<nominal>1</nominal>
 		<restock>28800</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -169,7 +169,7 @@
 	<type name="dog_vest_blackgreen">
 		<nominal>1</nominal>
 		<restock>28800</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -185,7 +185,7 @@
 	<type name="dog_vest_blackmedic">
 		<nominal>1</nominal>
 		<restock>28800</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -201,7 +201,7 @@
 	<type name="dog_vest_blackgreenz">
 		<nominal>1</nominal>
 		<restock>28800</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>

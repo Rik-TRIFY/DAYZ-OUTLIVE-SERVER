@@ -45,6 +45,117 @@
             ]
         },
         {
+            "ClassName": "MAD_Christmas_Shirt_GrinchFace",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Christmas_Shirt_GrinchListening",
+                "MAD_Christmas_Shirt_GrinchNicePerson",
+                "MAD_Christmas_Shirt_GrinchRules",
+                "MAD_Christmas_Shirt_GrinchMerry",
+                "MAD_Christmas_Shirt_GrinchLicked"
+            ]
+        },
+        {
+            "ClassName": "MAD_Christmas_Pants_GrinchHoHoHo",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MAD_Christmas_Chest_Grinch",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Christmas_Chest_BlueRibbon",
+                "MAD_Christmas_Chest_PinkRibbon"
+            ]
+        },
+        {
+            "ClassName": "MAD_Christmas_MilitaryBoots_Grinch",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 12000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MAD_Christmas_CombatBoots",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 12000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MAD_Christmas_CarrierPouches_Grinch",
+            "MaxPriceThreshold": 4500,
+            "MinPriceThreshold": 4500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MAD_Christmas_PlateCarrierHolster_Grinch",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MAD_Christmas_PlateCarrier_Grinch",
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 16000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "MAD_Christmas_PlateCarrierHolster_Grinch",
+                "MAD_Christmas_CarrierPouches_Grinch"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "MAD_Christmas_AthleticShoes_Grinch",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "Msp_SantaPants",
             "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 3500,

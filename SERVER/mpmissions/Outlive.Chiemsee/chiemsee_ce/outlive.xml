@@ -2,15 +2,15 @@
 <types>
 <!-- MAD BARRELS -->
     <type name="OUTLIVE_Barrel">
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="OUTLIVE_Black_Barrel">
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="OUTLIVE_White_Barrel">
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="OUTLIVE_Static_Barrel">
@@ -20,7 +20,7 @@
 		<type name="MAD_Pink_Barrel">
 		<nominal>0</nominal>
 		<restock>86400</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -34,7 +34,7 @@
 	<type name="MAD_Black_Barrel">
 		<nominal>0</nominal>
 		<restock>86400</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -48,7 +48,7 @@
 	<type name="MAD_Ammo2_Barrel">
 		<nominal>0</nominal>
 		<restock>86400</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -62,7 +62,7 @@
 	<type name="MAD_Ammo_Barrel">
 		<nominal>0</nominal>
 		<restock>86400</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -76,7 +76,7 @@
 	<type name="MAD_Atachment_Barrel">
 		<nominal>0</nominal>
 		<restock>86400</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -90,7 +90,7 @@
 	<type name="MAD_Food_Barrel">
 		<nominal>0</nominal>
 		<restock>86400</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -104,7 +104,7 @@
 	<type name="MAD_Medic_Barrel">
 		<nominal>0</nominal>
 		<restock>86400</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -118,7 +118,7 @@
 	<type name="MAD_Tools_Barrel">
 		<nominal>0</nominal>
 		<restock>86400</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -132,7 +132,7 @@
 	<type name="MAD_Clothes_Barrel">
 		<nominal>0</nominal>
 		<restock>86400</restock>
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -144,7 +144,7 @@
 		<value name="" />
 	</type>
 	<type name="MAD_BarrelHoles">
-		<lifetime>3888000</lifetime>
+		<lifetime>1000000</lifetime>
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="1" deloot="0" />
 	</type>
 	<type name="MAD_Static_Barrel">
@@ -1960,39 +1960,39 @@
 <!-- MAD TENTS -->
 // PRIDANE 19.8.
 	<type name="MAD_CarTent_Flamingo">
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0" />
 	</type>
 	<type name="MAD_CarTent_WhiteGeo">
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0" />
 	</type>
 	<type name="MAD_CarTent_Wood">
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0" />
 	</type>
 	<type name="MAD_CarTent_Monstera">
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0" />
 	</type>
 	<type name="MAD_CarTent_GreenGeo">
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0" />
 	</type>
 	<type name="MAD_CarTent_NightSky">
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0" />
 	</type>
 	<type name="MAD_CarTent_BlueGeo">
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0" />
 	</type>
 	<type name="MAD_CarTent_Unicorn">
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0" />
 	</type>
 	<type name="MAD_CarTent_GreyGeo">
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0" />
 	</type>
 <!-- MAD TENTS KONEC -->
@@ -3782,7 +3782,7 @@
     </type>
 	<type name="rf_helipad">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <restock>28800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3808,7 +3808,7 @@
     </type>
 	<type name="RFSolarPanel">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>1000000</lifetime>
         <restock>28800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4185,5 +4185,336 @@
 		<usage name="Village" />
 		<value name="" />
 </type>
+<type name="MAD_Christmas_Shirt_GrinchFace">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="" />
+</type>
+<type name="MAD_Christmas_Shirt_GrinchListening">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="" />
+</type>
+<type name="MAD_Christmas_Shirt_GrinchNicePerson">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="" />
+</type>
+<type name="MAD_Christmas_Shirt_GrinchRules">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="" />
+</type>
+<type name="MAD_Christmas_Shirt_GrinchMerry">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="" />
+</type>
+<type name="MAD_Christmas_Shirt_GrinchLicked">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="" />
+</type>
+
+<type name="MAD_Christmas_Pants_GrinchHoHoHo">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="" />
+</type>
+<type name="MAD_Christmas_MountainBag_Blue">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+</type>
+<type name="MAD_Christmas_MountainBag_UglySweaters">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+</type>
+<type name="MAD_Christmas_MountainBag_Grinch">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+</type>
+<type name="MAD_Christmas_MountainBag_PinkRibbon">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="containers" />
+		<usage name="Town" />
+		<usage name="Village" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+</type>
+<type name="MAD_Christmas_Chest_BlueRibbon">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="containers" />
+        <usage name="Farm" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="School" />
+        <usage name="Lunapark" />
+</type>
+<type name="MAD_Christmas_Chest_Grinch">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="containers" />
+        <usage name="Farm" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="School" />
+        <usage name="Lunapark" />
+</type>
+<type name="MAD_Christmas_Chest_PinkRibbon">
+		<nominal>0</nominal>
+		<restock>216000</restock>
+		<lifetime>14400</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="containers" />
+        <usage name="Farm" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="School" />
+        <usage name="Lunapark" />
+</type>
+<type name="MAD_Christmas_MilitaryBoots_Grinch">
+		<nominal>0</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+        <value name="Tier4" />
+	</type>
+<type name="MAD_Christmas_CombatBoots">
+		<nominal>0</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+        <value name="Tier4" />
+	</type>
+<type name="MAD_Christmas_AthleticShoes_Grinch">
+		<nominal>0</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+        <value name="Tier4" />
+	</type>
+ <type name="MAD_Christmas_PlateCarrier_Grinch">
+		<nominal>0</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+<type name="MAD_Christmas_PlateCarrierHolster_Grinch">
+		<nominal>0</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+        <value name="Tier4" />
+	</type>
+	    <type name="MAD_Christmas_CarrierPouches_Grinch">
+		<nominal>0</nominal>
+		<restock>432000</restock>
+		<lifetime>28000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+        <value name="Tier4" />
+	</type>
 <!-- MAD CHRISTMAS KONEC-->
 </types>
