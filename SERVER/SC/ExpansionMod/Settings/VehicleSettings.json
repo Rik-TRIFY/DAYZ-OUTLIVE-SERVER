@@ -1,5 +1,5 @@
 {
-    "m_Version": 11,
+    "m_Version": 14,
     "VehicleSync": 0,
     "VehicleRequireKeyToStart": 1,
     "VehicleRequireAllDoors": 1,
@@ -31,6 +31,11 @@
     "ExplodingVehicleDropsAttachments": 0,
     "DesyncInvulnerabilityTimeoutSeconds": 1.0,
     "DamagedEngineStartupChancePercent": 100.0,
+    "EnableVehicleCovers": 1,
+    "AllowCoveringDEVehicles": 0,
+    "UseVirtualStorageForCoverCargo": 0,
+    "VehicleAutoCoverTimeSeconds": 0.0,
+    "VehicleAutoCoverRequireCamonet": 0,
     "VehiclesConfig": [
         {
             "ClassName": "ExpansionUAZCargoRoofless",

@@ -1,9 +1,9 @@
 {
-    "m_Version": 8,
+    "m_Version": 9,
     "DisableShootToUnlock": 1,
     "EnableGravecross": 1,
     "GravecrossDeleteBody": 0,
-    "GravecrossTimeThreshold": 4800,
+    "GravecrossTimeThreshold": 2400,
     "Mapping": {
         "UseCustomMappingModule": 0,
         "Mapping": [],
@@ -54,5 +54,7 @@
         "NotifiersIdealColor": "DCDCDCFF",
         "NotifiersHalfColor": "DCDC00FF",
         "NotifiersLowColor": "DC0000FF"
-    }
+    },
+    "EnableEarPlugs": 1,
+    "InGameMenuLogoPath": "set:expansion_iconset image:logo_expansion_white"
 }
