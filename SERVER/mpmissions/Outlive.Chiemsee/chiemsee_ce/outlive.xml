@@ -144,9 +144,9 @@
 		<value name="" />
 	</type>
 	<type name="MAD_BarrelHoles">
-		<lifetime>1000000</lifetime>
-		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="1" deloot="0" />
-	</type>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    </type>
 	<type name="MAD_Static_Barrel">
 		<nominal>0</nominal>
 		<restock>86400</restock>
@@ -162,9 +162,9 @@
 		<value name="" />
 	</type>
 	<type name="MAD_Static_BarrelHoles">
-		<lifetime>3888000</lifetime>
-		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="1" deloot="0" />
-	</type>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    </type>
 	<type name="MAD_PenisCorn_Barrel">
 		<nominal>0</nominal>
 		<restock>86400</restock>

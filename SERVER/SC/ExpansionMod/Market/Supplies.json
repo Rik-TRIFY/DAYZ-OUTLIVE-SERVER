@@ -394,17 +394,6 @@
         },
         {
             "ClassName": "ExpansionCircuitBoard_MK1",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 10000,
-            "SellPricePercent": 30.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ExpansionCircuitBoard_MK2",
             "MaxPriceThreshold": 25000,
             "MinPriceThreshold": 25000,
             "SellPricePercent": 30.0,
@@ -415,9 +404,20 @@
             "Variants": []
         },
         {
-            "ClassName": "ExpansionCircuitBoard_MK3",
+            "ClassName": "ExpansionCircuitBoard_MK2",
             "MaxPriceThreshold": 50000,
             "MinPriceThreshold": 50000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionCircuitBoard_MK3",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
             "SellPricePercent": 30.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
