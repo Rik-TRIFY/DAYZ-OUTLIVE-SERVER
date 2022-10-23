@@ -1916,7 +1916,7 @@
         <usage name="Village" />
     </type>
     <type name="Msp_BaseballCap_CMMG_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -1948,9 +1948,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
     <type name="Msp_Shelf_Kit">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>45000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1968,7 +1968,7 @@
     <type name="Msp_MedievalGibbet_Kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>45000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1986,7 +1986,7 @@
     <type name="Msp_MedievalGibbetWithMount_Kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>45000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2136,9 +2136,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_WoodenTable_Kit">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>21800</lifetime>
-        <restock>21800</restock>
+        <restock>45000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2158,9 +2158,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_RoomDivider_Kit">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>45000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2331,7 +2331,7 @@
     <type name="Msp_CoffinBox">
         <nominal>2</nominal>
         <lifetime>1000000</lifetime>
-        <restock>1800</restock>
+        <restock>45000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2368,7 +2368,7 @@
     <type name="Msp_BeachChair_Kit">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>45000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3360,9 +3360,9 @@
       <category name="containers"/>
   </type>
    <type name ="CJ_Key10">
-      <nominal>0</nominal>
-      <lifetime>1000000</lifetime>
-      <restock>0</restock>
+      <nominal>1</nominal>
+      <lifetime>7200</lifetime>
+      <restock>604800</restock>
       <min>0</min>
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>

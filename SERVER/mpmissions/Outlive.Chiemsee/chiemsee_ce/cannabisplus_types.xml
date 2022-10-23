@@ -34,7 +34,7 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackSkunk">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>86400</lifetime>
         <restock>86400</restock>
         <min>1</min>
@@ -130,7 +130,7 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackBlue">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>86400</lifetime>
         <restock>10800</restock>
         <min>2</min>
@@ -224,7 +224,7 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackKush">
-        <nominal>6</nominal>
+        <nominal>4</nominal>
         <lifetime>86400</lifetime>
         <restock>43200</restock>
         <min>2</min>
@@ -316,7 +316,7 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackStardawg">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -569,7 +569,7 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackFuture">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>86400</lifetime>
         <restock>43200</restock>
         <min>1</min>
@@ -663,10 +663,10 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackS1">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>86400</lifetime>
         <restock>42000</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -757,7 +757,7 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackNomad">
-        <nominal>7</nominal>
+        <nominal>5</nominal>
         <lifetime>86400</lifetime>
         <restock>86400</restock>
         <min>1</min>
@@ -851,7 +851,7 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackBlackFrost">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>86400</lifetime>
         <restock>86400</restock>
         <min>1</min>

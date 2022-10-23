@@ -18,7 +18,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 		<type name="MAD_Pink_Barrel">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<restock>86400</restock>
 		<lifetime>1000000</lifetime>
 		<min>0</min>
@@ -32,7 +32,7 @@
 		<value name="" />
 	</type>
 	<type name="MAD_Black_Barrel">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<restock>86400</restock>
 		<lifetime>1000000</lifetime>
 		<min>0</min>
@@ -46,7 +46,7 @@
 		<value name="" />
 	</type>
 	<type name="MAD_Ammo2_Barrel">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<restock>86400</restock>
 		<lifetime>1000000</lifetime>
 		<min>0</min>
@@ -74,7 +74,7 @@
 		<value name="" />
 	</type>
 	<type name="MAD_Atachment_Barrel">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<restock>86400</restock>
 		<lifetime>1000000</lifetime>
 		<min>0</min>
@@ -88,7 +88,7 @@
 		<value name="" />
 	</type>
 	<type name="MAD_Food_Barrel">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<restock>86400</restock>
 		<lifetime>1000000</lifetime>
 		<min>0</min>
@@ -102,7 +102,7 @@
 		<value name="" />
 	</type>
 	<type name="MAD_Medic_Barrel">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<restock>86400</restock>
 		<lifetime>1000000</lifetime>
 		<min>0</min>
@@ -116,7 +116,7 @@
 		<value name="" />
 	</type>
 	<type name="MAD_Tools_Barrel">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<restock>86400</restock>
 		<lifetime>1000000</lifetime>
 		<min>0</min>
@@ -130,7 +130,7 @@
 		<value name="" />
 	</type>
 	<type name="MAD_Clothes_Barrel">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<restock>86400</restock>
 		<lifetime>1000000</lifetime>
 		<min>0</min>
@@ -166,7 +166,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
 	<type name="MAD_PenisCorn_Barrel">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<restock>86400</restock>
 		<lifetime>3888000</lifetime>
 		<min>0</min>
@@ -1434,7 +1434,7 @@
  <!-- MAD FOOD & DRINKS -->
 	<type name="MAD_EnergyDrink_Unicorn">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1450,7 +1450,7 @@
     </type>
 	<type name="MAD_EnergyDrink_Rainbow">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1466,7 +1466,7 @@
     </type>
 	<type name="MAD_EnergyDrink_Blue">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1482,7 +1482,7 @@
     </type>
 	<type name="OUTLIVE_EnergyDrink">
         <nominal>3</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1498,7 +1498,7 @@
     </type>
 	<type name="MAD_EnergyDrink_Carlos">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1514,7 +1514,7 @@
     </type>
 	<type name="MAD_Meat_Unicorn">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1530,7 +1530,7 @@
     </type>
 	<type name="MAD_Jar_Unicorn">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1546,7 +1546,7 @@
     </type>
 	<type name="MAD_EmptyCan">
         <nominal>12</nominal>
-        <restock>28800</restock>
+        <restock>7200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1562,7 +1562,7 @@
     </type>
 	<type name="MAD_Meat_Chicken">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1578,7 +1578,7 @@
     </type>
 	<type name="MAD_Meat_Goat">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1594,7 +1594,7 @@
     </type>	
 <type name="MAD_Meat_Bear">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1610,7 +1610,7 @@
     </type>
 <type name="MAD_Meat_Deer">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1626,7 +1626,7 @@
     </type>
 <type name="MAD_Meat_Pork">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1642,7 +1642,7 @@
     </type>
 <type name="MAD_Meat_Mutton">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1658,7 +1658,7 @@
     </type>
 <type name="MAD_Meat_Pumpkin">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1674,7 +1674,7 @@
     </type>
 <type name="MAD_Meat_Mackerel">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1690,7 +1690,7 @@
     </type>
 <type name="MAD_Meat_Carp">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>14400</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1706,7 +1706,7 @@
     </type>
 	<type name="MAD_Meat_Beef">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>28800</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1722,7 +1722,7 @@
     </type>
 	<type name="MAD_Meat_Cookies">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>28800</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1738,7 +1738,7 @@
     </type>
 	<type name="MAD_Meat_Donuts">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>28800</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1754,7 +1754,7 @@
     </type>
 	<type name="MAD_Meat_Risotto">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>28800</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1770,7 +1770,7 @@
     </type>
 	<type name="MAD_Meat_Salmon">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>28800</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1786,7 +1786,7 @@
     </type>
 	<type name="MAD_Meat_Shrimps">
         <nominal>1</nominal>
-        <restock>28800</restock>
+        <restock>43200</restock>
         <lifetime>28800</lifetime>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -2065,8 +2065,8 @@
 <!-- MAD RANDOM THINGS-->
 <type name="MAD_Pokemon_SeaChest">
 		<nominal>1</nominal>
-		<restock>259200</restock>
-		<lifetime>3888000</lifetime>
+		<restock>200000</restock>
+		<lifetime>1000000</lifetime>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2080,10 +2080,10 @@
         <usage name="Lunapark" />
 	</type>
 <type name="MAD_Battery9V">
-		<nominal>1</nominal>
+		<nominal>3</nominal>
 		<restock>86400</restock>
 		<lifetime>14400</lifetime>
-		<min>11</min>
+		<min>1</min>
 		<quantmin>50</quantmin>
 		<quantmax>100</quantmax>
 		<cost>100</cost>
@@ -2097,7 +2097,7 @@
 		<nominal>2</nominal>
 		<restock>432000</restock>
 		<lifetime>14400</lifetime>
-		<min>0</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3766,9 +3766,9 @@
 <!-- MAD OUTLIVE GEAR KONEC -->
 <!-- REPACKED ITEMS  -->
    <type name="rf_helipad_kit">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>28800</restock>
+        <restock>128000</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3792,9 +3792,9 @@
         <category name="containers"/>
     </type>
     <type name="RFSolarPanelKit">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>28800</restock>
+        <restock>128800</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3820,7 +3820,7 @@
     <type name="R_Coffeepot">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
-        <restock>28800</restock>
+        <restock>14400</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3840,7 +3840,7 @@
     <type name="R_Coffeecup">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
-        <restock>28800</restock>
+        <restock>7200</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
