@@ -944,7 +944,8 @@
                 "salinebag",
                 "morphine",
                 "iodinetincture",
-                "anticheminjector"
+                "anticheminjector",
+                "CP_Relief_Balm"
             ]
         },
         {
@@ -1053,9 +1054,15 @@
                 "expansioncodelock",
                 "smallprotectorcase",
                 "CP_RollingPapers",
-                "CP_RollingPapers",
-                "CP_CannabisSeedsPackS1",
-                "lockpick"
+                "CP_RollingPapers_Silver",
+                "CP_RollingPapers_Green",
+                "lockpick",
+                "CP_DryPost_Kit",
+                "CP_Workbench_Kit",
+                "CP_Bagger",
+                "CP_PlasticWrapper",
+                "CP_EmptyBag",
+                "CP_PlasticRoll"
             ]
         },
         {
@@ -2394,6 +2401,7 @@
         {
             "name": "LC_Table_Ostatni",
             "Loot": [
+                "CP_Pouch",
                 "MAD_Bear_ColorBase",
                 "MAD_WaterproofBag_Pink",
                 "Outlive_CarrierPouches",
