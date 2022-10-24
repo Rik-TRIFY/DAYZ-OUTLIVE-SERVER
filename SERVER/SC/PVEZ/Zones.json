@@ -334,5 +334,19 @@
             "StartHour": 0,
             "EndHour": 24
         }
+    },
+    {
+        "Type": 0,
+        "Name": "hrad",
+        "X": 4626.0,
+        "Z": 7640.0,
+        "Radius": 300,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
     }
 ]
