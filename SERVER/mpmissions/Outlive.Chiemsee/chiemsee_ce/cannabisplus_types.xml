@@ -36,7 +36,7 @@
     <type name="CP_CannabisSeedsPackSkunk">
         <nominal>4</nominal>
         <lifetime>86400</lifetime>
-        <restock>86400</restock>
+        <restock>28800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -759,7 +759,7 @@
     <type name="CP_CannabisSeedsPackNomad">
         <nominal>5</nominal>
         <lifetime>86400</lifetime>
-        <restock>86400</restock>
+        <restock>28800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -853,7 +853,7 @@
     <type name="CP_CannabisSeedsPackBlackFrost">
         <nominal>2</nominal>
         <lifetime>86400</lifetime>
-        <restock>86400</restock>
+        <restock>28800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -903,7 +903,7 @@
     <type name="CP_JointBlackFrost">
         <nominal>2</nominal>
         <lifetime>86400</lifetime>
-        <restock>86400</restock>
+        <restock>28800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1027,10 +1027,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="CP_Bagger">
-        <nominal>20</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
