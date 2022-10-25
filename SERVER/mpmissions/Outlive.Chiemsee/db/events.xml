@@ -58,9 +58,9 @@
         </children>
     </event>	
 	<event name="AnimalPolarBear">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>9</max>
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>4</max>
         <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -77,9 +77,9 @@
         </children>
     </event>
 	<event name="Animalscorpion">
-        <nominal>5</nominal>
-        <min>1</min>
-        <max>5</max>
+        <nominal>9</nominal>
+        <min>3</min>
+        <max>9</max>
         <lifetime>60</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
@@ -96,7 +96,7 @@
     <event name="AnimalCow">
         <nominal>7</nominal>
         <min>2</min>
-        <max>3</max>
+        <max>7</max>
         <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -118,7 +118,7 @@
     <event name="AnimalDeer">
         <nominal>9</nominal>
         <min>2</min>
-        <max>4</max>
+        <max>9</max>
         <lifetime>600</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>

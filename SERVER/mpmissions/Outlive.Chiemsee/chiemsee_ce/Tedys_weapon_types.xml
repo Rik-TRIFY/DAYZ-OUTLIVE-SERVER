@@ -8740,12 +8740,12 @@
 	
 										<!-- TeddyWeaponPack - Bullets -->
 	<type name="TWP_Ammo_20x76">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>1</min>
-        <quantmin>20</quantmin>
-        <quantmax>100</quantmax>
+        <min>5</min>
+        <quantmin>5</quantmin>
+        <quantmax>50</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -8759,12 +8759,12 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_Ammo_50BMG">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>1</min>
-        <quantmin>20</quantmin>
-        <quantmax>100</quantmax>
+        <min>5</min>
+        <quantmin>5</quantmin>
+        <quantmax>50</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -8778,12 +8778,12 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_Ammo_408Cheytac">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>1</min>
-        <quantmin>20</quantmin>
-        <quantmax>100</quantmax>
+        <min>5</min>
+        <quantmin>5</quantmin>
+        <quantmax>50</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -8797,12 +8797,12 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_Ammo_762x25">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>1</min>
-        <quantmin>20</quantmin>
-        <quantmax>100</quantmax>
+        <min>5</min>
+        <quantmin>5</quantmin>
+        <quantmax>50</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -8816,12 +8816,12 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_Ammo_6x35">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>1</min>
-        <quantmin>20</quantmin>
-        <quantmax>100</quantmax>
+        <min>5</min>
+        <quantmin>5</quantmin>
+        <quantmax>50</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -8835,12 +8835,12 @@
         <value name="Tier3"/>
     </type>
 	<type name="TWP_Ammo_500SW_Mag">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>1</min>
-        <quantmin>10</quantmin>
-        <quantmax>40</quantmax>
+        <min>5</min>
+        <quantmin>5</quantmin>
+        <quantmax>50</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>

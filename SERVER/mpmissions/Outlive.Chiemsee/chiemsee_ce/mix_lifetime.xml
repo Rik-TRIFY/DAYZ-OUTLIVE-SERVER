@@ -3400,4 +3400,213 @@
         <lifetime>1000000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
+<type name="rag_beehive">
+        <lifetime>1000000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="rag_beehive_kit">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="rag_beetrap">
+        <nominal>1</nominal>
+        <lifetime>900</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="rag_honey_pot">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="rag_honey_jar">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="rag_honeycomb_spatula">
+        <nominal>5</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="rag_honey_dipper">
+        <nominal>5</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="rag_honey_test_tube">
+        <nominal>5</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="rag_honeywine_bottle">
+        <nominal>20</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>5</min>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="rag_honey_pot_honeycomb_water">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="rag_honey_pot_honey_water">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="rag_honey_pot_honeycomb">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="rag_honeycomb">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="rag_honeycomb_frame_empty">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="rag_honeycomb_frame_full">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Honey_Glass_empty">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>8</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+	<type name="beekeeper_pants">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="beekeeper_gloves">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="beekeeper_boots">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="beekeeper_jacket">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="beekeeper_hat">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
 </types>
