@@ -179,6 +179,81 @@
 		<usage name="Farm" />
 		<value name="" />
 	</type>
+    </type>
+		<type name="MAD_Contraband_Barrel">
+		<nominal>1</nominal>
+		<restock>86400</restock>
+		<lifetime>1000000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<value name="" />
+	</type>
+    </type>
+		<type name="MAD_Sale_Barrel_Yellow">
+		<nominal>1</nominal>
+		<restock>86400</restock>
+		<lifetime>1000000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<value name="" />
+	</type>
+    </type>
+		<type name="MAD_Sale_Barrel_Pink">
+		<nominal>1</nominal>
+		<restock>86400</restock>
+		<lifetime>1000000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<value name="" />
+	</type>
+    </type>
+		<type name="MAD_Sale_Barrel_Green">
+		<nominal>1</nominal>
+		<restock>86400</restock>
+		<lifetime>1000000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<value name="" />
+	</type>
+    </type>
+		<type name="MAD_Sale_Barrel_Blue">
+		<nominal>1</nominal>
+		<restock>86400</restock>
+		<lifetime>1000000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<value name="" />
+	</type>
 	<!-- MAD BARRELS KONEC-->
 	<!-- MAD GHILLIE -->
 <type name="MAD_GhillieTop_Black">
@@ -1941,6 +2016,46 @@
 		<restock>0</restock>
 		<lifetime>7200</lifetime>
 		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+        <value name="Tier4" />
+	</type>
+	<type name="MAD_Salt">
+		<nominal>25</nominal>
+		<restock>0</restock>
+		<lifetime>7200</lifetime>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="food" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+        <value name="Tier4" />
+	</type>
+	<type name="MAD_SaltedCan">
+		<nominal>3</nominal>
+		<restock>0</restock>
+		<lifetime>7200</lifetime>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
