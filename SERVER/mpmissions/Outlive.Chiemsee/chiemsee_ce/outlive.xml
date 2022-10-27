@@ -1620,10 +1620,10 @@
         <usage name="Lunapark" />
     </type>
 	<type name="MAD_EmptyCan">
-        <nominal>25</nominal>
+        <nominal>2</nominal>
         <restock>7200</restock>
         <lifetime>14400</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2052,10 +2052,10 @@
         <value name="Tier4" />
 	</type>
 	<type name="MAD_SaltedCan">
-		<nominal>3</nominal>
+		<nominal>0</nominal>
 		<restock>0</restock>
 		<lifetime>7200</lifetime>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2070,6 +2070,19 @@
 		<value name="Tier2" />
 		<value name="Tier3" />
         <value name="Tier4" />
+	</type>
+	<type name="MAD_SmallMetalPlate">
+		<nominal>0</nominal>
+		<restock>28800</restock>
+		<lifetime>14400</lifetime>
+		<min>0</min>
+		<quantmin>10</quantmin>
+		<quantmax>60</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<value name="" />
 	</type>
 <!-- MAD FOOD & DRINKS KONEC -->
 <!-- MAD TENTS -->
