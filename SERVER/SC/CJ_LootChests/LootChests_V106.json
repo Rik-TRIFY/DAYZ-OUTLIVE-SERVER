@@ -410,6 +410,7 @@
                 "LC_Table_food",
                 "LC_Table_food",
                 "LC_Table_Barrels",
+                "LC_Table_Cannabis",
                 "MAD_Battery9V"
             ]
         },
@@ -467,7 +468,8 @@
                 "LC_Table_Collectable",
                 "LC_Table_food",
                 "MAD_SuperBandage_Pink",
-                "MAD_SurgicalGloves_Pink"
+                "MAD_SurgicalGloves_Pink",
+                "LC_Table_FirstAidKit"
             ]
         },
         {
@@ -945,7 +947,10 @@
                 "morphine",
                 "iodinetincture",
                 "anticheminjector",
-                "CP_Relief_Balm"
+                "CP_Relief_Balm",
+                "TWP_ToiletRoll",
+                "TWP_Desinfectant",
+                "TWP_SurgicalMask"
             ]
         },
         {
@@ -1053,10 +1058,15 @@
                 "CodeLock",
                 "expansioncodelock",
                 "smallprotectorcase",
+                "lockpick"
+            ]
+        },
+        {
+            "name": "LC_Table_Cannabis",
+            "Loot": [
                 "CP_RollingPapers",
                 "CP_RollingPapers_Silver",
                 "CP_RollingPapers_Green",
-                "lockpick",
                 "CP_DryPost_Kit",
                 "CP_Workbench_Kit",
                 "CP_Bagger",
@@ -2640,6 +2650,24 @@
                 "mvs_taco_pouch_od",
                 "mvs_utility_pouch_od",
                 "mvs_medical_pouch_od"
+            ]
+        },
+        {
+            "name": "LC_Table_FirstAidKit",
+            "Loot": [
+                "MAD_FirstAidKit_Pink",
+                "MAD_FirstAidKit_Outlive",
+                "MAD_FirstAidKit_BlackPink",
+                "MAD_FirstAidKit_GreenGeo",
+                "MAD_FirstAidKit_GreyGeo",
+                "MAD_FirstAidKit_NightSky",
+                "MAD_FirstAidKit_Unicorn",
+                "MAD_FirstAidKit_Explicited",
+                "MAD_FirstAidKit_Explicited2",
+                "MAD_FirstAidKit_BlueGeo",
+                "MAD_FirstAidKit_GreenCamo",
+                "MAD_FirstAidKit_Bones",
+                "MAD_FirstAidKit_White"
             ]
         }
     ]

@@ -15853,4 +15853,230 @@
 				<point pos="0.058 1.719 1.028"  range="0.9" height="4" />
 		</container>
 		</group>
+		<group name="mxb_MASH" >
+			<usage name="Medic" />
+			<container name="lootFloor" lootmax="4">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<point pos="1.571117 -1.079926 -1.547498" range="0.5" height="1.5" /> 
+						<point pos="-1.095687 -1.079926 -0.642565" range="0.5" height="1.5" /> 
+						<point pos="-0.783839 -0.247520 -1.627779" range="0.5" height="1.5" /> 
+						<point pos="-1.036673 -0.276385 0.627776" range="0.5" height="1.5" /> 
+				</container>
+		</group>
+<group name="Land_CS_Treehouse" lootmax="3">
+	<usage name="Hunting" />
+	<container name="lootFloor" lootmax="3">
+		<point pos="-1.037942 5.865505 0.685113" range="1" height="1" /> 
+		<point pos="0.541903 5.865503 -0.671973" range="1" height="1" /> 
+		<point pos="0.764892 5.865503 0.840270" range="1" height="1" /> 
+	</container>
+</group>
+<group name="Land_CS_Treehouse_1" lootmax="2">
+	<usage name="Hunting" />
+	<container name="lootFloor" lootmax="2">
+		<point pos="0.571239 5.865503 0.956109" range="1" height="1" /> 
+		<point pos="-0.814435 5.865502 -0.760451" range="1" height="1" /> 
+	</container>
+</group>
+<group name="land_mxb_dum_mesto_in" lootmax="8">
+	<usage name="Farm" />
+	<usage name="Village" />
+	<usage name="Town" />
+	<container name="lootFloor" lootmax="8">
+		<point pos="-4.933544 -1.105918 6.046282" range="1" height="1" /> 
+		<point pos="3.800544 -1.249859 5.161272" range="1" height="1" /> 
+		<point pos="-0.072640 -1.223754 3.254263" range="1" height="1" /> 
+		<point pos="-1.972284 -1.282385 -2.914890" range="1" height="1" /> 
+		<point pos="0.916527 -0.370148 -1.154098" range="1" height="1" /> 
+		<point pos="2.887286 -1.282385 -4.675694" range="1" height="1" /> 
+		<point pos="0.370432 -4.265615 -2.151996" range="1" height="1" /> 
+		<point pos="-2.801708 -4.264744 1.579901" range="1" height="1" /> 
+		<point pos="-2.877626 -4.264744 5.582359" range="1" height="1" /> 
+		<point pos="0.675597 -4.264744 5.414545" range="1" height="1" /> 
+		<point pos="2.308244 -3.510262 6.184464" range="1" height="1" /> 
+		<point pos="2.584639 -4.264744 3.698731" range="1" height="1" /> 
+		<point pos="4.659011 -4.264744 1.309986" range="1" height="1" /> 
+		<point pos="3.872057 -4.265615 -5.520474" range="1" height="1" /> 
+		<point pos="-3.503358 -4.265615 -5.830161" range="1" height="1" /> 
+		<point pos="-3.124461 -4.265615 -3.603678" range="1" height="1" /> 
+		<point pos="-1.951685 -4.265615 -4.608780" range="1" height="1" /> 
+		<point pos="-4.918309 -4.602494 2.203949" range="1" height="1" /> 
+	</container>
+</group>
+<group name="land_mxb_Deutshe_mini" lootmax="6">
+	<usage name="Village" />
+	<usage name="Town" />
+	<container name="lootFloor" lootmax="6">
+		<point pos="0.244975 -2.749895 -4.060184" range="1" height="1" /> 
+		<point pos="2.840371 -2.749895 -0.990023" range="1" height="1" /> 
+		<point pos="-2.907151 -2.749895 -4.259774" range="1" height="1" /> 
+		<point pos="0.160883 -2.749895 4.037560" range="1" height="1" /> 
+		<point pos="-2.889189 -2.749895 3.908473" range="1" height="1" /> 
+		<point pos="0.399524 -2.749895 0.459819" range="1" height="1" /> 
+		<point pos="2.842843 -2.749895 4.194653" range="1" height="1" /> 
+		<point pos="1.585956 -2.749895 3.593785" range="1" height="1" /> 
+		<point pos="2.532162 -2.749895 0.566671" range="1" height="1" /> 
+	</container>
+</group>
+<group name="land_mxb_Cihlovej_dum_in" lootmax="6">
+	<usage name="Village" />
+	<usage name="Town" />
+	<container name="lootFloor" lootmax="6">
+		<point pos="2.494717 -5.277315 2.767303" range="1" height="1" /> 
+		<point pos="-2.600229 -5.277315 2.759330" range="1" height="1" /> 
+		<point pos="-2.133565 -5.277315 -2.287033" range="1" height="1" /> 
+		<point pos="2.423078 -5.277315 -2.247334" range="1" height="1" /> 
+		<point pos="2.764592 -1.816155 -2.597089" range="1" height="1" /> 
+		<point pos="-2.296720 -1.816148 2.279331" range="1" height="1" /> 
+		<point pos="-2.182300 -1.816149 -1.827014" range="1" height="1" /> 
+		<point pos="2.341991 -1.816140 2.518216" range="1" height="1" /> 
+		<point pos="0.609632 -1.816158 0.488013" range="1" height="1" /> 
+	</container>
+</group>
+<group name="land_mxb_Cihlovej_dum_mini" lootmax="4">
+	<usage name="Village" />
+	<usage name="Town" />
+	<container name="lootFloor" lootmax="4">
+		<point pos="0.360416 -2.870860 2.020534" range="1" height="1" /> 
+		<point pos="0.848904 -2.870860 0.284053" range="1" height="1" /> 
+		<point pos="-2.359071 -2.870860 -0.098944" range="1" height="1" /> 
+		<point pos="2.471364 -2.870860 -2.768517" range="1" height="1" /> 
+		<point pos="2.227024 -2.870860 -0.180621" range="1" height="1" /> 
+	</container>
+</group>
+<group name="land_mxb_dum_mesto2" lootmax="6">
+	<usage name="Village" />
+	<usage name="Town" />
+	<container name="lootFloor" lootmax="6">
+		<point pos="4.566470 -2.153041 4.200417" range="1" height="1" /> 
+		<point pos="4.669207 -4.346188 -2.989152" range="1" height="1" /> 
+		<point pos="0.636528 -4.346188 2.354789" range="1" height="1" /> 
+		<point pos="0.544923 -4.346188 -2.578903" range="1" height="1" /> 
+		<point pos="-6.797690 -4.346189 2.584714" range="1" height="1" /> 
+		<point pos="-3.736221 -4.346188 -0.815887" range="1" height="1" /> 
+		<point pos="-7.052597 -0.945444 2.855813" range="1" height="1" /> 
+		<point pos="-1.008420 -0.945444 3.221007" range="1" height="1" /> 
+		<point pos="-4.719272 -0.945445 -0.463994" range="1" height="1" /> 
+		<point pos="-1.503067 -0.945444 -2.861814" range="1" height="1" /> 
+		<point pos="4.099870 -0.945445 2.922691" range="1" height="1" /> 
+		<point pos="7.298500 -0.945445 2.901219" range="1" height="1" /> 
+		<point pos="5.264110 -0.945444 -0.850874" range="1" height="1" /> 
+	</container>
+</group>
+<group name="land_mxb_ammostore2" lootmax="4">
+	<usage name="Military" />
+	<container name="lootFloor" lootmax="4">
+		<point pos="5.125623 3.513163 3.112414" range="1" height="1" /> 
+		<point pos="-1.026489 3.417177 -2.861400" range="1" height="1" /> 
+		<point pos="4.912104 -2.336482 2.218649" range="1" height="1" /> 
+		<point pos="5.101921 -2.336482 -2.587832" range="1" height="1" /> 
+		<point pos="0.166441 -2.336482 -2.211838" range="1" height="1" /> 
+		<point pos="1.583101 -2.336482 -0.917754" range="1" height="1" /> 
+		<point pos="3.717247 -2.336482 -2.232996" range="1" height="1" /> 
+	</container>
+</group>
+<group name="land_mxb_army_hut_1" lootmax="4">
+	<usage name="Military" />
+	<container name="lootFloor" lootmax="4">
+		<point pos="5.600010 -1.389652 0.036541" range="1" height="1" /> 
+		<point pos="-3.165984 -1.331998 -2.634287" range="1" height="1" /> 
+		<point pos="-1.230287 -0.866676 -3.197603" range="1" height="1" /> 
+		<point pos="0.924046 -0.271316 -2.077351" range="1" height="1" /> 
+		<point pos="4.210297 -1.364345 -1.934510" range="1" height="1" /> 
+		<point pos="2.605591 -0.997503 0.794739" range="1" height="1" /> 
+		<point pos="-2.144764 -1.349483 1.324317" range="1" height="1" /> 
+		<point pos="-0.032046 -1.361424 0.723063" range="1" height="1" /> 
+		<point pos="-4.505887 -0.546932 -0.127896" range="1" height="1" /> 
+		<point pos="-4.575553 -1.331686 1.646882" range="1" height="1" /> 
+		<point pos="-6.187923 -1.331998 -2.532248" range="1" height="1" /> 
+	</container>
+</group>
+<group name="land_mxb_single_story_H1" lootmax="8">
+	<usage name="Village" />
+	<usage name="Town" />
+	<container name="lootFloor" lootmax="8">
+		<point pos="10.930003 -1.510800 7.563069" range="1" height="1" /> 
+		<point pos="-1.176489 -1.510071 8.660797" range="1" height="1" /> 
+		<point pos="-0.214468 -1.510800 9.079344" range="1" height="1" /> 
+		<point pos="0.238872 -1.510800 7.534398" range="1" height="1" /> 
+		<point pos="7.674323 -1.510800 4.434293" range="1" height="1" /> 
+		<point pos="7.746854 -1.510800 8.525344" range="1" height="1" /> 
+		<point pos="-3.549470 -1.510800 4.688503" range="1" height="1" /> 
+		<point pos="-5.339442 -1.510800 8.328301" range="1" height="1" /> 
+		<point pos="-3.395986 -1.510800 7.327827" range="1" height="1" /> 
+		<point pos="1.163310 -1.510800 2.047071" range="1" height="1" /> 
+		<point pos="-4.623596 -1.510800 0.217304" range="1" height="1" /> 
+		<point pos="0.862589 -1.510800 -2.134771" range="1" height="1" /> 
+		<point pos="-4.343161 -1.510800 -3.848348" range="1" height="1" /> 
+		<point pos="-4.766467 -1.510800 -1.801422" range="1" height="1" /> 
+		<point pos="-8.732149 -1.510800 -0.102797" range="1" height="1" /> 
+		<point pos="-10.232102 -1.510800 -6.067519" range="1" height="1" /> 
+		<point pos="-12.258761 -1.768343 7.177083" range="1" height="1" /> 
+	</container>
+</group>
+<group name="land_mxb_Sara_zluty_statek_in" lootmax="8">
+	<usage name="Village" />
+	<usage name="Town" />
+	<usage name="Farm" />
+	<container name="lootFloor" lootmax="8">
+		<point pos="-2.434631 -2.907345 8.733527" range="1" height="1" /> 
+		<point pos="4.677427 -2.879670 7.966600" range="1" height="1" /> 
+		<point pos="5.373165 -2.879669 5.877448" range="1" height="1" /> 
+		<point pos="3.562881 -2.881931 9.209051" range="1" height="1" /> 
+		<point pos="1.506272 -0.933317 4.862423" range="1" height="1" /> 
+		<point pos="4.921033 -2.883059 4.314253" range="1" height="1" /> 
+		<point pos="-0.138924 -2.575502 3.797366" range="1" height="1" /> 
+		<point pos="-0.123633 -2.897842 -0.649774" range="1" height="1" /> 
+		<point pos="5.332304 -2.883558 -3.999245" range="1" height="1" /> 
+		<point pos="2.007382 -2.052711 -8.464155" range="1" height="1" /> 
+		<point pos="0.021474 -2.904744 -6.247769" range="1" height="1" /> 
+		<point pos="5.282191 -2.883793 -9.073944" range="1" height="1" /> 
+		<point pos="5.105692 -2.884621 -5.921725" range="1" height="1" /> 
+		<point pos="-2.426620 -2.918191 -6.194247" range="1" height="1" /> 
+		<point pos="-3.307496 -2.917301 -1.834552" range="1" height="1" /> 
+		<point pos="-1.876056 -2.905773 -1.803314" range="1" height="1" /> 
+		<point pos="-2.819982 -2.917883 -8.706686" range="1" height="1" /> 
+	</container>
+</group>
+<group name="mxb_warship" lootmax="8">
+	<usage name="Military" />
+	<container name="lootFloor" lootmax="8">
+		<point pos="51.978703 -5.106462 -5.120545" range="1" height="1" /> 
+		<point pos="53.125099 -5.100127 -4.678911" range="1" height="1" /> 
+		<point pos="50.672913 -5.113594 -5.491404" range="1" height="1" /> 
+		<point pos="50.967461 -5.111161 -4.071784" range="1" height="1" /> 
+		<point pos="53.044033 -5.099751 -3.375024" range="1" height="1" /> 
+		<point pos="51.722527 -5.106733 -3.364229" range="1" height="1" /> 
+		<point pos="15.896161 0.713884 -1.338020" range="1" height="1" /> 
+		<point pos="15.491683 0.713884 -0.676021" range="1" height="1" /> 
+		<point pos="14.505544 0.713884 -1.792535" range="1" height="1" /> 
+		<point pos="14.237802 0.713884 -0.949185" range="1" height="1" /> 
+		<point pos="8.443495 0.440649 0.120487" range="1" height="1" /> 
+		<point pos="11.769264 0.412397 4.029544" range="1" height="1" /> 
+		<point pos="13.956394 0.393810 3.861432" range="1" height="1" /> 
+		<point pos="11.128353 0.417824 0.577639" range="1" height="1" /> 
+		<point pos="11.400339 0.415480 -3.790998" range="1" height="1" /> 
+		<point pos="13.132499 0.400753 -3.930375" range="1" height="1" /> 
+	</container>
+</group>
+<group name="land_mxb_WF_anti_radar_EAST" lootmax="5">
+	<usage name="Military" />
+	<container name="lootFloor" lootmax="5">
+		<point pos="-5.949007 -16.007841 5.611080" range="1" height="1" /> 
+		<point pos="2.728296 -14.521626 3.276083" range="1" height="1" /> 
+		<point pos="1.470793 -16.141966 4.570796" range="1" height="1" /> 
+		<point pos="5.778172 -16.166363 0.621448" range="1" height="1" /> 
+		<point pos="3.311907 -16.156494 -4.416195" range="1" height="1" /> 
+		<point pos="-4.218043 -16.141966 -1.268822" range="1" height="1" /> 
+		<point pos="-9.977235 -16.141968 1.154553" range="1" height="1" /> 
+		<point pos="-7.528230 -16.141968 -4.469732" range="1" height="1" /> 
+		<point pos="-3.089293 -13.315966 -3.573492" range="1" height="1" /> 
+		<point pos="-1.599503 -16.145967 -7.545359" range="1" height="1" /> 
+		<point pos="-3.753881 -16.144329 -8.756741" range="1" height="1" /> 
+		<point pos="-3.994308 -16.142117 -5.521201" range="1" height="1" /> 
+		<point pos="-3.250250 -15.102859 -5.989240" range="1" height="1" /> 
+	</container>
+</group>
 </prototype>

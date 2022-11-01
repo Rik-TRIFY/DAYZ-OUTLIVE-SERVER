@@ -400,7 +400,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_MedievalChest">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>1000000</lifetime>
         <restock>4800</restock>
         <min>1</min>
@@ -484,7 +484,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_Safe">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1000000</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -512,7 +512,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_TrashCan">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>1000000</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -526,7 +526,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_MilitaryCrate_Brown">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>1000000</lifetime>
         <restock>21600</restock>
         <min>1</min>
@@ -541,7 +541,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Msp_MilitaryCrate_Green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>1000000</lifetime>
         <restock>21600</restock>
         <min>1</min>
@@ -556,7 +556,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Msp_MilitaryCrate_Grey">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>1000000</lifetime>
         <restock>21600</restock>
         <min>1</min>
@@ -571,7 +571,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Msp_MilitaryCrate_Olive">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>1000000</lifetime>
         <restock>21600</restock>
         <min>1</min>
@@ -586,7 +586,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Msp_MilitaryCrate_Tan">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>1000000</lifetime>
         <restock>21600</restock>
         <min>1</min>
@@ -651,7 +651,7 @@
     </type>
     <!-- Kits Buildings -->
     <type name="Msp_Gazebo_Kit">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -669,7 +669,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_StoneFireplace_Kit">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -706,7 +706,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MoskvaFridge_Cream_Kit">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -724,7 +724,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MoskvaFridge_Red_Kit">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -779,7 +779,7 @@
     </type>
     <!-- Kits Storage -->
     <type name="Msp_FishingRodsRack_Kit">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -1396,7 +1396,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_WaterBarrel_Plastic">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>1000000</lifetime>
         <restock>21800</restock>
         <min>1</min>
@@ -1452,7 +1452,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_WaterBarrel_Plastic_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>1000000</lifetime>
         <restock>21800</restock>
         <min>1</min>
@@ -1466,7 +1466,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_WaterBarrel_Plastic_White">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>1000000</lifetime>
         <restock>21800</restock>
         <min>1</min>
@@ -1480,7 +1480,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_WaterBarrel_Valve_Faucet">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1966,7 +1966,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MedievalGibbet_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>45000</restock>
         <min>1</min>
@@ -1984,7 +1984,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MedievalGibbetWithMount_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>45000</restock>
         <min>1</min>
@@ -2329,7 +2329,7 @@
         <usage name="Village" />
     </type>
     <type name="Msp_CoffinBox">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>1000000</lifetime>
         <restock>45000</restock>
         <min>1</min>
@@ -2342,7 +2342,7 @@
         <usage name="Lunapark" />
     </type>
     <type name="Msp_WitchHat">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -2354,7 +2354,7 @@
         <usage name="Lunapark" />
     </type>
     <type name="MSP_WitchCauldron">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>1000000</lifetime>
         <restock>1800</restock>
         <min>1</min>
