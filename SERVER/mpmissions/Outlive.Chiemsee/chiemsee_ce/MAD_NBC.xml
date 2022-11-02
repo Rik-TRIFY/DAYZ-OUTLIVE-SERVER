@@ -1053,4 +1053,95 @@
 		<usage name="Military" />
 		<value name="Tier4" />
 	</type>
+        	<type name="MAD_NBC_Jacket_WE">
+		<nominal>0</nominal>
+		<restock>432000</restock>
+		<lifetime>7200</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="Tier4" />
+	</type>
+        	<type name="MAD_NBC_Hood_WE">
+		<nominal>0</nominal>
+		<restock>432000</restock>
+		<lifetime>7200</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="Tier4" />
+	</type>
+<type name="MAD_GP5_Gas_Mask_WE">
+		<nominal>0</nominal>
+		<restock>432000</restock>
+		<lifetime>7200</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="Tier4" />
+	</type>
+<type name="MAD_NBC_Boots_WE">
+		<nominal>0</nominal>
+		<restock>432000</restock>
+		<lifetime>7200</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="Tier4" />
+	</type>
+<type name="MAD_NBC_Pants_WE">
+		<nominal>0</nominal>
+		<restock>432000</restock>
+		<lifetime>7200</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="Tier4" />
+	</type>
+<type name="MAD_NBC_Gloves_WE">
+		<nominal>0</nominal>
+		<restock>432000</restock>
+		<lifetime>7200</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+		<value name="Tier4" />
+	</type>
+	<type name="MAD_Sheep_Fur">
+		<nominal>0</nominal>
+		<restock>28800</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="" />
+		<value name="" />
+	</type>
 </types>
