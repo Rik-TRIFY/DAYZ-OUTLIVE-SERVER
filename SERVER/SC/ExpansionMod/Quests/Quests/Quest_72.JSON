@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 72,
     "Type": 4,
     "Title": "72 -  Intimní problém",
@@ -9,8 +9,6 @@
     "ObjectiveText": "Toaletní papír",
     "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 6,
-    "QuestTurnInID": 6,
     "IsAchivement": 0,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -51,5 +49,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        6
+    ],
+    "QuestTurnInIDs": [
+        6
+    ]
 }

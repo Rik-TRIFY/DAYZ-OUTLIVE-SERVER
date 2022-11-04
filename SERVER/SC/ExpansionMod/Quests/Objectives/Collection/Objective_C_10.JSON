@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 10,
     "ID": 410,
     "ObjectiveType": 4,
     "ObjectiveText": "Sežeň 6 piv.",
@@ -7,5 +7,8 @@
     "Collection": {
         "Amount": 6,
         "ClassName": "SodaCan_Kvass"
-    }
+    },
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items",
+    "ShowDistance": 1
 }

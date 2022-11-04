@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 59,
     "Type": 3,
     "Title": "59 - Hornické nebezpečí",
@@ -9,8 +9,6 @@
     "ObjectiveText": "Zkontroluj důl",
     "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 11,
-    "QuestTurnInID": 11,
     "IsAchivement": 0,
     "Repeatable": 0,
     "IsDailyQuest": 1,
@@ -46,5 +44,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        11
+    ],
+    "QuestTurnInIDs": [
+        11
+    ]
 }

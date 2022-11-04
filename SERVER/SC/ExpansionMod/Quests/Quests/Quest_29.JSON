@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 29,
     "Type": 3,
     "Title": "29 - Prozkoumej letiště - Explore the airport",
@@ -11,8 +11,6 @@
     "ObjectiveText": "Prozkoumej letiště - Explore the airport",
     "PreQuest": -1,
     "FollowUpQuest": -1,
-    "QuestGiverID": 1,
-    "QuestTurnInID": 4,
     "IsAchivement": 0,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -43,5 +41,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        4
+    ]
 }

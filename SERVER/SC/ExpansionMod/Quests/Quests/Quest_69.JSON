@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 69,
     "Type": 2,
     "Title": "69 - Samá kráva",
@@ -9,8 +9,6 @@
     "ObjectiveText": "Ulov 15 krav",
     "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 11,
-    "QuestTurnInID": 11,
     "IsAchivement": 0,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -41,5 +39,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        11
+    ],
+    "QuestTurnInIDs": [
+        11
+    ]
 }

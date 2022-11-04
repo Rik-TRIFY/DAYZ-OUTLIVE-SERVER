@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 10,
     "ID": 431,
     "ObjectiveType": 4,
     "ObjectiveText": "Přines Gameboy s hrou Yoshi ",
@@ -7,5 +7,8 @@
     "Collection": {
         "Amount": 1,
         "ClassName": "Collectable_GameBoy_Yoshi"
-    }
+    },
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items",
+    "ShowDistance": 1
 }

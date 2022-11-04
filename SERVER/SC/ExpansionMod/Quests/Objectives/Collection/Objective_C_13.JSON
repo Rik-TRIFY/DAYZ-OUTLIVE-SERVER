@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 10,
     "ID": 413,
     "ObjectiveType": 4,
     "ObjectiveText": "Růžová bunda do deště",
@@ -7,5 +7,8 @@
     "Collection": {
         "Amount": 1,
         "ClassName": "Raincoat_Pink"
-    }
+    },
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items",
+    "ShowDistance": 1
 }

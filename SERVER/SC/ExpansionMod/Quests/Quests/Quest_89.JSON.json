@@ -1,0 +1,51 @@
+{
+    "ConfigVersion": 5,
+    "ID": 89,
+    "Type": 3,
+    "Title": "89 -  Tajemství - Secret",
+    "Descriptions": [
+        "Protože jsi splnil můj úkol (88) mám pro Tebe tajemství. - Since you have completed my task (88) I have a secret for you.",
+        "Dojdi se podívat na označené místo - Come and see the marked place",
+        "Když budeš chtít, tak se vrať, něco tu pro tebe najdu. Jinak ti může být odměnou to, co na tom místě najdeš. - Come back if you want, I'll find something here for you. Otherwise, what you find in that place can be your reward."
+    ],
+    "ObjectiveText": "Tajemství - Secret",
+    "PreQuest": 88,
+    "FollowUpQuest": -1,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "IsBanditQuest": 0,
+    "IsHeroQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 4,
+            "ID": 312,
+            "ObjectiveType": 3,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "MAD_Meat_Cookies",
+            "Amount": 1,
+            "Attachments": []
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        10
+    ],
+    "QuestTurnInIDs": [
+        10
+    ]
+}

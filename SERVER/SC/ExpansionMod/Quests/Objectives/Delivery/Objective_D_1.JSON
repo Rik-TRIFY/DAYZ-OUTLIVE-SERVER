@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 10,
     "ID": 501,
     "ObjectiveType": 5,
     "ObjectiveText": "Tenhle dopis musí neprodleně obdržet Linda. Dones jí ho.",
@@ -10,11 +10,7 @@
             "ClassName": "ExpansionQuestItemPaper"
         }
     ],
-    "Position": [
-        204.613,
-        481.678,
-        6536.74
-    ],
     "MaxDistance": 3.0,
-    "MarkerName": "Najdi Lindu."
+    "MarkerName": "Najdi Lindu.",
+    "ShowDistance": 1
 }

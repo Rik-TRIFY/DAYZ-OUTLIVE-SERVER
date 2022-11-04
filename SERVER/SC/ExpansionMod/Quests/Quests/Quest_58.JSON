@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 58,
     "Type": 4,
     "Title": "58 -  Alenka v říši divů",
@@ -9,8 +9,6 @@
     "ObjectiveText": "Přines mi Alenku v říši divů",
     "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 2,
-    "QuestTurnInID": 2,
     "IsAchivement": 0,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -41,5 +39,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ]
 }

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 10,
     "ID": 424,
     "ObjectiveType": 4,
     "ObjectiveText": "Přines mi 2x Gameboy s DonkeyKongem",
@@ -7,5 +7,8 @@
     "Collection": {
         "Amount": 2,
         "ClassName": "Collectable_GameBoy_DonkeyKong"
-    }
+    },
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items",
+    "ShowDistance": 1
 }

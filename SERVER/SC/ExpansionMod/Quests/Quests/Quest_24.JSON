@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 24,
     "Type": 5,
     "Title": "24 - Bez baterie nelétám - I can't fly without a battery",
@@ -11,8 +11,6 @@
     "ObjectiveText": "Doruč zásilku Oliverovi - Deliver to Oliver",
     "PreQuest": -1,
     "FollowUpQuest": -1,
-    "QuestGiverID": 5,
-    "QuestTurnInID": 4,
     "IsAchivement": 0,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -43,5 +41,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        4
+    ]
 }

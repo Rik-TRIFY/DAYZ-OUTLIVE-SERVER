@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 30,
     "Type": 5,
     "Title": "30 - Pomoz Frídě - Help Frida",
@@ -11,8 +11,6 @@
     "ObjectiveText": "Pomoz Frídě - Help Frida",
     "PreQuest": -1,
     "FollowUpQuest": -1,
-    "QuestGiverID": 11,
-    "QuestTurnInID": 10,
     "IsAchivement": 0,
     "Repeatable": 0,
     "IsDailyQuest": 1,
@@ -43,5 +41,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        11
+    ],
+    "QuestTurnInIDs": [
+        10
+    ]
 }

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 43,
     "Type": 2,
     "Title": "43 - S tím kempem jsou pořád potíže - Trouble with that camp",
@@ -11,8 +11,6 @@
     "ObjectiveText": "Očisti Camp Refugi. - Clear Refugi Camp",
     "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 5,
-    "QuestTurnInID": 5,
     "IsAchivement": 0,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -48,5 +46,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ]
 }

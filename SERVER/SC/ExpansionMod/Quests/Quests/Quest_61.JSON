@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 61,
     "Type": 4,
     "Title": "61 - Speciální přání",
@@ -9,8 +9,6 @@
     "ObjectiveText": "Speciální přání",
     "PreQuest": -1,
     "FollowUpQuest": -1,
-    "QuestGiverID": 3,
-    "QuestTurnInID": 3,
     "IsAchivement": 0,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -55,5 +53,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ]
 }

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 10,
     "ID": 437,
     "ObjectiveType": 4,
     "ObjectiveText": "Přines mi Tetris ",
@@ -7,5 +7,8 @@
     "Collection": {
         "Amount": 1,
         "ClassName": "Collectable_TetrisToy"
-    }
+    },
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items",
+    "ShowDistance": 1
 }
