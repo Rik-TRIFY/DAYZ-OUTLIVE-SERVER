@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 10,
     "ID": 443,
     "ObjectiveType": 4,
     "ObjectiveText": "Přines mi králíčka",
@@ -7,5 +7,8 @@
     "Collection": {
         "Amount": 1,
         "ClassName": "Msp_Bunny"
-    }
+    },
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items",
+    "ShowDistance": 1
 }

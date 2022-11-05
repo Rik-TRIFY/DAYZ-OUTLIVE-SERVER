@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 85,
     "Type": 4,
     "Title": "85 -  Kožené šití - Leather Sewing",
@@ -11,8 +11,6 @@
     "ObjectiveText": "Kožené šití - Leather Sewing",
     "PreQuest": -1,
     "FollowUpQuest": -1,
-    "QuestGiverID": 7,
-    "QuestTurnInID": 7,
     "IsAchivement": 0,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -64,5 +62,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        7
+    ],
+    "QuestTurnInIDs": [
+        7
+    ]
 }

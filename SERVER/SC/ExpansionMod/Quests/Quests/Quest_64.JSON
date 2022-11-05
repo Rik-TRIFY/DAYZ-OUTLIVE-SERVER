@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 64,
     "Type": 4,
     "Title": "64 -  Polaroid Photos",
@@ -9,8 +9,6 @@
     "ObjectiveText": "Polaroid Photos",
     "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 9,
-    "QuestTurnInID": 9,
     "IsAchivement": 0,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -67,5 +65,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        9
+    ],
+    "QuestTurnInIDs": [
+        9
+    ]
 }

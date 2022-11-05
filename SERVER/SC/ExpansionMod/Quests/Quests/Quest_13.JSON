@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 13,
     "Type": 4,
     "Title": "13 - Půl prasete - Half a pig",
@@ -11,8 +11,6 @@
     "ObjectiveText": "Sežeň mi 20 vepřových steaků. - Bring 20 pork steaks",
     "PreQuest": -1,
     "FollowUpQuest": -1,
-    "QuestGiverID": 8,
-    "QuestTurnInID": 8,
     "IsAchivement": 0,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -43,5 +41,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        8
+    ],
+    "QuestTurnInIDs": [
+        8
+    ]
 }

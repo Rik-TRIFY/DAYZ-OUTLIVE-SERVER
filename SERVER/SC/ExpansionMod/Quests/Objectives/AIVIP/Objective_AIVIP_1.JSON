@@ -1,21 +1,18 @@
 {
-    "ConfigVersion": 1,
+    "ConfigVersion": 10,
     "ID": 901,
     "ObjectiveType": 9,
     "ObjectiveText": "Doprovoď tuto VIP osobu na místo určení.",
     "TimeLimit": -1,
     "Position": [
-        639.228,
-        378.26,
-        6056.58
+        639.22802734375,
+        378.260009765625,
+        6056.580078125
     ],
     "MaxDistance": 20.0,
     "AIVIP": {
-        "NPCClassName": "eAI_SurvivorM_Hassan",
-        "NPCSpeed": "RUN",
-        "NPCMode": "HALT",
-        "NPCFaction": "Passive",
         "NPCLoadoutFile": "HunterLoadout.json"
     },
-    "MarkerName": "Q79"
+    "MarkerName": "Q79",
+    "ShowDistance": 1
 }

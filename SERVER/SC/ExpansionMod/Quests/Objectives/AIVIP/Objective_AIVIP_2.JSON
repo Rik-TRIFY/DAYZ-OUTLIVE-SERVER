@@ -1,21 +1,18 @@
 {
-    "ConfigVersion": 1,
+    "ConfigVersion": 10,
     "ID": 902,
     "ObjectiveType": 9,
     "ObjectiveText": "Doprovoď tuto osobu k Lindě. - Escort VIP to Linda.",
     "TimeLimit": -1,
     "Position": [
-        204.613,
-        481.678,
-        6536.74
+        204.61300659179688,
+        481.6780090332031,
+        6536.740234375
     ],
     "MaxDistance": 500.0,
     "AIVIP": {
-        "NPCClassName": "",
-        "NPCSpeed": "RUN",
-        "NPCMode": "HALT",
-        "NPCFaction": "Passive",
         "NPCLoadoutFile": "PinkLoadout.json"
     },
-    "MarkerName": "Q83"
+    "MarkerName": "Q83",
+    "ShowDistance": 1
 }

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 10,
     "ID": 509,
     "ObjectiveType": 5,
     "ObjectiveText": "Potěš Lindu",
@@ -10,11 +10,7 @@
             "ClassName": "MAD_EnergyDrink_Rainbow"
         }
     ],
-    "Position": [
-        204.613,
-        481.678,
-        6536.74
-    ],
     "MaxDistance": 5.0,
-    "MarkerName": "Najdi Lindu"
+    "MarkerName": "Najdi Lindu",
+    "ShowDistance": 1
 }

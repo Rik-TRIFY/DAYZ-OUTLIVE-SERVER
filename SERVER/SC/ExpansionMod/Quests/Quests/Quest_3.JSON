@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 3,
     "Type": 3,
     "Title": "3 - Objev nepoznané - Discovery of the unknown",
@@ -11,8 +11,6 @@
     "ObjectiveText": "Objev zatopenou vesničku. - Discovery of the unknown",
     "PreQuest": -1,
     "FollowUpQuest": -1,
-    "QuestGiverID": 5,
-    "QuestTurnInID": 5,
     "IsAchivement": 0,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -48,5 +46,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ]
 }

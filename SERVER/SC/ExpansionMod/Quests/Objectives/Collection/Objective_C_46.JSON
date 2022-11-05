@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 10,
     "ID": 446,
     "ObjectiveType": 4,
     "ObjectiveText": "Přines mi Polaroid Photo č.2",
@@ -7,5 +7,8 @@
     "Collection": {
         "Amount": 1,
         "ClassName": "Collectable_Polaroid_Two"
-    }
+    },
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items",
+    "ShowDistance": 1
 }

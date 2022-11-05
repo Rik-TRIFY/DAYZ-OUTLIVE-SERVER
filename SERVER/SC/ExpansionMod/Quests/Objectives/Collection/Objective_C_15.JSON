@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 10,
     "ID": 415,
     "ObjectiveType": 4,
     "ObjectiveText": "Dones mi srdíčko",
@@ -7,5 +7,8 @@
     "Collection": {
         "Amount": 1,
         "ClassName": "TWP_Cosmetic_Heart"
-    }
+    },
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items",
+    "ShowDistance": 1
 }

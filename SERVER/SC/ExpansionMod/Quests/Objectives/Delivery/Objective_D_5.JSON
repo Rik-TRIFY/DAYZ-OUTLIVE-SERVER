@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 10,
     "ID": 505,
     "ObjectiveType": 5,
     "ObjectiveText": "Dones Oliverovi tuhle baterii.",
@@ -10,11 +10,7 @@
             "ClassName": "expansionhelicopterbattery"
         }
     ],
-    "Position": [
-        7646.31,
-        17.2,
-        750.179
-    ],
     "MaxDistance": 20.0,
-    "MarkerName": "Najdi Olivera"
+    "MarkerName": "Najdi Olivera",
+    "ShowDistance": 1
 }

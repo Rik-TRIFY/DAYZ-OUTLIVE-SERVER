@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 10,
     "ID": 404,
     "ObjectiveType": 4,
     "ObjectiveText": "Bez černý?",
@@ -7,5 +7,8 @@
     "Collection": {
         "Amount": 15,
         "ClassName": "SambucusBerry"
-    }
+    },
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items",
+    "ShowDistance": 1
 }

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 41,
     "Type": 5,
     "Title": "41 - Veselo za mřížemi - Happily behind bars",
@@ -11,8 +11,6 @@
     "ObjectiveText": "Doruč trávu pro Petra. - Deliver weed to Peter.",
     "PreQuest": -1,
     "FollowUpQuest": -1,
-    "QuestGiverID": 8,
-    "QuestTurnInID": 1,
     "IsAchivement": 0,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -48,5 +46,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        8
+    ],
+    "QuestTurnInIDs": [
+        1
+    ]
 }

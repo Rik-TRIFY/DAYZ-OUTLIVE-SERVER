@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 5,
     "ID": 82,
     "Type": 4,
     "Title": "82 - Mumie se vrací - Mummy",
@@ -11,8 +11,6 @@
     "ObjectiveText": "Mumie - Mummy",
     "PreQuest": -1,
     "FollowUpQuest": -1,
-    "QuestGiverID": 8,
-    "QuestTurnInID": 8,
     "IsAchivement": 0,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -78,5 +76,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        8
+    ],
+    "QuestTurnInIDs": [
+        8
+    ]
 }
