@@ -9,8 +9,6 @@
     "ObjectiveText": "Růžové není nikdy dost",
     "PreQuest": 21,
     "FollowUpQuest": -1,
-    "QuestGiverID": 3,
-    "QuestTurnInID": 3,
     "IsAchivement": 0,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -55,5 +53,11 @@
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0
+    "HumanityReward": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ]
 }
