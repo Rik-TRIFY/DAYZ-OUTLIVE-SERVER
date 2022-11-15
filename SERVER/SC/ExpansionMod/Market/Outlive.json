@@ -333,6 +333,45 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "MAD_Book_KamaSutra",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Book_Unicorn",
+                "MAD_Book_Censored",
+                "MAD_Book_DayZ",
+                "MAD_Book_GoldAss",
+                "MAD_Book_Survivors"
+            ]
+        },
+        {
+            "ClassName": "MAD_CC_BDSM_1",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_CC_BDSM_2",
+                "MAD_CC_BDSM_3",
+                "MAD_CC_BDSM_4",
+                "MAD_CC_BDSM_5",
+                "MAD_CC_BDSM_6",
+                "MAD_CC_BDSM_7",
+                "MAD_CC_BDSM_8",
+                "MAD_CC_BDSM_9",
+                "MAD_CC_BDSM_10",
+                "MAD_CC_BDSM_11"
+            ]
         }
     ]
 }
