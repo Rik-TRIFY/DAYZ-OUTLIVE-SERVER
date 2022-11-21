@@ -4415,7 +4415,41 @@
     </type>
 <!-- MAD TEDDY KONEC-->
 <!-- MAD CHRISTMAS -->
-<type name="MAD_Christmas_Sweater_Grinch">
+<type name="MAD_Christmas_SantasHat_Grinch">
+		<nominal>0</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+  		<usage name="SeasonalEvent" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+<type name="MAD_Christmas_Drybag_Grinch">
+		<nominal>0</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+  		<usage name="SeasonalEvent" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+	<type name="MAD_Christmas_Sweater_Grinch">
 		<nominal>0</nominal>
 		<restock>216000</restock>
 		<lifetime>14400</lifetime>
