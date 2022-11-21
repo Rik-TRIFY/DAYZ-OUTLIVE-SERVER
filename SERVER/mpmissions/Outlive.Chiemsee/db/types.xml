@@ -7437,7 +7437,7 @@
 	<type name="GiftBox_Large_1">
 		<nominal>0</nominal>
 		<restock>28800</restock>
-		<lifetime>7200</lifetime>
+		<lifetime>3600</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -7445,12 +7445,12 @@
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="containers" />
 		<usage name="Town" />
-		<value name="" />
+    	<usage name="SeasonalEvent" />
 	</type>
 	<type name="GiftBox_Large_2">
 		<nominal>0</nominal>
 		<restock>28800</restock>
-		<lifetime>7200</lifetime>
+		<lifetime>3600</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -7458,12 +7458,12 @@
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="containers" />
 		<usage name="Town" />
-		<value name="" />
+    	<usage name="SeasonalEvent" />
 	</type>
 	<type name="GiftBox_Large_3">
 		<nominal>0</nominal>
 		<restock>28800</restock>
-		<lifetime>7200</lifetime>
+		<lifetime>3600</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -7471,12 +7471,12 @@
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="containers" />
 		<usage name="Town" />
-		<value name="" />
+    	<usage name="SeasonalEvent" />
 	</type>
 	<type name="GiftBox_Large_4">
 		<nominal>0</nominal>
 		<restock>28800</restock>
-		<lifetime>7200</lifetime>
+		<lifetime>3600</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -7484,12 +7484,12 @@
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="containers" />
 		<usage name="Town" />
-		<value name="" />
+    	<usage name="SeasonalEvent" />
 	</type>
 	<type name="GiftBox_Medium_1">
 		<nominal>0</nominal>
 		<restock>28800</restock>
-		<lifetime>7200</lifetime>
+		<lifetime>3600</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -7498,12 +7498,12 @@
 		<category name="containers" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<value name="" />
+    	<usage name="SeasonalEvent" />
 	</type>
 	<type name="GiftBox_Medium_2">
 		<nominal>0</nominal>
 		<restock>28800</restock>
-		<lifetime>7200</lifetime>
+		<lifetime>3600</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -7512,12 +7512,12 @@
 		<category name="containers" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<value name="" />
+    	<usage name="SeasonalEvent" />
 	</type>
 	<type name="GiftBox_Medium_3">
 		<nominal>0</nominal>
 		<restock>28800</restock>
-		<lifetime>7200</lifetime>
+		<lifetime>3600</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -7526,12 +7526,12 @@
 		<category name="containers" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<value name="" />
+    	<usage name="SeasonalEvent" />
 	</type>
 	<type name="GiftBox_Medium_4">
 		<nominal>0</nominal>
 		<restock>28800</restock>
-		<lifetime>7200</lifetime>
+		<lifetime>3600</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -7540,12 +7540,12 @@
 		<category name="containers" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<value name="" />
+    	<usage name="SeasonalEvent" />
 	</type>
 	<type name="GiftBox_Small_1">
 		<nominal>0</nominal>
 		<restock>28800</restock>
-		<lifetime>7200</lifetime>
+		<lifetime>3600</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -7554,12 +7554,12 @@
 		<category name="containers" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<value name="" />
+    	<usage name="SeasonalEvent" />
 	</type>
 	<type name="GiftBox_Small_2">
 		<nominal>0</nominal>
 		<restock>28800</restock>
-		<lifetime>7200</lifetime>
+		<lifetime>3600</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -7568,12 +7568,12 @@
 		<category name="containers" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<value name="" />
+    	<usage name="SeasonalEvent" />
 	</type>
 	<type name="GiftBox_Small_3">
 		<nominal>0</nominal>
 		<restock>28800</restock>
-		<lifetime>7200</lifetime>
+		<lifetime>3600</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -7582,12 +7582,12 @@
 		<category name="containers" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<value name="" />
+    	<usage name="SeasonalEvent" />
 	</type>
 	<type name="GiftBox_Small_4">
 		<nominal>0</nominal>
 		<restock>28800</restock>
-		<lifetime>7200</lifetime>
+		<lifetime>3600</lifetime>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -7596,7 +7596,7 @@
 		<category name="containers" />
 		<usage name="Town" />
 		<usage name="Village" />
-		<value name="" />
+    	<usage name="SeasonalEvent" />
 	</type>
 	<type name="Glock19">
 		<nominal>19</nominal>

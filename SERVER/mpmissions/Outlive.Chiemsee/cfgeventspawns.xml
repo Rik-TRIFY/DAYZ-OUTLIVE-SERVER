@@ -148,8 +148,11 @@
 		<pos x="10176.8" y="7.0818" z="8650.8" a="0"/>
 		<pos x="8952.78" y="8.67343" z="5031.19" a="0"/> -->
     </event>
-	<event name="StaticChristmasTree">
-	</event>
+  <event name="StaticChristmasTree">
+    <zone smin="3" smax="5" dmin="3" dmax="5" r="55" />
+    <pos x="723.656" z="15115.147" a="0" />
+	<pos x="10383" z="5554" a="0" />
+  </event>
     <event name="Loot" />
     <event name="VehicleOffroadHatchback">
 		<pos x="9295.52" z="8983" a="0" />
