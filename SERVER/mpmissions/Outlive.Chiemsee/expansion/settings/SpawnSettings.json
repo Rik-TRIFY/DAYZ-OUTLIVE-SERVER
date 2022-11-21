@@ -101,25 +101,33 @@
     "StartingClothing": {
         "EnableCustomClothing": 1,
         "SetRandomHealth": 1,
-        "Headgear": [],
+        "Headgear": [
+            "SantasHat"
+        ],
         "Glasses": [],
-        "Masks": [],
+        "Masks": [
+            "SantasBeard"
+        ],
         "Tops": [
-            "OUTLIVE_Hoodie"
+            "MAD_Christmas_Shirt_GrinchFace",
+            "MAD_Christmas_Shirt_GrinchMerry",
+            "MAD_Christmas_Shirt_GrinchListening",
+            "MAD_Christmas_Shirt_GrinchNicePerson",
+            "MAD_Christmas_Shirt_GrinchRules",
+            "MAD_Christmas_Shirt_GrinchMerry",
+            "MAD_Christmas_Shirt_GrinchLicked"
         ],
         "Vests": [],
         "Gloves": [],
         "Pants": [
-            "Outlive_Black_CargoPants"
+            "MAD_Christmas_Pants_GrinchHoHoHo"
         ],
         "Belts": [],
         "Shoes": [
-            "OUTLIVE_AthleticShoes"
+            "MAD_Christmas_AthleticShoes_Grinch"
         ],
         "Armbands": [],
-        "Backpacks": [
-            "OUTLIVE_DRYBAG"
-        ]
+        "Backpacks": []
     },
     "EnableSpawnSelection": 0,
     "SpawnOnTerritory": 0,
@@ -130,7 +138,7 @@
         "UpperGear": [
             {
                 "ClassName": "Rag",
-                "Quantity": 4,
+                "Quantity": 3,
                 "Attachments": []
             },
             {
@@ -164,8 +172,8 @@
         }
     ],
     "SpawnHealthValue": 100.0,
-    "SpawnEnergyValue": 2000.0,
-    "SpawnWaterValue": 2000.0,
+    "SpawnEnergyValue": 1500.0,
+    "SpawnWaterValue": 1500.0,
     "EnableRespawnCooldowns": 1,
     "RespawnCooldown": 120,
     "TerritoryRespawnCooldown": 240,
