@@ -1104,7 +1104,7 @@
         <distanceradius>50</distanceradius>
         <cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>player</position>
+        <position>fixed</position>
         <limit>custom</limit>
         <active>1</active>
         <children>
