@@ -2343,23 +2343,41 @@
 		</attachments>
 	</type>
 	<!-- XMAS -->
-	<type name="GiftBox_Small">
-		<cargo preset="GiftBox_Small_1" />
-		<cargo preset="GiftBox_Small_2" />
-		<cargo preset="GiftBox_Small_3" />
-		<cargo preset="GiftBox_Small_4" />
+	<type name="GiftBox_Small_1">
+		<cargo preset="GiftBox_Small_a" />
 	</type>
-	<type name="GiftBox_Medium">
-		<cargo preset="GiftBox_Medium_1" />
-		<cargo preset="GiftBox_Medium_2" />
-		<cargo preset="GiftBox_Medium_3" />
-		<cargo preset="GiftBox_Medium_4" />
+	<type name="GiftBox_Small_2">
+		<cargo preset="GiftBox_Small_aa" />
 	</type>
-	<type name="GiftBox_Large">
-		<cargo preset="GiftBox_Large_1" />
-		<cargo preset="GiftBox_Large_2" />
-		<cargo preset="GiftBox_Large_3" />
-		<cargo preset="GiftBox_Large_4" />
+	<type name="GiftBox_Small_3">
+		<cargo preset="GiftBox_Small_aaa" />
+	</type>
+	<type name="GiftBox_Small_4">
+		<cargo preset="GiftBox_Small_aaaa" />
+	</type>
+	<type name="GiftBox_Medium_1">
+		<cargo preset="GiftBox_Medium_b" />
+	</type>
+	<type name="GiftBox_Medium_2">
+		<cargo preset="GiftBox_Medium_bb" />
+	</type>
+	<type name="GiftBox_Medium_3">
+	<cargo preset="GiftBox_Medium_bbb" />
+	</type>
+	<type name="GiftBox_Medium_4">
+		<cargo preset="GiftBox_Medium_bbbb" />
+	</type>
+	<type name="GiftBox_Large_1">
+		<cargo preset="GiftBox_Large_c" />
+	</type>
+	<type name="GiftBox_Large_2">
+		<cargo preset="GiftBox_Large_cc" />
+	</type>
+	<type name="GiftBox_Large_3">
+		<cargo preset="GiftBox_Large_ccc" />
+	</type>
+	<type name="GiftBox_Large_4">
+		<cargo preset="GiftBox_Large_cccc" />
 	</type>
 	<!-- VEHICLES -->
 	<type name="OffroadHatchback">
