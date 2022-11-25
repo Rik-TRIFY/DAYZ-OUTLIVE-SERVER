@@ -737,22 +737,22 @@
         </children>
     </event>
     <event name="StaticChristmasTree">
-        <nominal>10</nominal>
-        <min>6</min>
-        <max>13</max>
+        <nominal>6</nominal>
+        <min>5</min>
+        <max>8</max>
         <lifetime>3600</lifetime>
-        <restock>4400</restock>
+        <restock>0</restock>
         <saferadius>100</saferadius>
-        <distanceradius>5</distanceradius>
-        <cleanupradius>1000</cleanupradius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
         <secondary>InfectedSanta</secondary>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
-        <position>uniform</position>
+        <position>fixed</position>
         <limit>child</limit>
         <active>0</active>
         <children>
-            <child lootmax="6" lootmin="3" max="10" min="10" type="ChristmasTree"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="rag_snowman"/>
+            <child lootmax="8" lootmin="5" max="10" min="10" type="ChristmasTree"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="rag_snowman"/>
         </children>
     </event>
 	<event name="StaticContaminatedArea">
@@ -789,9 +789,9 @@
         <children/>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>3</nominal>
-        <min>1</min>
-        <max>3</max>
+        <nominal>5</nominal>
+        <min>4</min>
+        <max>6</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -805,6 +805,7 @@
         <children>
             <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_Mi8_Crashed"/>
             <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_UH1Y"/>
+            <child lootmax="9" lootmin="6" max="5" min="1" type="Wreck_SantasSleigh"/>
         </children>
     </event>
     <event name="StaticPoliceCar">
@@ -1094,7 +1095,7 @@
             <child lootmax="0" lootmin="0" max="1" min="1" type="rag_snowman"/>
         </children>
     </event>
-    <event name="StaticSantaCrash">
+           <!--  <event name="StaticSantaCrash">
         <nominal>3</nominal>
         <min>1</min>
         <max>5</max>
@@ -1110,5 +1111,5 @@
         <children>
             <child lootmax="6" lootmin="3" max="5" min="1" type="Wreck_SantasSleigh"/>
         </children>
-    </event>
+    </event> -->
 </events>
