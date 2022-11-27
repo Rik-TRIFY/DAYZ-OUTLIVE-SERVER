@@ -3506,7 +3506,7 @@
 	</type>
 	<!-- CURRENCYS -->
 	<type name="ExpansionGoldBar">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>532000</restock>
         <min>1</min>
@@ -3523,7 +3523,7 @@
         <value name="Tier4"/>
     </type>
 	<type name="ExpansionSilverBar">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -3533,7 +3533,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="ExpansionGoldNugget">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -3543,7 +3543,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="ExpansionSilverNugget">
-        <nominal>25</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>1</min>
