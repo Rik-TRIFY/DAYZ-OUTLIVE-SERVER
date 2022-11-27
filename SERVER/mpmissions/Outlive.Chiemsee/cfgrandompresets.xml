@@ -521,8 +521,96 @@
 			<item name="GiftBox_Small_4" chance="0.20" />
 		</cargo>
 		
-	<!--Xmas GiftBoxes -->
-					<cargo chance="1.00" name="GiftBox_Small_a">
+		<!--Xmas GiftBoxes-->
+		<cargo chance="0.4" name="Xmas_Clothes_Small">
+			<item name="MAD_Christmas_CombatBoots" chance="0.05" />
+			<item name="MAD_Christmas_MilitaryBoots_Grinch" chance="0.05" />
+			<item name="MAD_Christmas_Pants_GrinchHoHoHo" chance="0.05" />
+			<item name="MAD_NBC_Pants_GreenCamo" chance="0.03" />
+			<item name="MAD_NBC_Boots_GreenCamo" chance="0.01" />
+			<item name="MAD_Flag_Grinch" chance="0.05" />
+			<item name="MAD_Flag_Grinch2" chance="0.05" />
+			<item name="MAD_NBC_Hood_GreenCamo" chance="0.03" />
+			<item name="MAD_NBC_Jacket_GreenCamo" chance="0.01" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Weapons_Small">
+			<item name="Flaregun" chance="0.10" />
+			<item name="dog_collar_green" chance="0.05" />
+			<item name="dog_collar_white" chance="0.05" />
+			<item name="LandMineTrap" chance="0.10" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Ammo_Small">
+			<item name="TWP_AmmoBox_40SW_30Rnd" chance="0.10" />
+			<item name="TWP_AmmoBox_46x30_30Rnd" chance="0.10" />
+			<item name="TWP_AmmoBox_57x28_30Rnd" chance="0.10" />
+			<item name="TWP_Ammobox_408Cheytac_10Rnd" chance="0.10" />
+			<item name="TWP_Ammobox_6x35_20Rnd" chance="0.10" />
+		</cargo>
+		<cargo chance="0.2" name="Xmas_AmmoBoxes_Small">
+			<item name="AmmoBox_00buck_10rnd" chance="0.10" />
+			<item name="AmmoBox_12gaSlug_10Rnd" chance="0.10" />
+			<item name="AmmoBox_380_35rnd" chance="0.10" />
+			<item name="AmmoBox_9x19_25rnd" chance="0.10" />
+			<item name="AmmoBox_45ACP_25rnd" chance="0.10" />
+			<item name="AmmoBox_556x45_20Rnd" chance="0.10" />
+			<item name="AmmoBox_762x39_20Rnd" chance="0.10" />
+			<item name="AmmoBox_762x54_20Rnd" chance="0.10" />
+			<item name="TWP_AmmoBox_20x76_10rnd" chance="0.10" />
+			<item name="TWP_AmmoBox_50BMG_10rnd" chance="0.10" />
+			<item name="TWP_AmmoBox_3006_20Rnd" chance="0.10" />
+			<item name="TWP_AmmoBox_44mag_30Rnd" chance="0.10" />
+			<item name="TWP_AmmoBox_50AE_20Rnd" chance="0.10" />
+			<item name="TWP_AmmoBox_762x25_30Rnd" chance="0.10" />
+		</cargo>
+		<cargo chance="0.6" name="Xmas_Mags_Small">
+			<item name="Mag_Ruger1022_15Rnd" chance="0.05" />
+			<item name="Mag_FNX45_15Rnd" chance="0.05" />
+			<item name="Mag_Glock_15Rnd" chance="0.05" />
+			<item name="Mag_MKII_10Rnd" chance="0.05" />
+			<item name="Mag_1911_7Rnd" chance="0.05" />
+			<item name="Mag_CZ75_15Rnd" chance="0.05" />
+			<item name="Mag_IJ70_8Rnd" chance="0.05" />
+			<item name="Mag_SVD_10Rnd" chance="0.05" />
+			<item name="Mag_Deagle_9rnd" chance="0.05" />
+		</cargo>
+		<cargo chance="0.3" name="Xmas_Fillers_Small">
+			<item name="CodeLock" chance="0.10" />
+			<item name="NailBox" chance="0.20" />
+			<item name="cp_cannabisseedspackblue" chance="0.11" />
+		</cargo>
+		<cargo chance="0.3" name="Xmas_Repairs_Small">
+			<item name="DuctTape" chance="0.05" />
+			<item name="vodka" chance="0.05" />
+			<item name="Whetstone" chance="0.05" />
+		</cargo>
+		<cargo chance="0.2" name="Xmas_Food_Small">
+			<item name="MAD_EnergyDrink_Unicorn" chance="0.20" />
+			<item name="MAD_EnergyDrink_Rainbow" chance="0.20" />
+			<item name="MAD_Meat_Donuts" chance="0.20" />
+			<item name="MAD_Meat_Cookies" chance="0.20" />
+			<item name="MAD_Meat_Carp" chance="0.20" />
+			<item name="SodaCan_Spite" chance="0.10" />
+			<item name="SodaCan_Fronta" chance="0.10" />
+			<item name="Honey" chance="0.10" />
+			<item name="Marmalade" chance="0.10" />
+			<item name="TacticalBaconCan" chance="0.10" />
+		</cargo>
+		<cargo chance="0.3" name="Xmas_Lights_Small">
+			<item name="Headtorch_Grey" chance="0.05" />
+			<item name="Headtorch_Black" chance="0.05" />
+			<item name="MAD_Battery9V" chance="1.00" />
+			<item name="MAD_Golden_Hacksaw" chance="0.05" />
+			<item name="MAD_Golden_Lockpick" chance="0.05" />
+			<item name="NVGoggles" chance="0.01" />
+		</cargo>
+		<cargo chance="0.3" name="Xmas_Chemlights_Small">
+			<item name="TWP_M4Suppressor" chance="0.50" />
+			<item name="TWP_AKSuppressor" chance="0.50" />
+			<item name="Chemlight_Red" chance="0.50" />
+			<item name="Chemlight_Yellow" chance="0.50" />
+			<item name="Chemlight_White" chance="0.50" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Clothes_Medium">
 			<item name="mad_christmas_shirt_grinchlicked" chance="0.03" />
 			<item name="mad_christmas_sweater_naughtyasfuck" chance="0.03" />
 			<item name="mad_christmas_shirt_grinchlistening" chance="0.03" />
@@ -550,43 +638,60 @@
 			<item name="mad_christmas_chest_blueribbon" chance="0.03" />
 			<item name="poncho_white" chance="0.03" />
 			<item name="poncho_red_checkered" chance="0.03" />
-			<item name="whetstone" chance="0.05" />
-			<item name="NailBox" chance="0.05" />
-			<item name="PetrolLighter" chance="0.05" />
-			<item name="compass" chance="0.05" />
-			<item name="heatpack" chance="0.05" />
-			<item name="chernarusmap" chance="0.05" />
-			<item name="hook" chance="0.05" />
-			<item name="kitchenknife" chance="0.05" />
-			<item name="fishingrod" chance="0.05" />
-			<item name="dog_collar_green" chance="0.05" />
-			<item name="dog_collar_white" chance="0.05" />
-			<item name="bloodtestkit" chance="0.05" />
-			<item name="bandagedressing" chance="0.05" />
-			<item name="rope" chance="0.05" />
+		</cargo>
+		<cargo chance="0.5" name="Xmas_Weapons_Medium">
+			<item name="CZ61" chance="0.10" />
+			<item name="Colt1911" chance="0.10" />
+			<item name="Magnum" chance="0.10" />
+			<item name="Deagle" chance="0.10" />
+			<item name="Sickle" chance="0.10" />
+			<item name="CrudeMachete" chance="0.10" />
+			<item name="OrientalMachete" chance="0.10" />
+			<item name="KukriKnife" chance="0.10" />
+			<item name="FangeKnife" chance="0.10" />
+		</cargo>
+		<cargo chance="0.3" name="Xmas_Optics_Medium">
+			<item name="TWP_Optic_Aimdot" chance="0.05" />
+			<item name="TWP_Optic_reddot" chance="0.20" />
+			<item name="TWP_Optic_Acog" chance="0.20" />
+			<item name="TWP_Optic_Redcross" chance="0.15" />
+			<item name="TWP_TrijiconACOG" chance="0.15" />
+			<item name="TWP_Optic_BlackDragon" chance="0.15" />
+			<item name="TWP_LongRangeOptic_Black" chance="0.10" />
+		</cargo>
+		<cargo chance="0.2" name="Xmas_Mags_Medium">
 			<item name="vitaminbottle" chance="0.05" />
 			<item name="sewingkit" chance="0.05" />
 			<item name="leathersewingkit" chance="0.05" />
 			<item name="dog_bone_toy" chance="0.05" />
 			<item name="vodka" chance="0.05" />
+		</cargo>
+		<cargo chance="0.2" name="Xmas_Fillers_Medium">
+			<item name="cp_cannabisseedspackstardawg" chance="0.11" />
+			<item name="cp_cannabisseedspackblue" chance="0.11" />
+			<item name="cp_rollingpapers_green" chance="0.11" />
+			<item name="cp_rollingpapers_silver" chance="0.11" />
+			<item name="cp_pouch" chance="0.11" />
+			<item name="GardenLime" chance="0.11" />
+			<item name="dog_vest_blackmedic" chance="0.11" />
+			<item name="dog_vest_blackgreenz" chance="0.11" />
+		</cargo>
+		<cargo chance="0.2" name="Xmas_Repairs_Medium">
+			<item name="LeatherSewingKit" chance="0.05" />
+			<item name="MAD_Christmas_SantasHat_Grinch" chance="0.05" />
+			<item name="WeaponCleaningKit" chance="0.05" />
+			<item name="ElectronicRepairKit" chance="0.05" />
+		</cargo>	
+		<cargo chance="0.2" name="Xmas_Food_Medium">
+			<item name="CarpFilletMeat" chance="0.10" />
+			<item name="TWP_FlySwatter_Red" chance="0.50" />
+			<item name="TWP_Machete_Black" chance="0.50" />
+			<item name="dog_bone_toy" chance="0.05" />
+			<item name="vodka" chance="0.05" />
 			<item name="MAD_Flag_Grinch" chance="0.05" />
 			<item name="MAD_Flag_Grinch2" chance="0.05" />
 		</cargo>
-
-		<cargo chance="1.00" name="GiftBox_Small_aa">
-			<item name="mad_christmas_shirt_grinchlicked" chance="0.03" />
-			<item name="mad_christmas_sweater_naughtyasfuck" chance="0.03" />
-			<item name="mad_christmas_shirt_grinchlistening" chance="0.03" />
-			<item name="mad_christmas_sweater_grinch" chance="0.03" />
-			<item name="mad_christmas_pants_grinchhohoho" chance="0.03" />
-			<item name="mad_christmas_sweater_suckmyballs" chance="0.03" />
-			<item name="mad_christmas_militaryboots_grinch" chance="0.03" />
-			<item name="mad_christmas_combatboots" chance="0.03" />
-			<item name="mad_christmas_sweater_hate" chance="0.03" />
-			<item name="mad_christmas_sweater_winederful" chance="0.03" />
-			<item name="mad_christmas_sweater_weed" chance="0.03" />
-			<item name="mad_christmas_pants_grinch" chance="0.03" />
-			<item name="mad_christmas_pants_gingerbread" chance="0.03" />
+		<cargo chance="0.25" name="Xmas_Weapons_Large">
 			<item name="mad_christmas_shirt_grinchniceperson" chance="0.03" />
 			<item name="mad_christmas_sweater_dino" chance="0.03" />
 			<item name="mad_christmas_pants_peniscorn" chance="0.03" />
@@ -598,409 +703,36 @@
 			<item name="mad_christmas_sweater_peniscorn" chance="0.03" />
 			<item name="mad_christmas_sweater_definenaughty" chance="0.03" />
 			<item name="mad_christmas_sweater_madafakas" chance="0.03" />
-			<item name="mad_christmas_chest_blueribbon" chance="0.03" />
+			<item name="MAD_Christmas_CarrierPouches_Grinch" chance="0.15" />
+			<item name="MAD_Christmas_PlateCarrierHolster_Grinch" chance="0.15" />
+			<item name="MAD_Christmas_PlateCarrier_Grinch" chance="0.15" />
+			<item name="MAD_Christmas_Chest_BlueRibbon" chance="0.15" />
+			<item name="MAD_Christmas_MountainBag_PinkRibbon" chance="0.15" />
+			<item name="MAD_Christmas_MountainBag_Grinch" chance="0.20" />
+			<item name="MAD_Christmas_MountainBag_UglySweaters" chance="0.15" />
+			<item name="TWP_AR15_Cannabis" chance="0.125" />
+			<item name="TWP_AmericanRifle" chance="0.125" />
+			<item name="TWP_AKS74U" chance="0.125" />
+			<item name="twp_m14" chance="0.125" />
+			<item name="twp_m16a2" chance="0.125" />
+			<item name="twp_m16a1black" chance="0.125" />
+			<item name="TWP_G36x" chance="0.125" />
+		</cargo>
+		<cargo chance="0.25" name="Xmas_Mags_Large">
+			<item name="TWP_MK18_mag_100Rnd" chance="0.03" />
+			<item name="TWP_RPK16_mag_100Rnd" chance="0.03" />
+			<item name="TWP_PKM_mag_100Rnd" chance="0.03" />
+			<item name="Mag_CMAG_100Rnd" chance="0.03" />
+			<item name="TWP_PPSH_mag_50Rnd" chance="0.03" />
+			<item name="TWP_ScarDragon_mag_50Rnd" chance="0.03" />
+			<item name="TWP_Thompson_mag_50Rnd" chance="0.03" />
+			<item name="TWP_Glock42_mag_50Rnd" chance="0.03" />
+			<item name="TWP_ThompsonMK2_mag_50Rnd" chance="0.03" />
+			<item name="TWP_Tec9_mag_50Rnd" chance="0.03" />
+			<item name="TWP_M60_mag_200Rnd" chance="0.03" />
+			<item name="TWP_M249_mag_200Rnd" chance="0.03" />
+			<item name="TWP_PKP_mag_200Rnd" chance="0.03" />
 			<item name="poncho_white" chance="0.03" />
 			<item name="poncho_red_checkered" chance="0.03" />
-			<item name="whetstone" chance="0.05" />
-			<item name="NailBox" chance="0.05" />
-			<item name="PetrolLighter" chance="0.05" />
-			<item name="compass" chance="0.05" />
-			<item name="heatpack" chance="0.05" />
-			<item name="chernarusmap" chance="0.05" />
-			<item name="hook" chance="0.05" />
-			<item name="kitchenknife" chance="0.05" />
-			<item name="fishingrod" chance="0.05" />
-			<item name="dog_collar_green" chance="0.05" />
-			<item name="dog_collar_white" chance="0.05" />
-			<item name="bloodtestkit" chance="0.05" />
-			<item name="bandagedressing" chance="0.05" />
-			<item name="rope" chance="0.05" />
-			<item name="vitaminbottle" chance="0.05" />
-			<item name="sewingkit" chance="0.05" />
-			<item name="leathersewingkit" chance="0.05" />
-			<item name="dog_bone_toy" chance="0.05" />
-			<item name="vodka" chance="0.05" />
-			<item name="MAD_Flag_Grinch" chance="0.05" />
-			<item name="MAD_Flag_Grinch2" chance="0.05" />
 		</cargo>
-		<cargo chance="1.00" name="GiftBox_Small_aaa">
-			<item name="mad_christmas_shirt_grinchlicked" chance="0.03" />
-			<item name="mad_christmas_sweater_naughtyasfuck" chance="0.03" />
-			<item name="mad_christmas_shirt_grinchlistening" chance="0.03" />
-			<item name="mad_christmas_sweater_grinch" chance="0.03" />
-			<item name="mad_christmas_pants_grinchhohoho" chance="0.03" />
-			<item name="mad_christmas_sweater_suckmyballs" chance="0.03" />
-			<item name="mad_christmas_militaryboots_grinch" chance="0.03" />
-			<item name="mad_christmas_combatboots" chance="0.03" />
-			<item name="mad_christmas_sweater_hate" chance="0.03" />
-			<item name="mad_christmas_sweater_winederful" chance="0.03" />
-			<item name="mad_christmas_sweater_weed" chance="0.03" />
-			<item name="mad_christmas_pants_grinch" chance="0.03" />
-			<item name="mad_christmas_pants_gingerbread" chance="0.03" />
-			<item name="mad_christmas_shirt_grinchniceperson" chance="0.03" />
-			<item name="mad_christmas_sweater_dino" chance="0.03" />
-			<item name="mad_christmas_pants_peniscorn" chance="0.03" />
-			<item name="mad_christmas_sweater_feminist" chance="0.03" />
-			<item name="mad_christmas_platecarrierholster_grinch" chance="0.03" />
-			<item name="mad_christmas_platecarrier_grinch" chance="0.03" />
-			<item name="mad_christmas_sweater_naughtygingerbreads" chance="0.03" />
-			<item name="mad_christmas_shirt_grinchlicked" chance="0.03" />
-			<item name="mad_christmas_sweater_peniscorn" chance="0.03" />
-			<item name="mad_christmas_sweater_definenaughty" chance="0.03" />
-			<item name="mad_christmas_sweater_madafakas" chance="0.03" />
-			<item name="mad_christmas_chest_blueribbon" chance="0.03" />
-			<item name="poncho_white" chance="0.03" />
-			<item name="poncho_red_checkered" chance="0.03" />
-			<item name="whetstone" chance="0.05" />
-			<item name="NailBox" chance="0.05" />
-			<item name="PetrolLighter" chance="0.05" />
-			<item name="compass" chance="0.05" />
-			<item name="heatpack" chance="0.05" />
-			<item name="chernarusmap" chance="0.05" />
-			<item name="hook" chance="0.05" />
-			<item name="kitchenknife" chance="0.05" />
-			<item name="fishingrod" chance="0.05" />
-			<item name="dog_collar_green" chance="0.05" />
-			<item name="dog_collar_white" chance="0.05" />
-			<item name="bloodtestkit" chance="0.05" />
-			<item name="bandagedressing" chance="0.05" />
-			<item name="rope" chance="0.05" />
-			<item name="vitaminbottle" chance="0.05" />
-			<item name="sewingkit" chance="0.05" />
-			<item name="leathersewingkit" chance="0.05" />
-			<item name="dog_bone_toy" chance="0.05" />
-			<item name="vodka" chance="0.05" />
-			<item name="MAD_Flag_Grinch" chance="0.05" />
-			<item name="MAD_Flag_Grinch2" chance="0.05" />
-		</cargo>
-		<cargo chance="1.00" name="GiftBox_Small_aaaa">
-			<item name="mad_christmas_shirt_grinchlicked" chance="0.03" />
-			<item name="mad_christmas_sweater_naughtyasfuck" chance="0.03" />
-			<item name="mad_christmas_shirt_grinchlistening" chance="0.03" />
-			<item name="mad_christmas_sweater_grinch" chance="0.03" />
-			<item name="mad_christmas_pants_grinchhohoho" chance="0.03" />
-			<item name="mad_christmas_sweater_suckmyballs" chance="0.03" />
-			<item name="mad_christmas_militaryboots_grinch" chance="0.03" />
-			<item name="mad_christmas_combatboots" chance="0.03" />
-			<item name="mad_christmas_sweater_hate" chance="0.03" />
-			<item name="mad_christmas_sweater_winederful" chance="0.03" />
-			<item name="mad_christmas_sweater_weed" chance="0.03" />
-			<item name="mad_christmas_pants_grinch" chance="0.03" />
-			<item name="mad_christmas_pants_gingerbread" chance="0.03" />
-			<item name="mad_christmas_shirt_grinchniceperson" chance="0.03" />
-			<item name="mad_christmas_sweater_dino" chance="0.03" />
-			<item name="mad_christmas_pants_peniscorn" chance="0.03" />
-			<item name="mad_christmas_sweater_feminist" chance="0.03" />
-			<item name="mad_christmas_platecarrierholster_grinch" chance="0.03" />
-			<item name="mad_christmas_platecarrier_grinch" chance="0.03" />
-			<item name="mad_christmas_sweater_naughtygingerbreads" chance="0.03" />
-			<item name="mad_christmas_shirt_grinchlicked" chance="0.03" />
-			<item name="mad_christmas_sweater_peniscorn" chance="0.03" />
-			<item name="mad_christmas_sweater_definenaughty" chance="0.03" />
-			<item name="mad_christmas_sweater_madafakas" chance="0.03" />
-			<item name="mad_christmas_chest_blueribbon" chance="0.03" />
-			<item name="poncho_white" chance="0.03" />
-			<item name="poncho_red_checkered" chance="0.03" />
-			<item name="whetstone" chance="0.05" />
-			<item name="NailBox" chance="0.05" />
-			<item name="PetrolLighter" chance="0.05" />
-			<item name="compass" chance="0.05" />
-			<item name="heatpack" chance="0.05" />
-			<item name="chernarusmap" chance="0.05" />
-			<item name="hook" chance="0.05" />
-			<item name="kitchenknife" chance="0.05" />
-			<item name="fishingrod" chance="0.05" />
-			<item name="dog_collar_green" chance="0.05" />
-			<item name="dog_collar_white" chance="0.05" />
-			<item name="bloodtestkit" chance="0.05" />
-			<item name="bandagedressing" chance="0.05" />
-			<item name="rope" chance="0.05" />
-			<item name="vitaminbottle" chance="0.05" />
-			<item name="sewingkit" chance="0.05" />
-			<item name="leathersewingkit" chance="0.05" />
-			<item name="dog_bone_toy" chance="0.05" />
-			<item name="vodka" chance="0.05" />
-			<item name="MAD_Flag_Grinch" chance="0.05" />
-			<item name="MAD_Flag_Grinch2" chance="0.05" />
-	    </cargo>
-		<cargo chance="1.00" name="GiftBox_Medium_b">
-			<item name="colt1911" chance="0.125" />
-			<item name="twp_winchester1873" chance="0.125" />
-			<item name="winchester70" chance="0.125" />
-			<item name="twp_winchesterrifle" chance="0.125" />
-			<item name="twp_m14" chance="0.125" />
-			<item name="twp_m16a2" chance="0.125" />
-			<item name="twp_m16a1black" chance="0.125" />
-			<item name="svd" chance="0.125" />
-			<item name="KazuarOptic" chance="0.05" />
-			<item name="PUScopeOptic" chance="0.20" />
-			<item name="PSO1Optic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.15" />
-			<item name="M68Optic" chance="0.15" />
-			<item name="KobraOptic" chance="0.15" />
-			<item name="M4_CarryHandleOptic" chance="0.10" />
-			<item name="AmmoBox_00buck_10rnd" chance="0.10" />
-			<item name="AmmoBox_12gaSlug_10Rnd" chance="0.10" />
-			<item name="AmmoBox_380_35rnd" chance="0.10" />
-			<item name="AmmoBox_9x19_25rnd" chance="0.10" />
-			<item name="AmmoBox_45ACP_25rnd" chance="0.10" />
-			<item name="AmmoBox_556x45_20Rnd" chance="0.10" />
-			<item name="AmmoBox_762x39_20Rnd" chance="0.10" />
-			<item name="AmmoBox_762x54_20Rnd" chance="0.10" />
-			<item name="Headtorch_Grey" chance="0.50" />
-			<item name="Headtorch_Black" chance="0.50" />
-			<item name="Mag_CZ61_20Rnd" chance="0.20" />
-			<item name="Mag_MP5_30Rnd" chance="0.20" />
-			<item name="Mag_FNX45_15Rnd" chance="0.25" />
-			<item name="Mag_Glock_15Rnd" chance="0.25" />
-			<item name="Mag_MKII_10Rnd" chance="0.15" />
-			<item name="Mag_1911_7Rnd" chance="0.15" />
-			<item name="Mag_CZ75_15Rnd" chance="0.15" />
-			<item name="Mag_IJ70_8Rnd" chance="0.15" />
-			<item name="Mag_SVD_10Rnd" chance="0.15" />
-		</cargo>
-
-		<cargo chance="1.00" name="GiftBox_Medium_bb">
-			<item name="colt1911" chance="0.125" />
-			<item name="twp_winchester1873" chance="0.125" />
-			<item name="winchester70" chance="0.125" />
-			<item name="twp_winchesterrifle" chance="0.125" />
-			<item name="twp_m14" chance="0.125" />
-			<item name="twp_m16a2" chance="0.125" />
-			<item name="twp_m16a1black" chance="0.125" />
-			<item name="svd" chance="0.125" />
-			<item name="KazuarOptic" chance="0.05" />
-			<item name="PUScopeOptic" chance="0.20" />
-			<item name="PSO1Optic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.15" />
-			<item name="M68Optic" chance="0.15" />
-			<item name="KobraOptic" chance="0.15" />
-			<item name="M4_CarryHandleOptic" chance="0.10" />
-			<item name="AmmoBox_00buck_10rnd" chance="0.10" />
-			<item name="AmmoBox_12gaSlug_10Rnd" chance="0.10" />
-			<item name="AmmoBox_380_35rnd" chance="0.10" />
-			<item name="AmmoBox_9x19_25rnd" chance="0.10" />
-			<item name="AmmoBox_45ACP_25rnd" chance="0.10" />
-			<item name="AmmoBox_556x45_20Rnd" chance="0.10" />
-			<item name="AmmoBox_762x39_20Rnd" chance="0.10" />
-			<item name="AmmoBox_762x54_20Rnd" chance="0.10" />
-			<item name="Headtorch_Grey" chance="0.50" />
-			<item name="Headtorch_Black" chance="0.50" />
-			<item name="Mag_CZ61_20Rnd" chance="0.20" />
-			<item name="Mag_MP5_30Rnd" chance="0.20" />
-			<item name="Mag_FNX45_15Rnd" chance="0.25" />
-			<item name="Mag_Glock_15Rnd" chance="0.25" />
-			<item name="Mag_MKII_10Rnd" chance="0.15" />
-			<item name="Mag_1911_7Rnd" chance="0.15" />
-			<item name="Mag_CZ75_15Rnd" chance="0.15" />
-			<item name="Mag_IJ70_8Rnd" chance="0.15" />
-			<item name="Mag_SVD_10Rnd" chance="0.15" />
-		</cargo>
-
-		<cargo chance="1.00" name="GiftBox_Medium_bbb">
-			<item name="colt1911" chance="0.125" />
-			<item name="twp_winchester1873" chance="0.125" />
-			<item name="winchester70" chance="0.125" />
-			<item name="twp_winchesterrifle" chance="0.125" />
-			<item name="twp_m14" chance="0.125" />
-			<item name="twp_m16a2" chance="0.125" />
-			<item name="twp_m16a1black" chance="0.125" />
-			<item name="svd" chance="0.125" />
-			<item name="KazuarOptic" chance="0.05" />
-			<item name="PUScopeOptic" chance="0.20" />
-			<item name="PSO1Optic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.15" />
-			<item name="M68Optic" chance="0.15" />
-			<item name="KobraOptic" chance="0.15" />
-			<item name="M4_CarryHandleOptic" chance="0.10" />
-			<item name="AmmoBox_00buck_10rnd" chance="0.10" />
-			<item name="AmmoBox_12gaSlug_10Rnd" chance="0.10" />
-			<item name="AmmoBox_380_35rnd" chance="0.10" />
-			<item name="AmmoBox_9x19_25rnd" chance="0.10" />
-			<item name="AmmoBox_45ACP_25rnd" chance="0.10" />
-			<item name="AmmoBox_556x45_20Rnd" chance="0.10" />
-			<item name="AmmoBox_762x39_20Rnd" chance="0.10" />
-			<item name="AmmoBox_762x54_20Rnd" chance="0.10" />
-			<item name="Headtorch_Grey" chance="0.50" />
-			<item name="Headtorch_Black" chance="0.50" />
-			<item name="Mag_CZ61_20Rnd" chance="0.20" />
-			<item name="Mag_MP5_30Rnd" chance="0.20" />
-			<item name="Mag_FNX45_15Rnd" chance="0.25" />
-			<item name="Mag_Glock_15Rnd" chance="0.25" />
-			<item name="Mag_MKII_10Rnd" chance="0.15" />
-			<item name="Mag_1911_7Rnd" chance="0.15" />
-			<item name="Mag_CZ75_15Rnd" chance="0.15" />
-			<item name="Mag_IJ70_8Rnd" chance="0.15" />
-			<item name="Mag_SVD_10Rnd" chance="0.15" />
-		</cargo>
-
-		<cargo chance="1.00" name="GiftBox_Medium_bbbb">
-			<item name="colt1911" chance="0.125" />
-			<item name="twp_winchester1873" chance="0.125" />
-			<item name="winchester70" chance="0.125" />
-			<item name="twp_winchesterrifle" chance="0.125" />
-			<item name="twp_m14" chance="0.125" />
-			<item name="twp_m16a2" chance="0.125" />
-			<item name="twp_m16a1black" chance="0.125" />
-			<item name="svd" chance="0.125" />
-			<item name="KazuarOptic" chance="0.05" />
-			<item name="PUScopeOptic" chance="0.20" />
-			<item name="PSO1Optic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.15" />
-			<item name="M68Optic" chance="0.15" />
-			<item name="KobraOptic" chance="0.15" />
-			<item name="M4_CarryHandleOptic" chance="0.10" />
-			<item name="AmmoBox_00buck_10rnd" chance="0.10" />
-			<item name="AmmoBox_12gaSlug_10Rnd" chance="0.10" />
-			<item name="AmmoBox_380_35rnd" chance="0.10" />
-			<item name="AmmoBox_9x19_25rnd" chance="0.10" />
-			<item name="AmmoBox_45ACP_25rnd" chance="0.10" />
-			<item name="AmmoBox_556x45_20Rnd" chance="0.10" />
-			<item name="AmmoBox_762x39_20Rnd" chance="0.10" />
-			<item name="AmmoBox_762x54_20Rnd" chance="0.10" />
-			<item name="Headtorch_Grey" chance="0.50" />
-			<item name="Headtorch_Black" chance="0.50" />
-			<item name="Mag_CZ61_20Rnd" chance="0.20" />
-			<item name="Mag_MP5_30Rnd" chance="0.20" />
-			<item name="Mag_FNX45_15Rnd" chance="0.25" />
-			<item name="Mag_Glock_15Rnd" chance="0.25" />
-			<item name="Mag_MKII_10Rnd" chance="0.15" />
-			<item name="Mag_1911_7Rnd" chance="0.15" />
-			<item name="Mag_CZ75_15Rnd" chance="0.15" />
-			<item name="Mag_IJ70_8Rnd" chance="0.15" />
-			<item name="Mag_SVD_10Rnd" chance="0.15" />
-		</cargo>
-
-		<cargo chance="1.00" name="GiftBox_Large_c">
-			<item name="cp_cannabisseedspackstardawg" chance="0.11" />
-			<item name="cp_cannabisseedspackblue" chance="0.11" />
-			<item name="cp_rollingpapers_green" chance="0.11" />
-			<item name="cp_rollingpapers_silver" chance="0.11" />
-			<item name="cp_pouch" chance="0.11" />
-			<item name="GardenLime" chance="0.11" />
-			<item name="dog_vest_blackmedic" chance="0.11" />
-			<item name="dog_vest_blackgreenz" chance="0.11" />
-			<item name="chiemsee_scorpion_tail" chance="0.11" />
-			<item name="msp_moskvafridge_cream_kit" chance="0.10" />
-			<item name="whetstone" chance="0.05" />
-			<item name="NailBox" chance="0.05" />
-			<item name="PetrolLighter" chance="0.05" />
-			<item name="compass" chance="0.05" />
-			<item name="heatpack" chance="0.05" />
-			<item name="chernarusmap" chance="0.05" />
-			<item name="hook" chance="0.05" />
-			<item name="kitchenknife" chance="0.05" />
-			<item name="fishingrod" chance="0.05" />
-			<item name="dog_collar_green" chance="0.05" />
-			<item name="dog_collar_white" chance="0.05" />
-			<item name="bloodtestkit" chance="0.05" />
-			<item name="bandagedressing" chance="0.05" />
-			<item name="rope" chance="0.05" />
-			<item name="vitaminbottle" chance="0.05" />
-			<item name="sewingkit" chance="0.05" />
-			<item name="leathersewingkit" chance="0.05" />
-			<item name="dog_bone_toy" chance="0.05" />
-			<item name="vodka" chance="0.05" />
-			<item name="flag_babydeer" chance="0.05" />
-		</cargo>
-
-		<cargo chance="1.00" name="GiftBox_Large_cc">
-			<item name="cp_cannabisseedspackstardawg" chance="0.11" />
-			<item name="cp_cannabisseedspackblue" chance="0.11" />
-			<item name="cp_rollingpapers_green" chance="0.11" />
-			<item name="cp_rollingpapers_silver" chance="0.11" />
-			<item name="cp_pouch" chance="0.11" />
-			<item name="GardenLime" chance="0.11" />
-			<item name="dog_vest_blackmedic" chance="0.11" />
-			<item name="dog_vest_blackgreenz" chance="0.11" />
-			<item name="chiemsee_scorpion_tail" chance="0.11" />
-			<item name="msp_moskvafridge_cream_kit" chance="0.20" />
-			<item name="whetstone" chance="0.05" />
-			<item name="NailBox" chance="0.05" />
-			<item name="PetrolLighter" chance="0.05" />
-			<item name="compass" chance="0.05" />
-			<item name="heatpack" chance="0.05" />
-			<item name="chernarusmap" chance="0.05" />
-			<item name="hook" chance="0.05" />
-			<item name="kitchenknife" chance="0.05" />
-			<item name="fishingrod" chance="0.05" />
-			<item name="dog_collar_green" chance="0.05" />
-			<item name="dog_collar_white" chance="0.05" />
-			<item name="bloodtestkit" chance="0.05" />
-			<item name="bandagedressing" chance="0.05" />
-			<item name="rope" chance="0.05" />
-			<item name="vitaminbottle" chance="0.05" />
-			<item name="sewingkit" chance="0.05" />
-			<item name="leathersewingkit" chance="0.05" />
-			<item name="dog_bone_toy" chance="0.05" />
-			<item name="vodka" chance="0.05" />
-			<item name="flag_babydeer" chance="0.05" />
-		</cargo>
-
-		<cargo chance="1.00" name="GiftBox_Large_ccc">
-			<item name="cp_cannabisseedspackstardawg" chance="0.11" />
-			<item name="cp_cannabisseedspackblue" chance="0.11" />
-			<item name="cp_rollingpapers_green" chance="0.11" />
-			<item name="cp_rollingpapers_silver" chance="0.11" />
-			<item name="cp_pouch" chance="0.11" />
-			<item name="GardenLime" chance="0.11" />
-			<item name="dog_vest_blackmedic" chance="0.11" />
-			<item name="dog_vest_blackgreenz" chance="0.11" />
-			<item name="chiemsee_scorpion_tail" chance="0.11" />
-			<item name="msp_moskvafridge_cream_kit" chance="0.20" />
-			<item name="whetstone" chance="0.05" />
-			<item name="NailBox" chance="0.05" />
-			<item name="PetrolLighter" chance="0.05" />
-			<item name="compass" chance="0.05" />
-			<item name="heatpack" chance="0.05" />
-			<item name="chernarusmap" chance="0.05" />
-			<item name="hook" chance="0.05" />
-			<item name="kitchenknife" chance="0.05" />
-			<item name="fishingrod" chance="0.05" />
-			<item name="dog_collar_green" chance="0.05" />
-			<item name="dog_collar_white" chance="0.05" />
-			<item name="bloodtestkit" chance="0.05" />
-			<item name="bandagedressing" chance="0.05" />
-			<item name="rope" chance="0.05" />
-			<item name="vitaminbottle" chance="0.05" />
-			<item name="sewingkit" chance="0.05" />
-			<item name="leathersewingkit" chance="0.05" />
-			<item name="dog_bone_toy" chance="0.05" />
-			<item name="vodka" chance="0.05" />
-			<item name="flag_babydeer" chance="0.05" />
-		</cargo>
-
-		<cargo chance="1.00" name="GiftBox_Large_cccc">
-			<item name="cp_cannabisseedspackstardawg" chance="0.11" />
-			<item name="cp_cannabisseedspackblue" chance="0.11" />
-			<item name="cp_rollingpapers_green" chance="0.11" />
-			<item name="cp_rollingpapers_silver" chance="0.11" />
-			<item name="cp_pouch" chance="0.11" />
-			<item name="GardenLime" chance="0.11" />
-			<item name="dog_vest_blackmedic" chance="0.11" />
-			<item name="dog_vest_blackgreenz" chance="0.11" />
-			<item name="chiemsee_scorpion_tail" chance="0.11" />
-			<item name="msp_moskvafridge_cream_kit" chance="0.20" />
-			<item name="whetstone" chance="0.05" />
-			<item name="NailBox" chance="0.05" />
-			<item name="PetrolLighter" chance="0.05" />
-			<item name="compass" chance="0.05" />
-			<item name="heatpack" chance="0.05" />
-			<item name="chernarusmap" chance="0.05" />
-			<item name="hook" chance="0.05" />
-			<item name="kitchenknife" chance="0.05" />
-			<item name="fishingrod" chance="0.05" />
-			<item name="dog_collar_green" chance="0.05" />
-			<item name="dog_collar_white" chance="0.05" />
-			<item name="bloodtestkit" chance="0.05" />
-			<item name="bandagedressing" chance="0.05" />
-			<item name="rope" chance="0.05" />
-			<item name="vitaminbottle" chance="0.05" />
-			<item name="sewingkit" chance="0.05" />
-			<item name="leathersewingkit" chance="0.05" />
-			<item name="dog_bone_toy" chance="0.05" />
-			<item name="vodka" chance="0.05" />
-			<item name="flag_babydeer" chance="0.05" />
-		</cargo>
-		
 </randompresets>
