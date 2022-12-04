@@ -313,6 +313,88 @@
             "Variants": []
         },
         {
+            "ClassName": "MAD_militaryberet_M",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_militaryberet_Pink"
+            ]
+        },
+        {
+            "ClassName": "MAD_BeanieHat_White",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_BeanieHat_Pink"
+            ]
+        },
+        {
+            "ClassName": "MAD_Bandana_BlackPink",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Bandana_Pink",
+                "MAD_Bandana_BlackSkull"
+            ]
+        },
+        {
+            "ClassName": "MAD_Black_Belt",
+            "MaxPriceThreshold": 13000,
+            "MinPriceThreshold": 13000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_Pink_Belt",
+                "MAD_Green_Belt",
+                "MAD_White_Belt"
+            ]
+        },
+        {
+            "ClassName": "MAD_WorkingGloves_Pink",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_WorkingGloves_White"
+            ]
+        },
+        {
+            "ClassName": "MAD_CombatKnife_White",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MAD_CombatKnife_Pink",
+                "MAD_CombatKnife_M"
+            ]
+        },
+        {
             "ClassName": "MAD_SurgicalGloves_Pink",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 300,
