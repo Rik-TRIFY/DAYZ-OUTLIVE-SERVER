@@ -4133,7 +4133,255 @@
 		<usage name="Military" />
 		<value name="" />
 	</type>
-
+	<type name="MAD_Backpack_M">
+		<nominal>1</nominal>
+		<restock>432000</restock>
+		<lifetime>28800</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+        <value name="Tier15"/>
+        <value name="Tier9"/>
+	</type>
+    <type name="MAD_WorkingGloves_Pink">
+		<nominal>3</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+    <type name="MAD_WorkingGloves_White">
+		<nominal>3</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+    <type name="MAD_Black_Belt">
+		<nominal>1</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+    <type name="MAD_Pink_Belt">
+		<nominal>1</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+    <type name="MAD_Green_Belt">
+		<nominal>1</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+    <type name="MAD_White_Belt">
+		<nominal>1</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+    <type name="MAD_Bandana_BlackSkull">
+		<nominal>1</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+    <type name="MAD_Bandana_Pink">
+		<nominal>1</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+    <type name="MAD_Bandana_BlackPink">
+		<nominal>1</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+    <type name="MAD_BeanieHat_Pink">
+		<nominal>3</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+    <type name="MAD_BeanieHat_White">
+		<nominal>3</nominal>
+    	<lifetime>3600</lifetime>
+    	<restock>0</restock>
+    	<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Office" />
+		<usage name="School" />
+		<usage name="Lunapark" />
+	</type>
+    <type name="MAD_militaryberet_Pink">
+		<nominal>5</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+    <type name="MAD_militaryberet_M">
+		<nominal>5</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+    <type name="MAD_CombatKnife_M">
+		<nominal>1</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+    <type name="MAD_CombatKnife_Pink">
+		<nominal>1</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+    <type name="MAD_CombatKnife_White">
+		<nominal>1</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
 <!-- MAD GEAR KONEC-->
 <!-- MAD OUTLIVE GEAR-->
 <type name="OUTLIVE_AthleticShoes">
@@ -5084,6 +5332,19 @@
 		<value name="Tier2" />
 		<value name="Tier3" />
         <value name="Tier4" />
+	</type>
+<type name="MAD_Mich2001Helmet_Grinch">
+		<nominal>1</nominal>
+		<restock>28000</restock>
+		<lifetime>28000</lifetime>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+  		<usage name="SeasonalEvent" />
 	</type>
 <!-- MAD CHRISTMAS KONEC-->
 <!-- MAD NAUGHTY SHIRTS-->
