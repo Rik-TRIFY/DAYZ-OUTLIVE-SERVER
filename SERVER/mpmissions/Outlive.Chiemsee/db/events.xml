@@ -749,7 +749,7 @@
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="8" lootmin="5" max="10" min="10" type="ChristmasTree"/>
         </children>
@@ -804,7 +804,6 @@
         <children>
             <child lootmax="15" lootmin="10" max="2" min="1" type="Wreck_Mi8_Crashed"/>
             <child lootmax="15" lootmin="10" max="2" min="1" type="Wreck_UH1Y"/>
-            <child lootmax="9" lootmin="6" max="3" min="1" type="Wreck_SantasSleigh"/>
         </children>
     </event>
     <event name="StaticPoliceCar">
@@ -1089,7 +1088,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="1" min="1" type="rag_snowman"/>
         </children>
@@ -1106,7 +1105,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_Santa"/>
             <child lootmax="0" lootmin="0" max="2" min="1" type="rag_snowman"/>
