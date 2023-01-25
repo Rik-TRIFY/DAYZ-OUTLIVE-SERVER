@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 464,
     "ObjectiveType": 4,
     "ObjectiveText": "",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 1,
-        "ClassName": "LeatherJacket_Natural"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "LeatherJacket_Natural"
+        }
+    ]
 }

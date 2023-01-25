@@ -1,13 +1,12 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 16,
-    "Type": 4,
+    "Type": 1,
     "Title": "16 - Spánek jako v peřinkách - Sleep like in duvets",
     "Descriptions": [
         "Na té trvdé zemi se tak špatně spí.... Navíc je tu zima a mráz... Pořád tu sněží, sníh netaje. Potřebuju něco, co mě v noci zahřeje. Dones mi kožešinku z bílého mědvěda. A nebo víš co...? Ušij mi z ní rovnou kobereček - na oplátku ti dám něco ze své výbavy. - It's so hard to sleep on that hard ground... Moreover, it's cold and frosty here... It's still snowing here, the snow doesn't melt. I need something to keep me warm at night. Bring me a polar bear fur. Or you know what...? Sew me a Polar bear carpet straight out of it - in return I'll give you something from my equipment."
     ],
     "ObjectiveText": "Dones mi koberec z medvěda. - Bring bear carpet",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -16,8 +15,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -34,21 +31,26 @@
         {
             "ClassName": "MMG_MK_V_Armor_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "MMG_mk5_utility_pouch_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         6
     ],
     "QuestTurnInIDs": [
         6
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

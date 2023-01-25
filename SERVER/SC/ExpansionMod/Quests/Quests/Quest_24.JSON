@@ -1,14 +1,13 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 24,
-    "Type": 5,
+    "Type": 1,
     "Title": "24 - Bez baterie nelétám - I can't fly without a battery",
     "Descriptions": [
         "Ahojky. Můžeš doručit tuhle baterii Oliverovi? - Hi, can you deliver this battery to Oliver?",
         "Oliver ti dá odměnu- Oliver will reward you"
     ],
     "ObjectiveText": "Doruč zásilku Oliverovi - Deliver to Oliver",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -17,8 +16,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -35,16 +32,20 @@
         {
             "ClassName": "Derringer_Pink",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         5
     ],
     "QuestTurnInIDs": [
         4
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

@@ -1,14 +1,13 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 7,
     "ID": 25,
-    "Type": 2,
+    "Type": 1,
     "Title": "25 - Neviditelné nebezpečí - Invisible danger",
     "Descriptions": [
         "Ahoj, ahoj, mám pro tebe speciální úkol. Zabij 5 škorpionů lopatou! - Hello, hello, I have a special quest for you. Kill 5 scorpions with a shovel!",
         "Nezapomeň si přijít pro odměnu. - Don't forget to come for your reward."
     ],
     "ObjectiveText": "Zabij 5 škorpionů lopatou! - Kill 5 scorpions with a shovel!",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -17,8 +16,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -40,26 +37,32 @@
         {
             "ClassName": "TWP_Cosmetic_Scorpion",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "ExpansionGoldBar",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "MAD_Backpack_Black",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         7
     ],
     "QuestTurnInIDs": [
         7
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

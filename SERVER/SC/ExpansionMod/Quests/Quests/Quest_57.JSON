@@ -1,13 +1,12 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 57,
-    "Type": 4,
+    "Type": 1,
     "Title": "57 -  Kniha džunglí - The Jungle Book",
     "Descriptions": [
         "Jak dlouho sis nepřečetl žádnou knížku? Je tu strašná nuda. Pořád jen samí infikovaní, nálety toxických bomb... Utekl bych do nějakého fantastického světa. Zkus mi sehnat Knihu džunglí - byla to v dětství má nejoblíbenější kniha. - How long have you not read a book? It's terribly boring. Still only the infected, toxic bomb raids... I would run away to some fantastic world. Try to get me The Jungle Book - it was my favorite book as a child."
     ],
     "ObjectiveText": "Přines mi Knihu džunglí - The Jungle Book",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -16,8 +15,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -34,16 +31,22 @@
         {
             "ClassName": "dog_bowl",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         11
     ],
     "QuestTurnInIDs": [
         11
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

@@ -1,14 +1,13 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 36,
-    "Type": 4,
+    "Type": 1,
     "Title": "36 -  Přívěšek s křížkem - Cross necklace",
     "Descriptions": [
         "Viděl jsem u jednoho kolegy řetízek s křížkem. Chtěl bych taky takové, dones mi ho. - I saw a cross necklace with a colleague. I'd like those too, bring it to me.",
         "Odměním tě! - I will reward you!"
     ],
     "ObjectiveText": "Přines mi přívěšek s křížkem - Bring Cross necklace",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -17,8 +16,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -35,16 +32,22 @@
         {
             "ClassName": "ExpansionGoldNugget",
             "Amount": 50,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         9
     ],
     "QuestTurnInIDs": [
         9
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

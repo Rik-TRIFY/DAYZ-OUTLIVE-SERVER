@@ -1,13 +1,12 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 77,
-    "Type": 4,
+    "Type": 1,
     "Title": "77 - Pivo * Beer",
     "Descriptions": [
         "Tady se to nedá vydržet. Nemáš nějaké pivo? *** I can't stand it here. Don't you have any beer?"
     ],
     "ObjectiveText": "Potěš Borise * Make Boris happy",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -16,8 +15,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -34,21 +31,28 @@
         {
             "ClassName": "MMG_tactical_pouch_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "MMG_camelback_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         6
     ],
     "QuestTurnInIDs": [
         6
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

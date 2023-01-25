@@ -1,13 +1,12 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 60,
-    "Type": 2,
+    "Type": 1,
     "Title": "60 - Řezník - Butcher",
     "Descriptions": [
         "Řezník, ale není z Blavikenu. To je mi ale kopec srandy. Ukaž, že jsi frajer a zabij mi tady v okolí 30 zombíků sekáčkem na maso. Je tu trochu nuda, tak ať se pobavím. - Butcher, but not from Blaviken. But that's a lot of fun for me. Show that you're a dude and kill 30 zombies around me with a meat cleaver. It's a bit boring here, so let me have some fun."
     ],
     "ObjectiveText": "Zabij 30 infikovaných sekáčkem. - Kill 30 infected with the Cleaver.",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -16,8 +15,6 @@
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -39,26 +36,34 @@
         {
             "ClassName": "TWP_AA12Dragon",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "TWP_AA12Dragon_mag_32Rnd",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "Msp_Egg_Pink",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         11
     ],
     "QuestTurnInIDs": [
         11
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

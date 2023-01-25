@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 401,
     "ObjectiveType": 4,
     "ObjectiveText": "Dones mi 5 jointů ze Skunka",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 5,
-        "ClassName": "CP_JointSkunk"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "CP_JointSkunk"
+        }
+    ]
 }

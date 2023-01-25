@@ -1,14 +1,13 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 3,
-    "Type": 3,
+    "Type": 1,
     "Title": "3 - Objev nepoznané - Discovery of the unknown",
     "Descriptions": [
         "Slyšel jsem, že se na východě se rozkládá vesnička, která je téměř celá zatopená. Měl bys to jít prozkoumat. *** I heard that there is a village in the east that is almost completely flooded. You should go investigate.",
         "Přijď mi dát vědět, cos objevil. - And come back and let me know what you find."
     ],
     "ObjectiveText": "Objev zatopenou vesničku. - Discovery of the unknown",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -17,8 +16,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -35,21 +32,26 @@
         {
             "ClassName": "TWP_P2000BlueGirl",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "TWP_P2000BlueGirl_mag_16Rnd",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         5
     ],
     "QuestTurnInIDs": [
         5
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

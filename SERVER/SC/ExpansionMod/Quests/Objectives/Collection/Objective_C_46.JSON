@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 446,
     "ObjectiveType": 4,
     "ObjectiveText": "Přines mi Polaroid Photo č.2",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 1,
-        "ClassName": "Collectable_Polaroid_Two"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Collectable_Polaroid_Two"
+        }
+    ]
 }

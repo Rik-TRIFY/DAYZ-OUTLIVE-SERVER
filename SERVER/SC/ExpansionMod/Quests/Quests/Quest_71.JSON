@@ -1,13 +1,12 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 71,
-    "Type": 4,
+    "Type": 1,
     "Title": "71 -  Trocha energie neuškodí * A little energy doesn't hurt",
     "Descriptions": [
         "Poslední dobou nevydržím co dřív, nepotkal si náhodou na mapě nějaký energiťák? Potřeboval bych trochu dobít baterky. Nejlepší je prý ten s Karlem. *** Lately, I can't stand what I used to. Have you ever seen an energy drink somewhere? I need to recharge my batteries a bit. The one with Karl is said to be the best."
     ],
     "ObjectiveText": "EnergyDrink",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -16,8 +15,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -34,21 +31,28 @@
         {
             "ClassName": "MMG_balaclava_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "MMG_Holster_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         6
     ],
     "QuestTurnInIDs": [
         6
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

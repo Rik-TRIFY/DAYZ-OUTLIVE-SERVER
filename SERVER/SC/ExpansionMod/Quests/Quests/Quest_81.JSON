@@ -1,13 +1,12 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 81,
-    "Type": 8,
+    "Type": 1,
     "Title": "81 - Kemp banditů * Bandit Camp",
     "Descriptions": [
         "Bandité se usadili kousek vedle mě. Běž mě jich prosím zbavit. Měli by tam být asi 3. *** The bandits settled down a little next to me. Please go get rid of them. There should be about 3."
     ],
     "ObjectiveText": "Zbav Naomi banditů * Kill Bandits",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -16,8 +15,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -34,21 +31,28 @@
         {
             "ClassName": "TWP_HoneyBadgerBlueWhite",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "TWP_HoneyBadger_mag_40Rnd",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         2
     ],
     "QuestTurnInIDs": [
         2
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

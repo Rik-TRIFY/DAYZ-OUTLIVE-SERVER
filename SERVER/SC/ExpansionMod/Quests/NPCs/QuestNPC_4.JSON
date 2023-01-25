@@ -1,15 +1,15 @@
 {
-    "ConfigVersion": 1,
+    "ConfigVersion": 2,
     "ID": 4,
     "ClassName": "ExpansionQuestNPCOliver",
     "IsAI": 0,
     "Position": [
-        7646.31,
-        17.2,
-        750.179
+        7646.31005859375,
+        17.200000762939454,
+        750.1790161132813
     ],
     "Orientation": [
-        144.989,
+        144.98899841308595,
         0.0,
         0.0
     ],
@@ -24,6 +24,13 @@
     ],
     "NPCName": "Oliver",
     "DefaultNPCText": "Hoří? Někde hoří? Chvátám!",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
     "NPCLoadoutFile": "FireFighterLoadout",
-    "IsStatic": 0
+    "IsStatic": 0,
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39
 }

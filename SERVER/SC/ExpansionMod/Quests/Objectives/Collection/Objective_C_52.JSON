@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 452,
     "ObjectiveType": 4,
     "ObjectiveText": "Přines mi žlutý telefon",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 1,
-        "ClassName": "Collectable_SmartPhone_Yellow"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Collectable_SmartPhone_Yellow"
+        }
+    ]
 }

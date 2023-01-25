@@ -1,12 +1,12 @@
 {
-    "ConfigVersion": 1,
+    "ConfigVersion": 2,
     "ID": 3,
     "ClassName": "ExpansionQuestNPCLinda",
     "IsAI": 0,
     "Position": [
-        204.613,
-        481.678,
-        6536.74
+        204.61300659179688,
+        481.6780090332031,
+        6536.740234375
     ],
     "Orientation": [
         45.0,
@@ -25,6 +25,13 @@
     ],
     "NPCName": "Linda",
     "DefaultNPCText": "Fuj, to jsem se lekla! Co chceš?",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
     "NPCLoadoutFile": "PinkLoadout",
-    "IsStatic": 0
+    "IsStatic": 0,
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39
 }

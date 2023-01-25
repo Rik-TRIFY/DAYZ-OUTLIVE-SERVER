@@ -1,14 +1,13 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 17,
-    "Type": 4,
+    "Type": 1,
     "Title": "17 - Dones mi 5 jointů ze Skunka - 5 pcs Skunk Joints",
     "Descriptions": [
         "Ty noci jsou tu táááák dlouhé a táááák nudné. Neměl bys něco, po čem bych lépe spala? Třeba nějaké jointy? Nemusí to být top kvalita. Skunk stačí. - The nights are soooo long and soooo boring here. Don't you have something that would make me sleep better? Maybe some joints? It doesn't have to be top quality. Skunk is enough.",
         "Odměním se ti skvělým pitím - mě pití nedělá dobře na játra, proto sháním trávu. Tu vodku nevypij všechnu, třeba se ti bude hodit na jiný quest. - I'll reward you with a great drink - drinking isn't good for my liver, so I'm looking for weed. Don't drink all that vodka, it might be useful for another quest."
     ],
     "ObjectiveText": "Dones mi 5 jointů ze Skunka - Bring 5pcs Skunk joints",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -17,8 +16,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -35,26 +32,32 @@
         {
             "ClassName": "Vodka",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "Vodka",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "Vodka",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         2
     ],
     "QuestTurnInIDs": [
         2
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

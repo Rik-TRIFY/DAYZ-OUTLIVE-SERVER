@@ -1,7 +1,7 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 14,
-    "Type": 4,
+    "Type": 1,
     "Title": "14 - Bez nože ani ránu - Bone Knife",
     "Descriptions": [
         "Sakra! Ztratila jsem svůj oblíbený nůž... Vyráběl mi ho manžel z kostí. - Damn it! I lost my favorite knife... My husband made it from bones.",
@@ -9,7 +9,6 @@
         " Ale rychle, dřív než zjistí, že ho nemám... - But quickly, before he finds out I don't have it..."
     ],
     "ObjectiveText": "Vyrob mi kostěný nůž - Make boneknife",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -18,8 +17,6 @@
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -36,16 +33,20 @@
         {
             "ClassName": "ExpansionGoldNugget",
             "Amount": 10,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         8
     ],
     "QuestTurnInIDs": [
         8
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

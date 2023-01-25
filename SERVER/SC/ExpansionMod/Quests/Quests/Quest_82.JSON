@@ -1,14 +1,13 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 82,
-    "Type": 4,
+    "Type": 1,
     "Title": "82 - Mumie se vrací - Mummy",
     "Descriptions": [
         "Ha ha ha, bude halloween, víš o tom? Vyrob mi kostým mumie. *** Ha ha ha, it's going to be halloween, you know that? Make for me a mummy costume.",
         "Odměním se ti! - I'll reward you"
     ],
     "ObjectiveText": "Mumie - Mummy",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -17,8 +16,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -63,16 +60,20 @@
         {
             "ClassName": "ExpansionGoldNugget",
             "Amount": 45,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         8
     ],
     "QuestTurnInIDs": [
         8
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

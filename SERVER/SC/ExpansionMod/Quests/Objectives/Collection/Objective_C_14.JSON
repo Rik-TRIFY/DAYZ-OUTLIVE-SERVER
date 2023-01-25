@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 414,
     "ObjectiveType": 4,
     "ObjectiveText": "Růžové šatičky",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 1,
-        "ClassName": "MiniDress_Pink"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "MiniDress_Pink"
+        }
+    ]
 }

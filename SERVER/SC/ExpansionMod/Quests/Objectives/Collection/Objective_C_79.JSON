@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 479,
     "ObjectiveType": 4,
     "ObjectiveText": "BDSM",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 2,
-        "ClassName": "MAD_CC_BDSM_10"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 2,
+            "ClassName": "MAD_CC_BDSM_10"
+        }
+    ]
 }

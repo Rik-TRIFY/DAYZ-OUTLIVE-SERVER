@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 409,
     "ObjectiveType": 4,
     "ObjectiveText": "Sežeň 2 vodky.",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 2,
-        "ClassName": "Vodka"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 2,
+            "ClassName": "Vodka"
+        }
+    ]
 }

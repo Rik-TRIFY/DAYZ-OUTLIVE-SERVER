@@ -1,14 +1,13 @@
 {
-    "ConfigVersion": 4,
+    "ConfigVersion": 7,
     "ID": 42,
-    "Type": 3,
+    "Type": 1,
     "Title": "42 - Prozkoumej Ted Valley - Explore Ted Valley",
     "Descriptions": [
         "Kousek od přehrady se nachází krásné údolí Ted Valley. Bež se tam podívat a trochu tam zredukuj stavy infikovaných. *** Not far from the dam is the beautiful Ted Valley. Bež se tam podívat a trochu tam zredukuj stavy infikovaných.",
         "Vrať se ke mě pro odměnu. - Come back to me for a reward."
     ],
     "ObjectiveText": "Zkontoluj Ted Valley. - Check Ted Valley",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -17,8 +16,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -42,16 +39,22 @@
         {
             "ClassName": "TWP_DoomShotgun",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         4
     ],
     "QuestTurnInIDs": [
         4
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

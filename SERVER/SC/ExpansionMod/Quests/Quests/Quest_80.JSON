@@ -1,13 +1,12 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 80,
-    "Type": 8,
+    "Type": 1,
     "Title": "80 - Kemp banditů * Bandit Camp",
     "Descriptions": [
         "Bandité se usadili blízko Smugglera a ohrožují ho na životě. Běž mu pomoct a zabij všech 6 banditů. *** The bandits have settled near the Smuggler and are threatening his life. Go help him and kill all 6 bandits."
     ],
     "ObjectiveText": "Zbav Smugglera banditů * Kill bandits",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -16,8 +15,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -34,21 +31,28 @@
         {
             "ClassName": "TWP_M107",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "TWP_M107_mag_15Rnd",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         4
     ],
     "QuestTurnInIDs": [
         4
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

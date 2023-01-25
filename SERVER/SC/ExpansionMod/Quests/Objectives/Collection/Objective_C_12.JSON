@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 412,
     "ObjectiveType": 4,
     "ObjectiveText": "Růžový Derringer",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 1,
-        "ClassName": "Derringer_Pink"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Derringer_Pink"
+        }
+    ]
 }

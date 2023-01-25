@@ -1,7 +1,7 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 12,
-    "Type": 4,
+    "Type": 1,
     "Title": "12 - Pozor na trní - CaninaBerry",
     "Descriptions": [
         "Něco na mě leze. Slyšela jsem, že pomáhá šípkový čaj. - I'll probably be sick. I heard that rosehip tea helps.",
@@ -9,7 +9,6 @@
         "Odměním se ti. - I will reward you."
     ],
     "ObjectiveText": "Dones 10 šípků. - Bring 10 CaninaBerry",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -18,8 +17,6 @@
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -36,16 +33,20 @@
         {
             "ClassName": "ExpansionGoldNugget",
             "Amount": 40,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         8
     ],
     "QuestTurnInIDs": [
         8
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

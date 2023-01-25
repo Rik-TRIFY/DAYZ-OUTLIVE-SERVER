@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 405,
     "ObjectiveType": 4,
     "ObjectiveText": "Dones 10 šípků",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 10,
-        "ClassName": "CaninaBerry"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 10,
+            "ClassName": "CaninaBerry"
+        }
+    ]
 }

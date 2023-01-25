@@ -1,13 +1,12 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 64,
-    "Type": 4,
+    "Type": 1,
     "Title": "64 -  Polaroid Photos",
     "Descriptions": [
         "Kdysi jsem s přáteli udělal pár fotografií - celkem 4, ale někde jsem je vytratil. Pomůžeš mi je najít? - I once took some photos with my friends - 4 in total, but I lost them somewhere. Can you help me find them?"
     ],
     "ObjectiveText": "Polaroid Photos",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -16,8 +15,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -55,21 +52,28 @@
         {
             "ClassName": "ExpansionGoldNugget",
             "Amount": 50,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "ExpansionGoldBar",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         9
     ],
     "QuestTurnInIDs": [
         9
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

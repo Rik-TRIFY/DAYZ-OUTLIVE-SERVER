@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 457,
     "ObjectiveType": 4,
     "ObjectiveText": "Přines mi toaletní papír",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 6,
-        "ClassName": "TWP_ToiletRoll"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 6,
+            "ClassName": "TWP_ToiletRoll"
+        }
+    ]
 }

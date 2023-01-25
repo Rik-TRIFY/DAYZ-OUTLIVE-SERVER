@@ -1,15 +1,15 @@
 {
-    "ConfigVersion": 1,
+    "ConfigVersion": 2,
     "ID": 2,
     "ClassName": "ExpansionQuestNPCNaomi",
     "IsAI": 0,
     "Position": [
-        10111.2,
-        7.46559,
-        7052.63
+        10111.2001953125,
+        7.465590000152588,
+        7052.6298828125
     ],
     "Orientation": [
-        149.761,
+        149.76100158691407,
         0.0,
         0.0
     ],
@@ -25,6 +25,13 @@
     ],
     "NPCName": "Naomi",
     "DefaultNPCText": "Mám moc práce... Teď se utápím ve vlastních myšlenkách...",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
     "NPCLoadoutFile": "DeathLoadout",
-    "IsStatic": 0
+    "IsStatic": 0,
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39
 }

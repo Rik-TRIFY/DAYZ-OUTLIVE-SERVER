@@ -1,23 +1,20 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 21,
-    "Type": 4,
+    "Type": 1,
     "Title": "21 - Růžová není jenom barva, je to styl! * Pink isn't just a color, it's a style!",
     "Descriptions": [
         "Věřím v růžovou. Dones mi tedy těhle pár věcí a já se ti odměním! *** I believe in pink. So bring me these few things and I will reward you!"
     ],
     "ObjectiveText": "Zahrň mě růžovou * Include me in pink",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
-    "Repeatable": 0,
+    "Repeatable": 1,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 1,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -48,16 +45,20 @@
         {
             "ClassName": "dog_shed_small_kit",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         3
     ],
     "QuestTurnInIDs": [
         3
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

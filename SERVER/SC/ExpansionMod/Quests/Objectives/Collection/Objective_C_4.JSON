@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 404,
     "ObjectiveType": 4,
     "ObjectiveText": "Bez černý?",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 15,
-        "ClassName": "SambucusBerry"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 15,
+            "ClassName": "SambucusBerry"
+        }
+    ]
 }

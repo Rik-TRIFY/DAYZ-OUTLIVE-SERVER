@@ -1,24 +1,21 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 41,
-    "Type": 5,
+    "Type": 1,
     "Title": "41 - Veselo za mřížemi - Happily behind bars",
     "Descriptions": [
         "Mám známého... Je to divný cápek. Celý život byl ve výkonu trestu a zvykl si na to tolik, že ani nyní, kdy je svět v této krizi ze své vězeňské cely nevychází. Běž a dones mu prosím nějakou trávu, ať mu není smutno. *** I have an acquaintance... He's a weird guy. He has been in prison all his life and has become so used to it that even now, when the world is in this crisis, he does not come out of his prison cell. Go and get him some weed please so he won't be sad.",
         "On se ti odmění. - He will reward you."
     ],
     "ObjectiveText": "Doruč trávu pro Petra. - Deliver weed to Peter.",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
-    "Repeatable": 0,
+    "Repeatable": 1,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 1,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -35,21 +32,26 @@
         {
             "ClassName": "NailBox",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "NailBox",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         8
     ],
     "QuestTurnInIDs": [
         1
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

@@ -1,13 +1,12 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 78,
-    "Type": 8,
+    "Type": 1,
     "Title": "78 - Kemp banditů * Bandit Camp",
     "Descriptions": [
         "Donesly se ke mě zvěsti, že se bandité usadili ve zdejších lesích. Zajdi to zkontolovat a vyřešit. Mělo by jich být cca 10. *** Rumors have reached me that bandits have settled in the woods here. Go check it out and solve it. There should be about 10 of them."
     ],
     "ObjectiveText": "Vyřeš bandity * Solve Bandits",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -16,8 +15,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -34,31 +31,40 @@
         {
             "ClassName": "MMG_MK_III_Armor_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "MMG_triple_magpouch_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "MMG_combatshirt_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "MMG_combatpants_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         6
     ],
     "QuestTurnInIDs": [
         6
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

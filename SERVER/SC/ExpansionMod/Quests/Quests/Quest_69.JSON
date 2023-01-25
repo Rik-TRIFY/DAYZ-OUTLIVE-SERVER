@@ -1,23 +1,20 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 69,
-    "Type": 2,
+    "Type": 1,
     "Title": "69 - Samá kráva - Cows",
     "Descriptions": [
         "Čau kamaráde, mám pro tebe úkolíček. Běž a ulov mi pár krav. Takových 15 by mělo stačit. *** Hey friend, I have a task for you. Go catch me some cows. 15 of these should be enough."
     ],
     "ObjectiveText": "Ulov 15 krav * Kill 15 cows",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
-    "Repeatable": 0,
+    "Repeatable": 1,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 1,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -34,16 +31,22 @@
         {
             "ClassName": "TWP_MiniReaper",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         11
     ],
     "QuestTurnInIDs": [
         11
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

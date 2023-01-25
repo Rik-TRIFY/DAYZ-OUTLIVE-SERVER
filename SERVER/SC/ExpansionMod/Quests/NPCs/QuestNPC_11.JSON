@@ -1,15 +1,15 @@
 {
-    "ConfigVersion": 1,
+    "ConfigVersion": 2,
     "ID": 11,
     "ClassName": "ExpansionQuestNPCElias",
     "IsAI": 0,
     "Position": [
-        4383.7,
-        9.3217,
-        2400.59
+        4383.7001953125,
+        9.321700096130371,
+        2400.590087890625
     ],
     "Orientation": [
-        36.9053,
+        36.90530014038086,
         0.0,
         -0.0
     ],
@@ -25,6 +25,13 @@
     ],
     "NPCName": "Elias",
     "DefaultNPCText": "Čau kamaráde, dnes tu není nic k vidění.",
+    "Waypoints": [],
+    "NPCEmoteID": 0,
+    "NPCEmoteIsStatic": 0,
     "NPCLoadoutFile": "EliasLoadout",
-    "IsStatic": 0
+    "IsStatic": 0,
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39
 }

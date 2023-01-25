@@ -1,14 +1,13 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 84,
-    "Type": 9,
+    "Type": 1,
     "Title": "84 - Vězeňský Escort - Prisoner Escort",
     "Descriptions": [
         "Ahoj kamaráde. Měl bych pro tebe prácičku. Konečně jsme chytili uprchlého zločince. Odveď ho Sethovi, ať zřídí spravedlnost. *** Hi, friend. I have a job for you. We finally caught the escaped criminal. Take him to Seth for justice.",
         "Seth ti dá odměnu. - Seth will give you a reward."
     ],
     "ObjectiveText": "Doprovoď vězně - Escort prisoner",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -17,8 +16,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -35,31 +32,40 @@
         {
             "ClassName": "MAD_CarTent_Wood",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "MAD_CarTent_WhiteGeo",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "MAD_CarTent_GreyGeo",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "MAD_CarTent_BlueGeo",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 1,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         2
     ],
     "QuestTurnInIDs": [
         5
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

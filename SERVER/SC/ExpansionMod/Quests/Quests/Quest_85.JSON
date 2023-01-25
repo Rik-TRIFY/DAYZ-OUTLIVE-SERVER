@@ -1,14 +1,13 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 85,
-    "Type": 4,
+    "Type": 1,
     "Title": "85 -  Kožené šití - Leather Sewing",
     "Descriptions": [
         "Potkal jsem týpka a měl úplně husté kožené hadry. Ušij mi taky pár kousků oblečení. *** I met a guy and he was wearing really cool leather clothes. Sew me some clothes too.",
         "Dám ti odměnu. - I will give you a reward."
     ],
     "ObjectiveText": "Kožené šití - Leather Sewing",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -17,8 +16,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -56,16 +53,20 @@
         {
             "ClassName": "OUTLIVE_Backpack_Black",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         7
     ],
     "QuestTurnInIDs": [
         7
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

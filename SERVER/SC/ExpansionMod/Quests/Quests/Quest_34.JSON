@@ -1,14 +1,13 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 34,
-    "Type": 4,
+    "Type": 1,
     "Title": "34 - RAM",
     "Descriptions": [
         "Snažím se už týden zprovoznit počítač. Teď jsem přišel na to, že asi odešla RAMka, sežeň mi novou *** I've been trying to get my computer working for a week now.Now I figured out that the RAM is probably gone, get me a new one",
         "Zaplatím ti. - I will pay you."
     ],
     "ObjectiveText": "Přines mi RAMku - Bring RAM",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -17,8 +16,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -35,16 +32,22 @@
         {
             "ClassName": "ExpansionGoldNugget",
             "Amount": 80,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         9
     ],
     "QuestTurnInIDs": [
         9
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

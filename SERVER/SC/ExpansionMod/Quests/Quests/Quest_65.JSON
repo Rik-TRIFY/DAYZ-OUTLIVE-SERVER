@@ -1,23 +1,20 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 65,
-    "Type": 2,
+    "Type": 1,
     "Title": "65 - Zamořený HerrenInsel - The infested HerrenInsel",
     "Descriptions": [
         "Jáááááj, to jsi zase ty? A chceš další úkol? Nu mám tu pro tebe další specialitku. Tentokrát je to objednávka od zabijáka s nickem Kocur69. Běž a zabij na Herren Inselu 250 zombíků. - Whoah, is that you again? And do you want another task? Well, I have another special for you. This time it's an order from a killer with the nickname Kocur69. Go and kill 250 zombies on Herren Insel."
     ],
     "ObjectiveText": "Zabij 250 infikovaných na Herren Insel. - Kill 250 infected on Herren Insel.",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
-    "Repeatable": 0,
+    "Repeatable": 1,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 1,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -34,31 +31,40 @@
         {
             "ClassName": "TWP_M60",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "TWP_M60_mag_200Rnd",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "TWP_M60_mag_200Rnd",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "TWP_Cosmetic_DogTag",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         11
     ],
     "QuestTurnInIDs": [
         11
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 432,
     "ObjectiveType": 4,
     "ObjectiveText": "Přines 2x Gameboy s hrou Medarot ",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 2,
-        "ClassName": "Collectable_GameBoy_Medarot"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 2,
+            "ClassName": "Collectable_GameBoy_Medarot"
+        }
+    ]
 }

@@ -1,13 +1,12 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 63,
-    "Type": 2,
+    "Type": 1,
     "Title": "63 - Kaprem po hlavě - The killer carp",
     "Descriptions": [
         "Nazdar kamaráde, rád tě zase vidím. Byl tu jeden hráč, jmenoval se Hemlock a říkal, že jsi frajer. Že jediný, kdo to dokáže seš ty. Běž a zkus zabít 20 infikovaných kaprem. Ano, slyšíš dobře. KAPREM! Tak hurá do toho a pak si ke mě přijď pro odměnu. - Hello friend, nice to see you again. There was one player called Hemlock and he said you're a dude. That the only one who can do it is you. Go and try to kill 20 infected carp. Yes, you heard right. CARP! So go for it and then come to me for a reward."
     ],
     "ObjectiveText": "Zabij 20 infikovaných kaprem. - Kill 20 infected with a carp.",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -16,8 +15,6 @@
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -39,31 +36,40 @@
         {
             "ClassName": "mmg_gp_nvg_green",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "Msp_FishingRodsRack_Kit",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "TWP_Holymackerel",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "ExpansionGoldBar",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         11
     ],
     "QuestTurnInIDs": [
         11
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

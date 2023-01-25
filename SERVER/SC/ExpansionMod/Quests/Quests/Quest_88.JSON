@@ -1,14 +1,13 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 88,
-    "Type": 4,
+    "Type": 1,
     "Title": "88 - Rybičky - Fishes",
     "Descriptions": [
         "Minule za mnou byl nějaký hodný člověk a donesl mi makrelu. Ta byla tááááák dobrá. Přines mi 6 sardinek a řeknu ti tajemství. *** A nice person came to me the other day and brought me mackerel. It was soooo good. Bring me 6 sardines and I tell you a secret.",
         "Tvou odměnou bude hlavně úkol 89! - Your reward will mainly quest 89!"
     ],
     "ObjectiveText": "Rybičky - Fishes",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -17,8 +16,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -35,16 +32,20 @@
         {
             "ClassName": "MAD_EnergyDrink_Carlos",
             "Amount": 3,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         10
     ],
     "QuestTurnInIDs": [
         10
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

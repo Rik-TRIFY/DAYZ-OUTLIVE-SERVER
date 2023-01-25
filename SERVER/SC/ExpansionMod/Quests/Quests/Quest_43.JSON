@@ -1,7 +1,7 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 43,
-    "Type": 2,
+    "Type": 1,
     "Title": "43 - S tím kempem jsou pořád potíže - Trouble with that camp",
     "Descriptions": [
         "V Refugi Campu už je zase přespříliš infikovaných. Místo toho aby to byl kemp pro přeživší, tak se tam množí infikovaní! - There are already too many infected in the Refugi Camp. Instead of it being a camp for survivors, the infected are multiplying there!",
@@ -9,7 +9,6 @@
         "Vrať se ke mě pro odměnu. - Come back to me for a reward."
     ],
     "ObjectiveText": "Očisti Camp Refugi. - Clear Refugi Camp",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -18,8 +17,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -36,21 +33,28 @@
         {
             "ClassName": "TWP_FRF2BlackDragon",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "TWP_FRF2BlackDragon_mag_10Rnd",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         5
     ],
     "QuestTurnInIDs": [
         5
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }

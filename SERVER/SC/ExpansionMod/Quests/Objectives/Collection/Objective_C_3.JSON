@@ -1,14 +1,16 @@
 {
-    "ConfigVersion": 10,
+    "ConfigVersion": 11,
     "ID": 403,
     "ObjectiveType": 4,
     "ObjectiveText": "Zahrajeme si Tetris?",
     "TimeLimit": -1,
-    "Collection": {
-        "Amount": 2,
-        "ClassName": "Collectable_TetrisToy"
-    },
     "MaxDistance": 10.0,
     "MarkerName": "Deliver Items",
-    "ShowDistance": 1
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 2,
+            "ClassName": "Collectable_TetrisToy"
+        }
+    ]
 }

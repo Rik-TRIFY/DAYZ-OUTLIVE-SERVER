@@ -1,14 +1,13 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 13,
-    "Type": 4,
+    "Type": 1,
     "Title": "13 - Půl prasete - Half a pig",
     "Descriptions": [
         "S manželem plánujeme grilovačku pro pár kamarádů. Koupím od tebe vepřové steaky. Potřebuju jich alespoň 20. - My husband and I are planning a barbecue for some friends. I'll buy pork steaks from you. I need at least 20 of them.",
         "Dobře ti zaplatím. Hlavně mi prosímtě nenos steaky z divokého prasete, špatně se na grilu propečou! - I'll pay you well. Above all, please don't bring me wild boar steaks, they don't cook well on the grill!"
     ],
     "ObjectiveText": "Sežeň mi 20 vepřových steaků. - Bring 20 pork steaks",
-    "PreQuest": -1,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -17,8 +16,6 @@
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -35,16 +32,20 @@
         {
             "ClassName": "ExpansionGoldNugget",
             "Amount": 60,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         8
     ],
     "QuestTurnInIDs": [
         8
-    ]
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
 }

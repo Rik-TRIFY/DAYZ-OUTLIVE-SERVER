@@ -1,13 +1,12 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 7,
     "ID": 72,
-    "Type": 4,
+    "Type": 1,
     "Title": "72 -  Intimní problém * An intimate problem",
     "Descriptions": [
         "Ehm.... Měl bych takovou intimní prosbičku. Jak víš, nemůžu se odtud moc hnout. Nedoneseš mi nějaký toaletní papír? *** Erm... I would like to make such an intimate request. As you know, I can't move much from here. Can you get me some toilet paper?"
     ],
     "ObjectiveText": "Toaletní papír * Toilet paper",
-    "PreQuest": 21,
     "FollowUpQuest": -1,
     "IsAchivement": 0,
     "Repeatable": 1,
@@ -16,8 +15,6 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "IsBanditQuest": 0,
-    "IsHeroQuest": 0,
     "ObjectSetFileName": "",
     "QuestClassName": "",
     "Objectives": [
@@ -34,26 +31,34 @@
         {
             "ClassName": "MMG_boots_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "MMG_facemask_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         },
         {
             "ClassName": "MMG_sheath_alpine",
             "Amount": 1,
-            "Attachments": []
+            "Attachments": [],
+            "HealthPercent": 100
         }
     ],
     "NeedToSelectReward": 0,
     "RewardsForGroupOwnerOnly": 1,
-    "HumanityReward": 0,
     "QuestGiverIDs": [
         6
     ],
     "QuestTurnInIDs": [
         6
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        21
     ]
 }
